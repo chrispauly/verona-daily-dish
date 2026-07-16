@@ -1,0 +1,39 @@
+name: Update Verona Daily Briefing
+
+on:
+  schedule:
+    # Runs every hour on the hour
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allows you to trigger the pipeline manually from the GitHub Actions tab
+
+permissions:
+  contents: write # Allows the workflow to commit and push changes back to the repository
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run briefing generator
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: npm start
+
+      - name: Commit and push updated JSON feed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add verona-briefing.json
+          # Only commit and push if there are changes to the briefing file
+          git diff-index --quiet HEAD || (git commit -m "Update Verona briefing feed [skip ci]" && git push)
