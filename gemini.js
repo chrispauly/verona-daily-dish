@@ -3,13 +3,14 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 /**
- * Generates the daily briefing script using Gemini 2.5 Flash / 3.5 Flash.
+ * Generates the multi-tone daily briefing scripts using Gemini 3.5 Flash.
+ * Returns a JSON object containing three tones: quick, entertainment, and balanced.
  */
-export async function generateBriefingScript({ weather, rssItems, policeRecap, culvers, emails, iss }) {
+export async function generateBriefingScript({ weather, rssItems, policeRecap, culvers, emails, iss, events }) {
   const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey) {
     console.warn("WARNING: GEMINI_API_KEY environment variable is not set. Using local fallback generator.");
-    return generateFallbackScript({ weather, rssItems, policeRecap, culvers, emails, iss });
+    return generateFallbackScript({ weather, rssItems, policeRecap, culvers, emails, iss, events });
   }
 
   const ai = new GoogleGenAI({ apiKey });
@@ -20,7 +21,7 @@ export async function generateBriefingScript({ weather, rssItems, policeRecap, c
   }).join('\n---\n');
 
   // Prepare Police Recap context
-  const policeContext = policeRecap 
+  const policeContext = policeRecap
     ? `Title: ${policeRecap.title}\nRecap Calls Text:\n${policeRecap.fullContent}`
     : 'No police recap available today.';
 
@@ -29,10 +30,15 @@ export async function generateBriefingScript({ weather, rssItems, policeRecap, c
     ? emails.map((mail, idx) => `Email ${idx + 1} (Date: ${mail.date}):\nSubject: ${mail.subject}\nBody Content:\n${mail.text}`).join('\n---\n')
     : 'No new emails received.';
 
+  // Prepare Events context
+  const eventsContext = events && events.length > 0
+    ? events.map((event, idx) => `Event ${idx + 1}:\nTitle: ${event.title}\nDate: ${event.date}\nVenue: ${event.venue}\nDescription: ${event.description}\n`).join('\n---\n')
+    : 'No upcoming events listed for the next 30 days.';
+
   const prompt = `
-You are a friendly, slightly sassy local news anchor for the City of Verona, Wisconsin. 
-Your task is to write a daily news briefing script that Alexa's Text-to-Speech engine will read out loud.
-The final script must read naturally and stay strictly between 90 and 130 words (approximately 45-60 seconds when read out loud). Do not exceed 130 words under any circumstance.
+You are a friendly local news anchor for the City of Verona, Wisconsin. 
+Your task is to write content for three different Alexa Flash Briefing feeds, each with a different tone.
+Each briefing must cover the daily updates: weather, city news, local events, a police department weekly report, and the Culver's flavor of the day.
 
 Here is today's raw data:
 - Weather Details: 
@@ -46,107 +52,140 @@ Here is today's raw data:
   * Sighting directions: ${iss.text}
 - Inbound Important Emails:
 ${emailsContext}
+- City News Articles:
+${newsContext}
+- Upcoming Local Events:
+${eventsContext}
+- Verona Police Department Weekly Recap:
+${policeContext}
 - Culver's of Verona Details:
   * Today's Flavor of the Day: ${culvers.todayFlavor}
   * Tomorrow's Flavor of the Day: ${culvers.tomorrowFlavor}
   * Store Hours/Open Status: ${culvers.statusText}
   * Is Store Closing Soon (within 60 minutes)? ${culvers.closingSoon}
-- City News Articles (Summarize from the provided Full Webpage Content, not just the titles!):
-${newsContext}
-- Verona Police Department Weekly Recap:
-${policeContext}
 
-Guidelines for the Script:
-1. Start EXACTLY with this catchy phrase: "Hello, Verona! Here is your daily dish."
-2. Report the weather in a clever, sassy way, referencing the temperature and specifically locating it at or near the landmark: "${weather.landmark}".
-   * Be a little playful or cheeky about the weather conditions.
-   * If it is currently night time and the temperature is hotter than normal for a summer night in Wisconsin (e.g. above 73°F), make a sassy note about how warm it is.
-   * If it is night time (Is it currently night time? is true):
-     - Mention the current moon phase: "${weather.moonPhase}".
-     - If there is an upcoming visible ISS flyover (Upcoming visible pass is true), mention the flyover! If the weather condition is currently cloudy, overcast, or rainy, note that they might catch it if the clouds clear up. Otherwise, give the sighting instructions (time, duration, and which directions to look) using the details from: "${iss.text}". Keep it brief and integrated into the night weather segment.
-3. Share up to 3 of the most interesting recent city stories/events, OR summaries of new important emails (such as garbage collection schedules or local neighborhood updates). Keep each summary very short (one sentence each) and focus on the practical details. If there are new emails, prioritize including them!
-4. Select EXACTLY ONE interesting, noteworthy, or unusual police call/incident from the Verona Police Department weekly recap. Summarize that single incident in 1 or 2 sentences (e.g., "In police news, officers responded to a motorcycle fleeing traffic stops...").
-5. Conclude with a fun sign-off mentioning Culver's status:
-   * If Culver's is currently closed (Store Hours/Open Status contains "Closed"), mention that they are closed right now but opens in the morning at the time listed (e.g., "opens in the morning at 10:00 AM"), and tell the listener that tomorrow's flavor is "${culvers.tomorrowFlavor}".
-   * If Culver's is open but closing soon (Is Store Closing Soon is true), warn the listener that they are closing soon at the time listed (e.g., "closes at 10:00 PM"), and tell them to run out for today's flavor, "${culvers.todayFlavor}".
-   * Otherwise, just mention today's flavor is "${culvers.todayFlavor}" as a standard sign-off.
-6. The script MUST be plain text with NO formatting (no bold, asterisks, hashes, brackets) and NO emojis. Use standard punctuation for natural pauses.
+You must return a JSON object containing three properties: "quick", "entertainment", and "balanced".
+Each of these properties must be an object containing exactly five keys: "weather", "news", "events", "police", and "culvers".
+All values must be plain text with NO markdown, bold formatting, asterisks, hashes, brackets, or emojis. Use standard punctuation for natural speech.
+
+JSON Output Schema:
+{
+  "quick": {
+    "weather": "string",
+    "news": "string",
+    "events": "string",
+    "police": "string",
+    "culvers": "string"
+  },
+  "entertainment": {
+    "weather": "string",
+    "news": "string",
+    "events": "string",
+    "police": "string",
+    "culvers": "string"
+  },
+  "balanced": {
+    "weather": "string",
+    "news": "string",
+    "events": "string",
+    "police": "string",
+    "culvers": "string"
+  }
+}
+
+Tone Descriptions & Instructions:
+
+1. "quick" (A fast, direct, factual recap of all topics):
+   - Keep each section extremely concise (ideally 1 short, plain sentence).
+   - "weather": Factual statement of temp, condition, and landmark.
+   - "news": Direct summary of the top news item or email.
+   - "events": Mention the top upcoming event title and date.
+   - "police": Mention one incident, specifying the day of the week or date it occurred (extracted from the recap).
+   - "culvers": Factual statement of today's flavor and status.
+
+2. "entertainment" (A lively, enthusiastic, and fun briefing):
+   - Highlight the local events, Culver's flavor, and weather with high energy, playful details, and local references.
+   - "weather": Sassy commentary on the conditions at the landmark. If night and clear, make a big deal about the moon phase and ISS flyover!
+   - "news": Briefly touch on city news in a conversational, lighthearted way.
+   - "events": Show off the upcoming local events in a fun, inviting way. Promote going out and enjoying them!
+   - "police": Briefly summarize a police call in a lighthearted or curious way, making sure to explicitly mention the day it happened.
+   - "culvers": Make today's flavor sound delicious! Encourage running out to grab it, especially if closing soon.
+
+3. "balanced" (A friendly, informative news anchor style):
+   - A balanced, professional yet warm style that gives equal weight and detail to all five categories.
+   - "weather": Professional weather summary incorporating landmarks, moon phase, and ISS flyover if night and clear.
+   - "news": Summary of city news or important email updates, prioritizing neighborhood-relevant details.
+   - "events": Informative summary of 1 or 2 upcoming local events in Verona.
+   - "police": A professional summary of exactly one noteworthy weekly incident, making sure to identify the day of the week or date it occurred.
+   - "culvers": Conclude naturally with the Culver's flavor of the day and operating hours.
+
+Specific Constraints:
+- Start the first section of every tone ("weather") with a catchy intro, but tailor it:
+  * Quick: "Quick update: "
+  * Entertainment: "Hey Verona, let's get into the dish! "
+  * Balanced: "Hello, Verona! Here is today's balanced dish. "
+- When writing the "police" segment, you MUST mention which day of the week or specific date the incident occurred (e.g., "On Tuesday...", "Last Friday...", "On July 12th...") by finding it in the provided police recap. Do not say "last week" or "recently" without specifying the day.
+- Do not exceed 150 words per individual segment value. Keep them short, crisp, and readable by text-to-speech.
 `;
 
   try {
     const response = await ai.models.generateContent({
       model: 'gemini-3.5-flash',
       contents: prompt,
+      config: {
+        responseMimeType: 'application/json'
+      }
     });
 
-    return response.text.trim();
+    const cleanedText = response.text.trim();
+    // Parse to ensure it is valid JSON
+    return JSON.parse(cleanedText);
   } catch (error) {
     console.error('Error generating script with Gemini:', error.message);
-    return generateFallbackScript({ weather, rssItems, policeRecap, culvers, emails, iss });
+    return generateFallbackScript({ weather, rssItems, policeRecap, culvers, emails, iss, events });
   }
 }
 
 /**
- * A fallback script generator in case the Gemini API call fails or the key is missing.
+ * A fallback generator in case the Gemini API call fails or is not configured.
  */
-function generateFallbackScript({ weather, rssItems, policeRecap, culvers, emails, iss }) {
-  // Sassy weather fallback logic with local landmarks
-  let weatherSass = `It is currently ${weather.temp} degrees and ${weather.condition} over by ${weather.landmark}.`;
-  if (!weather.isDay) {
-    if (weather.temp > 73) {
-      weatherSass = `Whew! It's a sticky ${weather.temp} degrees tonight over by ${weather.landmark}. Keep those fans running! Plus, look up to see the ${weather.moonPhase}.`;
-    } else if (['clear skies', 'mainly clear skies', 'partly cloudy skies'].includes(weather.condition)) {
-      weatherSass = `It's a pleasant ${weather.temp} degree night over by ${weather.landmark} under a beautiful ${weather.moonPhase}.`;
-    }
-    
-    // Add ISS flyover text to fallback if visible
-    if (iss.hasPass) {
-      weatherSass += ` Also, keep an eye out: ${iss.text}`;
-    }
-  }
-
-  let newsSnippet = '';
-  if (rssItems && rssItems.length > 0) {
-    newsSnippet = "Today's top updates: " + rssItems.slice(0, 2).map((item, idx) => {
-      const cleanBody = (item.fullContent || '')
-        .replace(/[^a-zA-Z0-9\s]/g, '') // remove special chars
-        .substring(0, 70).trim();
-      return `[Story ${idx + 1}: "${item.title}" - Detail: ${cleanBody}...]`;
-    }).join(' ');
-  } else {
-    newsSnippet = "There are no new alerts from the city today.";
-  }
-
-  let emailSnippet = '';
-  if (emails && emails.length > 0) {
-    emailSnippet = " Also, we received an email update: " + emails.map(m => {
-      const cleanBody = m.text.replace(/[^a-zA-Z0-9\s]/g, '').substring(0, 50).trim();
-      return `"${m.subject}" (${cleanBody}...)`;
-    }).join(', ');
-  }
-
-  let policeSnippet = '';
+function generateFallbackScript({ weather, rssItems, policeRecap, culvers, emails, iss, events }) {
+  // Helper to extract a day of the week from the police recap if possible
+  let policeDay = 'recently';
   if (policeRecap && policeRecap.fullContent) {
-    const policeCallClean = policeRecap.fullContent
-      .replace(/[^a-zA-Z0-9\s]/g, '')
-      .substring(0, 80).trim();
-    policeSnippet = `In police news: the weekly recap notes "${policeCallClean}...".`;
+    const dayMatch = policeRecap.fullContent.match(/(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)/i);
+    if (dayMatch) {
+      policeDay = `on ${dayMatch[1]}`;
+    }
   }
 
-  // Culver's fallback sign-off logic
-  let culversSass = '';
-  const isClosed = culvers.statusText.toLowerCase().includes('closed');
-  if (isClosed) {
-    const opensMatch = culvers.statusText.match(/opens\s+([^$]+)/i);
-    const opensAt = opensMatch ? opensMatch[1].trim() : '10:00 AM';
-    culversSass = `Culver's is closed right now but opens in the morning at ${opensAt}, when you can grab tomorrow's flavor, ${culvers.tomorrowFlavor}.`;
-  } else if (culvers.closingSoon) {
-    const closesMatch = culvers.statusText.match(/closes\s+([^$]+)/i);
-    const closesAt = closesMatch ? closesMatch[1].trim() : '10:00 PM';
-    culversSass = `Hurry up! Culver's is closing soon at ${closesAt}, but you can still run out for today's flavor, ${culvers.todayFlavor}.`;
-  } else {
-    culversSass = `And to top off your day, today's Culver's Flavor of the Day is ${culvers.todayFlavor}.`;
-  }
+  const cleanNews = rssItems?.[0] ? rssItems[0].title.replace(/[^a-zA-Z0-9\s]/g, '').trim() : 'No new city alerts';
+  const cleanEvent = events?.[0] ? `${events[0].title} on ${events[0].date} at ${events[0].venue}` : 'No events scheduled';
+  const cleanPolice = policeRecap && policeRecap.fullContent
+    ? policeRecap.fullContent.replace(/[^a-zA-Z0-9\s]/g, '').substring(0, 80).trim()
+    : 'No updates from the police department';
 
-  return `Hello, Verona! Here is your daily dish. ${weatherSass} ${newsSnippet}${emailSnippet} ${policeSnippet} ${culversSass} Have a great day, Verona!`;
+  return {
+    quick: {
+      weather: `Quick update: It is ${weather.temp} degrees and ${weather.condition} at ${weather.landmark}.`,
+      news: `City update: ${cleanNews}.`,
+      events: `Upcoming: ${cleanEvent}.`,
+      police: `In police news: ${policeDay}, officers noted ${cleanPolice}.`,
+      culvers: `Culver's today is ${culvers.todayFlavor}. Store is ${culvers.statusText.includes('Closed') ? 'closed' : 'open'}.`
+    },
+    entertainment: {
+      weather: `Hey Verona, let's get into the dish! We've got ${weather.temp} degrees and ${weather.condition} over at ${weather.landmark}. ${weather.isDay ? 'Get out and enjoy the sunshine!' : `Look up to see that lovely ${weather.moonPhase}!`} ${iss.hasPass ? 'Keep your eyes on the skies!' : ''}`,
+      news: `A quick note from city hall: ${cleanNews}.`,
+      events: `Looking for fun? Check out ${cleanEvent}!`,
+      police: `A bit of neighborhood drama: ${policeDay}, ${cleanPolice}.`,
+      culvers: `Time for a treat! Today's Culver's flavor of the day is a delicious scoop of ${culvers.todayFlavor}! Tomorrow we get ${culvers.tomorrowFlavor}.`
+    },
+    balanced: {
+      weather: `Hello, Verona! Here is today's balanced dish. Over at ${weather.landmark}, it is currently ${weather.temp} degrees with ${weather.condition}. ${!weather.isDay ? `Tonight we have a ${weather.moonPhase}.` : ''} ${iss.hasPass ? iss.text : ''}`,
+      news: `In city affairs, the latest update is: ${cleanNews}.`,
+      events: `If you are planning your week, we have local events coming up, including ${cleanEvent}.`,
+      police: `From the police department weekly log: ${policeDay}, ${cleanPolice}.`,
+      culvers: `We sign off with today's Culver's Flavor of the Day: ${culvers.todayFlavor}. The restaurant status is ${culvers.statusText}.`
+    }
+  };
 }

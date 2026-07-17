@@ -3,29 +3,29 @@ import * as cheerio from 'cheerio';
 /**
  * Parses the hours status string and determines if the store closes in less than 60 minutes.
  */
-function checkClosingSoon(statusText, localTime = new Date()) {
+function checkClosingSoon(statusText, localTime = new Date(new Date().toLocaleString("en-US", { timeZone: "America/Chicago" }))) {
   if (!statusText || !statusText.toLowerCase().includes('open')) {
     return false;
   }
-  
+
   // Extract time like "10:00 PM" or "10:30 PM"
   const match = statusText.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
   if (!match) return false;
-  
+
   const hours = parseInt(match[1], 10);
   const minutes = parseInt(match[2], 10);
   const ampm = match[3].toUpperCase();
-  
+
   let closingHour24 = hours;
   if (ampm === 'PM' && hours < 12) closingHour24 += 12;
   if (ampm === 'AM' && hours === 12) closingHour24 = 0;
-  
+
   const closingTime = new Date(localTime);
   closingTime.setHours(closingHour24, minutes, 0, 0);
-  
+
   // Difference in minutes
   const diffMinutes = (closingTime.getTime() - localTime.getTime()) / (1000 * 60);
-  
+
   // True if closing within 60 minutes
   return diffMinutes > 0 && diffMinutes <= 60;
 }
@@ -35,7 +35,7 @@ function checkClosingSoon(statusText, localTime = new Date()) {
  */
 export async function fetchCulversDetails() {
   const url = 'https://www.culvers.com/restaurants/verona';
-  
+
   try {
     const response = await fetch(url, {
       headers: {
@@ -52,7 +52,7 @@ export async function fetchCulversDetails() {
 
     // 1. Gather all calendar flavors
     const calendarFlavors = [];
-    
+
     // Primary calendar selector
     $('a.RestaurantCalendarPanel_containerItemContentFlavorLink__Kvd0e').each((_, el) => {
       calendarFlavors.push($(el).text().trim());
@@ -70,8 +70,8 @@ export async function fetchCulversDetails() {
 
     // If today's flavor is missing from calendar list, check the main header (when open)
     if (!todayFlavor) {
-      todayFlavor = $('h2.RestaurantDetails_containerRestaurantFlavorContentHeading__sLzcV').text().trim() || 
-                    $('[class*="FlavorContentHeading"]').text().trim();
+      todayFlavor = $('h2.RestaurantDetails_containerRestaurantFlavorContentHeading__sLzcV').text().trim() ||
+        $('[class*="FlavorContentHeading"]').text().trim();
     }
 
     // Clean registered trademarks for Alexa TTS readability
