@@ -34,8 +34,8 @@ const WEATHER_CODES = {
   99: 'a thunderstorm with heavy hail'
 };
 
-// Notable Verona, WI landmarks to add local flavor
-const VERONA_LANDMARKS = [
+// Notable landmarks to add local flavor (with fallback list)
+const DEFAULT_LANDMARKS = [
   "Harriet Park",
   "Fireman's Park",
   "Reddan Soccer Park",
@@ -49,8 +49,12 @@ const VERONA_LANDMARKS = [
 ];
 
 function getRandomLandmark() {
-  const idx = Math.floor(Math.random() * VERONA_LANDMARKS.length);
-  return VERONA_LANDMARKS[idx];
+  const landmarksStr = process.env.LANDMARKS;
+  const landmarks = landmarksStr
+    ? landmarksStr.split(',').map(s => s.trim().replace(/^"|"$/g, ''))
+    : DEFAULT_LANDMARKS;
+  const idx = Math.floor(Math.random() * landmarks.length);
+  return landmarks[idx];
 }
 
 /**
@@ -77,9 +81,11 @@ function getMoonPhase(date = new Date()) {
 }
 
 export async function fetchWeather() {
-  const lat = 42.9897;
-  const lon = -89.5356;
-  const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,apparent_temperature,is_day,weather_code&temperature_unit=fahrenheit&timezone=America%2FChicago`;
+  const lat = parseFloat(process.env.GPS_LAT || '42.9897');
+  const lon = parseFloat(process.env.GPS_LON || '-89.5356');
+  const tz = encodeURIComponent(process.env.TIMEZONE || 'America/Chicago');
+  const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,apparent_temperature,is_day,weather_code&temperature_unit=fahrenheit&timezone=${tz}`;
+
 
   try {
     const response = await fetch(url);

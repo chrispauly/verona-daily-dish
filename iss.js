@@ -2,8 +2,8 @@
  * Fetches International Space Station (ISS) flyover predictions for Verona, WI.
  */
 export async function fetchISSFlyover() {
-  const lat = 42.9897;
-  const lon = -89.5356;
+  const lat = parseFloat(process.env.GPS_LAT || '42.9897');
+  const lon = parseFloat(process.env.GPS_LON || '-89.5356');
   const url = `https://iss-api.polluxlabs.io/iss-pass?lat=${lat}&lon=${lon}`;
 
   try {
@@ -28,7 +28,7 @@ export async function fetchISSFlyover() {
     if (nextPass) {
       const startTime = new Date(nextPass.visible_start || nextPass.rise.time);
       const localTimeStr = startTime.toLocaleTimeString('en-US', {
-        timeZone: 'America/Chicago',
+        timeZone: process.env.TIMEZONE || 'America/Chicago',
         hour: 'numeric',
         minute: '2-digit'
       });

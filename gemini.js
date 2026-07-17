@@ -15,6 +15,10 @@ export async function generateBriefingScript({ weather, rssItems, policeRecap, c
 
   const ai = new GoogleGenAI({ apiKey });
 
+  const cityName = process.env.CITY_NAME || 'Verona';
+  const stateName = process.env.STATE_NAME || 'WI';
+  const stateFullName = process.env.STATE_FULL_NAME || 'Wisconsin';
+
   // Prepare RSS summaries for context
   const newsContext = rssItems.map((item, idx) => {
     return `Story ${idx + 1} (${item.source}):\nTitle: ${item.title}\nFull Webpage Content: ${item.fullContent}\nLink: ${item.link}\n`;
@@ -36,7 +40,7 @@ export async function generateBriefingScript({ weather, rssItems, policeRecap, c
     : 'No upcoming events listed for the next 30 days.';
 
   const prompt = `
-You are a friendly local news anchor for the City of Verona, Wisconsin. 
+You are a friendly local news anchor for the City of ${cityName}, ${stateFullName}. 
 Your task is to write content for three different Alexa Flash Briefing feeds, each with a different tone.
 Each briefing must cover the daily updates: weather, city news, local events, a police department weekly report, and the Culver's flavor of the day.
 
@@ -56,9 +60,9 @@ ${emailsContext}
 ${newsContext}
 - Upcoming Local Events:
 ${eventsContext}
-- Verona Police Department Weekly Recap:
+- ${cityName} Police Department Weekly Recap:
 ${policeContext}
-- Culver's of Verona Details:
+- Culver's of ${cityName} Details:
   * Today's Flavor of the Day: ${culvers.todayFlavor}
   * Tomorrow's Flavor of the Day: ${culvers.tomorrowFlavor}
   * Store Hours/Open Status: ${culvers.statusText}
@@ -115,15 +119,15 @@ Tone Descriptions & Instructions:
    - A balanced, professional yet warm style that gives equal weight and detail to all five categories.
    - "weather": Professional weather summary incorporating landmarks, moon phase, and ISS flyover if night and clear.
    - "news": Summary of city news or important email updates, prioritizing neighborhood-relevant details.
-   - "events": Informative summary of 1 or 2 upcoming local events in Verona.
+   - "events": Informative summary of 1 or 2 upcoming local events in ${cityName}.
    - "police": A professional summary of exactly one noteworthy weekly incident, making sure to identify the day of the week or date it occurred.
    - "culvers": Conclude naturally with the Culver's flavor of the day and operating hours.
 
 Specific Constraints:
 - Start the first section of every tone ("weather") with a catchy intro, but tailor it:
   * Quick: "Quick update: "
-  * Entertainment: "Hey Verona, let's get into the dish! "
-  * Balanced: "Hello, Verona! Here is today's balanced dish. "
+  * Entertainment: "Hey ${cityName}, let's get into the dish! "
+  * Balanced: "Hello, ${cityName}! Here is today's balanced dish. "
 - When writing the "police" segment, you MUST mention which day of the week or specific date the incident occurred (e.g., "On Tuesday...", "Last Friday...", "On July 12th...") by finding it in the provided police recap. Do not say "last week" or "recently" without specifying the day.
 - Do not exceed 150 words per individual segment value. Keep them short, crisp, and readable by text-to-speech.
 `;
@@ -150,6 +154,9 @@ Specific Constraints:
  * A fallback generator in case the Gemini API call fails or is not configured.
  */
 function generateFallbackScript({ weather, rssItems, policeRecap, culvers, emails, iss, events }) {
+  const cityName = process.env.CITY_NAME || 'Verona';
+  const stateName = process.env.STATE_NAME || 'WI';
+
   // Helper to extract a day of the week from the police recap if possible
   let policeDay = 'recently';
   if (policeRecap && policeRecap.fullContent) {
@@ -174,14 +181,14 @@ function generateFallbackScript({ weather, rssItems, policeRecap, culvers, email
       culvers: `Culver's today is ${culvers.todayFlavor}. Store is ${culvers.statusText.includes('Closed') ? 'closed' : 'open'}.`
     },
     entertainment: {
-      weather: `Hey Verona, let's get into the dish! We've got ${weather.temp} degrees and ${weather.condition} over at ${weather.landmark}. ${weather.isDay ? 'Get out and enjoy the sunshine!' : `Look up to see that lovely ${weather.moonPhase}!`} ${iss.hasPass ? 'Keep your eyes on the skies!' : ''}`,
+      weather: `Hey ${cityName}, let's get into the dish! We've got ${weather.temp} degrees and ${weather.condition} over at ${weather.landmark}. ${weather.isDay ? 'Get out and enjoy the sunshine!' : `Look up to see that lovely ${weather.moonPhase}!`} ${iss.hasPass ? 'Keep your eyes on the skies!' : ''}`,
       news: `A quick note from city hall: ${cleanNews}.`,
       events: `Looking for fun? Check out ${cleanEvent}!`,
       police: `A bit of neighborhood drama: ${policeDay}, ${cleanPolice}.`,
       culvers: `Time for a treat! Today's Culver's flavor of the day is a delicious scoop of ${culvers.todayFlavor}! Tomorrow we get ${culvers.tomorrowFlavor}.`
     },
     balanced: {
-      weather: `Hello, Verona! Here is today's balanced dish. Over at ${weather.landmark}, it is currently ${weather.temp} degrees with ${weather.condition}. ${!weather.isDay ? `Tonight we have a ${weather.moonPhase}.` : ''} ${iss.hasPass ? iss.text : ''}`,
+      weather: `Hello, ${cityName}! Here is today's balanced dish. Over at ${weather.landmark}, it is currently ${weather.temp} degrees with ${weather.condition}. ${!weather.isDay ? `Tonight we have a ${weather.moonPhase}.` : ''} ${iss.hasPass ? iss.text : ''}`,
       news: `In city affairs, the latest update is: ${cleanNews}.`,
       events: `If you are planning your week, we have local events coming up, including ${cleanEvent}.`,
       police: `From the police department weekly log: ${policeDay}, ${cleanPolice}.`,

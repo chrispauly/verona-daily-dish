@@ -1,5 +1,8 @@
 import fs from 'fs/promises';
 import path from 'path';
+import dotenv from 'dotenv';
+dotenv.config();
+
 import { fetchWeather } from './weather.js';
 import { fetchRSSFeeds, fetchPoliceRecap } from './rss.js';
 import { fetchUpcomingEvents } from './events.js';
@@ -32,10 +35,12 @@ function enforceCharacterLimit(text, limit = 4500) {
 }
 
 async function main() {
-  console.log('--- Starting Verona Daily Briefing Pipeline ---');
+  const cityName = process.env.CITY_NAME || 'Verona';
+  const cityState = `${cityName}, ${process.env.STATE_NAME || 'WI'}`;
+  console.log(`--- Starting ${cityName} Daily Briefing Pipeline ---`);
 
   // 1. Gather Weather Data
-  console.log('Fetching weather for Verona, WI...');
+  console.log(`Fetching weather for ${cityState}...`);
   const weatherResult = await fetchWeather();
   console.log(`Weather: ${weatherResult.text}`);
 
@@ -89,22 +94,27 @@ async function main() {
   console.log(JSON.stringify(toneScripts, null, 2));
   console.log('------------------------------------------\n');
 
+  const cityKey = cityName.toLowerCase().replace(/\s+/g, '-');
+  const cityUrl = process.env.CITY_URL || 'https://veronawi.gov/';
+  const eventsUrl = process.env.EVENTS_MAIN_URL || 'https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date';
+  const culversUrl = process.env.CULVERS_URL || 'https://www.culvers.com/restaurants/verona';
+
   // 9. Format and write the three different briefing feeds
   const now = new Date();
   const dateStr = now.toISOString().split('T')[0]; // e.g. "2026-07-16"
 
   const tones = [
-    { name: 'quick', data: toneScripts.quick, filename: 'verona-briefing-quick.json' },
-    { name: 'entertainment', data: toneScripts.entertainment, filename: 'verona-briefing-entertainment.json' },
-    { name: 'balanced', data: toneScripts.balanced, filename: 'verona-briefing-balanced.json' }
+    { name: 'quick', data: toneScripts.quick, filename: `${cityKey}-briefing-quick.json` },
+    { name: 'entertainment', data: toneScripts.entertainment, filename: `${cityKey}-briefing-entertainment.json` },
+    { name: 'balanced', data: toneScripts.balanced, filename: `${cityKey}-briefing-balanced.json` }
   ];
 
   const categories = [
-    { key: 'weather', title: 'Verona Weather', fallbackRedir: 'https://veronawi.gov/' },
-    { key: 'news', title: 'Verona City News', fallbackRedir: 'https://veronawi.gov/' },
-    { key: 'events', title: 'Verona Upcoming Events', fallbackRedir: 'https://www.visitveronawi.com/events/' },
-    { key: 'police', title: 'Verona Police Report', fallbackRedir: 'https://veronawi.gov/' },
-    { key: 'culvers', title: "Verona Culver's Update", fallbackRedir: 'https://www.culvers.com/restaurants/verona' }
+    { key: 'weather', title: `${cityName} Weather`, fallbackRedir: cityUrl },
+    { key: 'news', title: `${cityName} City News`, fallbackRedir: cityUrl },
+    { key: 'events', title: `${cityName} Upcoming Events`, fallbackRedir: eventsUrl },
+    { key: 'police', title: `${cityName} Police Report`, fallbackRedir: cityUrl },
+    { key: 'culvers', title: `${cityName} Culver's Update`, fallbackRedir: culversUrl }
   ];
 
   for (const tone of tones) {
@@ -115,7 +125,7 @@ async function main() {
       const rawText = toneData[cat.key] || '';
       const cleanText = enforceCharacterLimit(rawText);
       return {
-        uid: `verona-${tone.name}-${cat.key}-${dateStr}`,
+        uid: `${cityKey}-${tone.name}-${cat.key}-${dateStr}`,
         updateDate: now.toISOString(),
         titleText: cat.title,
         mainText: cleanText,
@@ -127,9 +137,9 @@ async function main() {
     await fs.writeFile(outputPath, JSON.stringify(feedItems, null, 2), 'utf-8');
     console.log(`Successfully wrote ${tone.name} briefing JSON to: ${outputPath}`);
 
-    // If this is the balanced feed, copy it to verona-briefing.json for backwards compatibility
+    // If this is the balanced feed, copy it to ${cityKey}-briefing.json for backwards compatibility
     if (tone.name === 'balanced') {
-      const defaultOutputPath = path.resolve('verona-briefing.json');
+      const defaultOutputPath = path.resolve(`${cityKey}-briefing.json`);
       await fs.writeFile(defaultOutputPath, JSON.stringify(feedItems, null, 2), 'utf-8');
       console.log(`Copied balanced feed to default path: ${defaultOutputPath}`);
     }

@@ -3,7 +3,7 @@ import * as cheerio from 'cheerio';
 /**
  * Parses the hours status string and determines if the store closes in less than 60 minutes.
  */
-function checkClosingSoon(statusText, localTime = new Date(new Date().toLocaleString("en-US", { timeZone: "America/Chicago" }))) {
+function checkClosingSoon(statusText, localTime = new Date(new Date().toLocaleString("en-US", { timeZone: process.env.TIMEZONE || "America/Chicago" }))) {
   if (!statusText || !statusText.toLowerCase().includes('open')) {
     return false;
   }
@@ -34,7 +34,7 @@ function checkClosingSoon(statusText, localTime = new Date(new Date().toLocaleSt
  * Fetches Culver's of Verona flavors and hours details.
  */
 export async function fetchCulversDetails() {
-  const url = 'https://www.culvers.com/restaurants/verona';
+  const url = process.env.CULVERS_URL || 'https://www.culvers.com/restaurants/verona';
 
   try {
     const response = await fetch(url, {

@@ -19,10 +19,10 @@ function cleanHTML(html) {
  * Fetches upcoming events for the next 30 days from visitveronawi.com.
  */
 export async function fetchUpcomingEvents() {
-  const mainUrl = 'https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date';
+  const mainUrl = process.env.EVENTS_MAIN_URL || 'https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date';
   
   try {
-    console.log('Fetching Verona events main page to extract token...');
+    console.log('Fetching events main page to extract token...');
     const mainRes = await fetch(mainUrl, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
@@ -95,9 +95,10 @@ export async function fetchUpcomingEvents() {
     };
 
     const queryJson = JSON.stringify(queryObj);
-    const apiUrl = `https://www.visitveronawi.com/includes/rest_v2/plugins_events_events/find//?json=${encodeURIComponent(queryJson)}&token=${token}`;
+    const apiBase = process.env.EVENTS_API_URL || 'https://www.visitveronawi.com/includes/rest_v2/plugins_events_events/find//';
+    const apiUrl = `${apiBase}?json=${encodeURIComponent(queryJson)}&token=${token}`;
 
-    console.log('Querying Simpleview events REST API...');
+    console.log('Querying events REST API...');
     const apiRes = await fetch(apiUrl, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -112,6 +113,10 @@ export async function fetchUpcomingEvents() {
     const apiData = await apiRes.json();
     const docs = apiData.docs?.docs || [];
 
+    const origin = new URL(mainUrl).origin;
+    const cityName = process.env.CITY_NAME || 'Verona';
+    const stateName = process.env.STATE_NAME || 'WI';
+
     const events = docs.map(doc => {
       const nextDate = doc.nextMatchingDate || doc.nextDate || doc.startDate;
       const formattedDate = nextDate 
@@ -121,9 +126,9 @@ export async function fetchUpcomingEvents() {
       return {
         title: doc.title || 'Untitled Event',
         date: formattedDate,
-        venue: doc.venue_name || 'Verona, WI',
+        venue: doc.venue_name || `${cityName}, ${stateName}`,
         description: cleanHTML(doc.description).substring(0, 300), // Keep description brief for prompt size
-        link: doc.url ? `https://www.visitveronawi.com${doc.url}` : mainUrl
+        link: doc.url ? `${origin}${doc.url}` : mainUrl
       };
     });
 

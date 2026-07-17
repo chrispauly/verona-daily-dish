@@ -61,10 +61,13 @@ async function fetchArticleContent(url) {
  * Fetches and parses RSS feeds, then fetches the full article content for the top items.
  */
 export async function fetchRSSFeeds() {
-  const feeds = [
+  const defaultFeeds = [
     'https://veronawi.gov/RSSFeed.aspx?ModID=76&CID=All-0',
     'https://veronawi.gov/RSSFeed.aspx?ModID=1&CID=All-newsflash.xml'
   ];
+  const feeds = process.env.CITY_RSS_FEEDS
+    ? process.env.CITY_RSS_FEEDS.split(',').map(s => s.trim().replace(/^"|"$/g, ''))
+    : defaultFeeds;
 
   const parser = new XMLParser();
   const allItems = [];
@@ -93,12 +96,13 @@ export async function fetchRSSFeeds() {
         // Clean description HTML tags
         const cleanDesc = description.replace(/<[^>]*>/g, '').trim();
 
+        const sourceName = jsonObj.rss?.channel?.title || (url.includes('ModID=76') ? 'City Calendar/Alerts' : 'City Newsflash');
         allItems.push({
           title: title.trim(),
           description: cleanDesc,
           pubDate,
           link: link.trim(),
-          source: url.includes('ModID=76') ? 'City Calendar/Alerts' : 'City Newsflash'
+          source: sourceName
         });
       }
     } catch (error) {
@@ -142,7 +146,7 @@ export async function fetchRSSFeeds() {
  * Fetches the latest Verona Police Department Weekly Recap.
  */
 export async function fetchPoliceRecap() {
-  const url = 'https://www.veronawi.gov/RSSFeed.aspx?ModID=1&CID=Police-Department-5';
+  const url = process.env.POLICE_RSS_FEED || 'https://www.veronawi.gov/RSSFeed.aspx?ModID=1&CID=Police-Department-5';
   const parser = new XMLParser();
 
   try {
