@@ -1,5 +1,8 @@
 import { GoogleGenAI } from '@google/genai';
 import dotenv from 'dotenv';
+import path from 'path';
+import fs from 'fs/promises';
+
 dotenv.config();
 
 /**
@@ -105,7 +108,7 @@ Tone Descriptions & Instructions:
    - "news": Direct summary of the top news item or email.
    - "events": Mention the top upcoming event title and date.
    - "police": Mention one incident, specifying the day of the week or date it occurred (extracted from the recap).
-   - "culvers": Factual statement of today's flavor and status.
+   - "culvers": Make today's flavor sound delicious! Encourage running out to grab it, especially if closing soon.
 
 2. "entertainment" (A lively, enthusiastic, and fun briefing):
    - Highlight the local events, Culver's flavor, and weather with high energy, playful details, and local references.
@@ -116,21 +119,26 @@ Tone Descriptions & Instructions:
    - "culvers": Make today's flavor sound delicious! Encourage running out to grab it, especially if closing soon.
 
 3. "balanced" (A friendly, informative news anchor style):
-   - A balanced, professional yet warm style that gives equal weight and detail to all five categories.
-   - "weather": Professional weather summary incorporating landmarks, moon phase, and ISS flyover if night and clear.
-   - "news": Summary of city news or important email updates, prioritizing neighborhood-relevant details.
-   - "events": Informative summary of 1 or 2 upcoming local events in ${cityName}.
-   - "police": A professional summary of exactly one noteworthy weekly incident, making sure to identify the day of the week or date it occurred.
-   - "culvers": Conclude naturally with the Culver's flavor of the day and operating hours.
+   - A balanced and fun style that gives equal weight and detail to all five categories.
+   - "weather": Fun weather summary incorporating landmarks, moon phase, and ISS flyover if night and clear.
+   - "news": Include a couple city news stories or important email updates, prioritizing neighborhood-relevant details.  Make sure to summarize the full webpage content, not just the title and link.
+   - "events": Informative summary of all events coming up in the next couple days. And highlight any big event in the near future in ${cityName}.
+   - "police": A conversational reciting of exactly one noteworthy weekly incident, making sure to identify the day of the week or date it occurred.
+   - "culvers": Make today's flavor sound delicious! Encourage running out to grab it, especially if closing soon.  Let us know how soon that could be.  If they are closed, let us know the flavor for tomorrow and what time they open.
 
 Specific Constraints:
 - Start the first section of every tone ("weather") with a catchy intro, but tailor it:
   * Quick: "Quick update: "
   * Entertainment: "Hey ${cityName}, let's get into the dish! "
   * Balanced: "Hello, ${cityName}! Here is today's balanced dish. "
-- When writing the "police" segment, you MUST mention which day of the week or specific date the incident occurred (e.g., "On Tuesday...", "Last Friday...", "On July 12th...") by finding it in the provided police recap. Do not say "last week" or "recently" without specifying the day.
-- Do not exceed 150 words per individual segment value. Keep them short, crisp, and readable by text-to-speech.
+- When writing the "police" segment, you MUST mention which day of the week the incident occurred (e.g., "Last Friday...", "Two days ago...") by finding it in the provided police recap. Do not say broad terms like "last week" or "recently".
+- Keep them interesting and readable by text-to-speech.
 `;
+
+
+  //const defaultOutputPath = path.resolve(`prompt.txt`);
+  //await fs.writeFile(defaultOutputPath, prompt, 'utf-8');
+  //return {};
 
   try {
     const response = await ai.models.generateContent({
