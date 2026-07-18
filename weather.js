@@ -81,9 +81,16 @@ function getMoonPhase(date = new Date()) {
 }
 
 export async function fetchWeather() {
+  const tzName = process.env.TIMEZONE || 'America/Chicago';
+  const currentHour = new Intl.DateTimeFormat('en-US', {
+    timeZone: tzName,
+    hour: 'numeric',
+    hour12: true
+  }).format(new Date());
+
   const lat = parseFloat(process.env.GPS_LAT || '42.9897');
   const lon = parseFloat(process.env.GPS_LON || '-89.5356');
-  const tz = encodeURIComponent(process.env.TIMEZONE || 'America/Chicago');
+  const tz = encodeURIComponent(tzName);
   const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,apparent_temperature,is_day,weather_code&temperature_unit=fahrenheit&timezone=${tz}`;
 
 
@@ -109,7 +116,8 @@ export async function fetchWeather() {
       condition,
       moonPhase,
       landmark,
-      text: `${temp} degrees (feels like ${apparentTemp}) with ${condition} at ${landmark}. Day: ${isDay}. Moon phase: ${moonPhase}.`
+      currentHour,
+      text: `At ${currentHour}, the weather is ${temp} degrees (feels like ${apparentTemp}) with ${condition} at ${landmark}. Day: ${isDay}. Moon phase: ${moonPhase}.`
     };
   } catch (error) {
     console.error('Error fetching weather:', error.message);
@@ -122,7 +130,8 @@ export async function fetchWeather() {
       condition: 'fair conditions',
       moonPhase: 'Unknown',
       landmark,
-      text: `weather data currently unavailable at ${landmark}`
+      currentHour,
+      text: `At ${currentHour}, weather data currently unavailable at ${landmark}`
     };
   }
 }

@@ -54,6 +54,7 @@ Here is today's raw data:
   * Is it currently night time? ${!weather.isDay}
   * Astronomical Moon Phase: ${weather.moonPhase}
   * Local Landmark for Weather Context: ${weather.landmark}
+  * Current Hour: ${weather.currentHour}
 - ISS Space Station Sighting Info:
   * Upcoming visible pass tonight? ${iss.hasPass}
   * Sighting directions: ${iss.text}
@@ -126,11 +127,10 @@ Tone Descriptions & Instructions:
    - "police": A conversational reciting of exactly one noteworthy weekly incident, making sure to identify the day of the week or date it occurred.
    - "culvers": Make today's flavor sound delicious! Encourage running out to grab it, especially if closing soon.  Let us know how soon that could be.  If they are closed, let us know the flavor for tomorrow and what time they open.
 
-Specific Constraints:
-- Start the first section of every tone ("weather") with a catchy intro, but tailor it:
-  * Quick: "Quick update: "
-  * Entertainment: "Hey ${cityName}, let's get into the dish! "
-  * Balanced: "Hello, ${cityName}! Here is today's balanced dish. "
+- Start the first section of every tone ("weather") with a catchy intro, and immediately mention the current hour (e.g. "At 9 AM...", "At 8 PM...") using the provided Current Hour. Tailor the intro as follows:
+  * Quick: "Quick update: At [Current Hour]..."
+  * Entertainment: "Hey ${cityName}, let's get into the dish! At [Current Hour]..."
+  * Balanced: "Hello, ${cityName}! At [Current Hour], here is today's balanced dish..."
 - When writing the "police" segment, you MUST mention which day of the week the incident occurred (e.g., "Last Friday...", "Two days ago...") by finding it in the provided police recap. Do not say broad terms like "last week" or "recently".
 - Keep them interesting and readable by text-to-speech.
 `;
@@ -182,21 +182,21 @@ function generateFallbackScript({ weather, rssItems, policeRecap, culvers, email
 
   return {
     quick: {
-      weather: `Quick update: It is ${weather.temp} degrees and ${weather.condition} at ${weather.landmark}.`,
+      weather: `Quick update: At ${weather.currentHour || '9 AM'}, it is ${weather.temp} degrees and ${weather.condition} at ${weather.landmark}.`,
       news: `City update: ${cleanNews}.`,
       events: `Upcoming: ${cleanEvent}.`,
       police: `In police news: ${policeDay}, officers noted ${cleanPolice}.`,
       culvers: `Culver's today is ${culvers.todayFlavor}. Store is ${culvers.statusText.includes('Closed') ? 'closed' : 'open'}.`
     },
     entertainment: {
-      weather: `Hey ${cityName}, let's get into the dish! We've got ${weather.temp} degrees and ${weather.condition} over at ${weather.landmark}. ${weather.isDay ? 'Get out and enjoy the sunshine!' : `Look up to see that lovely ${weather.moonPhase}!`} ${iss.hasPass ? 'Keep your eyes on the skies!' : ''}`,
+      weather: `Hey ${cityName}, let's get into the dish! At ${weather.currentHour || '9 AM'}, we've got ${weather.temp} degrees and ${weather.condition} over at ${weather.landmark}. ${weather.isDay ? 'Get out and enjoy the sunshine!' : `Look up to see that lovely ${weather.moonPhase}!`} ${iss.hasPass ? 'Keep your eyes on the skies!' : ''}`,
       news: `A quick note from city hall: ${cleanNews}.`,
       events: `Looking for fun? Check out ${cleanEvent}!`,
       police: `A bit of neighborhood drama: ${policeDay}, ${cleanPolice}.`,
       culvers: `Time for a treat! Today's Culver's flavor of the day is a delicious scoop of ${culvers.todayFlavor}! Tomorrow we get ${culvers.tomorrowFlavor}.`
     },
     balanced: {
-      weather: `Hello, ${cityName}! Here is today's balanced dish. Over at ${weather.landmark}, it is currently ${weather.temp} degrees with ${weather.condition}. ${!weather.isDay ? `Tonight we have a ${weather.moonPhase}.` : ''} ${iss.hasPass ? iss.text : ''}`,
+      weather: `Hello, ${cityName}! At ${weather.currentHour || '9 AM'}, here is today's balanced dish. Over at ${weather.landmark}, it is currently ${weather.temp} degrees with ${weather.condition}. ${!weather.isDay ? `Tonight we have a ${weather.moonPhase}.` : ''} ${iss.hasPass ? iss.text : ''}`,
       news: `In city affairs, the latest update is: ${cleanNews}.`,
       events: `If you are planning your week, we have local events coming up, including ${cleanEvent}.`,
       police: `From the police department weekly log: ${policeDay}, ${cleanPolice}.`,
