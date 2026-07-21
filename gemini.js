@@ -131,6 +131,7 @@ Tone Descriptions & Instructions:
   * Quick: "Quick update: At [Current Hour]..."
   * Entertainment: "Hey ${cityName}, let's get into the dish! At [Current Hour]..."
   * Balanced: "Hello, ${cityName}! At [Current Hour], here is today's balanced dish..."
+- When describing the ISS flyover trajectory, frame the direction using local geographical references relative to Verona (e.g., from Middleton / Verona High School in the northwest towards Oregon / Festival Foods in the southeast) and describe its height naturally (e.g., "low near the horizon", "about halfway up the sky", "high in the sky", or "almost directly overhead") instead of stating degree numbers.
 - When writing the "police" segment, you MUST mention which day of the week the incident occurred (e.g., "Last Friday...", "Two days ago...") by finding it in the provided police recap. Do not say broad terms like "last week" or "recently".
 - Keep them interesting and readable by text-to-speech.
 `;
@@ -140,22 +141,52 @@ Tone Descriptions & Instructions:
   //await fs.writeFile(defaultOutputPath, prompt, 'utf-8');
   //return {};
 
-  try {
-    const response = await ai.models.generateContent({
-      model: 'gemini-3.5-flash',
-      contents: prompt,
-      config: {
-        responseMimeType: 'application/json'
-      }
-    });
+  const modelsToTry = ['gemini-3.5-flash', 'gemini-2.0-flash'];
 
-    const cleanedText = response.text.trim();
-    // Parse to ensure it is valid JSON
-    return JSON.parse(cleanedText);
-  } catch (error) {
-    console.error('Error generating script with Gemini:', error.message);
-    return generateFallbackScript({ weather, rssItems, policeRecap, culvers, emails, iss, events });
+  for (const model of modelsToTry) {
+    let retries = 3;
+    let delayMs = 2000;
+
+    for (let attempt = 1; attempt <= retries; attempt++) {
+      try {
+        const response = await ai.models.generateContent({
+          model,
+          contents: prompt,
+          config: {
+            responseMimeType: 'application/json'
+          }
+        });
+
+        let cleanedText = response.text.trim();
+        // Remove markdown backticks if returned despite responseMimeType
+        cleanedText = cleanedText.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/i, '').trim();
+        return JSON.parse(cleanedText);
+      } catch (error) {
+        const isTransient = error.status === 503 || error.code === 503 || error.message?.includes('503') || error.message?.includes('high demand') || error.status === 429 || error.status === 'RESOURCE_EXHAUSTED';
+        
+        if (isTransient && attempt < retries) {
+          // Check if Google provided a retry delay in seconds (e.g., "retry in 10s")
+          const delayMatch = error.message?.match(/retry in ([0-9.]+)s/i);
+          const waitTime = delayMatch ? Math.ceil(parseFloat(delayMatch[1]) * 1000) + 1000 : delayMs;
+          
+          console.warn(`Gemini API rate limited/busy (${model}, attempt ${attempt}/${retries}). Waiting ${(waitTime / 1000).toFixed(1)}s before retry...`);
+          await new Promise(resolve => setTimeout(resolve, waitTime));
+          delayMs *= 2;
+        } else if (isTransient && model !== modelsToTry[modelsToTry.length - 1]) {
+          console.warn(`Model ${model} unavailable after retries. Trying alternate model...`);
+          break; // Try next fallback model
+        } else {
+          console.error(`Error generating script with Gemini (${model}):`, error.message);
+          if (model === modelsToTry[modelsToTry.length - 1]) {
+            return generateFallbackScript({ weather, rssItems, policeRecap, culvers, emails, iss, events });
+          }
+          break;
+        }
+      }
+    }
   }
+
+  return generateFallbackScript({ weather, rssItems, policeRecap, culvers, emails, iss, events });
 }
 
 /**

@@ -34,7 +34,7 @@ export async function fetchISSFlyover() {
       });
       const durationMin = Math.round(nextPass.visible_duration_sec / 60) || 1;
       const peakElevation = Math.round(nextPass.culmination.elevation_deg);
-      
+
       // Expand compass directions for natural reading (e.g. WNW -> West Northwest)
       const compassMap = {
         'N': 'North', 'NNE': 'North Northeast', 'NE': 'Northeast', 'ENE': 'East Northeast',
@@ -42,19 +42,57 @@ export async function fetchISSFlyover() {
         'S': 'South', 'SSW': 'South Southwest', 'SW': 'Southwest', 'WSW': 'West Southwest',
         'W': 'West', 'WNW': 'West Northwest', 'NW': 'Northwest', 'NNW': 'North Northwest'
       };
-      
+
       const startCompass = compassMap[nextPass.rise.compass] || nextPass.rise.compass || 'horizon';
       const endCompass = compassMap[nextPass.set.compass] || nextPass.set.compass || 'horizon';
 
+      // Map compass directions to local towns and landmarks relative to Verona, WI
+      const localRefMap = {
+        'North': 'Middleton',
+        'North Northwest': 'Middleton / Cross Plains',
+        'Northwest': 'Middleton near Verona High School',
+        'West Northwest': 'Cross Plains',
+        'West': 'Mount Horeb',
+        'West Southwest': 'Mount Horeb',
+        'Southwest': 'Mount Horeb',
+        'South Southwest': 'Belleville',
+        'South': 'Belleville',
+        'South Southeast': 'Oregon',
+        'Southeast': 'Oregon near Costco',
+        'East Southeast': 'Oregon / Fitchburg near Festival Foods',
+        'East': 'Fitchburg',
+        'East Northeast': 'Fitchburg / Madison',
+        'Northeast': 'Madison near Home Depot',
+        'North Northeast': 'West Madison'
+      };
+
+      const startLocal = localRefMap[startCompass] || startCompass;
+      const endLocal = localRefMap[endCompass] || endCompass;
+
+      // Translate peak elevation degrees into intuitive sky height descriptions
+      let elevationText = 'high in the sky';
+      if (peakElevation < 25) {
+        elevationText = 'low near the horizon';
+      } else if (peakElevation < 50) {
+        elevationText = 'about halfway up the sky';
+      } else if (peakElevation < 75) {
+        elevationText = 'high in the sky';
+      } else {
+        elevationText = 'almost directly overhead';
+      }
+
       return {
         hasPass: true,
-        text: `The ISS will be visible tonight starting at ${localTimeStr} for ${durationMin} minutes. Look for it rising in the ${startCompass} and setting in the ${endCompass}, reaching a peak elevation of ${peakElevation} degrees.`,
+        text: `The ISS will be visible tonight starting at ${localTimeStr} for ${durationMin} minutes. Look for it rising in the ${startCompass} (over ${startLocal}) and traveling toward the ${endCompass} (heading toward ${endLocal}), reaching ${elevationText}.`,
         details: {
           time: localTimeStr,
           durationMin,
           peakElevation,
+          elevationText,
           startCompass,
-          endCompass
+          endCompass,
+          startLocal,
+          endLocal
         }
       };
     }
