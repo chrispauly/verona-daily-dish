@@ -129,7 +129,8 @@ async function main() {
         updateDate: now.toISOString(),
         titleText: cat.title,
         mainText: cleanText,
-        redirectionUrl: cat.fallbackRedir
+        redirectionUrl: cat.fallbackRedir,
+        generatorModel: toneScripts.usedModel || 'Local Fallback Template'
       };
     });
 

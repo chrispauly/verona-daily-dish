@@ -91,11 +91,18 @@ export async function fetchWeather() {
   const lat = parseFloat(process.env.GPS_LAT || '42.9897');
   const lon = parseFloat(process.env.GPS_LON || '-89.5356');
   const tz = encodeURIComponent(tzName);
-  const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,apparent_temperature,is_day,weather_code&temperature_unit=fahrenheit&timezone=${tz}`;
-
+  const weatherUrl = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,apparent_temperature,is_day,weather_code&temperature_unit=fahrenheit&timezone=${tz}`;
+  const aqUrl = `https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${lat}&longitude=${lon}&current=us_aqi`;
 
   try {
-    const response = await fetch(url);
+    const [response, aqResponse] = await Promise.all([
+      fetch(weatherUrl),
+      fetch(aqUrl).catch(err => {
+        console.error('Error fetching air quality:', err.message);
+        return null;
+      })
+    ]);
+
     if (!response.ok) {
       throw new Error(`Weather API returned status: ${response.status}`);
     }
@@ -108,6 +115,22 @@ export async function fetchWeather() {
     const moonPhase = getMoonPhase(new Date());
     const landmark = getRandomLandmark();
 
+    let aqi = null;
+    let aqiCategory = null;
+    if (aqResponse && aqResponse.ok) {
+      const aqData = await aqResponse.json();
+      aqi = aqData.current?.us_aqi ?? null;
+      if (aqi !== null && aqi > 50) {
+        if (aqi <= 100) aqiCategory = 'Moderate';
+        else if (aqi <= 150) aqiCategory = 'Unhealthy for Sensitive Groups';
+        else if (aqi <= 200) aqiCategory = 'Unhealthy';
+        else aqiCategory = 'Very Unhealthy';
+      }
+    }
+
+    const hasElevatedAQI = aqi !== null && aqi > 50;
+    const aqiStr = hasElevatedAQI ? ` Air quality index is ${aqi} (${aqiCategory}).` : '';
+
     return {
       success: true,
       temp,
@@ -117,7 +140,10 @@ export async function fetchWeather() {
       moonPhase,
       landmark,
       currentHour,
-      text: `At ${currentHour}, the weather is ${temp} degrees (feels like ${apparentTemp}) with ${condition} at ${landmark}. Day: ${isDay}. Moon phase: ${moonPhase}.`
+      aqi,
+      aqiCategory,
+      hasElevatedAQI,
+      text: `At ${currentHour}, the weather is ${temp} degrees (feels like ${apparentTemp}) with ${condition} at ${landmark}.${aqiStr} Day: ${isDay}. Moon phase: ${moonPhase}.`
     };
   } catch (error) {
     console.error('Error fetching weather:', error.message);
@@ -131,6 +157,9 @@ export async function fetchWeather() {
       moonPhase: 'Unknown',
       landmark,
       currentHour,
+      aqi: null,
+      aqiCategory: null,
+      hasElevatedAQI: false,
       text: `At ${currentHour}, weather data currently unavailable at ${landmark}`
     };
   }

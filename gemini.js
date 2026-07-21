@@ -55,6 +55,7 @@ Here is today's raw data:
   * Astronomical Moon Phase: ${weather.moonPhase}
   * Local Landmark for Weather Context: ${weather.landmark}
   * Current Hour: ${weather.currentHour}
+  * Air Quality Alert: ${weather.hasElevatedAQI ? `Elevated! AQI is ${weather.aqi} (${weather.aqiCategory})` : 'Normal (AQI is 50 or below - DO NOT mention air quality)'}
 - ISS Space Station Sighting Info:
   * Upcoming visible pass tonight? ${iss.hasPass}
   * Sighting directions: ${iss.text}
@@ -105,7 +106,7 @@ Tone Descriptions & Instructions:
 
 1. "quick" (A fast, direct, factual recap of all topics):
    - Keep each section extremely concise (ideally 1 short, plain sentence).
-   - "weather": Factual statement of temp, condition, and landmark.
+   - "weather": Factual statement of temp, condition, landmark, and AQI (only if AQI > 50).
    - "news": Direct summary of the top news item or email.
    - "events": Mention the top upcoming event title and date.
    - "police": Mention one incident, specifying the day of the week or date it occurred (extracted from the recap).
@@ -113,7 +114,7 @@ Tone Descriptions & Instructions:
 
 2. "entertainment" (A lively, enthusiastic, and fun briefing):
    - Highlight the local events, Culver's flavor, and weather with high energy, playful details, and local references.
-   - "weather": Sassy commentary on the conditions at the landmark. If night and clear, make a big deal about the moon phase and ISS flyover!
+   - "weather": Sassy commentary on the conditions at the landmark. Include AQI alert only if AQI > 50. If night and clear, make a big deal about the moon phase and ISS flyover!
    - "news": Briefly touch on city news in a conversational, lighthearted way.
    - "events": Show off the upcoming local events in a fun, inviting way. Promote going out and enjoying them!
    - "police": Briefly summarize a police call in a lighthearted or curious way, making sure to explicitly mention the day it happened.
@@ -121,7 +122,7 @@ Tone Descriptions & Instructions:
 
 3. "balanced" (A friendly, informative news anchor style):
    - A balanced and fun style that gives equal weight and detail to all five categories.
-   - "weather": Fun weather summary incorporating landmarks, moon phase, and ISS flyover if night and clear.
+   - "weather": Fun weather summary incorporating landmarks, AQI (only if AQI > 50), moon phase, and ISS flyover if night and clear.
    - "news": Include a couple city news stories or important email updates, prioritizing neighborhood-relevant details.  Make sure to summarize the full webpage content, not just the title and link.
    - "events": Informative summary of all events coming up in the next couple days. And highlight any big event in the near future in ${cityName}.
    - "police": A conversational reciting of exactly one noteworthy weekly incident, making sure to identify the day of the week or date it occurred.
@@ -131,6 +132,7 @@ Tone Descriptions & Instructions:
   * Quick: "Quick update: At [Current Hour]..."
   * Entertainment: "Hey ${cityName}, let's get into the dish! At [Current Hour]..."
   * Balanced: "Hello, ${cityName}! At [Current Hour], here is today's balanced dish..."
+- Air Quality Rule: ONLY mention air quality if the Air Quality Index (AQI) is ABOVE 50 (e.g. Moderate, Unhealthy). If AQI is 50 or below, do NOT mention air quality at all in the briefing scripts.
 - When describing the ISS flyover trajectory, frame the direction using local geographical references relative to Verona (e.g., from Middleton / Verona High School in the northwest towards Oregon / Festival Foods in the southeast) and describe its height naturally (e.g., "low near the horizon", "about halfway up the sky", "high in the sky", or "almost directly overhead") instead of stating degree numbers.
 - When writing the "police" segment, you MUST mention which day of the week the incident occurred (e.g., "Last Friday...", "Two days ago...") by finding it in the provided police recap. Do not say broad terms like "last week" or "recently".
 - Keep them interesting and readable by text-to-speech.
@@ -141,7 +143,7 @@ Tone Descriptions & Instructions:
   //await fs.writeFile(defaultOutputPath, prompt, 'utf-8');
   //return {};
 
-  const modelsToTry = ['gemini-3.5-flash', 'gemini-2.0-flash'];
+  const modelsToTry = ['gemini-3.1-flash-lite', 'gemini-3.5-flash', 'gemini-2.0-flash'];
 
   for (const model of modelsToTry) {
     let retries = 3;
@@ -163,12 +165,12 @@ Tone Descriptions & Instructions:
         return JSON.parse(cleanedText);
       } catch (error) {
         const isTransient = error.status === 503 || error.code === 503 || error.message?.includes('503') || error.message?.includes('high demand') || error.status === 429 || error.status === 'RESOURCE_EXHAUSTED';
-        
+
         if (isTransient && attempt < retries) {
           // Check if Google provided a retry delay in seconds (e.g., "retry in 10s")
           const delayMatch = error.message?.match(/retry in ([0-9.]+)s/i);
           const waitTime = delayMatch ? Math.ceil(parseFloat(delayMatch[1]) * 1000) + 1000 : delayMs;
-          
+
           console.warn(`Gemini API rate limited/busy (${model}, attempt ${attempt}/${retries}). Waiting ${(waitTime / 1000).toFixed(1)}s before retry...`);
           await new Promise(resolve => setTimeout(resolve, waitTime));
           delayMs *= 2;
@@ -210,24 +212,25 @@ function generateFallbackScript({ weather, rssItems, policeRecap, culvers, email
   const cleanPolice = policeRecap && policeRecap.fullContent
     ? policeRecap.fullContent.replace(/[^a-zA-Z0-9\s]/g, '').substring(0, 80).trim()
     : 'No updates from the police department';
+  const aqiNotice = weather.hasElevatedAQI ? ` Note: Air quality is ${weather.aqiCategory} with an AQI of ${weather.aqi}.` : '';
 
   return {
     quick: {
-      weather: `Quick update: At ${weather.currentHour || '9 AM'}, it is ${weather.temp} degrees and ${weather.condition} at ${weather.landmark}.`,
+      weather: `Quick update: At ${weather.currentHour || '9 AM'}, it is ${weather.temp} degrees and ${weather.condition} at ${weather.landmark}.${aqiNotice}`,
       news: `City update: ${cleanNews}.`,
       events: `Upcoming: ${cleanEvent}.`,
       police: `In police news: ${policeDay}, officers noted ${cleanPolice}.`,
       culvers: `Culver's today is ${culvers.todayFlavor}. Store is ${culvers.statusText.includes('Closed') ? 'closed' : 'open'}.`
     },
     entertainment: {
-      weather: `Hey ${cityName}, let's get into the dish! At ${weather.currentHour || '9 AM'}, we've got ${weather.temp} degrees and ${weather.condition} over at ${weather.landmark}. ${weather.isDay ? 'Get out and enjoy the sunshine!' : `Look up to see that lovely ${weather.moonPhase}!`} ${iss.hasPass ? 'Keep your eyes on the skies!' : ''}`,
+      weather: `Hey ${cityName}, let's get into the dish! At ${weather.currentHour || '9 AM'}, we've got ${weather.temp} degrees and ${weather.condition} over at ${weather.landmark}.${aqiNotice} ${weather.isDay ? 'Get out and enjoy the sunshine!' : `Look up to see that lovely ${weather.moonPhase}!`} ${iss.hasPass ? 'Keep your eyes on the skies!' : ''}`,
       news: `A quick note from city hall: ${cleanNews}.`,
       events: `Looking for fun? Check out ${cleanEvent}!`,
       police: `A bit of neighborhood drama: ${policeDay}, ${cleanPolice}.`,
       culvers: `Time for a treat! Today's Culver's flavor of the day is a delicious scoop of ${culvers.todayFlavor}! Tomorrow we get ${culvers.tomorrowFlavor}.`
     },
     balanced: {
-      weather: `Hello, ${cityName}! At ${weather.currentHour || '9 AM'}, here is today's balanced dish. Over at ${weather.landmark}, it is currently ${weather.temp} degrees with ${weather.condition}. ${!weather.isDay ? `Tonight we have a ${weather.moonPhase}.` : ''} ${iss.hasPass ? iss.text : ''}`,
+      weather: `Hello, ${cityName}! At ${weather.currentHour || '9 AM'}, here is today's balanced dish. Over at ${weather.landmark}, it is currently ${weather.temp} degrees with ${weather.condition}.${aqiNotice} ${!weather.isDay ? `Tonight we have a ${weather.moonPhase}.` : ''} ${iss.hasPass ? iss.text : ''}`,
       news: `In city affairs, the latest update is: ${cleanNews}.`,
       events: `If you are planning your week, we have local events coming up, including ${cleanEvent}.`,
       police: `From the police department weekly log: ${policeDay}, ${cleanPolice}.`,
