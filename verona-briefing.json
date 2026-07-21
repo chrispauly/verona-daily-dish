@@ -1,37 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-21",
-    "updateDate": "2026-07-21T03:02:47.564Z",
+    "updateDate": "2026-07-21T05:03:10.111Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. We are experiencing clear skies and 74 degrees near Badger Prairie County Park. If you step outside tonight under the first quarter moon, look up at 10:21 PM to spot the International Space Station as it passes high in the sky, rising over Middleton near Verona High School and traveling toward Oregon and Fitchburg near Festival Foods.",
-    "redirectionUrl": "https://veronawi.gov/"
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we have clear skies over Reddan Soccer Park and the moon is in its First Quarter phase, though unfortunately, there are no visible ISS passes tonight.",
+    "redirectionUrl": "https://veronawi.gov/",
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-07-21",
-    "updateDate": "2026-07-21T03:02:47.564Z",
+    "updateDate": "2026-07-21T05:03:10.111Z",
     "titleText": "Verona City News",
-    "mainText": "In city updates, Verona is reminding residents of local parking and storage rules, noting that vehicles in residential districts must be parked in designated impervious spaces and kept at least five feet from property lines. On an eco-friendly note, the city is highlighting home composting benefits and its free Food Scrap Stop program located in Badger Prairie County Park, which requires a simple online registration to access the secure collection carts.",
-    "redirectionUrl": "https://veronawi.gov/"
+    "mainText": "The city wants to remind residents about proper parking rules to avoid cluttering residential areas, and you can also learn about easy ways to compost your food scraps at the Badger Prairie Food Scrap Stop.",
+    "redirectionUrl": "https://veronawi.gov/",
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-07-21",
-    "updateDate": "2026-07-21T03:02:47.564Z",
+    "updateDate": "2026-07-21T05:03:10.111Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at the local calendar, we have some great activities lined up. Yoga at Insight Wellness is happening on Monday, July 20th. On Tuesday, July 21st, you can test your knowledge at Hop Haus Trivia or Quizmasters Trivia at Lake Louie. Then on Wednesday, July 22nd, enjoy the Verona Downtown Farmer's Market at Hometown Junction Park or live music at Paddy Mac's.",
-    "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date"
+    "mainText": "We have a busy couple of days ahead including trivia at Hop Haus on Tuesday, the Verona Downtown Farmer's Market on Wednesday morning, and Concerts in the Park returning this Thursday at Century School Park.",
+    "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-07-21",
-    "updateDate": "2026-07-21T03:02:47.564Z",
+    "updateDate": "2026-07-21T05:03:10.111Z",
     "titleText": "Verona Police Report",
-    "mainText": "For this week's police report, officers responded to a call on Monday at 9:15 PM where a passerby reported a vehicle stuck on a large rock. The investigation led to the arrest of a 36-year-old Madison man for his first operating while intoxicated offense.",
-    "redirectionUrl": "https://veronawi.gov/"
+    "mainText": "On July 16, officers were called to a residence on West Verona Avenue for a burglary in progress, which turned out to be a dispute between neighbors that led to an arrest for criminal trespass.",
+    "redirectionUrl": "https://veronawi.gov/",
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-21",
-    "updateDate": "2026-07-21T03:02:47.564Z",
+    "updateDate": "2026-07-21T05:03:10.111Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Dark Chocolate PB Crunch. Since the store is currently closed, you will want to plan your visit for tomorrow when they open at 10:00 AM to enjoy the next featured flavor, Chocolate Caramel Twist!",
-    "redirectionUrl": "https://www.culvers.com/restaurants/verona"
+    "mainText": "Today's flavor is the delicious Chocolate Caramel Twist, but keep in mind that the restaurant is currently closed. You can stop by tomorrow when they open their doors at 10 AM.",
+    "redirectionUrl": "https://www.culvers.com/restaurants/verona",
+    "generatorModel": "Local Fallback Template"
   }
 ]
