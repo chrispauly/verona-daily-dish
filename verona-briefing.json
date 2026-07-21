@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-21",
-    "updateDate": "2026-07-21T11:34:40.922Z",
+    "updateDate": "2026-07-21T12:32:02.000Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish. We are looking at a clear sky and 70 degrees at Verona Community Park, with a first quarter moon overhead.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: it is 75 degrees with clear skies over Verona Community Park and the moon is in its first quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-07-21",
-    "updateDate": "2026-07-21T11:34:40.922Z",
+    "updateDate": "2026-07-21T12:32:02.000Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, VHAT remains your go-to source for Verona government meetings and community programming. Also, a reminder to follow local parking ordinances, which restrict how you store recreational vehicles and trailers on your property.",
+    "mainText": "City news today includes a reminder that vehicle parking in residential districts requires off-street, impervious surfaces, and residents are encouraged to use the Badger Prairie food scrap drop-off site for composting organic waste.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-07-21",
-    "updateDate": "2026-07-21T11:34:40.922Z",
+    "updateDate": "2026-07-21T12:32:02.000Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town this week. You can catch trivia at Hop Haus or Lake Louie on Tuesday, attend the Farmer's Market on Wednesday, or enjoy Concerts in the Park this Thursday.",
+    "mainText": "Coming up, we have trivia at Hop Haus and Lake Louie this Tuesday, followed by the Downtown Farmers Market, yoga at Insight Wellness, and trivia at The Bogey Factory this Wednesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-07-21",
-    "updateDate": "2026-07-21T11:34:40.922Z",
+    "updateDate": "2026-07-21T12:32:02.000Z",
     "titleText": "Verona Police Report",
-    "mainText": "On July 13, Verona police responded to a report of a vehicle stuck on a large rock, which resulted in the driver being arrested for a first offense of operating while intoxicated.",
+    "mainText": "In our weekly report, on July 14, officers performed a traffic stop that led to the seizure of marijuana and a firearm from a vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-21",
-    "updateDate": "2026-07-21T11:34:40.922Z",
+    "updateDate": "2026-07-21T12:32:02.000Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delightful Chocolate Caramel Twist. If you miss it, tomorrow features Mint Explosion. Culver's is currently closed but will open its doors to serve you starting at 10 AM.",
+    "mainText": "Today's flavor is Chocolate Caramel Twist, but since they are currently closed, you can look forward to stopping by when they open at 10:00 AM. Tomorrow's flavor will be Mint Explosion.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "Local Fallback Template"
   }
