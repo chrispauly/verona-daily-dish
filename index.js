@@ -34,6 +34,18 @@ function enforceCharacterLimit(text, limit = 4500) {
   return truncatedStr.trim(); // Fallback if no sentence end found
 }
 
+/**
+ * Post-processes script text to replace specific abbreviations with phonetic equivalents
+ * or spaced letters to ensure correct Alexa pronunciation.
+ */
+function fixPronunciations(text) {
+  if (!text) return '';
+  return text
+    .replace(/\bOWI's\b/gi, "O-W-I's")
+    .replace(/\bOWIs\b/gi, "O-W-I's")
+    .replace(/\bOWI\b/gi, "O-W-I");
+}
+
 async function main() {
   const cityName = process.env.CITY_NAME || 'Verona';
   const cityState = `${cityName}, ${process.env.STATE_NAME || 'WI'}`;
@@ -123,7 +135,7 @@ async function main() {
     // Format 5 update items in this feed
     const feedItems = categories.map(cat => {
       const rawText = toneData[cat.key] || '';
-      const cleanText = enforceCharacterLimit(rawText);
+      const cleanText = enforceCharacterLimit(fixPronunciations(rawText));
       return {
         uid: `${cityKey}-${tone.name}-${cat.key}-${dateStr}`,
         updateDate: now.toISOString(),

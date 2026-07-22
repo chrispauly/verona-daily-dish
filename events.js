@@ -126,6 +126,7 @@ export async function fetchUpcomingEvents() {
       return {
         title: doc.title || 'Untitled Event',
         date: formattedDate,
+        rawDate: nextDate,
         venue: doc.venue_name || `${cityName}, ${stateName}`,
         description: cleanHTML(doc.description).substring(0, 300), // Keep description brief for prompt size
         link: doc.url ? `${origin}${doc.url}` : mainUrl
