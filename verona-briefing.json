@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-22",
-    "updateDate": "2026-07-22T01:33:45.525Z",
+    "updateDate": "2026-07-22T02:53:04.416Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: it is 71 degrees and partly cloudy at the library with a first quarter moon overhead, and keep your eyes on the sky at 9:33 PM to see the ISS travel from Middleton near Verona High School toward Fitchburg, peaking about halfway up the sky.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. We have clear skies at Fireman's Park with a first quarter moon. The space station will be visible tonight starting at 11:10 PM, moving from over Cross Plains toward Oregon and reaching about halfway up the sky. The temperature will drop to an overnight low of 53 degrees, and there is no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-22",
-    "updateDate": "2026-07-22T01:33:45.525Z",
+    "updateDate": "2026-07-22T02:53:04.416Z",
     "titleText": "Verona City News",
-    "mainText": "The city wants to remind you that VHAT provides government and public access programming, while the building department reminds residents that parked vehicles in residential areas must be kept on approved surfaces and follow strict setback rules.",
+    "mainText": "City news today highlights the VHAT government and public access cable channel. You can watch local government meetings on channels 989 or 1989, or view programs on-demand via the city website and YouTube. Also, please note that residential parking rules require vehicles to be parked on designated surfaces at least five feet from property lines.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-22",
-    "updateDate": "2026-07-22T01:33:45.525Z",
+    "updateDate": "2026-07-22T02:53:04.416Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy week starting with Hop Haus Trivia in Fitchburg tomorrow, followed by the Downtown Farmer's Market and trivia at The Bogey Factory this Wednesday.",
+    "mainText": "There is plenty to do in Verona! Trivia games are taking place today at Hop Haus, Lake Louie, and Paddy Mac's. Tomorrow, you can enjoy live music at Paddy Mac's, attend yoga at Insight Wellness, visit the downtown farmer's market, grab pizza at Lake Louie, or test your brain at the Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-22",
-    "updateDate": "2026-07-22T01:33:45.525Z",
+    "updateDate": "2026-07-22T02:53:04.416Z",
     "titleText": "Verona Police Report",
-    "mainText": "On July 14, officers performed a traffic stop where they discovered marijuana and a firearm, leading to citations for the driver and passenger.",
+    "mainText": "In our weekly police report, on July 13th, a driver was arrested for an O-W-I after their vehicle became trapped on a large rock.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-22",
-    "updateDate": "2026-07-22T01:33:45.525Z",
+    "updateDate": "2026-07-22T02:53:04.416Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You have until 10 PM tonight to enjoy the Chocolate Caramel Twist, and don't forget that tomorrow's flavor is the refreshing Mint Explosion.",
+    "mainText": "Culver's of Verona is serving up the Chocolate Caramel Twist today. They are open until 10:00 PM, which is less than an hour from now, so head over soon to enjoy a bowl.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]

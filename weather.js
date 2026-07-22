@@ -82,16 +82,24 @@ function getMoonPhase(date = new Date()) {
 
 export async function fetchWeather() {
   const tzName = process.env.TIMEZONE || 'America/Chicago';
+  const now = new Date();
+  
   const currentHour = new Intl.DateTimeFormat('en-US', {
     timeZone: tzName,
     hour: 'numeric',
     hour12: true
-  }).format(new Date());
+  }).format(now);
+
+  const currentHour24 = parseInt(new Intl.DateTimeFormat('en-US', {
+    timeZone: tzName,
+    hour: 'numeric',
+    hourCycle: 'h23'
+  }).format(now), 10);
 
   const lat = parseFloat(process.env.GPS_LAT || '42.9897');
   const lon = parseFloat(process.env.GPS_LON || '-89.5356');
   const tz = encodeURIComponent(tzName);
-  const weatherUrl = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,apparent_temperature,is_day,weather_code&temperature_unit=fahrenheit&timezone=${tz}`;
+  const weatherUrl = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,apparent_temperature,is_day,weather_code&hourly=temperature_2m,precipitation_probability&forecast_days=2&temperature_unit=fahrenheit&timezone=${tz}`;
   const aqUrl = `https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${lat}&longitude=${lon}&current=us_aqi`;
 
   try {
@@ -112,7 +120,7 @@ export async function fetchWeather() {
     const isDay = data.current.is_day === 1;
     const code = data.current.weather_code;
     const condition = WEATHER_CODES[code] || 'fair conditions';
-    const moonPhase = getMoonPhase(new Date());
+    const moonPhase = getMoonPhase(now);
     const landmark = getRandomLandmark();
 
     let aqi = null;
@@ -131,6 +139,32 @@ export async function fetchWeather() {
     const hasElevatedAQI = aqi !== null && aqi > 50;
     const aqiStr = hasElevatedAQI ? ` Air quality index is ${aqi} (${aqiCategory}).` : '';
 
+    const isAfter5Pm = currentHour24 >= 17;
+    let overnightLow = null;
+    let rainPredicted = null;
+    let maxPrecipitationProbability = null;
+
+    if (isAfter5Pm && data.hourly) {
+      const startIdx = currentHour24;
+      const endIdx = 32; // Tomorrow 8 AM
+      if (data.hourly.temperature_2m && data.hourly.precipitation_probability) {
+        const temps = data.hourly.temperature_2m.slice(startIdx, endIdx + 1);
+        const probs = data.hourly.precipitation_probability.slice(startIdx, endIdx + 1);
+
+        if (temps.length > 0) {
+          overnightLow = Math.round(Math.min(...temps));
+        }
+        if (probs.length > 0) {
+          maxPrecipitationProbability = Math.max(...probs);
+          rainPredicted = maxPrecipitationProbability >= 20;
+        }
+      }
+    }
+
+    const overnightStr = (isAfter5Pm && overnightLow !== null)
+      ? ` The overnight low will be ${overnightLow} degrees and rain is ${rainPredicted ? 'predicted' : 'not predicted'}.`
+      : '';
+
     return {
       success: true,
       temp,
@@ -143,7 +177,11 @@ export async function fetchWeather() {
       aqi,
       aqiCategory,
       hasElevatedAQI,
-      text: `At ${currentHour}, the weather is ${temp} degrees (feels like ${apparentTemp}) with ${condition} at ${landmark}.${aqiStr} Day: ${isDay}. Moon phase: ${moonPhase}.`
+      isAfter5Pm,
+      overnightLow,
+      rainPredicted,
+      maxPrecipitationProbability,
+      text: `At ${currentHour}, the weather is ${temp} degrees (feels like ${apparentTemp}) with ${condition} at ${landmark}.${aqiStr} Day: ${isDay}. Moon phase: ${moonPhase}.${overnightStr}`
     };
   } catch (error) {
     console.error('Error fetching weather:', error.message);
@@ -160,7 +198,12 @@ export async function fetchWeather() {
       aqi: null,
       aqiCategory: null,
       hasElevatedAQI: false,
+      isAfter5Pm: false,
+      overnightLow: null,
+      rainPredicted: null,
+      maxPrecipitationProbability: null,
       text: `At ${currentHour}, weather data currently unavailable at ${landmark}`
     };
   }
 }
+

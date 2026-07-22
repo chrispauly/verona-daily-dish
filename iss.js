@@ -47,7 +47,7 @@ export async function fetchISSFlyover() {
       const endCompass = compassMap[nextPass.set.compass] || nextPass.set.compass || 'horizon';
 
       // Map compass directions to local towns and landmarks relative to Verona, WI
-      const localRefMap = {
+      const DEFAULT_LOCAL_REF_MAP = {
         'North': 'Middleton',
         'North Northwest': 'Middleton / Cross Plains',
         'Northwest': 'Middleton near Verona High School',
@@ -65,6 +65,16 @@ export async function fetchISSFlyover() {
         'Northeast': 'Madison near Home Depot',
         'North Northeast': 'West Madison'
       };
+
+      let localRefMap = DEFAULT_LOCAL_REF_MAP;
+      if (process.env.ISS_LOCAL_REF_MAP) {
+        try {
+          localRefMap = JSON.parse(process.env.ISS_LOCAL_REF_MAP);
+        } catch (e) {
+          console.error('Error parsing ISS_LOCAL_REF_MAP from environment:', e.message);
+        }
+      }
+
 
       const startLocal = localRefMap[startCompass] || startCompass;
       const endLocal = localRefMap[endCompass] || endCompass;

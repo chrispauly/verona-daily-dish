@@ -5,6 +5,15 @@ import fs from 'fs/promises';
 
 dotenv.config();
 
+function getLocalDateString(date, tzName) {
+  return new Intl.DateTimeFormat('en-US', {
+    timeZone: tzName,
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  }).format(date);
+}
+
 /**
  * Generates the multi-tone daily briefing scripts using Gemini 3.5 Flash.
  * Returns a JSON object containing three tones: quick, entertainment, and balanced.
@@ -21,6 +30,10 @@ export async function generateBriefingScript({ weather, rssItems, policeRecap, c
   const cityName = process.env.CITY_NAME || 'Verona';
   const stateName = process.env.STATE_NAME || 'WI';
   const stateFullName = process.env.STATE_FULL_NAME || 'Wisconsin';
+  const tzName = process.env.TIMEZONE || 'America/Chicago';
+
+  const todayStrOnly = getLocalDateString(new Date(), tzName);
+  const tomorrowStrOnly = getLocalDateString(new Date(Date.now() + 24 * 60 * 60 * 1000), tzName);
 
   // Prepare RSS summaries for context
   const newsContext = rssItems.map((item, idx) => {
@@ -39,7 +52,22 @@ export async function generateBriefingScript({ weather, rssItems, policeRecap, c
 
   // Prepare Events context
   const eventsContext = events && events.length > 0
-    ? events.map((event, idx) => `Event ${idx + 1}:\nTitle: ${event.title}\nDate: ${event.date}\nVenue: ${event.venue}\nDescription: ${event.description}\n`).join('\n---\n')
+    ? events.map((event, idx) => {
+        let relativeDateStr = event.date;
+        if (event.rawDate) {
+          try {
+            const eventLocalDateStr = getLocalDateString(new Date(event.rawDate), tzName);
+            if (eventLocalDateStr === todayStrOnly) {
+              relativeDateStr = 'Today';
+            } else if (eventLocalDateStr === tomorrowStrOnly) {
+              relativeDateStr = 'tomorrow';
+            }
+          } catch (e) {
+            console.error('Error parsing event date:', event.rawDate, e.message);
+          }
+        }
+        return `Event ${idx + 1}:\nTitle: ${event.title}\nDate: ${event.date} (Relative: ${relativeDateStr})\nVenue: ${event.venue}\nDescription: ${event.description}\n`;
+      }).join('\n---\n')
     : 'No upcoming events listed for the next 30 days.';
 
   const prompt = `
@@ -56,6 +84,9 @@ Here is today's raw data:
   * Local Landmark for Weather Context: ${weather.landmark}
   * Current Hour: ${weather.currentHour}
   * Air Quality Alert: ${weather.hasElevatedAQI ? `Elevated! AQI is ${weather.aqi} (${weather.aqiCategory})` : 'Normal (AQI is 50 or below - DO NOT mention air quality)'}
+  * Is it after 5 PM? ${weather.isAfter5Pm}
+  * Overnight Low Temperature: ${weather.overnightLow !== null && weather.overnightLow !== undefined ? `${weather.overnightLow}°F` : 'N/A'}
+  * Is rain predicted overnight? ${weather.rainPredicted !== null && weather.rainPredicted !== undefined ? (weather.rainPredicted ? 'Yes' : 'No') : 'N/A'}
 - ISS Space Station Sighting Info:
   * Upcoming visible pass tonight? ${iss.hasPass}
   * Sighting directions: ${iss.text}
@@ -128,6 +159,7 @@ Tone Descriptions & Instructions:
    - "police": A conversational reciting of exactly one noteworthy weekly incident, making sure to identify the day of the week or date it occurred.
    - "culvers": Make today's flavor sound delicious! Encourage running out to grab it, especially if closing soon.  Let us know how soon that could be.  If they are closed, let us know the flavor for tomorrow and what time they open.
 
+Rules:
 - Start the first section of every tone ("weather") with a catchy intro, and immediately mention the current hour (e.g. "At 9 AM...", "At 8 PM...") using the provided Current Hour. Tailor the intro as follows:
   * Quick: "Quick update: At [Current Hour]..."
   * Entertainment: "Hey ${cityName}, let's get into the dish! At [Current Hour]..."
@@ -135,13 +167,14 @@ Tone Descriptions & Instructions:
 - Air Quality Rule: ONLY mention air quality if the Air Quality Index (AQI) is ABOVE 50 (e.g. Moderate, Unhealthy). If AQI is 50 or below, do NOT mention air quality at all in the briefing scripts.
 - When describing the ISS flyover trajectory, frame the direction using local geographical references relative to Verona (e.g., from Middleton / Verona High School in the northwest towards Oregon / Festival Foods in the southeast) and describe its height naturally (e.g., "low near the horizon", "about halfway up the sky", "high in the sky", or "almost directly overhead") instead of stating degree numbers.
 - When writing the "police" segment, you MUST mention which day of the week the incident occurred (e.g., "Last Friday...", "Two days ago...") by finding it in the provided police recap. Do not say broad terms like "last week" or "recently".
+- Overnight Weather Rule: If it is after 5 PM (Is it after 5 PM is true), you MUST also mention the overnight low temperature and whether rain is predicted overnight in the "weather" section for all three tones. Mention it naturally as part of the weather summary (e.g., "Tonight, expect a low of 53 degrees with rain predicted" or "The overnight low will drop to 53 degrees, with no rain in the forecast"). If it is not after 5 PM, do NOT mention the overnight low or rain.
+- Event Date Rule: When summarizing upcoming local events:
+  * If an event's Relative date is "Today", you MUST refer to its date as "Today" (e.g. "happening today", or just "today") and NOT by its weekday name (e.g., do NOT say "on Tuesday").
+  * If an event's Relative date is "tomorrow", you MUST refer to its date as "tomorrow" (e.g. "happening tomorrow", or just "tomorrow") and NOT by its weekday name (e.g., do NOT say "on Wednesday").
+  * For all other events, refer to their dates normally (using their weekday name or date).
+- Police Pronunciation Rule: If a police report contains "OWI" (Operating While Intoxicated), always write it as "O-W-I" so Alexa pronounces it as the individual letters "O", "W", "I".
 - Keep them interesting and readable by text-to-speech.
 `;
-
-
-  //const defaultOutputPath = path.resolve(`prompt.txt`);
-  //await fs.writeFile(defaultOutputPath, prompt, 'utf-8');
-  //return {};
 
   const modelsToTry = ['gemini-3.1-flash-lite', 'gemini-3.5-flash', 'gemini-2.0-flash'];
 
@@ -162,7 +195,9 @@ Tone Descriptions & Instructions:
         let cleanedText = response.text.trim();
         // Remove markdown backticks if returned despite responseMimeType
         cleanedText = cleanedText.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/i, '').trim();
-        return JSON.parse(cleanedText);
+        const parsed = JSON.parse(cleanedText);
+        parsed.usedModel = model;
+        return parsed;
       } catch (error) {
         const isTransient = error.status === 503 || error.code === 503 || error.message?.includes('503') || error.message?.includes('high demand') || error.status === 429 || error.status === 'RESOURCE_EXHAUSTED';
 
@@ -197,6 +232,10 @@ Tone Descriptions & Instructions:
 function generateFallbackScript({ weather, rssItems, policeRecap, culvers, emails, iss, events }) {
   const cityName = process.env.CITY_NAME || 'Verona';
   const stateName = process.env.STATE_NAME || 'WI';
+  const tzName = process.env.TIMEZONE || 'America/Chicago';
+
+  const todayStrOnly = getLocalDateString(new Date(), tzName);
+  const tomorrowStrOnly = getLocalDateString(new Date(Date.now() + 24 * 60 * 60 * 1000), tzName);
 
   // Helper to extract a day of the week from the police recap if possible
   let policeDay = 'recently';
@@ -208,29 +247,64 @@ function generateFallbackScript({ weather, rssItems, policeRecap, culvers, email
   }
 
   const cleanNews = rssItems?.[0] ? rssItems[0].title.replace(/[^a-zA-Z0-9\s]/g, '').trim() : 'No new city alerts';
-  const cleanEvent = events?.[0] ? `${events[0].title} on ${events[0].date} at ${events[0].venue}` : 'No events scheduled';
+
+  // Format events with relative dates
+  const formattedEvents = (events || []).map(event => {
+    let relativeDate = event.date;
+    if (event.rawDate) {
+      try {
+        const eventLocalDateStr = getLocalDateString(new Date(event.rawDate), tzName);
+        if (eventLocalDateStr === todayStrOnly) {
+          relativeDate = 'Today';
+        } else if (eventLocalDateStr === tomorrowStrOnly) {
+          relativeDate = 'tomorrow';
+        }
+      } catch (e) {
+        console.error('Error parsing event date in fallback:', event.rawDate, e.message);
+      }
+    }
+    return {
+      ...event,
+      relativeDate
+    };
+  });
+
+  const getRelativeEventText = (event) => {
+    if (!event) return 'No events scheduled';
+    const dateText = (event.relativeDate === 'Today' || event.relativeDate === 'tomorrow')
+      ? event.relativeDate
+      : `on ${event.relativeDate}`;
+    return `${event.title} ${dateText} at ${event.venue}`;
+  };
+
+  const cleanEvent = getRelativeEventText(formattedEvents[0]);
+
   const cleanPolice = policeRecap && policeRecap.fullContent
     ? policeRecap.fullContent.replace(/[^a-zA-Z0-9\s]/g, '').substring(0, 80).trim()
     : 'No updates from the police department';
   const aqiNotice = weather.hasElevatedAQI ? ` Note: Air quality is ${weather.aqiCategory} with an AQI of ${weather.aqi}.` : '';
 
+  const overnightNotice = (weather.isAfter5Pm && weather.overnightLow !== null)
+    ? ` The overnight low will be around ${weather.overnightLow} degrees, with rain ${weather.rainPredicted ? '' : 'un'}likely.`
+    : '';
+
   return {
     quick: {
-      weather: `Quick update: At ${weather.currentHour || '9 AM'}, it is ${weather.temp} degrees and ${weather.condition} at ${weather.landmark}.${aqiNotice}`,
+      weather: `Quick update: At ${weather.currentHour || '9 AM'}, it is ${weather.temp} degrees and ${weather.condition} at ${weather.landmark}.${aqiNotice}${overnightNotice}`,
       news: `City update: ${cleanNews}.`,
       events: `Upcoming: ${cleanEvent}.`,
       police: `In police news: ${policeDay}, officers noted ${cleanPolice}.`,
       culvers: `Culver's today is ${culvers.todayFlavor}. Store is ${culvers.statusText.includes('Closed') ? 'closed' : 'open'}.`
     },
     entertainment: {
-      weather: `Hey ${cityName}, let's get into the dish! At ${weather.currentHour || '9 AM'}, we've got ${weather.temp} degrees and ${weather.condition} over at ${weather.landmark}.${aqiNotice} ${weather.isDay ? 'Get out and enjoy the sunshine!' : `Look up to see that lovely ${weather.moonPhase}!`} ${iss.hasPass ? 'Keep your eyes on the skies!' : ''}`,
+      weather: `Hey ${cityName}, let's get into the dish! At ${weather.currentHour || '9 AM'}, we've got ${weather.temp} degrees and ${weather.condition} over at ${weather.landmark}.${aqiNotice}${overnightNotice} ${weather.isDay ? 'Get out and enjoy the sunshine!' : `Look up to see that lovely ${weather.moonPhase}!`} ${iss.hasPass ? 'Keep your eyes on the skies!' : ''}`,
       news: `A quick note from city hall: ${cleanNews}.`,
       events: `Looking for fun? Check out ${cleanEvent}!`,
       police: `A bit of neighborhood drama: ${policeDay}, ${cleanPolice}.`,
       culvers: `Time for a treat! Today's Culver's flavor of the day is a delicious scoop of ${culvers.todayFlavor}! Tomorrow we get ${culvers.tomorrowFlavor}.`
     },
     balanced: {
-      weather: `Hello, ${cityName}! At ${weather.currentHour || '9 AM'}, here is today's balanced dish. Over at ${weather.landmark}, it is currently ${weather.temp} degrees with ${weather.condition}.${aqiNotice} ${!weather.isDay ? `Tonight we have a ${weather.moonPhase}.` : ''} ${iss.hasPass ? iss.text : ''}`,
+      weather: `Hello, ${cityName}! At ${weather.currentHour || '9 AM'}, here is today's balanced dish. Over at ${weather.landmark}, it is currently ${weather.temp} degrees with ${weather.condition}.${aqiNotice}${overnightNotice} ${!weather.isDay ? `Tonight we have a ${weather.moonPhase}.` : ''} ${iss.hasPass ? iss.text : ''}`,
       news: `In city affairs, the latest update is: ${cleanNews}.`,
       events: `If you are planning your week, we have local events coming up, including ${cleanEvent}.`,
       police: `From the police department weekly log: ${policeDay}, ${cleanPolice}.`,
