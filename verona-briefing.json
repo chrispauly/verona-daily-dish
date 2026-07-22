@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-22",
-    "updateDate": "2026-07-22T17:29:23.162Z",
+    "updateDate": "2026-07-22T18:25:20.570Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: expect clear skies with a pleasant temperature of 70 degrees at Verona Community Park. We are under a First Quarter moon, and if you stay up, you can catch the space station at 10:22 PM as it streaks from over Cross Plains toward Oregon near Costco, climbing about halfway up the sky.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. We are looking at a clear 71 degrees near Fireman's Park. Looking ahead to tonight, keep your eyes on the sky at 10:22 PM to spot the space station, which will be visible for 4 minutes as it travels from the Cross Plains area toward the Oregon and Costco vicinity.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-22",
-    "updateDate": "2026-07-22T17:29:23.162Z",
+    "updateDate": "2026-07-22T18:25:20.570Z",
     "titleText": "Verona City News",
-    "mainText": "On the city front, don't forget that VHAT provides local government updates and public access programming. Also, a reminder that the city has specific ordinances regarding vehicle storage on your property, requiring designated parking surfaces and specific setbacks.",
+    "mainText": "For city information, tune into the VHAT cable channel or visit the website for government meetings and community news. Also, remember that you can help the environment by composting yard waste and food scraps at the free Food Scrap Stop located in Badger Prairie County Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-22",
-    "updateDate": "2026-07-22T17:29:23.162Z",
+    "updateDate": "2026-07-22T18:25:20.570Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona! Today you can visit the farmer's market, enjoy pizza at Lake Louie, or test your brain at trivia night. Tomorrow, make sure to catch the free Concerts in the Park at Century School Park or join the fun at Hop Haus trivia.",
+    "mainText": "Today is a great day to visit the Verona Downtown Farmer's Market at Hometown Junction Park or enjoy Trivia Night at The Bogey Factory. Tomorrow, plan on catching live music at the Concerts in the Park series at Century School Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-22",
-    "updateDate": "2026-07-22T17:29:23.162Z",
+    "updateDate": "2026-07-22T18:25:20.570Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on July 13, officers responded to a situation where a vehicle was found stuck on a large rock, resulting in the driver being arrested for an O-W-I.",
+    "mainText": "In our weekly look at local service calls, on July 13, an officer responded to a report of a vehicle stuck on a large rock, which resulted in the driver being arrested for O-W-I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-22",
-    "updateDate": "2026-07-22T17:29:23.162Z",
+    "updateDate": "2026-07-22T18:25:20.570Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Mint Explosion. Culver's is open until 10 PM, so you have plenty of time to stop by for a treat today.",
+    "mainText": "Treat yourself to today's delicious Snickers Swirl flavor, available at Culver's until they close at 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
