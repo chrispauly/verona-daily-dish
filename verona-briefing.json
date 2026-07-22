@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-22",
-    "updateDate": "2026-07-22T08:52:22.228Z",
+    "updateDate": "2026-07-22T09:48:28.988Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: we have clear skies and 56-degree temperatures over at Badger Prairie County Park. The moon is currently in its first quarter phase, though there are no visible ISS flyovers to spot tonight.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: the temperature at Harriet Park is 55 degrees with clear skies and a First Quarter moon, but please note there are no visible passes of the International Space Station tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-22",
-    "updateDate": "2026-07-22T08:52:22.228Z",
+    "updateDate": "2026-07-22T09:48:28.988Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the VHAT cable channel is your primary resource for government meetings and public access programming. Also, a reminder that the city has specific ordinances regarding vehicle storage, requiring that vehicles be parked on designated impervious surfaces and kept five feet from property lines.",
+    "mainText": "City news highlights include the VHAT cable channel providing local government access on channels 989 or 1989, and important reminders on home composting to improve soil health by using yard waste and scraps.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-22",
-    "updateDate": "2026-07-22T08:52:22.228Z",
+    "updateDate": "2026-07-22T09:48:28.988Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a packed schedule today, July 22nd! We have the Verona Downtown Farmer's Market, yoga at Insight Wellness, pizza at Lake Louie, and trivia at The Bogey Factory. Looking ahead, you can enjoy Concerts in the Park tomorrow.",
+    "mainText": "We have a full slate today with live music at Paddy Mac's, yoga at Insight Wellness, the Downtown Farmer's Market, pizza at Lake Louie, and trivia at The Bogey Factory. Tomorrow, look forward to Concerts in the Park and trivia at Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-22",
-    "updateDate": "2026-07-22T08:52:22.228Z",
+    "updateDate": "2026-07-22T09:48:28.988Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on July 13th, officers responded to a situation where a 36-year-old man had his vehicle stuck on a large rock; he was ultimately arrested for an O-W-I.",
+    "mainText": "In our weekly police report, on July 13, a passerby reported a vehicle stuck on a large rock, which resulted in the driver being arrested for O-W-I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-22",
-    "updateDate": "2026-07-22T08:52:22.228Z",
+    "updateDate": "2026-07-22T09:48:28.988Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Mint Explosion. The store is currently closed but will open its doors for you at 10 AM today. If you are looking ahead to tomorrow, the flavor will be the tasty Really Reese's.",
+    "mainText": "Today's flavor is Mint Explosion. The store is currently closed, but they will open their doors at 10:00 AM. If you are looking for tomorrow's treat, get ready for Really Reese's.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
