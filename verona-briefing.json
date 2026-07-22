@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-22",
-    "updateDate": "2026-07-22T14:40:06.860Z",
+    "updateDate": "2026-07-22T15:32:13.459Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish. Skies are clear with a temperature of 64 degrees at Reddan Soccer Park. We are in the first quarter moon phase this morning.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have a pleasant 67 degrees and clear skies at Reddan Soccer Park. If you are out tonight, keep an eye out for the space station pass starting at 10:22 PM, which will travel from the Cross Plains direction toward Oregon and reach halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-22",
-    "updateDate": "2026-07-22T14:40:06.860Z",
+    "updateDate": "2026-07-22T15:32:13.459Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, you can tune into channel 989 to watch VHAT, which provides public access and government meeting coverage for the Verona area. Additionally, the city is promoting the Badger Prairie Food Scrap Stop, where you can drop off organic waste for free after registering for a lock.",
+    "mainText": "The City of Verona provides important information through the VHAT cable channel, which features local government meetings and community news. Additionally, please remember that vehicles parked in residential areas must be stored in designated parking spaces at least five feet from property lines.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-22",
-    "updateDate": "2026-07-22T14:40:06.860Z",
+    "updateDate": "2026-07-22T15:32:13.459Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with activities, including the Verona Downtown Farmer's Market, trivia at The Bogey Factory, and pizza night at the Wisconsin Brewing Company. Tomorrow, the fun continues with a free concert at Century School Park and trivia at Hop Haus Brewing.",
+    "mainText": "Today is a great day for community activities, including the Verona Downtown Farmer's Market at Hometown Junction Park, Yoga at Insight Wellness, and Trivia Night at The Bogey Factory. Tomorrow, you can look forward to Concerts in the Park at Century School and Hop Haus Trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-22",
-    "updateDate": "2026-07-22T14:40:06.860Z",
+    "updateDate": "2026-07-22T15:32:13.459Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the police report, on July 13, officers responded to a situation where a vehicle was stuck on a rock, leading to the arrest of a 36-year-old man for his first O-W-I offense.",
+    "mainText": "In a recent report, on July 13, officers arrested a 36-year-old Madison man for an O-W-I after a passerby reported his vehicle was stuck on a rock.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-22",
-    "updateDate": "2026-07-22T14:40:06.860Z",
+    "updateDate": "2026-07-22T15:32:13.459Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Mint Explosion. Culver's is currently closed, but they will open their doors at 10:00 AM. If you are looking for tomorrow's treat, it will be the Really Reese's flavor.",
+    "mainText": "Today's delicious flavor of the day is Mint Explosion. Culver's is open until 10:00 PM, so there is plenty of time to head over and enjoy a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
