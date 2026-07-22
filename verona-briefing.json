@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-22",
-    "updateDate": "2026-07-22T11:35:03.745Z",
+    "updateDate": "2026-07-22T12:32:12.440Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish. We are seeing clear skies over the Verona Area High School with a temperature of 53 degrees. The moon is currently in its First Quarter phase.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish on the weather. We are looking at a clear and cool morning at 56 degrees, which is perfect for visiting the Military Ridge State Trail. The moon is currently in its First Quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-22",
-    "updateDate": "2026-07-22T11:35:03.745Z",
+    "updateDate": "2026-07-22T12:32:12.440Z",
     "titleText": "Verona City News",
-    "mainText": "For city news, remember that VHAT is your go-to cable channel for local government meetings and community updates. Also, please review the city code regarding vehicle parking and storage, which requires vehicles to be parked on approved surfaces and sets limits on how many can be stored at your residence.",
+    "mainText": "City Hall reminds residents that VHAT serves as our local cable channel for government meetings and community news. Additionally, please note that residential vehicle parking must be at least five feet from property lines, and composting organic waste is encouraged through the free Food Scrap Stop program located at Badger Prairie County Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-22",
-    "updateDate": "2026-07-22T11:35:03.745Z",
+    "updateDate": "2026-07-22T12:32:12.440Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today! Head over to Hometown Junction Park for the Verona Downtown Farmers Market, enjoy Pizza and a Pitcher at Lake Louie, or join in for Trivia Night at The Bogey Factory.",
+    "mainText": "We have a packed schedule today. You can enjoy the Verona Downtown Farmer's Market, Yoga at Insight Wellness, Wednesday Pizza and a Pitcher at Wisconsin Brewing Company, or Trivia Night at The Bogey Factory. Tomorrow, don't miss the free Concerts in the Park at Century School Park or trivia at Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-22",
-    "updateDate": "2026-07-22T11:35:03.745Z",
+    "updateDate": "2026-07-22T12:32:12.440Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from July 13th, officers responded to a passerby report regarding a vehicle stuck on a large rock, which resulted in the driver being arrested for a first offense O-W-I.",
+    "mainText": "In a report covering July 13 through July 20, we see that on July 14, officers performed a traffic stop where a driver was cited for possession of marijuana and drug paraphernalia, and a passenger was cited for not wearing a seat belt.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-22",
-    "updateDate": "2026-07-22T11:35:03.745Z",
+    "updateDate": "2026-07-22T12:32:12.440Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You are in for a treat with today's flavor, Mint Explosion. The shop is currently closed but will open its doors at 10 AM. If you are looking ahead to tomorrow, the flavor will be Really Reese's.",
+    "mainText": "Today is the perfect time to enjoy a Mint Explosion flavor of the day. The store is currently closed but will open at 10 AM. If you are looking for tomorrow's treat, it will be Really Reese's.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
