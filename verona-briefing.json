@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-22",
-    "updateDate": "2026-07-22T10:43:00.723Z",
+    "updateDate": "2026-07-22T11:35:03.745Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we are seeing a temperature of 53 degrees with clear skies observed near Badger Ridge Middle School and a first quarter moon phase.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish. We are seeing clear skies over the Verona Area High School with a temperature of 53 degrees. The moon is currently in its First Quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-22",
-    "updateDate": "2026-07-22T10:43:00.723Z",
+    "updateDate": "2026-07-22T11:35:03.745Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona operates the VHAT cable channel to keep residents informed about local government meetings and community events, which you can watch on channel 989.",
+    "mainText": "For city news, remember that VHAT is your go-to cable channel for local government meetings and community updates. Also, please review the city code regarding vehicle parking and storage, which requires vehicles to be parked on approved surfaces and sets limits on how many can be stored at your residence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-22",
-    "updateDate": "2026-07-22T10:43:00.723Z",
+    "updateDate": "2026-07-22T11:35:03.745Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with activities, including the Verona Downtown Farmer's Market at Hometown Junction Park, yoga at Insight Wellness, pizza at Lake Louie, and trivia at The Bogey Factory. Looking ahead, you can enjoy Concerts in the Park tomorrow at Century School Park.",
+    "mainText": "There is plenty to do today! Head over to Hometown Junction Park for the Verona Downtown Farmers Market, enjoy Pizza and a Pitcher at Lake Louie, or join in for Trivia Night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-22",
-    "updateDate": "2026-07-22T10:43:00.723Z",
+    "updateDate": "2026-07-22T11:35:03.745Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly police report, on July 13, officers responded to a situation where a 36-year-old man was arrested for his first O-W-I offense after his vehicle became stuck on a large rock.",
+    "mainText": "In a noteworthy call from July 13th, officers responded to a passerby report regarding a vehicle stuck on a large rock, which resulted in the driver being arrested for a first offense O-W-I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-22",
-    "updateDate": "2026-07-22T10:43:00.723Z",
+    "updateDate": "2026-07-22T11:35:03.745Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We have a chilly treat for you today with Mint Explosion. The store is currently closed but will be opening at 10 AM. If you miss it, keep an eye out for Really Reese's tomorrow.",
+    "mainText": "You are in for a treat with today's flavor, Mint Explosion. The shop is currently closed but will open its doors at 10 AM. If you are looking ahead to tomorrow, the flavor will be Really Reese's.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
