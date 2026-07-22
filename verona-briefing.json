@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-22",
-    "updateDate": "2026-07-22T03:02:08.518Z",
+    "updateDate": "2026-07-22T05:03:13.663Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. It is a clear 67 degrees out by the Military Ridge State Trail, and the moon is in its first quarter. Tonight, the space station will be visible for two minutes starting at 11:10 PM, moving from over Cross Plains toward Oregon and reaching halfway up the sky. The temperature will dip to an overnight low of 53 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we have clear skies at Reddan Soccer Park and the moon is currently in its first quarter phase, though we have no visible ISS passes tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-22",
-    "updateDate": "2026-07-22T03:02:08.518Z",
+    "updateDate": "2026-07-22T05:03:13.663Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona reminds residents that the VHAT cable channel is your go-to source for local government meetings and information. Additionally, the city offers guidance on residential parking regulations for your vehicles and trailers, as well as resources for managing organic waste through home composting and the free Food Scrap Stop program located at Badger Prairie County Park.",
+    "mainText": "The city channel VHAT is your go-to for local government meetings and public information, while the city also reminds residents to follow parking codes for vehicles and explore composting options at the Food Scrap Stop.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-22",
-    "updateDate": "2026-07-22T03:02:08.518Z",
+    "updateDate": "2026-07-22T05:03:13.663Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town. We have trivia happening today at both Hop Haus Brewing Company and Wisconsin Brewing Company. Tomorrow, you can look forward to the farmer's market at Hometown Junction Park, yoga at Insight Wellness, and even more trivia options at Paddy Mac's and The Bogey Factory.",
+    "mainText": "There is plenty to do with the Verona Downtown Farmer's Market and trivia at The Bogey Factory today, plus Concerts in the Park are coming up tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-22",
-    "updateDate": "2026-07-22T03:02:08.518Z",
+    "updateDate": "2026-07-22T05:03:13.663Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a look back at the weekly police report, on July 13, an officer assisted at a scene where a vehicle was stuck on a rock, which resulted in the driver being arrested for an O-W-I.",
+    "mainText": "On July 15, officers arrested a local man for felony bail jumping following a domestic disturbance call on Prairie Oaks Drive.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-22",
-    "updateDate": "2026-07-22T03:02:08.518Z",
+    "updateDate": "2026-07-22T05:03:13.663Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You are in for a treat with today's flavor, Chocolate Caramel Twist. Please note the restaurant is currently closed, but they will be ready to serve you starting at 10:00 AM tomorrow.",
+    "mainText": "Mint Explosion is today's flavor of the day. The store is currently closed but will reopen at 10:00 AM, so head over then to grab your treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
