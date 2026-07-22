@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-22",
-    "updateDate": "2026-07-22T12:32:12.440Z",
+    "updateDate": "2026-07-22T13:32:20.089Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish on the weather. We are looking at a clear and cool morning at 56 degrees, which is perfect for visiting the Military Ridge State Trail. The moon is currently in its First Quarter phase.",
+    "mainText": "Hello, Verona! At 8 AM, we are looking at clear skies and 60 degrees out near Badger Prairie County Park, with the first quarter moon visible.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-22",
-    "updateDate": "2026-07-22T12:32:12.440Z",
+    "updateDate": "2026-07-22T13:32:20.089Z",
     "titleText": "Verona City News",
-    "mainText": "City Hall reminds residents that VHAT serves as our local cable channel for government meetings and community news. Additionally, please note that residential vehicle parking must be at least five feet from property lines, and composting organic waste is encouraged through the free Food Scrap Stop program located at Badger Prairie County Park.",
+    "mainText": "For city updates, you can tune into the VHAT government and public access channel on Spectrum or TDS. Also, remember that you can drop off organic food waste for free at the Badger Prairie Food Scrap Stop if you register for a lock combination.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-22",
-    "updateDate": "2026-07-22T12:32:12.440Z",
+    "updateDate": "2026-07-22T13:32:20.089Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule today. You can enjoy the Verona Downtown Farmer's Market, Yoga at Insight Wellness, Wednesday Pizza and a Pitcher at Wisconsin Brewing Company, or Trivia Night at The Bogey Factory. Tomorrow, don't miss the free Concerts in the Park at Century School Park or trivia at Hop Haus.",
+    "mainText": "Today is a busy day in Verona, featuring the Downtown Farmer's Market, yoga at Insight Wellness, and trivia at The Bogey Factory. Tomorrow, you can catch a live concert at Century School Park or join in for Hop Haus trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-22",
-    "updateDate": "2026-07-22T12:32:12.440Z",
+    "updateDate": "2026-07-22T13:32:20.089Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering July 13 through July 20, we see that on July 14, officers performed a traffic stop where a driver was cited for possession of marijuana and drug paraphernalia, and a passenger was cited for not wearing a seat belt.",
+    "mainText": "In our weekly report, on July 13th, officers responded to a call where a 36-year-old man was arrested for an O-W-I after his vehicle became stuck on a large rock.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-22",
-    "updateDate": "2026-07-22T12:32:12.440Z",
+    "updateDate": "2026-07-22T13:32:20.089Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect time to enjoy a Mint Explosion flavor of the day. The store is currently closed but will open at 10 AM. If you are looking for tomorrow's treat, it will be Really Reese's.",
+    "mainText": "Today's flavor of the day is Mint Explosion. The store is currently closed, but they will be opening their doors at 10:00 AM. If you miss out today, tomorrow's flavor will be Really Reese's.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
