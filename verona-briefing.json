@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-22",
-    "updateDate": "2026-07-22T05:03:13.663Z",
+    "updateDate": "2026-07-22T06:50:56.530Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we have clear skies at Reddan Soccer Park and the moon is currently in its first quarter phase, though we have no visible ISS passes tonight.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish. Conditions are clear near the Military Ridge State Trail with a temperature of 60 degrees and a First Quarter moon lighting up the sky, though there are no visible ISS passes tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-22",
-    "updateDate": "2026-07-22T05:03:13.663Z",
+    "updateDate": "2026-07-22T06:50:56.530Z",
     "titleText": "Verona City News",
-    "mainText": "The city channel VHAT is your go-to for local government meetings and public information, while the city also reminds residents to follow parking codes for vehicles and explore composting options at the Food Scrap Stop.",
+    "mainText": "The city reminds residents that the VHAT cable channel is your go-to for government meetings and community news. Also, remember that residential parking rules require vehicles to be parked on approved surfaces at least 5 feet from property lines.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-22",
-    "updateDate": "2026-07-22T05:03:13.663Z",
+    "updateDate": "2026-07-22T06:50:56.530Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with the Verona Downtown Farmer's Market and trivia at The Bogey Factory today, plus Concerts in the Park are coming up tomorrow.",
+    "mainText": "There is plenty to do today, including the Verona Downtown Farmer's Market, yoga at Insight Wellness, and trivia at The Bogey Factory. Looking ahead, you can catch Concerts in the Park tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-22",
-    "updateDate": "2026-07-22T05:03:13.663Z",
+    "updateDate": "2026-07-22T06:50:56.530Z",
     "titleText": "Verona Police Report",
-    "mainText": "On July 15, officers arrested a local man for felony bail jumping following a domestic disturbance call on Prairie Oaks Drive.",
+    "mainText": "Looking at the weekly service report, on July 15, officers responded to a domestic disturbance on Prairie Oaks Drive, resulting in one arrest for felony bail jumping.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-22",
-    "updateDate": "2026-07-22T05:03:13.663Z",
+    "updateDate": "2026-07-22T06:50:56.530Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Mint Explosion is today's flavor of the day. The store is currently closed but will reopen at 10:00 AM, so head over then to grab your treat.",
+    "mainText": "Today's flavor is the classic Turtle. Since the shop is currently closed, plan your visit for when they open at 10:30 AM to enjoy your treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
