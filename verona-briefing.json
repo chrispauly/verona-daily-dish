@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-23",
-    "updateDate": "2026-07-23T06:49:44.055Z",
+    "updateDate": "2026-07-23T07:48:37.854Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish. We are looking at 55 degrees at Badger Prairie County Park with clear skies and a first quarter moon overhead, though there are no visible ISS sightings in our area tonight.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: it is 53 degrees with clear skies at Verona Community Park under a first quarter moon, and unfortunately no ISS sightings are visible tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-23",
-    "updateDate": "2026-07-23T06:49:44.055Z",
+    "updateDate": "2026-07-23T07:48:37.854Z",
     "titleText": "Verona City News",
-    "mainText": "The city wants to keep you informed through the VHAT cable channel and our official city blog, where you can find meeting summaries and project updates. Also, remember to stay compliant with our local parking codes regarding vehicles and recreational equipment storage.",
+    "mainText": "The City of Verona keeps residents informed through the VHAT cable channel and digital newsletters, while also reminding residents that residential vehicle storage requires specific designated surfaces and screening.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-23",
-    "updateDate": "2026-07-23T06:49:44.055Z",
+    "updateDate": "2026-07-23T07:48:37.854Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule today with yoga at Insight Wellness, live music at the Concerts in the Park series, and trivia night at Hop Haus Brewing Co. Looking ahead, tomorrow brings live music at Bailey's Run Vineyard and Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do today including Yoga at Insight Wellness and the Concerts in the Park series, followed by live music at Bailey's Run Vineyard happening tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-23",
-    "updateDate": "2026-07-23T06:49:44.055Z",
+    "updateDate": "2026-07-23T07:48:37.854Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on July 15, officers responded to a domestic disturbance call on Prairie Oaks Drive, which led to an arrest for felony bail jumping.",
+    "mainText": "In a noteworthy incident from July 13th, a Madison man was arrested for an O-W-I after officers responded to a vehicle stuck on a large rock.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-23",
-    "updateDate": "2026-07-23T06:49:44.055Z",
+    "updateDate": "2026-07-23T07:48:37.854Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Really Reese's. Culver's is currently closed, but they will be ready to serve you starting at 10 AM today.",
+    "mainText": "The Culver's flavor of the day is Really Reese's. The store is currently closed but will open at 10:00 AM today.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
