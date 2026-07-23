@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-23",
-    "updateDate": "2026-07-23T03:02:07.249Z",
+    "updateDate": "2026-07-23T05:03:46.414Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: it is a clear 63 degrees near Verona Community Park. You might want to look up at 10:22 PM, as the International Space Station will be visible, rising in the northwest over Cross Plains and traveling toward the southeast near Oregon, reaching about halfway up the sky. The moon is in its first quarter phase, and tonight's low will be 53 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. It is a clear 58 degrees near Harriet Park, and we have a lovely first quarter moon in the sky, though no ISS sighting opportunities are available tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-23",
-    "updateDate": "2026-07-23T03:02:07.249Z",
+    "updateDate": "2026-07-23T05:03:46.414Z",
     "titleText": "Verona City News",
-    "mainText": "The city wants to remind you that you can stay connected through the Verona Cable Channel, VHAT, which broadcasts city meetings and community programming. You can also visit the city website to subscribe to their digital newsletter for updates on local projects and programs.",
+    "mainText": "The City of Verona keeps us connected through the VHAT cable channel and their website, where you can watch live council meetings or subscribe to the monthly digital newsletter to stay informed about city projects.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-23",
-    "updateDate": "2026-07-23T03:02:07.249Z",
+    "updateDate": "2026-07-23T05:03:46.414Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot happening in our community. Today, you can catch live music at Paddy Mac's, attend a yoga session at Insight Wellness, enjoy the Verona Downtown Farmer's Market, grab a slice during Pizza and a Pitcher at Lake Louie, or test your knowledge at Trivia Night at The Bogey Factory. Looking ahead, tomorrow features Concerts in the Park at Century School Park and trivia night at Hop Haus Brewing.",
+    "mainText": "We have a busy schedule today including Yoga at Insight Wellness, a free Concert in the Park at Century School Park, and trivia at Hop Haus Brewing. Looking ahead, we have live music at Bailey's Run and Lake Louie tomorrow, plus the Dane County Farmer's Market this Friday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-23",
-    "updateDate": "2026-07-23T03:02:07.249Z",
+    "updateDate": "2026-07-23T05:03:46.414Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly police report, on July 14, an officer conducted a traffic stop for a vehicle operating without headlights. The driver was cited for possession of marijuana and drug paraphernalia, and it was discovered they did not possess a concealed carry permit.",
+    "mainText": "In our weekly police update, on July 14th, officers conducted a traffic stop that led to the discovery of marijuana and a firearm, resulting in citations for the driver and passenger.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-23",
-    "updateDate": "2026-07-23T03:02:07.249Z",
+    "updateDate": "2026-07-23T05:03:46.414Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Mint Explosion. Please note that the store is currently closed, but they will reopen tomorrow at 10:00 AM, when the flavor will be Really Reese's.",
+    "mainText": "Today's Flavor of the Day is the incredible Really Reese's. Please note that the store is currently closed, but they will be ready to serve you starting at 10 AM today.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
