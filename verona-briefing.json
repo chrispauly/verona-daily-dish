@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-23",
-    "updateDate": "2026-07-23T20:23:16.003Z",
+    "updateDate": "2026-07-23T21:23:36.174Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: it is 77 degrees and clear near the Verona Public Library, though we do have an elevated air quality reading of 53.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we are seeing clear skies and a temperature of 77 degrees at Verona Community Park, though the air quality is currently moderate with an index of 53. If you are outside tonight, keep an eye out for the International Space Station, which will be visible starting at 9:35 PM, traveling from the direction of Cross Plains in the northwest toward the southeast, passing almost directly overhead as it heads toward Oregon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-23",
-    "updateDate": "2026-07-23T20:23:16.003Z",
+    "updateDate": "2026-07-23T21:23:36.174Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Public Works department reminds residents to inspect mailboxes for winter durability and to follow official damage claim procedures if hit by city equipment. Additionally, the City Clerk is accepting student designs for a local I Voted sticker contest through July 22nd.",
+    "mainText": "The City of Verona has closed the entry phase for the I Voted sticker contest, where local K-12 students submitted original designs to be featured on stickers for the upcoming November election. Community voting will be open from July 28 through August 7 to select the four winning designs.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-23",
-    "updateDate": "2026-07-23T20:23:16.003Z",
+    "updateDate": "2026-07-23T21:23:36.174Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today features Yoga at Insight Wellness, live music at the Concerts in the Park series, and trivia at Hop Haus Brewing Company. Tomorrow, you can catch live music at Bailey's Run Vineyard and the Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do in town today, including yoga at Insight Wellness and a free concert at Century School Park. Looking ahead, you can enjoy live music at Bailey's Run Vineyard and Wisconsin Brewing Company tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-23",
-    "updateDate": "2026-07-23T20:23:16.003Z",
+    "updateDate": "2026-07-23T21:23:36.174Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from July 13th, the Verona Police Department responded to a call where a driver was arrested for an O-W-I after their vehicle became trapped on a large rock.",
+    "mainText": "In a look back at the weekly report, on July 13, officers responded to an incident where a driver was arrested for an O-W-I after their vehicle became trapped on a large rock.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-23",
-    "updateDate": "2026-07-23T20:23:16.003Z",
+    "updateDate": "2026-07-23T21:23:36.174Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to the Really Reese's flavor of the day at our local Culver's, which remains open until 10 PM tonight.",
+    "mainText": "You are in for a treat today as the flavor of the day is the delicious Really Reese's. Culver's is open until 10:00 PM, so there is still plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
