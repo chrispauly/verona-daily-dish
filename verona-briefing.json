@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-23",
-    "updateDate": "2026-07-23T01:34:08.395Z",
+    "updateDate": "2026-07-23T03:02:07.249Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: it is 67 degrees with overcast skies at Fireman's Park. We have a beautiful First Quarter moon tonight, and keep an eye out at 10:22 PM for the space station pass, traveling from the direction of Cross Plains over toward Oregon. The overnight low will be 56 degrees with no rain expected.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: it is a clear 63 degrees near Verona Community Park. You might want to look up at 10:22 PM, as the International Space Station will be visible, rising in the northwest over Cross Plains and traveling toward the southeast near Oregon, reaching about halfway up the sky. The moon is in its first quarter phase, and tonight's low will be 53 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-23",
-    "updateDate": "2026-07-23T01:34:08.395Z",
+    "updateDate": "2026-07-23T03:02:07.249Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona provides several ways to keep you informed. You can subscribe to their monthly digital newsletter, visit the city blog, or watch Common Council and Plan Commission meetings live on VHAT, which is the city's government and public access cable channel available on Spectrum and TDS.",
+    "mainText": "The city wants to remind you that you can stay connected through the Verona Cable Channel, VHAT, which broadcasts city meetings and community programming. You can also visit the city website to subscribe to their digital newsletter for updates on local projects and programs.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-23",
-    "updateDate": "2026-07-23T01:34:08.395Z",
+    "updateDate": "2026-07-23T03:02:07.249Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty to do today, including live music at Paddy Mac's, yoga at Insight Wellness, the downtown farmer's market, and trivia at The Bogey Factory. Looking ahead to tomorrow, be sure to check out the free Concerts in the Park at Century School or head over to Hop Haus for trivia night.",
+    "mainText": "There is a lot happening in our community. Today, you can catch live music at Paddy Mac's, attend a yoga session at Insight Wellness, enjoy the Verona Downtown Farmer's Market, grab a slice during Pizza and a Pitcher at Lake Louie, or test your knowledge at Trivia Night at The Bogey Factory. Looking ahead, tomorrow features Concerts in the Park at Century School Park and trivia night at Hop Haus Brewing.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-23",
-    "updateDate": "2026-07-23T01:34:08.395Z",
+    "updateDate": "2026-07-23T03:02:07.249Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly activity report, on July 13, officers responded to a call where a driver had become stuck on a large rock. The 36-year-old driver was subsequently arrested for an O-W-I offense.",
+    "mainText": "Regarding the weekly police report, on July 14, an officer conducted a traffic stop for a vehicle operating without headlights. The driver was cited for possession of marijuana and drug paraphernalia, and it was discovered they did not possess a concealed carry permit.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-23",
-    "updateDate": "2026-07-23T01:34:08.395Z",
+    "updateDate": "2026-07-23T03:02:07.249Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Mint Explosion is the flavor of the day today. The shop is open until 10 PM, so you have plenty of time to stop by for a treat. If you happen to miss out, tomorrow's flavor is Really Reese's.",
+    "mainText": "Today's flavor of the day is Mint Explosion. Please note that the store is currently closed, but they will reopen tomorrow at 10:00 AM, when the flavor will be Really Reese's.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
