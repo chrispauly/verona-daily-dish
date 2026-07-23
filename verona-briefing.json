@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-23",
-    "updateDate": "2026-07-23T08:52:49.177Z",
+    "updateDate": "2026-07-23T09:48:11.331Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: it is 52 degrees and clear out near the Military Ridge State Trail, with a first quarter moon visible, though there are no visible ISS passes tonight.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: we have clear skies over Fireman's Park and a beautiful First Quarter moon, though there are no visible ISS flyovers for our area tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-23",
-    "updateDate": "2026-07-23T08:52:49.177Z",
+    "updateDate": "2026-07-23T09:48:11.331Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona keeps you connected through the VHAT cable channel and their informative blog, plus you can sign up for the digital newsletter for all the latest project updates and council summaries.",
+    "mainText": "The City of Verona keeps you connected through the VHAT cable channel and the official city blog, where you can find council meeting recordings and important community resources. You can also sign up for the digital newsletter to stay updated on city projects and programs.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-23",
-    "updateDate": "2026-07-23T08:52:49.177Z",
+    "updateDate": "2026-07-23T09:48:11.331Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with Yoga at Insight Wellness, Concerts in the Park, and Hop Haus trivia all happening today, followed by live music tomorrow at Bailey's Run and Lake Louie.",
+    "mainText": "We have plenty to look forward to today, including Yoga at Insight Wellness, Concerts in the Park, and Hop Haus Trivia. Looking ahead, we also have live music at Bailey's Run and Lake Louie tomorrow, plus the Dane County Farmer's Market this Friday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-23",
-    "updateDate": "2026-07-23T08:52:49.177Z",
+    "updateDate": "2026-07-23T09:48:11.331Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from July 15th, officers responded to a residence on Prairie Oaks Drive where a man was arrested for felony bail jumping.",
+    "mainText": "Looking at the weekly report, on July 13, an officer assisted after a driver was arrested for an O-W-I after their vehicle became stuck on a large rock.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-23",
-    "updateDate": "2026-07-23T08:52:49.177Z",
+    "updateDate": "2026-07-23T09:48:11.331Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is the delightful Really Reese's, and while the store is currently closed, you can look forward to stopping by when they open at 10 AM, or try the Chocolate Volcano flavor tomorrow.",
+    "mainText": "You are in for a delight with today's flavor, Really Reese's. The store is currently closed but will open at 10 AM today. If you are looking for tomorrow's treat, get ready for the Chocolate Volcano.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
