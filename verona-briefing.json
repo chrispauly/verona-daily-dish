@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-23",
-    "updateDate": "2026-07-23T15:38:32.826Z",
+    "updateDate": "2026-07-23T16:31:05.634Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. We have clear skies and a pleasant 72 degrees at Verona City Hall. Tonight features a first quarter moon, and if you look up at 9:35 PM, you can spot the International Space Station flying from the direction of Cross Plains toward the Oregon area near Costco, passing almost directly overhead.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. It is 75 degrees and clear near the Verona Public Library, but please be aware of an air quality alert as the index has reached 51.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-23",
-    "updateDate": "2026-07-23T15:38:32.826Z",
+    "updateDate": "2026-07-23T16:31:05.634Z",
     "titleText": "Verona City News",
-    "mainText": "The City Clerk is hosting an I Voted sticker design contest for local students in grades K through 12, with the top entries appearing in the November election. Additionally, the City continues its routine engineering service updates through AECOM, which are regularly reported to the City Council.",
+    "mainText": "The city has two major updates: residents should inspect their mailboxes to ensure they can withstand winter plow operations, and students in grades K through 12 are invited to design a new I Voted sticker for the November election by submitting entries to City Hall by July 22.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-23",
-    "updateDate": "2026-07-23T15:38:32.826Z",
+    "updateDate": "2026-07-23T16:31:05.634Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with activities including Yoga at Insight Wellness, Concerts in the Park at Century School Park, and Hop Haus Trivia this evening. Looking ahead, tomorrow brings live music at Bailey's Run Vineyard and the Wisconsin Brewing Company.",
+    "mainText": "There is a lot going on in town today, including yoga at Insight Wellness, Concerts in the Park, and trivia at Hop Haus Brewing Company, plus live music continues tomorrow at Bailey's Run Vineyard and the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-23",
-    "updateDate": "2026-07-23T15:38:32.826Z",
+    "updateDate": "2026-07-23T16:31:05.634Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly look at police activity, on July 13, officers responded to a call where a 36-year-old man was arrested for an O-W-I after his vehicle was found stuck on a large rock.",
+    "mainText": "In a report from the police department, on July 13, a 36-year-old man was arrested for his first O-W-I offense after officers found his vehicle stuck on a large rock.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-23",
-    "updateDate": "2026-07-23T15:38:32.826Z",
+    "updateDate": "2026-07-23T16:31:05.634Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor is the decadent Chocolate Covered Strawberry. Culvers is open until 10 PM this evening, so you have plenty of time to stop by for a scoop before they close.",
+    "mainText": "Today is the perfect day to head over to Culver's for the Really Reese's flavor of the day. They are open until 10 PM, so you have plenty of time to make a trip before they lock the doors tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
