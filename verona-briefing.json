@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-24",
-    "updateDate": "2026-07-24T15:29:51.127Z",
+    "updateDate": "2026-07-24T16:32:04.980Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have 74 degree temperatures with overcast skies near Harriet Park and a Waxing Gibbous moon phase.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: it is 76 degrees with clear skies at Harriet Park, though the air quality index is currently elevated at 52.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-24",
-    "updateDate": "2026-07-24T15:29:51.127Z",
+    "updateDate": "2026-07-24T16:32:04.980Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has closed entries for the I Voted sticker contest. Verona students in grades K through 12 submitted their designs, and now the community will have the chance to vote on the winners from July 28 through August 7.",
+    "mainText": "The City Clerk's office reports that the I Voted sticker contest for K-12 students is now closed, with public voting set to run from July 28 through August 7 to determine the designs for the November election. Additionally, as we look toward winter, please remember that the city has specific mailbox damage policies for snow plowing incidents, and you should reach out to Public Works if you have any questions about USPS specifications.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-24",
-    "updateDate": "2026-07-24T15:29:51.127Z",
+    "updateDate": "2026-07-24T16:32:04.980Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty to look forward to, with live music at Bailey's Run Vineyard and Wisconsin Brewing Company happening today, followed by the Dane County Farmer's Market and music at Paddy Mac's tomorrow.",
+    "mainText": "There is a lot of local fun on the horizon with live music happening today at Bailey's Run Vineyard and the Wisconsin Brewing Company. Tomorrow, you can visit the Dane County Farmers' Market at the Capitol or catch live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-24",
-    "updateDate": "2026-07-24T15:29:51.127Z",
+    "updateDate": "2026-07-24T16:32:04.980Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from the past week, officers responded on July 13 to a situation where a driver was arrested for O-W-I after their vehicle became trapped on a large rock.",
+    "mainText": "In a review of police activity, on July 13, officers responded to a call where a vehicle was found stuck on a large rock; the driver, a 36-year-old man, was arrested for a first offense O-W-I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-24",
-    "updateDate": "2026-07-24T15:29:51.127Z",
+    "updateDate": "2026-07-24T16:32:04.980Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day to stop by Culver's for the Chocolate Volcano flavor of the day; they are open until 10:30 PM tonight.",
+    "mainText": "It is a sweet day to be in Verona because the flavor of the day is Chocolate Volcano. The store is open until 10:30 PM, so make sure to stop by and get yours before they close tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
