@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-24",
-    "updateDate": "2026-07-24T10:40:23.063Z",
+    "updateDate": "2026-07-24T11:33:01.560Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we are seeing overcast skies and 56 degree temperatures at Verona Community Park, with a waxing gibbous moon overhead.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: it is 58 degrees with overcast skies near Badger Prairie County Park, and the moon is currently in a waxing gibbous phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-24",
-    "updateDate": "2026-07-24T10:40:23.063Z",
+    "updateDate": "2026-07-24T11:33:01.560Z",
     "titleText": "Verona City News",
-    "mainText": "The City Clerk is hosting an I Voted sticker contest for K-12 students. Submissions close July 22, and the community will vote on the top designs from July 28 through August 7 to decide what voters will receive in November.",
+    "mainText": "The I Voted sticker contest for students in grades K-12 has closed for submissions. The community will have the chance to vote on the winning designs starting July 28 through August 7, with the selected art appearing on stickers for the November election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-24",
-    "updateDate": "2026-07-24T10:40:23.063Z",
+    "updateDate": "2026-07-24T11:33:01.560Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with live music happening today at Bailey's Run and Wisconsin Brewing Company, followed by the Dane County Farmer's Market tomorrow and the Paddy Mac's music series starting tomorrow.",
+    "mainText": "We have a busy lineup starting today with live music at both Bailey's Run Vineyard and the Wisconsin Brewing Company, followed by the Dane County Farmers' Market at the Capitol tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-24",
-    "updateDate": "2026-07-24T10:40:23.063Z",
+    "updateDate": "2026-07-24T11:33:01.560Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on July 13, an officer assisted a driver whose vehicle was stuck on a rock, which resulted in the driver being arrested for an O-W-I.",
+    "mainText": "Looking at the weekly report, on July 13, a driver was arrested for an O-W-I after their vehicle became stuck on a rock while others attempted to help dislodge it.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-24",
-    "updateDate": "2026-07-24T10:40:23.063Z",
+    "updateDate": "2026-07-24T11:33:01.560Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the fan-favorite Chocolate Volcano. The store is currently closed, but you can head over when they open at 10 AM to grab a treat, or wait for tomorrow when the flavor of the day switches to Caramel Fudge Cookie Dough.",
+    "mainText": "Today's flavor is the delicious Chocolate Volcano. Culver's is currently closed but will open its doors at 10 AM, and you can look forward to Caramel Fudge Cookie Dough tomorrow.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
