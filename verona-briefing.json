@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-25",
-    "updateDate": "2026-07-25T00:28:10.261Z",
+    "updateDate": "2026-07-25T01:33:17.088Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 76 degrees and clear near Badger Ridge Middle School. The air quality index is 59, so please take note. We have a beautiful waxing gibbous moon, and the space station will be visible at 10:25 PM, rising in the west over Mount Horeb and moving toward the south over Belleville. The overnight low will be 63 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have clear skies near Badger Ridge Middle School with a temperature of 72 degrees, though the air quality index is at a moderate 59. The moon is in a Waxing Gibbous phase, and keep your eyes on the sky around 10:25 PM for the ISS as it travels from the west over Mount Horeb toward the south near Belleville, remaining low on the horizon. The temperature will drop to a low of 62 degrees overnight, and there is no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-25",
-    "updateDate": "2026-07-25T00:28:10.261Z",
+    "updateDate": "2026-07-25T01:33:17.088Z",
     "titleText": "Verona City News",
-    "mainText": "Verona students have finished submitting designs for the I Voted sticker contest, which aims to engage the community in the election process. The public will vote on the top designs from July 28 through August 7, and the winners will see their artwork on stickers handed out at the November election.",
+    "mainText": "The City of Verona is inviting students in grades K-12 to design the new I Voted sticker for the November election. The contest is open to all students within the school district, and designs must be original and include the phrase I Voted. Submissions are due by July 22, and the community will vote on the top designs from July 28 through August 7.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-25",
-    "updateDate": "2026-07-25T00:28:10.261Z",
+    "updateDate": "2026-07-25T01:33:17.088Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona! We have live music today at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, check out the Dane County Farmers Market at the Capitol or live music at Paddy Mac's.",
+    "mainText": "There is plenty to do in town. We have live music at Bailey's Run Vineyard and Wisconsin Brewing Company happening today. Looking ahead to tomorrow, you can head to the Dane County Farmer's Market at the Capitol Square or enjoy the music series at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-25",
-    "updateDate": "2026-07-25T00:28:10.261Z",
+    "updateDate": "2026-07-25T01:33:17.088Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on July 13, officers responded to a situation where a 36-year-old Madison man was arrested for his first O-W-I offense after his vehicle became stuck on a rock.",
+    "mainText": "Looking at the weekly report from the Verona Police Department, on July 13, officers responded to a situation where a 36-year-old Madison man was arrested for his first O-W-I offense after his vehicle was found stuck on a large rock.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-25",
-    "updateDate": "2026-07-25T00:28:10.261Z",
+    "updateDate": "2026-07-25T01:33:17.088Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the Chocolate Volcano. The store is open until 10:30 PM, so there is still plenty of time to head over and enjoy a scoop.",
+    "mainText": "Don't forget to stop by Culver's for the Chocolate Volcano flavor of the day. They are open until 10:30 PM, so there is plenty of time to head over and grab a treat before they close for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
