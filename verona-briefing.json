@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-25",
-    "updateDate": "2026-07-25T13:30:21.809Z",
+    "updateDate": "2026-07-25T14:31:21.403Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish. We have overcast skies near the Verona Public Library with temperatures at 67 degrees and an air quality index of 52.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we are seeing overcast skies near Harriet Park with a temperature of 67 degrees and an air quality index of 52, which is in the moderate range.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-25",
-    "updateDate": "2026-07-25T13:30:21.809Z",
+    "updateDate": "2026-07-25T14:31:21.403Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is hosting an I Voted sticker contest for K-12 students. Designs must be original, exclude partisan themes, and include the phrase I Voted. Submissions are open until July 22 with public voting running from July 28 through August 7.",
+    "mainText": "The city is currently hosting an I Voted sticker contest for local students in grades K through 12. Designs must be original and submitted by July 22, with community voting scheduled to open on July 28.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-25",
-    "updateDate": "2026-07-25T13:30:21.809Z",
+    "updateDate": "2026-07-25T14:31:21.403Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend! Today you can visit the Dane County Farmers Market at the Capitol, or enjoy live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company. Looking ahead, you can enjoy yoga at Insight Wellness on July 27 or test your knowledge at trivia nights starting July 28.",
+    "mainText": "Today, you can visit the Dane County Farmers Market or catch live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company. Looking ahead, you can enjoy yoga at Insight Wellness on July 27 or test your knowledge at Hop Haus trivia on July 28.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-25",
-    "updateDate": "2026-07-25T13:30:21.809Z",
+    "updateDate": "2026-07-25T14:31:21.403Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly report, officers handled a variety of calls. Notably, on July 13, a 36-year-old Madison man was arrested for an O-W-I after officers found his vehicle stuck on a large rock.",
+    "mainText": "In a report from the police department, on July 13, officers responded to a call where a driver had become stuck on a rock. The individual was subsequently arrested for an O-W-I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-25",
-    "updateDate": "2026-07-25T13:30:21.809Z",
+    "updateDate": "2026-07-25T14:31:21.403Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You are going to love today's flavor, Mint Cookie! Culvers is currently closed but will open its doors at 10 AM today. If you cannot make it, tomorrow's flavor is Caramel Pecan.",
+    "mainText": "Treat yourself to the Caramel Fudge Cookie Dough flavor today. The store is currently closed but will be ready to serve you when they open at 10 AM tomorrow.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
