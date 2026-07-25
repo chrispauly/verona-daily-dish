@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-25",
-    "updateDate": "2026-07-25T03:01:36.942Z",
+    "updateDate": "2026-07-25T05:02:28.215Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: it is 68 degrees at Reddan Soccer Park with clear skies, though we have a moderate air quality index of 58. We are seeing a Waxing Gibbous moon, and the ISS will be visible at 10:25 PM, passing from Mount Horeb in the west toward Belleville in the south, staying low on the horizon. Expect an overnight low of 62 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we have clear skies at Verona City Hall with a temperature of 63 degrees. Please be aware of a moderate air quality alert with an index of 57. The moon is currently a waxing gibbous, and there are no visible ISS sightings in our sky tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-25",
-    "updateDate": "2026-07-25T03:01:36.942Z",
+    "updateDate": "2026-07-25T05:02:28.215Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is holding an I Voted sticker contest for students in grades K through 12. Designs must be original and submitted by July 22, with community voting scheduled from July 28 through August 7. Winners will have their artwork featured on stickers for the November election. Additionally, residents are reminded to check their mailboxes before winter, as the city has a specific policy for damage caused by snow plows.",
+    "mainText": "The City Clerk's office is hosting an I Voted sticker contest for students in grades K through 12. Designs must be original, include the text I Voted, and be submitted by 4 PM on July 22. Four winners will be selected from different age categories to be featured on stickers for the November election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-25",
-    "updateDate": "2026-07-25T03:01:36.942Z",
+    "updateDate": "2026-07-25T05:02:28.215Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Today, catch live music at both Bailey's Run Vineyard and the Wisconsin Brewing Company. Tomorrow, check out the Dane County Farmers Market at the Capitol or live music at Paddy Mac's. Looking ahead, Verona also hosts trivia nights at Hop Haus and Lake Louie on July 28.",
+    "mainText": "We have plenty of fun happening today, including the Dane County Farmers Market and live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company. Looking ahead, you can enjoy yoga at Insight Wellness on July 27 or test your knowledge at trivia nights starting July 28.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-25",
-    "updateDate": "2026-07-25T03:01:36.942Z",
+    "updateDate": "2026-07-25T05:02:28.215Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police update, officers reported that on July 13, a 36-year-old Madison man was arrested for an O-W-I after he was found with his vehicle stuck on a large rock.",
+    "mainText": "In our weekly police update, officers reported that on July 13, a 36-year-old Madison man was arrested for his first offense O-W-I after a passerby alerted authorities to a vehicle stuck on a large rock.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-25",
-    "updateDate": "2026-07-25T03:01:36.942Z",
+    "updateDate": "2026-07-25T05:02:28.215Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the fan-favorite Chocolate Volcano. The store is open until 10:30 PM, which means they are closing in less than an hour, so you have just enough time to get there. If you miss it, tomorrow's flavor is Caramel Fudge Cookie Dough, and the store opens early in the morning.",
+    "mainText": "You are going to love today's flavor, Caramel Fudge Cookie Dough. The shop is currently closed but will open its doors at 10 AM, so make sure to stop by then.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
