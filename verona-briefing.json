@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-25",
-    "updateDate": "2026-07-25T05:02:28.215Z",
+    "updateDate": "2026-07-25T06:45:41.340Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we have clear skies at Verona City Hall with a temperature of 63 degrees. Please be aware of a moderate air quality alert with an index of 57. The moon is currently a waxing gibbous, and there are no visible ISS sightings in our sky tonight.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish. It is a cool 62 degrees under clear skies at Verona City Hall. We are currently under a moderate air quality alert with an index of 56, and while the waxing gibbous moon is visible, there are no ISS flyovers for us to track tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-25",
-    "updateDate": "2026-07-25T05:02:28.215Z",
+    "updateDate": "2026-07-25T06:45:41.340Z",
     "titleText": "Verona City News",
-    "mainText": "The City Clerk's office is hosting an I Voted sticker contest for students in grades K through 12. Designs must be original, include the text I Voted, and be submitted by 4 PM on July 22. Four winners will be selected from different age categories to be featured on stickers for the November election.",
+    "mainText": "City Hall has announced that the I Voted sticker contest is officially underway for students in grades K-12. Participants can submit their original, non-AI artwork until July 22, and the community will be invited to cast their votes for the winners between July 28 and August 7.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-25",
-    "updateDate": "2026-07-25T05:02:28.215Z",
+    "updateDate": "2026-07-25T06:45:41.340Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of fun happening today, including the Dane County Farmers Market and live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company. Looking ahead, you can enjoy yoga at Insight Wellness on July 27 or test your knowledge at trivia nights starting July 28.",
+    "mainText": "We have a busy schedule ahead. Today features the Dane County Farmers Market, as well as live music performances at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking further ahead, mark your calendars for yoga at Insight Wellness on July 27 and trivia nights starting July 28.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-25",
-    "updateDate": "2026-07-25T05:02:28.215Z",
+    "updateDate": "2026-07-25T06:45:41.340Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police update, officers reported that on July 13, a 36-year-old Madison man was arrested for his first offense O-W-I after a passerby alerted authorities to a vehicle stuck on a large rock.",
+    "mainText": "In our weekly police update, officers reported a notable incident on July 13, where a 36-year-old man was arrested for an O-W-I after his vehicle became disabled on a rock.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-25",
-    "updateDate": "2026-07-25T05:02:28.215Z",
+    "updateDate": "2026-07-25T06:45:41.340Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You are going to love today's flavor, Caramel Fudge Cookie Dough. The shop is currently closed but will open its doors at 10 AM, so make sure to stop by then.",
+    "mainText": "You are going to love the Caramel Fudge Cookie Dough flavor of the day. Since the shop is currently closed, set your alarms for their 10 AM opening to make sure you get a taste.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
