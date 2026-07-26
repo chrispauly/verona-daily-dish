@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-26",
-    "updateDate": "2026-07-26T08:47:24.052Z",
+    "updateDate": "2026-07-26T09:40:18.349Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish. We have a temperature of 74 degrees, which feels like 82, with overcast skies hanging over the Verona Area High School and a Waxing Gibbous moon overhead.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: it is 75 degrees under overcast skies near Badger Ridge Middle School, with a waxing gibbous moon visible in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-26",
-    "updateDate": "2026-07-26T08:47:24.052Z",
+    "updateDate": "2026-07-26T09:40:18.349Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the student sticker contest is moving to the voting phase starting July 28. Students in grades K through 12 submitted original designs to be featured on our official election stickers. Also, keep in mind the city policy on mailbox maintenance to avoid damage during the upcoming plow season.",
+    "mainText": "The City of Verona is hosting an I Voted sticker contest for students in grades K-12, with submissions open until July 22. Four winners will be selected to have their designs featured on stickers for the November election, with community voting scheduled from July 28 through August 7.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-26",
-    "updateDate": "2026-07-26T08:47:24.052Z",
+    "updateDate": "2026-07-26T09:40:18.349Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Live music is happening today at Bailey's Run Vineyard and the Wisconsin Brewing Company. Tomorrow, you can head over to Insight Wellness for a yoga session.",
+    "mainText": "We have a busy couple of days ahead. Today, enjoy live music at Bailey's Run Vineyard and the Wisconsin Brewing Company. Tomorrow, check out yoga at Insight Wellness. Looking further ahead, join us for trivia on July 28 at Hop Haus and Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-26",
-    "updateDate": "2026-07-26T08:47:24.052Z",
+    "updateDate": "2026-07-26T09:40:18.349Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on July 13, officers responded to a situation where a driver became stuck on a large rock, resulting in an arrest for an O-W-I.",
+    "mainText": "In our weekly police report, on July 13, officers responded to a situation where a vehicle was found stuck on a large rock, resulting in the driver being arrested for an O-W-I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-26",
-    "updateDate": "2026-07-26T08:47:24.052Z",
+    "updateDate": "2026-07-26T09:40:18.349Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is the delicious OREO Cookie Overload. The store is currently closed but will open its doors at 10 AM. If you are looking for tomorrow's treat, it will be Snickers Swirl.",
+    "mainText": "Today's flavor of the day is the delightful OREO Cookie Overload. The store is currently closed but will open its doors at 10:00 AM for you to enjoy your treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
