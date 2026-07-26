@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-26",
-    "updateDate": "2026-07-26T22:19:17.268Z",
+    "updateDate": "2026-07-26T23:19:49.023Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today is balanced dish. It is 94 degrees and partly cloudy near Verona Area High School with an air quality index of 58. We are currently under a Waxing Gibbous moon, though there are no visible ISS passes tonight. Overnight, temperatures will dip to 71 degrees and we are expecting some rain.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: we have clear skies near Badger Ridge Middle School with a temperature of 93 degrees and an elevated air quality index of 58. We are currently under a waxing gibbous moon, and the overnight low will reach 68 degrees with rain expected to move in.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-26",
-    "updateDate": "2026-07-26T22:19:17.268Z",
+    "updateDate": "2026-07-26T23:19:49.023Z",
     "titleText": "Verona City News",
-    "mainText": "The City has officially closed submissions for the I Voted sticker contest, where students from grades K through 12 submitted designs for the November election. Residents can participate by voting on the top designs from July 28 through August 7. Also, the Public Works department reminds residents to inspect their mailboxes before winter, as the City has a specific policy for damage caused by snow plows.",
+    "mainText": "The City Clerk's office is excited to announce that entries for the I Voted sticker contest are closed, and the community can view and vote on designs from K-12 students between July 28 and August 7. Also, residents are reminded to check their mailboxes before the winter season to ensure they meet USPS specifications to avoid damage during plow operations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-26",
-    "updateDate": "2026-07-26T22:19:17.268Z",
+    "updateDate": "2026-07-26T23:19:49.023Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona! Today, you can catch live music at Bailey is Run Vineyard or Wisconsin Brewing Company. Tomorrow, join a yoga session at Insight Wellness, and early next week brings trivia nights at Hop Haus Brewing, Wisconsin Brewing Company, Paddy Mac is, and The Bogey Factory, plus the downtown Farmers Market on Tuesday.",
+    "mainText": "We have a busy couple of days ahead. Today, enjoy live music at both Bailey's Run Vineyard and the Wisconsin Brewing Company. Tomorrow, check out yoga at Insight Wellness, and then on July 28, head over to Hop Haus or Lake Louie for trivia night.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-26",
-    "updateDate": "2026-07-26T22:19:17.268Z",
+    "updateDate": "2026-07-26T23:19:49.023Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the police report from July 13, officers responded to a situation where a 36-year-old driver was arrested for an O-W-I after getting his vehicle stranded on a large rock.",
+    "mainText": "Regarding local safety, a noteworthy incident occurred on July 13 when officers responded to a report of a vehicle stuck on a rock, resulting in the driver being arrested for an O-W-I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-26",
-    "updateDate": "2026-07-26T22:19:17.268Z",
+    "updateDate": "2026-07-26T23:19:49.023Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day for a scoop of OREO Cookie Overload. The shop is open until 10 PM, so there is still plenty of time to stop by for a treat.",
+    "mainText": "For dessert tonight, Culver's is serving up OREO Cookie Overload. They are open until 10 PM, which is four hours from now, so there is plenty of time to stop by for a treat before they close for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
