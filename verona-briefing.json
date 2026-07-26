@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-26",
-    "updateDate": "2026-07-26T01:33:25.634Z",
+    "updateDate": "2026-07-26T03:02:16.372Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: we have clear skies at Fireman's Park with a current temperature of 78 degrees. Tonight, the low will drop to 71 with no rain in the forecast. If you are looking to the stars, the International Space Station will be visible tonight at 9:37 PM, traveling from over Cross Plains toward Oregon and reaching about halfway up the sky.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: current temperatures are 76 degrees with overcast skies near Badger Ridge Middle School. We are currently under a Waxing Gibbous moon. Looking ahead to the overnight hours, we expect a low of 70 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-26",
-    "updateDate": "2026-07-26T01:33:25.634Z",
+    "updateDate": "2026-07-26T03:02:16.372Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the sticker design contest for our November election is now moving to the next phase. While entries are closed, the community will be able to vote for the best K-12 designs between July 28 and August 7. Also, please remember to check your mailboxes and ensure they are compliant with city standards to avoid damage during the upcoming plow season.",
+    "mainText": "In city news, the I Voted sticker contest is underway for Verona students in grades K-12. Designs must be original, and the deadline to submit your artwork to the City Clerk's office is July 22 at 4 PM. Once submissions close, the community will vote on the top designs from July 28 through August 7 to decide which stickers voters will receive in November.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-26",
-    "updateDate": "2026-07-26T01:33:25.634Z",
+    "updateDate": "2026-07-26T03:02:16.372Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town. Today, you can visit the Dane County Farmer's Market or enjoy live music at Bailey's Run, Paddy Mac's, or the Wisconsin Brewing Company. Looking ahead, we have yoga at Insight Wellness on July 27, and don't miss trivia and the Verona Downtown Farmer's Market on July 29.",
+    "mainText": "There is plenty to do around town! Today you can visit the Dane County Farmer's Market or catch live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking further ahead, yoga is available at Insight Wellness on July 27, followed by trivia nights on July 28 and 29.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-26",
-    "updateDate": "2026-07-26T01:33:25.634Z",
+    "updateDate": "2026-07-26T03:02:16.372Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a look at our weekly police report, officers responded to a call on July 13 regarding a vehicle stuck on a large rock, resulting in an arrest for an O-W-I.",
+    "mainText": "In our weekly police report, on July 13, officers responded to a situation where a vehicle was stuck on a large rock. The investigation concluded with the driver, a 36-year-old Madison man, being arrested for an O-W-I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-26",
-    "updateDate": "2026-07-26T01:33:25.634Z",
+    "updateDate": "2026-07-26T03:02:16.372Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "For dessert tonight, the Culver's flavor of the day is Caramel Fudge Cookie Dough. They are currently open and will be serving until 10:30 PM, so there is still plenty of time to grab a scoop.",
+    "mainText": "You have just enough time to satisfy your sweet tooth! Today's flavor is Caramel Fudge Cookie Dough, and the store is open until 10:30 PM tonight, which is in about 30 minutes.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
