@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-27",
-    "updateDate": "2026-07-27T20:30:16.869Z",
+    "updateDate": "2026-07-27T21:24:35.421Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. We have clear skies at Verona Community Park with a temperature of 99 degrees and a moderate air quality index of 51.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. It is a clear and hot 100 degrees outside the Verona Public Library, and we are currently under a beautiful full moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-27",
-    "updateDate": "2026-07-27T20:30:16.869Z",
+    "updateDate": "2026-07-27T21:24:35.421Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Senior Center is updating their trishaw program, requiring a signed waiver for all participants to ensure safety and clear legal boundaries. Also, the City Clerk is seeking student artists for an I Voted sticker contest, with submissions open until August 7 for the November election.",
+    "mainText": "The city is seeking student artists to design new I Voted stickers for the November election with the contest deadline approaching. Additionally, seniors are encouraged to review the updated waiver and release forms for the popular Trishaw bike program offered through the Senior Center.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-27",
-    "updateDate": "2026-07-27T20:30:16.869Z",
+    "updateDate": "2026-07-27T21:24:35.421Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona. Yoga at Insight Wellness is happening today. Tomorrow, you can test your knowledge at Hop Haus Trivia or Quizmasters Trivia at Lake Louie. Looking ahead, don't miss the downtown farmer's market or live music at Paddy Mac's on Wednesday.",
+    "mainText": "We have plenty happening locally, starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia nights at Hop Haus Brewing, Wisconsin Brewing Company, and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-27",
-    "updateDate": "2026-07-27T20:30:16.869Z",
+    "updateDate": "2026-07-27T21:24:35.421Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police update, officers reported a hit-and-run incident that occurred on July 26 near West Verona Avenue and Epic Lane involving an 83-year-old driver.",
+    "mainText": "On July 26, an 83-year-old woman was cited for a hit-and-run crash that occurred near West Verona Avenue and Epic Lane.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-27",
-    "updateDate": "2026-07-27T20:30:16.869Z",
+    "updateDate": "2026-07-27T21:24:35.421Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Don't miss out on today's flavor of the day, Snickers Swirl. Culver's is open until 10 PM tonight, so there is plenty of time to stop by for a treat.",
+    "mainText": "Stop by Culvers today to enjoy their flavor of the day, Snickers Swirl. They remain open until 10 PM tonight, giving you plenty of time to get your fix.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
