@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-27",
-    "updateDate": "2026-07-27T14:59:42.992Z",
+    "updateDate": "2026-07-27T15:56:34.432Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: skies are clear over Verona Community Park with an actual temperature of 85 degrees, though it feels like 94. Please note the air quality is moderate at 55 and the moon is currently in a waxing gibbous phase.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have overcast skies and a temperature of 91 degrees near the Verona Public Library, along with a moderate air quality index of 55.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-27",
-    "updateDate": "2026-07-27T14:59:42.992Z",
+    "updateDate": "2026-07-27T15:56:34.432Z",
     "titleText": "Verona City News",
-    "mainText": "The city is highlighting the new trishaw bike program at the Senior Center where you can sign up for free rides on the Military Ridge State Trail, and residents are reminded that the Plan Commission will review several development proposals including a new pickleball court location on August 3.",
+    "mainText": "The City of Verona is launching a trishaw bike program where volunteers pilot a three-wheeled electric-assist bike for residents along the Military Ridge State Trail. Additionally, the Plan Commission will review several developments on August 3, including a proposed pickleball court addition at 1162 Laser Street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-27",
-    "updateDate": "2026-07-27T14:59:42.992Z",
+    "updateDate": "2026-07-27T15:56:34.432Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Enjoy Yoga at Insight Wellness today, or join the community for trivia tomorrow at either Hop Haus or Lake Louie, followed by more trivia and live music options throughout the week.",
+    "mainText": "Today you can enjoy Yoga at Insight Wellness. Tomorrow, local hotspots are busy with Hop Haus trivia, Quizmasters trivia at Lake Louie, and more throughout the week including concerts in the park and live music at Bailey's Run.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-27",
-    "updateDate": "2026-07-27T14:59:42.992Z",
+    "updateDate": "2026-07-27T15:56:34.432Z",
     "titleText": "Verona Police Report",
-    "mainText": "On July 13, Verona police encountered a driver who was arrested for an O-W-I after their vehicle became trapped on a large rock.",
+    "mainText": "In our weekly look at police activity, we noted an incident from July 13 where a 36-year-old Madison man was arrested for O-W-I after his vehicle became stuck on a rock.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-27",
-    "updateDate": "2026-07-27T14:59:42.992Z",
+    "updateDate": "2026-07-27T15:56:34.432Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Snickers Swirl, a delicious choice to satisfy your sweet tooth. Since the restaurant is currently closed, please note they will open their doors at 10 AM, and tomorrow you can look forward to the Georgia Peach flavor.",
+    "mainText": "Today is the perfect day for a scoop of Snickers Swirl. Culver's is open until 10:00 PM tonight, so there is plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
