@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-27",
-    "updateDate": "2026-07-27T05:16:08.669Z",
+    "updateDate": "2026-07-27T07:06:17.243Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. We are seeing clear skies over Harriet Park with a waxing gibbous moon, though we do have a moderate air quality alert with an index of 53. There are no visible ISS passes scheduled for our area tonight.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish on the weather. It is 76 degrees at Badger Prairie County Park under clear skies, though with an air quality index of 52, you may notice it feels a bit hazy. We are under a Waxing Gibbous moon, though there are no space station sightings to report tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-27",
-    "updateDate": "2026-07-27T05:16:08.669Z",
+    "updateDate": "2026-07-27T07:06:17.243Z",
     "titleText": "Verona City News",
-    "mainText": "The City Clerk is looking for student artists to design the new I Voted stickers for the November election. Students in grades K through 12 can submit their original, non-AI designs by July 22. Winners will be chosen by community vote between July 28 and August 7.",
+    "mainText": "The City Clerk is hosting an I Voted sticker contest for K-12 students in the Verona Area School District. Students have until July 22 to submit their original artwork, with the community voting on the winners from July 28 through August 7 to decide what design will be featured on stickers in November.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-27",
-    "updateDate": "2026-07-27T05:16:08.669Z",
+    "updateDate": "2026-07-27T07:06:17.243Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "For those looking to get out, Yoga at Insight Wellness is happening today. Looking ahead to tomorrow, you can join Hop Haus for trivia or head to the Wisconsin Brewing Company for Quizmasters Trivia.",
+    "mainText": "We have plenty of fun ahead, starting with Yoga at Insight Wellness happening today. Tomorrow, you can test your knowledge at Hop Haus trivia or join the Quizmasters at Lake Louie, and the downtown farmer's market returns this Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-27",
-    "updateDate": "2026-07-27T05:16:08.669Z",
+    "updateDate": "2026-07-27T07:06:17.243Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported that on July 13, a passerby noticed a vehicle stuck on a large rock. The responding officer discovered the driver was operating the vehicle while intoxicated, resulting in an O-W-I arrest.",
+    "mainText": "In our weekly police report, we look back to July 13, when officers responded to a call regarding a driver who was arrested for O-W-I after their vehicle became trapped on a large rock.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-27",
-    "updateDate": "2026-07-27T05:16:08.669Z",
+    "updateDate": "2026-07-27T07:06:17.243Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Snickers Swirl, which sounds like a fantastic treat. The restaurant is currently closed, but they will be open and ready to serve you starting at 10 AM.",
+    "mainText": "Your craving for the flavor of the day, Snickers Swirl, can be satisfied starting when Culver's opens at 10 AM. It is a fantastic choice, so make sure to stop by today.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
