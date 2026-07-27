@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-27",
-    "updateDate": "2026-07-27T16:43:45.710Z",
+    "updateDate": "2026-07-27T17:33:00.954Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: expect partly cloudy skies and a warm 91 degrees near Harriet Park, though please note the moderate air quality index of 54 today.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: it is 95 degrees with clear skies at Badger Prairie County Park, though please note an elevated air quality index of 54.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-27",
-    "updateDate": "2026-07-27T16:43:45.710Z",
+    "updateDate": "2026-07-27T17:33:00.954Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that the Plan Commission will meet August 3rd at 6:30 p.m. to review several projects, including a 4,700 square foot addition at 201 South Main Street and a new pickleball court facility.",
+    "mainText": "The city is planning for growth with the Plan Commission scheduled to review development projects on August 3rd, including a new subdivision addition and pickleball courts.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-27",
-    "updateDate": "2026-07-27T16:43:45.710Z",
+    "updateDate": "2026-07-27T17:33:00.954Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can head over to Insight Wellness for yoga, and keep an eye out for tomorrow, which is packed with trivia at both Hop Haus and Lake Louie.",
+    "mainText": "Today you can enjoy Yoga at Insight Wellness, while tomorrow is packed with events including trivia at Hop Haus, Lake Louie, and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-27",
-    "updateDate": "2026-07-27T16:43:45.710Z",
+    "updateDate": "2026-07-27T17:33:00.954Z",
     "titleText": "Verona Police Report",
-    "mainText": "A noteworthy call occurred on Sunday, July 26th, when an officer stopped a vehicle traveling 97 miles per hour on the highway and subsequently arrested the driver for an O-W-I.",
+    "mainText": "In a noteworthy call from this past Sunday, July 26th, an officer arrested a driver for an O-W-I after catching them traveling 97 miles per hour on US Highways 18 and 151.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-27",
-    "updateDate": "2026-07-27T16:43:45.710Z",
+    "updateDate": "2026-07-27T17:33:00.954Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day for our flavor of the day, Snickers Swirl, so head on over to Culver's of Verona before they close their doors at 10:00 PM tonight.",
+    "mainText": "Cool off with our flavor of the day, Snickers Swirl, available at Culver's until they close at 10:00 p.m. tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
