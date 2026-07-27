@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-27",
-    "updateDate": "2026-07-27T03:03:28.433Z",
+    "updateDate": "2026-07-27T05:16:08.669Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: we are looking at 81 degrees under clear skies by City Hall, with an air quality index of 55. Tonight, the moon is in a waxing gibbous phase, and while there is no ISS flyover visible, we can expect the temperature to dip to an overnight low of 72 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. We are seeing clear skies over Harriet Park with a waxing gibbous moon, though we do have a moderate air quality alert with an index of 53. There are no visible ISS passes scheduled for our area tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-27",
-    "updateDate": "2026-07-27T03:03:28.433Z",
+    "updateDate": "2026-07-27T05:16:08.669Z",
     "titleText": "Verona City News",
-    "mainText": "The City Clerk's Office is running an I Voted sticker contest for Verona students in grades K through 12. Designs must be submitted by July 22, and the community will vote on the top entries from July 28 through August 7 to determine the stickers used in the November election.",
+    "mainText": "The City Clerk is looking for student artists to design the new I Voted stickers for the November election. Students in grades K through 12 can submit their original, non-AI designs by July 22. Winners will be chosen by community vote between July 28 and August 7.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-27",
-    "updateDate": "2026-07-27T03:03:28.433Z",
+    "updateDate": "2026-07-27T05:16:08.669Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona, with live music today at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, you can enjoy yoga at Insight Wellness, and starting Monday, July 28, look forward to trivia nights at Hop Haus and Wisconsin Brewing Company.",
+    "mainText": "For those looking to get out, Yoga at Insight Wellness is happening today. Looking ahead to tomorrow, you can join Hop Haus for trivia or head to the Wisconsin Brewing Company for Quizmasters Trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-27",
-    "updateDate": "2026-07-27T03:03:28.433Z",
+    "updateDate": "2026-07-27T05:16:08.669Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering July 13 through July 20, officers noted that on July 13, a driver was arrested for an O-W-I after a vehicle was discovered stuck on a large rock in the roadway.",
+    "mainText": "The Verona Police Department reported that on July 13, a passerby noticed a vehicle stuck on a large rock. The responding officer discovered the driver was operating the vehicle while intoxicated, resulting in an O-W-I arrest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-27",
-    "updateDate": "2026-07-27T03:03:28.433Z",
+    "updateDate": "2026-07-27T05:16:08.669Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Oreo Cookie Overload. Please note that Culver's is currently closed for the night, but they will open tomorrow at 10 AM, when the flavor of the day will be Snickers Swirl.",
+    "mainText": "Today's flavor of the day is Snickers Swirl, which sounds like a fantastic treat. The restaurant is currently closed, but they will be open and ready to serve you starting at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
