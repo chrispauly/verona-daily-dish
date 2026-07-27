@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-27",
-    "updateDate": "2026-07-27T09:05:40.563Z",
+    "updateDate": "2026-07-27T11:03:16.997Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, we are looking at 78 degrees with foggy conditions out by Badger Prairie County Park. The air quality index is currently at 51, and we have a waxing gibbous moon lighting up the sky, though there are no visible space station passes tonight.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish. Expect partly cloudy skies and 79 degrees near Badger Prairie County Park, though keep in mind the air quality index is currently at a moderate 55.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-27",
-    "updateDate": "2026-07-27T09:05:40.563Z",
+    "updateDate": "2026-07-27T11:03:16.997Z",
     "titleText": "Verona City News",
-    "mainText": "The City Clerk's Office is hosting an I Voted sticker design contest for students grades K through 12. Designs must be original and include the phrase I Voted, with submissions due by July 22. Also, residents are reminded to inspect their mailboxes for winter durability and follow guidelines to avoid damage during plowing season.",
+    "mainText": "The City of Verona is hosting an I Voted sticker design contest for students grades K through 12, with designs due by July 22 and public voting beginning July 28. Also, remember to check your mailboxes and keep the area around them clear to prevent damage from winter plowing.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-27",
-    "updateDate": "2026-07-27T09:05:40.563Z",
+    "updateDate": "2026-07-27T11:03:16.997Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can join a yoga session at Insight Wellness. Tomorrow, the fun continues with trivia at Hop Haus and Lake Louie. Later this week, look forward to the farmer's market at Hometown Junction Park on Wednesday and live music at Bailey's Run Vineyard on Thursday.",
+    "mainText": "There is plenty to do in Verona starting today with Yoga at Insight Wellness, followed by trivia tomorrow at Hop Haus and Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-27",
-    "updateDate": "2026-07-27T09:05:40.563Z",
+    "updateDate": "2026-07-27T11:03:16.997Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on July 13, officers responded to a call where a driver had become stuck on a large rock. The 36-year-old driver was subsequently arrested for a first offense O-W-I.",
+    "mainText": "In our weekly look at local law enforcement, on July 13, officers arrested a driver for an O-W-I after they were found trying to dislodge a vehicle from a large rock.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-27",
-    "updateDate": "2026-07-27T09:05:40.563Z",
+    "updateDate": "2026-07-27T11:03:16.997Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor is the Snickers Swirl. The shop is currently closed but will open its doors at 10 AM. If you miss out today, tomorrow's flavor will be Georgia Peach.",
+    "mainText": "You can cool down with today's flavor of the day, Snickers Swirl. Culver's is currently closed, but they open at 10:00 AM if you want to stop by.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
