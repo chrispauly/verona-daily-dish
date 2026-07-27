@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-27",
-    "updateDate": "2026-07-27T17:33:00.954Z",
+    "updateDate": "2026-07-27T18:31:33.108Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: it is 95 degrees with clear skies at Badger Prairie County Park, though please note an elevated air quality index of 54.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. We are seeing clear skies and a high of 96 degrees near Reddan Soccer Park. Please be aware that the air quality is currently at a moderate level of 53.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-27",
-    "updateDate": "2026-07-27T17:33:00.954Z",
+    "updateDate": "2026-07-27T18:31:33.108Z",
     "titleText": "Verona City News",
-    "mainText": "The city is planning for growth with the Plan Commission scheduled to review development projects on August 3rd, including a new subdivision addition and pickleball courts.",
+    "mainText": "The city is busy with several updates. You can sign up for the free trishaw bike program to enjoy the Military Ridge State Trail, or join the development discussion at the August 3rd Plan Commission meeting regarding local projects like the Ardent Glen subdivision.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-27",
-    "updateDate": "2026-07-27T17:33:00.954Z",
+    "updateDate": "2026-07-27T18:31:33.108Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can enjoy Yoga at Insight Wellness, while tomorrow is packed with events including trivia at Hop Haus, Lake Louie, and Paddy Mac's.",
+    "mainText": "There is plenty to do in town. We have yoga today at Insight Wellness. Looking toward tomorrow, you can catch trivia at Hop Haus or Lake Louie, followed by the Downtown Farmer's Market and more trivia at Paddy Mac's on Wednesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-27",
-    "updateDate": "2026-07-27T17:33:00.954Z",
+    "updateDate": "2026-07-27T18:31:33.108Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from this past Sunday, July 26th, an officer arrested a driver for an O-W-I after catching them traveling 97 miles per hour on US Highways 18 and 151.",
+    "mainText": "In our weekly police update, an officer conducted a traffic stop on July 26 for a vehicle traveling 97 miles per hour. The driver was found to be impaired and was arrested for an O-W-I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-27",
-    "updateDate": "2026-07-27T17:33:00.954Z",
+    "updateDate": "2026-07-27T18:31:33.108Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Cool off with our flavor of the day, Snickers Swirl, available at Culver's until they close at 10:00 p.m. tonight.",
+    "mainText": "Cap off your day with the Culver's flavor of the day, OREO Cookie Overload. They are open until 10 PM tonight, giving you plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
