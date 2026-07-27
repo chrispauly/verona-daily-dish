@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-27",
-    "updateDate": "2026-07-27T01:34:13.362Z",
+    "updateDate": "2026-07-27T03:03:28.433Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. It is 86 degrees under clear skies near Badger Ridge Middle School, with a moderate air quality index of 57. We are currently under a Waxing Gibbous moon, but unfortunately, there are no visible ISS passes tonight. Looking ahead, our overnight low will drop to 72 degrees, and please prepare for rain predicted throughout the night.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: we are looking at 81 degrees under clear skies by City Hall, with an air quality index of 55. Tonight, the moon is in a waxing gibbous phase, and while there is no ISS flyover visible, we can expect the temperature to dip to an overnight low of 72 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-27",
-    "updateDate": "2026-07-27T01:34:13.362Z",
+    "updateDate": "2026-07-27T03:03:28.433Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the I Voted sticker contest for K-12 students has officially closed for submissions. The City Clerk's office is shifting gears to the voting phase, which runs from July 28 through August 7, allowing the community to select designs that will appear on official stickers for the November election.",
+    "mainText": "The City Clerk's Office is running an I Voted sticker contest for Verona students in grades K through 12. Designs must be submitted by July 22, and the community will vote on the top entries from July 28 through August 7 to determine the stickers used in the November election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-27",
-    "updateDate": "2026-07-27T01:34:13.362Z",
+    "updateDate": "2026-07-27T03:03:28.433Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town, starting with live music today at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, you can head over to Insight Wellness for yoga, and keep your calendars clear for trivia nights starting Monday at Hop Haus and Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do in Verona, with live music today at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, you can enjoy yoga at Insight Wellness, and starting Monday, July 28, look forward to trivia nights at Hop Haus and Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-27",
-    "updateDate": "2026-07-27T01:34:13.362Z",
+    "updateDate": "2026-07-27T03:03:28.433Z",
     "titleText": "Verona Police Report",
-    "mainText": "For our weekly report, we look back to July 13 when officers responded to a passerby report regarding a vehicle stuck on a large rock. The incident resulted in the driver, a 36-year-old Madison man, being arrested for an O-W-I.",
+    "mainText": "In a report covering July 13 through July 20, officers noted that on July 13, a driver was arrested for an O-W-I after a vehicle was discovered stuck on a large rock in the roadway.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-27",
-    "updateDate": "2026-07-27T01:34:13.362Z",
+    "updateDate": "2026-07-27T03:03:28.433Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is serving up their tasty Oreo Cookie Overload flavor today. They are open until 10 PM, so you still have plenty of time to stop by for a scoop before they close for the evening.",
+    "mainText": "Today's delicious flavor of the day is Oreo Cookie Overload. Please note that Culver's is currently closed for the night, but they will open tomorrow at 10 AM, when the flavor of the day will be Snickers Swirl.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
