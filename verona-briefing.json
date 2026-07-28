@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-28",
-    "updateDate": "2026-07-28T18:28:42.625Z",
+    "updateDate": "2026-07-28T19:30:37.500Z",
     "titleText": "Verona Weather",
-    "mainText": "<speak><voice name=\"Salli\">Hello, Verona! At 1 PM, here is today&apos;s balanced dish: we have clear skies with a temperature of 84 degrees, feeling like 86, near the Verona Public Library. Under today&apos;s full moon, we unfortunately have no visible space station passes to report.</voice></speak>",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: expect clear skies with a comfortable 84 degrees near Badger Ridge Middle School under a bright full moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-28",
-    "updateDate": "2026-07-28T18:28:42.625Z",
+    "updateDate": "2026-07-28T19:30:37.500Z",
     "titleText": "Verona City News",
-    "mainText": "<speak><voice name=\"Ivy\">The City of Verona is currently running an I Voted sticker design contest featuring student artwork. Residents are encouraged to vote online or at City Hall for their favorite designs through August 7, with the winning selections appearing on stickers for the November election.</voice></speak>",
+    "mainText": "The City Clerk's office is currently hosting an I Voted sticker design contest for local students in grades K through 12. Voting is officially open online through August 7, and the winning designs will be featured on stickers used during the November 2026 election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-28",
-    "updateDate": "2026-07-28T18:28:42.625Z",
+    "updateDate": "2026-07-28T19:30:37.500Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "<speak><voice name=\"Joanna\">We have a busy couple of days ahead. Today, you can catch trivia at Hop Haus or Wisconsin Brewing Company. Tomorrow, check out the downtown farmer&apos;s market at Hometown Junction Park, yoga at Insight Wellness, pizza at Lake Lou-ee, or trivia at The Bogey Factory.</voice></speak>",
+    "mainText": "There is plenty to do around town, starting with trivia games at Hop Haus and Wisconsin Brewing Company happening today. Tomorrow, you can look forward to the farmer's market, live music, and even more trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-28",
-    "updateDate": "2026-07-28T18:28:42.625Z",
+    "updateDate": "2026-07-28T19:30:37.500Z",
     "titleText": "Verona Police Report",
-    "mainText": "<speak><voice name=\"Kimberly\">Looking at the weekly police report, on July 26, an officer conducted a traffic stop for a vehicle traveling 97 miles per hour, resulting in the driver being arrested for an O W I.</voice></speak>",
+    "mainText": "In the weekly police report, officers responded to a domestic disturbance on July 23 in the 400 block of Lucerne Drive, resulting in an arrest for disorderly conduct and intimidation of a victim.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-28",
-    "updateDate": "2026-07-28T18:28:42.625Z",
+    "updateDate": "2026-07-28T19:30:37.500Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "<speak><voice name=\"Joey\">Today is the perfect day to enjoy the Georgia Peach flavor of the day at Culver&apos;s. They are open until 10 PM, so you have plenty of time to stop by for a treat.</voice></speak>",
+    "mainText": "You can enjoy the Georgia Peach flavor of the day at Culver's, which remains open until 10 PM. While you are out, Kona Ice will also be at Fireman's Park today from 1:30 PM to 4:15 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
