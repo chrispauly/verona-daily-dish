@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-28",
-    "updateDate": "2026-07-28T16:32:33.990Z",
+    "updateDate": "2026-07-28T17:31:26.481Z",
     "titleText": "Verona Weather",
-    "mainText": "<speak><voice name=\"Justin\">Hello, Verona! At 11 AM, here is today&apos;s balanced dish: it is 79 degrees under clear skies at the Verona Public Library. We are also under a full moon tonight.</voice></speak>",
+    "mainText": "<speak><voice name=\"Ivy\">Hello, Verona! At 12 PM, here is today&apos;s balanced dish: we are looking at a clear and pleasant day with the temperature at 82 degrees near the Verona Public Library, while the full moon continues to light up our skies.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-28",
-    "updateDate": "2026-07-28T16:32:33.990Z",
+    "updateDate": "2026-07-28T17:31:26.481Z",
     "titleText": "Verona City News",
-    "mainText": "<speak><voice name=\"Joanna\">The City of Verona is looking for your help with the I Voted sticker contest. Verona students submitted 53 designs, and now community members can vote for their favorites in four grade-level categories through August 7. You can cast your vote online or in person at City Hall during absentee voting hours.</voice></speak>",
+    "mainText": "<speak><voice name=\"Joanna\">The City Clerk&apos;s office has launched a contest for students to design new I Voted stickers for our elections. There are four categories ranging from kindergarten to high school, and community voting is now officially open online through August 7 to help decide which designs will be used this November.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-28",
-    "updateDate": "2026-07-28T16:32:33.990Z",
+    "updateDate": "2026-07-28T17:31:26.481Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "<speak><voice name=\"Kendra\">We have a busy couple of days ahead. Today, you can catch trivia at Hop Haus or Wisconsin Brewing Company. Tomorrow, the lineup includes the Verona Downtown Farmer&apos;s Market, Yoga at Insight Wellness, Wednesday Pizza and a Pitcher at Wisconsin Brewing Company, and trivia at The Bogey Factory.</voice></speak>",
+    "mainText": "<speak><voice name=\"Salli\">We have plenty of fun ahead. Today you can enjoy trivia at Hop Haus or Wisconsin Brewing Company. Tomorrow, the downtown Farmers Market returns to Hometown Junction Park, alongside Wednesday trivia at The Bogey Factory and more music at Paddy Mac&apos;s.</voice></speak>",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-28",
-    "updateDate": "2026-07-28T16:32:33.990Z",
+    "updateDate": "2026-07-28T17:31:26.481Z",
     "titleText": "Verona Police Report",
-    "mainText": "<speak><voice name=\"Kimberly\">Looking at the weekly report, officers were dispatched to a residence on Lucerne Drive on July 23 for a domestic disturbance, which led to a 23-year-old man being arrested for disorderly conduct and intimidation of a victim.</voice></speak>",
+    "mainText": "<speak><voice name=\"Kimberly\">In a report covering July 20 through July 27, officers responded to several calls, including an incident on July 25 where a driver was arrested for an O W I offence.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-28",
-    "updateDate": "2026-07-28T16:32:33.990Z",
+    "updateDate": "2026-07-28T17:31:26.481Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "<speak><voice name=\"Matthew\">The flavor of the day is Caramel Pecan. The shop is open until 11 PM, so you still have plenty of time to head over and enjoy a scoop or two.</voice></speak>",
+    "mainText": "<speak><voice name=\"Matthew\">Make sure to stop by Culver&apos;s to enjoy today&apos;s delicious Georgia Peach flavor. They are currently open and will remain so until 10 PM tonight.</voice></speak>",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
