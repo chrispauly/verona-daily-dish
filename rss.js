@@ -189,9 +189,9 @@ export async function fetchPoliceRecap() {
  * Fetches the latest Kona Ice of Madison schedule updates from the FetchRSS feed.
  */
 export async function fetchKonaIceFeed() {
-  const url = process.env.KONA_ICE_RSS_FEED;
+  const url = process.env.KONA_ICE_RSS_FEED || 'https://fetchrss.com/feed/1woWvM1a5BJC1woWtjBPS1cC.rss';
   if (!url) {
-    console.log("Kona Ice RSS feed URL is not set in .env. Skipping.");
+    console.log("Kona Ice RSS feed URL is not set. Skipping.");
     return null;
   }
 

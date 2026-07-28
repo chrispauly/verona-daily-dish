@@ -52,26 +52,6 @@ function fixPronunciations(text) {
     .replace(/\boffense\b/gi, "offence");
 }
 
-/**
- * Escapes XML special characters for SSML compatibility.
- */
-function escapeXml(unsafe) {
-  if (!unsafe) return '';
-  return unsafe.replace(/[<>&'"]/g, (c) => {
-    switch (c) {
-      case '<': return '&lt;';
-      case '>': return '&gt;';
-      case '&': return '&amp;';
-      case '\'': return '&apos;';
-      case '"': return '&quot;';
-    }
-  });
-}
-
-const VOICES = ['Ivy', 'Joanna', 'Joey', 'Justin', 'Kendra', 'Kimberly', 'Matthew', 'Salli'];
-function getRandomVoice() {
-  return VOICES[Math.floor(Math.random() * VOICES.length)];
-}
 
 
 async function main() {
@@ -180,19 +160,14 @@ async function main() {
   for (const tone of tones) {
     const toneData = tone.data || {};
     
-    // Format 5 update items in this feed
-    const availableVoices = [...VOICES];
     const feedItems = categories.map(cat => {
       const rawText = toneData[cat.key] || '';
       const cleanText = enforceCharacterLimit(fixPronunciations(rawText));
-      const randomIndex = Math.floor(Math.random() * availableVoices.length);
-      const selectedVoice = availableVoices.splice(randomIndex, 1)[0];
-      const ssmlText = `<speak><voice name="${selectedVoice}">${escapeXml(cleanText)}</voice></speak>`;
       return {
         uid: `${cityKey}-${tone.name}-${cat.key}-${dateStr}`,
         updateDate: now.toISOString(),
         titleText: cat.title,
-        mainText: ssmlText,
+        mainText: cleanText,
         redirectionUrl: cat.fallbackRedir,
         generatorModel: toneScripts.usedModel || 'Local Fallback Template'
       };
@@ -213,13 +188,11 @@ async function main() {
   // 10. Format and write the Culver's-only briefing feed
   const rawCulversText = toneScripts.balanced?.culvers || '';
   const cleanCulversText = enforceCharacterLimit(fixPronunciations(rawCulversText));
-  const culversVoice = getRandomVoice();
-  const ssmlCulversText = `<speak><voice name="${culversVoice}">${escapeXml(cleanCulversText)}</voice></speak>`;
   const culversFeedItem = {
     uid: `${cityKey}-culvers-${dateStr}`,
     updateDate: now.toISOString(),
     titleText: `${cityName} Culver's Flavor of the Day`,
-    mainText: ssmlCulversText,
+    mainText: cleanCulversText,
     redirectionUrl: culversUrl,
     generatorModel: toneScripts.usedModel || 'Local Fallback Template'
   };
