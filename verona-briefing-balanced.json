@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-28",
-    "updateDate": "2026-07-28T01:58:35.198Z",
+    "updateDate": "2026-07-28T03:07:46.234Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, we are enjoying clear skies and a full moon at Verona City Hall. If you look toward the west southwest over Mount Horeb at 9:40 PM, you can catch a glimpse of the space station as it travels toward the southwest, remaining low on the horizon. The overnight low will be 70 degrees, and there is no rain in the forecast.",
+    "mainText": "<speak><voice name=\"Salli\">Hello, Verona! At 10 PM, the skies are clear over Badger Prairie County Park with the full moon shining bright. There are no visible ISS passes tonight. The temperature is 81 degrees, and we expect an overnight low of 69 degrees with no rain predicted.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-28",
-    "updateDate": "2026-07-28T01:58:35.198Z",
+    "updateDate": "2026-07-28T03:07:46.234Z",
     "titleText": "Verona City News",
-    "mainText": "The city has two major updates. First, the Senior Center is rolling out their tri-shaw bike program, which requires a signed waiver. Second, the City Clerk is hosting an I Voted sticker design contest for students grades K through 12, with winning designs being used in the November 2026 election.",
+    "mainText": "<speak><voice name=\"Matthew\">In city news, the Verona Senior Center is offering a tri-shaw bike program that requires a signed waiver to participate, and the City Clerk is hosting an I Voted sticker design contest for students that is open for community voting through August 7.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-28",
-    "updateDate": "2026-07-28T01:58:35.198Z",
+    "updateDate": "2026-07-28T03:07:46.234Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can head to Insight Wellness for yoga. Tomorrow is a big day for trivia lovers with events at Hop Haus, Lake Lou-ee, and Paddy Mac's, and the farmer's market returns to Hometown Junction Park this Wednesday.",
+    "mainText": "<speak><voice name=\"Matthew\">There is a lot happening in the community, starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac&apos;s, and mark your calendars for the Verona Downtown Farmer&apos;s Market this Wednesday.</voice></speak>",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-28",
-    "updateDate": "2026-07-28T01:58:35.198Z",
+    "updateDate": "2026-07-28T03:07:46.234Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the report from last Monday, a Verona drone officer assisted the Dane County Sheriff's office in locating an individual who fled from a residence in the town of Springdale.",
+    "mainText": "<speak><voice name=\"Joanna\">In the weekly police report, we noted an incident from July 23 where a 23 year old Verona man was arrested for disorderly conduct and O W I related intimidation of a victim.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-28",
-    "updateDate": "2026-07-28T01:58:35.198Z",
+    "updateDate": "2026-07-28T03:07:46.234Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day at Culver's is Snickers Swirl. They are open until 10 PM tonight, so you still have plenty of time to stop by for a treat.",
+    "mainText": "<speak><voice name=\"Kimberly\">Today&apos;s delicious flavor of the day is Snickers Swirl. The shop is currently closed, but they will open at 10 AM tomorrow, when the flavor of the day will switch to Georgia Peach.</voice></speak>",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }

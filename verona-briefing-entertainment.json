@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-entertainment-weather-2026-07-28",
-    "updateDate": "2026-07-28T01:58:35.198Z",
+    "updateDate": "2026-07-28T03:07:46.234Z",
     "titleText": "Verona Weather",
-    "mainText": "Hey Verona, let's get into the dish! At 8 PM, we have beautiful clear skies over Verona City Hall with a full moon out tonight. Even better, look to the west southwest over Mount Horeb at 9:40 PM to catch the space station passing by for one minute, staying low near the horizon. We will drop to a low of 70 degrees tonight with absolutely no rain in sight.",
+    "mainText": "<speak><voice name=\"Salli\">Hey Verona, let&apos;s get into the dish! At 10 PM, we have beautiful clear skies over Badger Prairie County Park and a gorgeous full moon, though there are no visible ISS passes tonight. We are looking at an overnight low of 69 degrees with no rain on the horizon.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-entertainment-news-2026-07-28",
-    "updateDate": "2026-07-28T01:58:35.198Z",
+    "updateDate": "2026-07-28T03:07:46.234Z",
     "titleText": "Verona City News",
-    "mainText": "Verona students, we want your art! You have until August 7th to submit your original designs for the official city I Voted sticker contest.",
+    "mainText": "<speak><voice name=\"Justin\">Get those creative juices flowing, Verona! Our local students are competing to design the official I Voted sticker for the upcoming election, so make sure to check out the entries.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-entertainment-events-2026-07-28",
-    "updateDate": "2026-07-28T01:58:35.198Z",
+    "updateDate": "2026-07-28T03:07:46.234Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Get moving with Yoga at Insight Wellness today, and get ready for a packed Tuesday with trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's.",
+    "mainText": "<speak><voice name=\"Matthew\">We have plenty of fun ahead! You can catch Yoga at Insight Wellness today, or gear up for trivia excitement tomorrow at Hop Haus, Lake Lou-ee, or Paddy Mac&apos;s.</voice></speak>",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-entertainment-police-2026-07-28",
-    "updateDate": "2026-07-28T01:58:35.198Z",
+    "updateDate": "2026-07-28T03:07:46.234Z",
     "titleText": "Verona Police Report",
-    "mainText": "You will never believe this, but last Monday, a Verona drone officer had to help the sheriff's office track down someone who made a run for it from a home in Springdale.",
+    "mainText": "<speak><voice name=\"Kimberly\">In our weekly look back, it was a busy night on July 23 when officers were dispatched to Lucerne Drive regarding a domestic incident.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-entertainment-culvers-2026-07-28",
-    "updateDate": "2026-07-28T01:58:35.198Z",
+    "updateDate": "2026-07-28T03:07:46.234Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Run, don't walk, to grab a delicious Snickers Swirl flavor of the day before they close for the night!",
+    "mainText": "<speak><voice name=\"Salli\">You are going to love today&apos;s flavor, Snickers Swirl! It is a chocolatey delight, and while the shop is closed right now, you should definitely head over when they open at 10 AM tomorrow.</voice></speak>",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
