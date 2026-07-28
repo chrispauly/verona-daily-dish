@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-28",
-    "updateDate": "2026-07-28T09:52:48.322Z",
+    "updateDate": "2026-07-28T10:49:32.963Z",
     "titleText": "Verona Weather",
-    "mainText": "<speak><voice name=\"Joey\">Hello, Verona! At 4 AM, here is today&apos;s balanced dish: we are enjoying a comfortable 72 degrees with mainly clear skies near the Military Ridge State Trail under a bright full moon. There are no visible ISS passes expected tonight.</voice></speak>",
+    "mainText": "<speak><voice name=\"Kendra\">Hello, Verona! At 5 AM, we are looking at 69 degrees under overcast skies near the Military Ridge State Trail, plus a beautiful Full Moon above, though there are no ISS sightings to report tonight.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-28",
-    "updateDate": "2026-07-28T09:52:48.322Z",
+    "updateDate": "2026-07-28T10:49:32.963Z",
     "titleText": "Verona City News",
-    "mainText": "<speak><voice name=\"Joanna\">In city news, the Senior Center is inviting residents to enjoy the outdoors with free tri-shaw bike rides along the Military Ridge State Trail, which requires a waiver. Also, the City Clerk is holding an I Voted sticker design contest for local students, with voting for the best designs open until August 7.</voice></speak>",
+    "mainText": "<speak><voice name=\"Justin\">The Verona Senior Center is now offering rides on their tri-shaw bikes for community members, provided you have a signed waiver on file. Additionally, the City Clerk is accepting designs for a student I Voted sticker contest, with the top designs from each grade category being used in the upcoming November election.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-28",
-    "updateDate": "2026-07-28T09:52:48.322Z",
+    "updateDate": "2026-07-28T10:49:32.963Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "<speak><voice name=\"Kendra\">We have plenty of fun ahead, including trivia at Hop Haus and Wisconsin Brewing Company today. Tomorrow, you can head to Hometown Junction Park for the downtown Farmer&apos;s Market, enjoy pizza at Lake Lou-ee, or try your luck at trivia night at The Bogey Factory.</voice></speak>",
+    "mainText": "<speak><voice name=\"Salli\">You have plenty of ways to stay busy this week! Today, you can check out Hop Haus Trivia or Quizmasters at Lake Lou-ee. Tomorrow, look forward to the farmer&apos;s market, yoga at Insight Wellness, and even more trivia at The Bogey Factory.</voice></speak>",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-28",
-    "updateDate": "2026-07-28T09:52:48.322Z",
+    "updateDate": "2026-07-28T10:49:32.963Z",
     "titleText": "Verona Police Report",
-    "mainText": "<speak><voice name=\"Justin\">Looking back at the weekly police report, officers responded to a hit and run crash on Saturday near West Verona Avenue and Epic Lane, which resulted in a citation for an 83 year old driver.</voice></speak>",
+    "mainText": "<speak><voice name=\"Ivy\">Reviewing the weekly police report, on July 26, a driver was cited for a hit-and-run crash near West Verona Avenue and Epic Lane after an officer located the vehicle involved.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-28",
-    "updateDate": "2026-07-28T09:52:48.322Z",
+    "updateDate": "2026-07-28T10:49:32.963Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "<speak><voice name=\"Salli\">If you are craving a sweet treat, today&apos;s featured flavor is Georgia Peach. The restaurant is currently closed but will be ready to serve you starting at 10 AM.</voice></speak>",
+    "mainText": "<speak><voice name=\"Joey\">Satisfy your cravings with today&apos;s flavor of the day, Georgia Peach. Culver&apos;s is currently closed, but they will be ready to serve you starting at 10 AM today.</voice></speak>",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
