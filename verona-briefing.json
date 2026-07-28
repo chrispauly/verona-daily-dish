@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-28",
-    "updateDate": "2026-07-28T11:40:28.392Z",
+    "updateDate": "2026-07-28T12:35:26.917Z",
     "titleText": "Verona Weather",
-    "mainText": "<speak><voice name=\"Salli\">Hello, Verona! At 6 AM, here is today&apos;s balanced dish: it is 70 degrees and overcast by Harriet Park, and we are currently under a full moon.</voice></speak>",
+    "mainText": "<speak><voice name=\"Joey\">Hello, Verona! At 7 AM, here is today&apos;s balanced dish: we have partly cloudy skies and 70 degree temperatures out at the Military Ridge State Trail, under the glow of a full moon.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-28",
-    "updateDate": "2026-07-28T11:40:28.392Z",
+    "updateDate": "2026-07-28T12:35:26.917Z",
     "titleText": "Verona City News",
-    "mainText": "<speak><voice name=\"Joanna\">The City Clerk is looking for student designs for an I Voted sticker contest to be used in the November election. Also, if you want to participate in the tri-shaw bike program at the Senior Center, please ensure your waiver is signed and turned in.</voice></speak>",
+    "mainText": "<speak><voice name=\"Kendra\">The city is currently seeking votes for the I Voted sticker design contest, open through August 7, and the Senior Center is reminding residents to submit their waivers for the popular tri-shaw program, which offers scenic bike rides along the local trails.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-28",
-    "updateDate": "2026-07-28T11:40:28.392Z",
+    "updateDate": "2026-07-28T12:35:26.917Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "<speak><voice name=\"Justin\">We have a busy day of events with Hop Haus Trivia and Quizmasters Trivia both taking place today. Tomorrow, you can look forward to the downtown farmer&apos;s market and more trivia at The Bogey Factory.</voice></speak>",
+    "mainText": "<speak><voice name=\"Justin\">We have a packed schedule with trivia at both Hop Haus and Wisconsin Brewing Company today, followed by the Downtown Farmer&apos;s Market and more trivia at The Bogey Factory tomorrow.</voice></speak>",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-28",
-    "updateDate": "2026-07-28T11:40:28.392Z",
+    "updateDate": "2026-07-28T12:35:26.917Z",
     "titleText": "Verona Police Report",
-    "mainText": "<speak><voice name=\"Matthew\">Looking at the weekly police report, on July 26, a 55 year old woman was arrested for her first O W I offence after being clocked at 97 miles per hour on the highway.</voice></speak>",
+    "mainText": "<speak><voice name=\"Ivy\">Regarding the weekly safety report, on July 26, an 83-year-old driver was cited for an improper left turn and a hit and run crash near the intersection of West Verona Avenue and Epic Lane.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-28",
-    "updateDate": "2026-07-28T11:40:28.392Z",
+    "updateDate": "2026-07-28T12:35:26.917Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "<speak><voice name=\"Ivy\">Today&apos;s delicious Flavor of the Day is Georgia Peach. The shop is currently closed, but they open up at 10 AM, so get ready to head over and grab a treat.</voice></speak>",
+    "mainText": "<speak><voice name=\"Matthew\">It is a perfect day for the Georgia Peach flavor, and while the shop is currently closed, you can grab a scoop starting at 10 AM today. If you are planning ahead, tomorrow features Caramel Peanut Buttercup.</voice></speak>",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
