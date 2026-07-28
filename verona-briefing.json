@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-28",
-    "updateDate": "2026-07-28T00:25:50.484Z",
+    "updateDate": "2026-07-28T01:33:11.136Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, it is 88 degrees and partly cloudy at Fireman's Park. Tonight's Full Moon will be joined by a brief ISS flyover at 9:40 PM, moving from the West Southwest near Mount Horeb toward the Southwest. The overnight low will be 68 degrees, and there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have clear skies over Badger Prairie County Park tonight with a full moon. If you look toward the West Southwest over Mount Horeb at 9:40 PM, you can catch the ISS for one minute as it travels toward the Southwest. Tonight will cool down to a low of 70 degrees, and there is no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-28",
-    "updateDate": "2026-07-28T00:25:50.484Z",
+    "updateDate": "2026-07-28T01:33:11.136Z",
     "titleText": "Verona City News",
-    "mainText": "The city has two major updates. First, the Senior Center is rolling out a Trishaw bike program, though participants must sign a legal waiver. Second, the City Clerk is holding a design contest for I Voted stickers, with student artwork being accepted until August 7.",
+    "mainText": "In city news, students are encouraged to enter the I Voted sticker contest by submitting original designs to the City Clerk's office. Also, the Verona Senior Center is offering free rides on their trishaw bike program for residents, which requires filling out a waiver and release form either online or in person.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-28",
-    "updateDate": "2026-07-28T00:25:50.484Z",
+    "updateDate": "2026-07-28T01:33:11.136Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can join Yoga at Insight Wellness. Looking toward tomorrow, we have trivia nights at Hop Haus and Wisconsin Brewing Company, while Wednesday brings the farmer's market to Hometown Junction Park and pizza deals at Lake Louie.",
+    "mainText": "There is plenty to do in town, starting with yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus Brewing or the Wisconsin Brewing Company. Looking ahead, don't miss the Farmer's Market on Wednesday at Hometown Junction Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-28",
-    "updateDate": "2026-07-28T00:25:50.484Z",
+    "updateDate": "2026-07-28T01:33:11.136Z",
     "titleText": "Verona Police Report",
-    "mainText": "On July 26, officers responded to a hit-and-run crash near West Verona Avenue and Epic Lane, which resulted in a citation for an 83-year-old Madison woman.",
+    "mainText": "On Saturday July 25, a 29-year-old Madison woman was arrested for her first O-W-I offense.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-28",
-    "updateDate": "2026-07-28T00:25:50.484Z",
+    "updateDate": "2026-07-28T01:33:11.136Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culvers is serving up Snickers Swirl for their flavor of the day. They are open until 10 PM tonight, giving you plenty of time to grab a scoop before they close.",
+    "mainText": "Enjoy the Snickers Swirl flavor of the day at Culver's today. They are open until 10 PM tonight. If you miss out, check back tomorrow when the flavor of the day will be Georgia Peach.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
