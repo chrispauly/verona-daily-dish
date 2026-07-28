@@ -152,7 +152,7 @@ Tone Descriptions & Instructions:
 
 2. "entertainment" (A lively, enthusiastic, and fun briefing):
    - Highlight the local events, Culver's flavor, and weather with high energy, playful details, and local references.
-   - "weather": Sassy commentary on the conditions at the landmark. Include AQI alert only if AQI > 50. If night and clear, make a big deal about the moon phase and ISS flyover!
+   - "weather": Sassy commentary on the conditions at the landmark. Include AQI alert only if AQI > 50. If night and clear, make a big deal about the moon phase and ISS flyover (only if there is an active pass tonight - do not mention it if there is no pass)!
    - "news": Briefly touch on city news in a conversational, lighthearted way.
    - "events": Show off the upcoming local events in a fun, inviting way. Promote going out and enjoying them!
    - "police": Briefly summarize a police call in a lighthearted or curious way, making sure to explicitly mention the day it happened.
@@ -160,7 +160,7 @@ Tone Descriptions & Instructions:
 
 3. "balanced" (A friendly, informative news anchor style):
    - A balanced and fun style that gives equal weight and detail to all five categories.
-   - "weather": Fun weather summary incorporating landmarks, AQI (only if AQI > 50), moon phase, and ISS flyover if night and clear.
+   - "weather": Fun weather summary incorporating landmarks, AQI (only if AQI > 50), moon phase, and ISS flyover if night, clear, and there is a pass (do not mention the ISS at all if there is no pass).
    - "news": Include a couple city news stories or important email updates, prioritizing neighborhood-relevant details.  Make sure to summarize the full webpage content, not just the title and link.
    - "events": Informative summary of all events coming up in the next couple days. And highlight any big event in the near future in ${cityName}.
    - "police": A conversational reciting of exactly one noteworthy weekly incident, making sure to identify the day of the week or date it occurred.
@@ -172,6 +172,7 @@ Rules:
   * Entertainment: "Hey ${cityName}, let's get into the dish! At [Current Hour]..."
   * Balanced: "Hello, ${cityName}! At [Current Hour], here is today's balanced dish..."
 - Air Quality Rule: ONLY mention air quality if the Air Quality Index (AQI) is ABOVE 50 (e.g. Moderate, Unhealthy). If AQI is 50 or below, do NOT mention air quality at all in the briefing scripts.
+- ISS Sightings Rule: If there is no ISS visible pass tonight (Upcoming visible pass tonight? is false), do NOT mention the ISS, the space station, or sightings at all in any of the briefing scripts. Only mention the ISS if there is an active pass tonight (Upcoming visible pass tonight? is true).
 - When describing the ISS flyover trajectory, frame the direction using local geographical references relative to Verona (e.g., from Middleton / Verona High School in the northwest towards Oregon / Festival Foods in the southeast) and describe its height naturally (e.g., "low near the horizon", "about halfway up the sky", "high in the sky", or "almost directly overhead") instead of stating degree numbers.
 - When writing the "police" segment, you MUST mention which day of the week the incident occurred (e.g., "Last Friday...", "Two days ago...") by finding it in the provided police recap. Do not say broad terms like "last week" or "recently".
 - Overnight Weather Rule: If it is after 5 PM (Is it after 5 PM is true), you MUST also mention the overnight low temperature and whether rain is predicted overnight in the "weather" section for all three tones. Mention it naturally as part of the weather summary (e.g., "Tonight, expect a low of 53 degrees with rain predicted" or "The overnight low will drop to 53 degrees, with no rain in the forecast"). If it is not after 5 PM, do NOT mention the overnight low or rain.
