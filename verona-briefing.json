@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-28",
-    "updateDate": "2026-07-28T08:55:07.835Z",
+    "updateDate": "2026-07-28T09:52:48.322Z",
     "titleText": "Verona Weather",
-    "mainText": "<speak><voice name=\"Kendra\">Hello, Verona! At 3 AM, here is today&apos;s balanced dish. We are seeing clear skies and a lovely full moon tonight near the Military Ridge State Trail.</voice></speak>",
+    "mainText": "<speak><voice name=\"Joey\">Hello, Verona! At 4 AM, here is today&apos;s balanced dish: we are enjoying a comfortable 72 degrees with mainly clear skies near the Military Ridge State Trail under a bright full moon. There are no visible ISS passes expected tonight.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-28",
-    "updateDate": "2026-07-28T08:55:07.835Z",
+    "updateDate": "2026-07-28T09:52:48.322Z",
     "titleText": "Verona City News",
-    "mainText": "<speak><voice name=\"Matthew\">The city is hosting an I Voted sticker contest for students to get involved in the local election process, and the Senior Center has updated their tri-shaw program waiver which requires a witness for all participants.</voice></speak>",
+    "mainText": "<speak><voice name=\"Joanna\">In city news, the Senior Center is inviting residents to enjoy the outdoors with free tri-shaw bike rides along the Military Ridge State Trail, which requires a waiver. Also, the City Clerk is holding an I Voted sticker design contest for local students, with voting for the best designs open until August 7.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-28",
-    "updateDate": "2026-07-28T08:55:07.835Z",
+    "updateDate": "2026-07-28T09:52:48.322Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "<speak><voice name=\"Joey\">There is plenty to do with trivia at Hop Haus and Wisconsin Brewing Company today, followed by yoga and the downtown farmer&apos;s market tomorrow.</voice></speak>",
+    "mainText": "<speak><voice name=\"Kendra\">We have plenty of fun ahead, including trivia at Hop Haus and Wisconsin Brewing Company today. Tomorrow, you can head to Hometown Junction Park for the downtown Farmer&apos;s Market, enjoy pizza at Lake Lou-ee, or try your luck at trivia night at The Bogey Factory.</voice></speak>",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-28",
-    "updateDate": "2026-07-28T08:55:07.835Z",
+    "updateDate": "2026-07-28T09:52:48.322Z",
     "titleText": "Verona Police Report",
-    "mainText": "<speak><voice name=\"Kimberly\">In a noteworthy call from July 23, officers responded to a domestic disturbance on Lucerne Drive where a 23-year-old man was arrested for disorderly conduct and O W I related charges were not involved in that specific incident.</voice></speak>",
+    "mainText": "<speak><voice name=\"Justin\">Looking back at the weekly police report, officers responded to a hit and run crash on Saturday near West Verona Avenue and Epic Lane, which resulted in a citation for an 83 year old driver.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-28",
-    "updateDate": "2026-07-28T08:55:07.835Z",
+    "updateDate": "2026-07-28T09:52:48.322Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "<speak><voice name=\"Joanna\">Today&apos;s flavor is Georgia Peach, but since the store is currently closed, head over when they open at 10:00 AM. Tomorrow you can look forward to Caramel Peanut Buttercup.</voice></speak>",
+    "mainText": "<speak><voice name=\"Salli\">If you are craving a sweet treat, today&apos;s featured flavor is Georgia Peach. The restaurant is currently closed but will be ready to serve you starting at 10 AM.</voice></speak>",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
