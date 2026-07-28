@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-28",
-    "updateDate": "2026-07-28T14:49:28.061Z",
+    "updateDate": "2026-07-28T15:45:47.398Z",
     "titleText": "Verona Weather",
-    "mainText": "<speak><voice name=\"Kimberly\">Hello, Verona! At 9 AM, here is today&apos;s balanced dish: we have a pleasant 72 degrees with partly cloudy skies at Harriet Park, and we have a full moon gracing us this evening.</voice></speak>",
+    "mainText": "<speak><voice name=\"Salli\">Hello, Verona! At 10 AM, we are enjoying mainly clear skies at Badger Prairie County Park with a pleasant temperature of 76 degrees and a full moon shining bright tonight.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-28",
-    "updateDate": "2026-07-28T14:49:28.061Z",
+    "updateDate": "2026-07-28T15:45:47.398Z",
     "titleText": "Verona City News",
-    "mainText": "<speak><voice name=\"Salli\">The city has launched the I Voted sticker contest where residents can vote online through August 7 to pick designs from four student grade categories for the November election.</voice></speak>",
+    "mainText": "<speak><voice name=\"Joey\">The City of Verona is excited to announce that community voting is officially open for the I Voted sticker design contest. Students submitted 53 unique designs, and now it is your turn to pick the winners in four different grade categories. You can cast your vote online at the city website until 11:59 PM on August 7, or stop by City Hall during in-person absentee voting hours to use a paper ballot.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-28",
-    "updateDate": "2026-07-28T14:49:28.061Z",
+    "updateDate": "2026-07-28T15:45:47.398Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "<speak><voice name=\"Ivy\">Tonight is a great night for trivia with events happening today at both Hop Haus Brewing and Wisconsin Brewing Company, followed by tomorrow&apos;s farmer&apos;s market in downtown Verona.</voice></speak>",
+    "mainText": "<speak><voice name=\"Joanna\">There is plenty to do this week. Today, you can join in for Hop Haus Trivia or Quizmasters Trivia at Wisconsin Brewing Company. Tomorrow, check out the Verona Downtown Farmer&apos;s Market, yoga at Insight Wellness, or Wednesday Trivia at The Bogey Factory.</voice></speak>",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-28",
-    "updateDate": "2026-07-28T14:49:28.061Z",
+    "updateDate": "2026-07-28T15:45:47.398Z",
     "titleText": "Verona Police Report",
-    "mainText": "<speak><voice name=\"Joanna\">In our weekly police report, on July 26, a 55-year-old Stoughton woman was arrested for an O W I after being clocked at 97 miles per hour on the highway.</voice></speak>",
+    "mainText": "<speak><voice name=\"Justin\">In our weekly police report, on July 26, an officer stopped a vehicle traveling 97 miles per hour on Highway 18-151. The driver was found to be impaired and was arrested for an O W I, which is their first offence.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-28",
-    "updateDate": "2026-07-28T14:49:28.061Z",
+    "updateDate": "2026-07-28T15:45:47.398Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "<speak><voice name=\"Joey\">Today&apos;s flavor of the day is Georgia Peach. Culver&apos;s is currently closed but will open at 10 AM, and tomorrow you can look forward to the Caramel Peanut Buttercup flavor.</voice></speak>",
+    "mainText": "<speak><voice name=\"Kimberly\">Make sure to stop by Culver&apos;s today to enjoy their Georgia Peach flavor of the day. They are open until 10 PM this evening, giving you plenty of time to satisfy your sweet tooth.</voice></speak>",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
