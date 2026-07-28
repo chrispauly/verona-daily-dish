@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-28",
-    "updateDate": "2026-07-28T03:07:46.234Z",
+    "updateDate": "2026-07-28T03:16:06.288Z",
     "titleText": "Verona Weather",
-    "mainText": "<speak><voice name=\"Salli\">Hello, Verona! At 10 PM, the skies are clear over Badger Prairie County Park with the full moon shining bright. There are no visible ISS passes tonight. The temperature is 81 degrees, and we expect an overnight low of 69 degrees with no rain predicted.</voice></speak>",
+    "mainText": "<speak><voice name=\"Salli\">Hello, Verona! At 10 PM, it is a clear night out by the Military Ridge State Trail with a temperature of 80 degrees. We have a full moon out tonight, but unfortunately no visible ISS passes. The overnight low will be 69 degrees, and we are not expecting any rain.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-28",
-    "updateDate": "2026-07-28T03:07:46.234Z",
+    "updateDate": "2026-07-28T03:16:06.288Z",
     "titleText": "Verona City News",
-    "mainText": "<speak><voice name=\"Matthew\">In city news, the Verona Senior Center is offering a tri-shaw bike program that requires a signed waiver to participate, and the City Clerk is hosting an I Voted sticker design contest for students that is open for community voting through August 7.</voice></speak>",
+    "mainText": "<speak><voice name=\"Ivy\">The city is busy with new initiatives, including a community contest for students to design I Voted stickers for the November election and a new waiver process for those wishing to participate in the Senior Center&apos;s popular tri-shaw program.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-28",
-    "updateDate": "2026-07-28T03:07:46.234Z",
+    "updateDate": "2026-07-28T03:16:06.288Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "<speak><voice name=\"Matthew\">There is a lot happening in the community, starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac&apos;s, and mark your calendars for the Verona Downtown Farmer&apos;s Market this Wednesday.</voice></speak>",
+    "mainText": "<speak><voice name=\"Kendra\">We have plenty going on, starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac&apos;s, followed by the Downtown Farmer&apos;s Market on Wednesday.</voice></speak>",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-28",
-    "updateDate": "2026-07-28T03:07:46.234Z",
+    "updateDate": "2026-07-28T03:16:06.288Z",
     "titleText": "Verona Police Report",
-    "mainText": "<speak><voice name=\"Joanna\">In the weekly police report, we noted an incident from July 23 where a 23 year old Verona man was arrested for disorderly conduct and O W I related intimidation of a victim.</voice></speak>",
+    "mainText": "<speak><voice name=\"Justin\">Looking at the weekly report, on July 23, officers responded to a domestic disturbance on Lucerne Drive where a 23-year-old man was arrested for disorderly conduct and intimidation of a victim.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-28",
-    "updateDate": "2026-07-28T03:07:46.234Z",
+    "updateDate": "2026-07-28T03:16:06.288Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "<speak><voice name=\"Kimberly\">Today&apos;s delicious flavor of the day is Snickers Swirl. The shop is currently closed, but they will open at 10 AM tomorrow, when the flavor of the day will switch to Georgia Peach.</voice></speak>",
+    "mainText": "<speak><voice name=\"Joey\">Today&apos;s flavor is Snickers Swirl, but since the restaurant is currently closed, you can look forward to stopping by when they open tomorrow at 10:00 AM to try the Georgia Peach flavor.</voice></speak>",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }

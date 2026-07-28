@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-quick-weather-2026-07-28",
-    "updateDate": "2026-07-28T03:07:46.234Z",
+    "updateDate": "2026-07-28T03:16:06.288Z",
     "titleText": "Verona Weather",
-    "mainText": "<speak><voice name=\"Joey\">Quick update: At 10 PM, it is a clear night near Badger Prairie County Park with a temperature of 81 degrees. The overnight low will be 69 degrees with no rain expected.</voice></speak>",
+    "mainText": "<speak><voice name=\"Salli\">Quick update: At 10 PM, it is a clear night near the Military Ridge State Trail with a temperature of 80 degrees, an overnight low of 69 degrees, and no rain in the forecast.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-quick-news-2026-07-28",
-    "updateDate": "2026-07-28T03:07:46.234Z",
+    "updateDate": "2026-07-28T03:16:06.288Z",
     "titleText": "Verona City News",
-    "mainText": "<speak><voice name=\"Kendra\">Verona students are currently designing an I Voted sticker for the November election.</voice></speak>",
+    "mainText": "<speak><voice name=\"Joey\">Verona students are invited to design an I Voted sticker for the November election by submitting entries to the City Clerk.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-quick-events-2026-07-28",
-    "updateDate": "2026-07-28T03:07:46.234Z",
+    "updateDate": "2026-07-28T03:16:06.288Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "<speak><voice name=\"Kendra\">Yoga at Insight Wellness is happening today.</voice></speak>",
+    "mainText": "<speak><voice name=\"Joanna\">Yoga at Insight Wellness is happening today.</voice></speak>",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-quick-police-2026-07-28",
-    "updateDate": "2026-07-28T03:07:46.234Z",
+    "updateDate": "2026-07-28T03:16:06.288Z",
     "titleText": "Verona Police Report",
-    "mainText": "<speak><voice name=\"Joanna\">On July 23, a 23 year old man was arrested for domestic disturbance.</voice></speak>",
+    "mainText": "<speak><voice name=\"Justin\">On July 23, a 23-year-old man was arrested for disorderly conduct and intimidation of a victim.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-quick-culvers-2026-07-28",
-    "updateDate": "2026-07-28T03:07:46.234Z",
+    "updateDate": "2026-07-28T03:16:06.288Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "<speak><voice name=\"Joey\">Today&apos;s flavor of the day is Snickers Swirl, which is a delicious treat to grab once they open tomorrow morning.</voice></speak>",
+    "mainText": "<speak><voice name=\"Kendra\">Enjoy the delicious Snickers Swirl flavor of the day.</voice></speak>",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }

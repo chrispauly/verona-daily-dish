@@ -181,10 +181,12 @@ async function main() {
     const toneData = tone.data || {};
     
     // Format 5 update items in this feed
+    const availableVoices = [...VOICES];
     const feedItems = categories.map(cat => {
       const rawText = toneData[cat.key] || '';
       const cleanText = enforceCharacterLimit(fixPronunciations(rawText));
-      const selectedVoice = getRandomVoice();
+      const randomIndex = Math.floor(Math.random() * availableVoices.length);
+      const selectedVoice = availableVoices.splice(randomIndex, 1)[0];
       const ssmlText = `<speak><voice name="${selectedVoice}">${escapeXml(cleanText)}</voice></speak>`;
       return {
         uid: `${cityKey}-${tone.name}-${cat.key}-${dateStr}`,
