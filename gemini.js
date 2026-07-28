@@ -18,11 +18,11 @@ function getLocalDateString(date, tzName) {
  * Generates the multi-tone daily briefing scripts using Gemini 3.5 Flash.
  * Returns a JSON object containing three tones: quick, entertainment, and balanced.
  */
-export async function generateBriefingScript({ weather, rssItems, policeRecap, culvers, emails, iss, events }) {
+export async function generateBriefingScript({ weather, rssItems, policeRecap, culvers, emails, iss, events, konaIcePosts }) {
   const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey) {
     console.warn("WARNING: GEMINI_API_KEY environment variable is not set. Using local fallback generator.");
-    return generateFallbackScript({ weather, rssItems, policeRecap, culvers, emails, iss, events });
+    return generateFallbackScript({ weather, rssItems, policeRecap, culvers, emails, iss, events, konaIcePosts });
   }
 
   const ai = new GoogleGenAI({ apiKey });
@@ -70,6 +70,11 @@ export async function generateBriefingScript({ weather, rssItems, policeRecap, c
       }).join('\n---\n')
     : 'No upcoming events listed for the next 30 days.';
 
+  // Prepare Kona Ice context
+  const konaContext = konaIcePosts && konaIcePosts.length > 0
+    ? konaIcePosts.map((item, idx) => `Post ${idx + 1} (Date: ${item.pubDate}):\nTitle: ${item.title}\nContent:\n${item.description}`).join('\n---\n')
+    : 'No Kona Ice schedule posts available.';
+
   const prompt = `
 You are a friendly local news anchor for the City of ${cityName}, ${stateFullName}. 
 Your task is to write content for three different Alexa Flash Briefing feeds, each with a different tone.
@@ -98,6 +103,8 @@ ${newsContext}
 ${eventsContext}
 - ${cityName} Police Department Weekly Recap:
 ${policeContext}
+- Kona Ice Schedule Posts:
+${konaContext}
 - Culver's of ${cityName} Details:
   * Today's Flavor of the Day: ${culvers.todayFlavor}
   * Tomorrow's Flavor of the Day: ${culvers.tomorrowFlavor}
@@ -172,7 +179,8 @@ Rules:
   * If an event's Relative date is "Today", you MUST refer to its date as "Today" (e.g. "happening today", or just "today") and NOT by its weekday name (e.g., do NOT say "on Tuesday").
   * If an event's Relative date is "tomorrow", you MUST refer to its date as "tomorrow" (e.g. "happening tomorrow", or just "tomorrow") and NOT by its weekday name (e.g., do NOT say "on Wednesday").
   * For all other events, refer to their dates normally (using their weekday name or date).
-- Police Pronunciation Rule: If a police report contains "OWI" (Operating While Intoxicated), always write it as "O-W-I" so Alexa pronounces it as the individual letters "O", "W", "I".
+- Police Pronunciation Rule: If a police report contains "OWI" (Operating While Intoxicated), always write it as "O W I" so Alexa pronounces it as the individual letters "O", "W", "I" without pauses.
+- Kona Ice Rule: If the Kona Ice schedule updates contain scheduled stops in Verona for **today** (the same day: ${todayStrOnly}), you MUST mention the Kona Ice locations and times **exclusively** in the "culvers" section of each tone, alongside the Culver's flavor (e.g. telling listeners they can also grab a Kona Ice at Fireman's Park today from 11 AM to 4 PM). Do NOT mention Kona Ice in the weather, news, events, or police sections. If there are no Verona stops today, or if the data is empty/unavailable, do NOT mention Kona Ice at all in the briefing.
 - Keep them interesting and readable by text-to-speech.
 `;
 
@@ -229,7 +237,7 @@ Rules:
 /**
  * A fallback generator in case the Gemini API call fails or is not configured.
  */
-function generateFallbackScript({ weather, rssItems, policeRecap, culvers, emails, iss, events }) {
+function generateFallbackScript({ weather, rssItems, policeRecap, culvers, emails, iss, events, konaIcePosts }) {
   const cityName = process.env.CITY_NAME || 'Verona';
   const stateName = process.env.STATE_NAME || 'WI';
   const tzName = process.env.TIMEZONE || 'America/Chicago';
@@ -288,27 +296,44 @@ function generateFallbackScript({ weather, rssItems, policeRecap, culvers, email
     ? ` The overnight low will be around ${weather.overnightLow} degrees, with rain ${weather.rainPredicted ? '' : 'un'}likely.`
     : '';
 
+  // Kona Ice same-day check for fallback
+  let konaNotice = '';
+  if (konaIcePosts && konaIcePosts.length > 0) {
+    const latest = konaIcePosts[0];
+    const postDate = new Date(latest.pubDate);
+    const isTodayPost = getLocalDateString(postDate, tzName) === todayStrOnly;
+    const mentionsVerona = latest.description?.toLowerCase().includes('verona') || latest.title?.toLowerCase().includes('verona');
+
+    if (isTodayPost && mentionsVerona) {
+      const lines = latest.description.split('\n');
+      const veronaLines = lines.filter(line => line.toLowerCase().includes('verona')).map(line => line.replace(/📍/g, '').trim());
+      if (veronaLines.length > 0) {
+        konaNotice = ` Also, Kona Ice is scheduled in Verona today: ${veronaLines.join(', ')}.`;
+      }
+    }
+  }
+
   return {
     quick: {
       weather: `Quick update: At ${weather.currentHour || '9 AM'}, it is ${weather.temp} degrees and ${weather.condition} at ${weather.landmark}.${aqiNotice}${overnightNotice}`,
       news: `City update: ${cleanNews}.`,
       events: `Upcoming: ${cleanEvent}.`,
       police: `In police news: ${policeDay}, officers noted ${cleanPolice}.`,
-      culvers: `Culver's today is ${culvers.todayFlavor}. Store is ${culvers.statusText.includes('Closed') ? 'closed' : 'open'}.`
+      culvers: `Culver's today is ${culvers.todayFlavor}. Store is ${culvers.statusText.includes('Closed') ? 'closed' : 'open'}.${konaNotice}`
     },
     entertainment: {
       weather: `Hey ${cityName}, let's get into the dish! At ${weather.currentHour || '9 AM'}, we've got ${weather.temp} degrees and ${weather.condition} over at ${weather.landmark}.${aqiNotice}${overnightNotice} ${weather.isDay ? 'Get out and enjoy the sunshine!' : `Look up to see that lovely ${weather.moonPhase}!`} ${iss.hasPass ? 'Keep your eyes on the skies!' : ''}`,
       news: `A quick note from city hall: ${cleanNews}.`,
       events: `Looking for fun? Check out ${cleanEvent}!`,
       police: `A bit of neighborhood drama: ${policeDay}, ${cleanPolice}.`,
-      culvers: `Time for a treat! Today's Culver's flavor of the day is a delicious scoop of ${culvers.todayFlavor}! Tomorrow we get ${culvers.tomorrowFlavor}.`
+      culvers: `Time for a treat! Today's Culver's flavor of the day is a delicious scoop of ${culvers.todayFlavor}! Tomorrow we get ${culvers.tomorrowFlavor}.${konaNotice}`
     },
     balanced: {
       weather: `Hello, ${cityName}! At ${weather.currentHour || '9 AM'}, here is today's balanced dish. Over at ${weather.landmark}, it is currently ${weather.temp} degrees with ${weather.condition}.${aqiNotice}${overnightNotice} ${!weather.isDay ? `Tonight we have a ${weather.moonPhase}.` : ''} ${iss.hasPass ? iss.text : ''}`,
       news: `In city affairs, the latest update is: ${cleanNews}.`,
       events: `If you are planning your week, we have local events coming up, including ${cleanEvent}.`,
       police: `From the police department weekly log: ${policeDay}, ${cleanPolice}.`,
-      culvers: `We sign off with today's Culver's Flavor of the Day: ${culvers.todayFlavor}. The restaurant status is ${culvers.statusText}.`
+      culvers: `We sign off with today's Culver's Flavor of the Day: ${culvers.todayFlavor}. The restaurant status is ${culvers.statusText}.${konaNotice}`
     }
   };
 }

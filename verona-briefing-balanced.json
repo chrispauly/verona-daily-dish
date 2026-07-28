@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-07-22",
-    "updateDate": "2026-07-22T02:53:04.416Z",
+    "uid": "verona-balanced-weather-2026-07-28",
+    "updateDate": "2026-07-28T01:58:35.198Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. We have clear skies at Fireman's Park with a first quarter moon. The space station will be visible tonight starting at 11:10 PM, moving from over Cross Plains toward Oregon and reaching about halfway up the sky. The temperature will drop to an overnight low of 53 degrees, and there is no rain expected.",
+    "mainText": "Hello, Verona! At 8 PM, we are enjoying clear skies and a full moon at Verona City Hall. If you look toward the west southwest over Mount Horeb at 9:40 PM, you can catch a glimpse of the space station as it travels toward the southwest, remaining low on the horizon. The overnight low will be 70 degrees, and there is no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-07-22",
-    "updateDate": "2026-07-22T02:53:04.416Z",
+    "uid": "verona-balanced-news-2026-07-28",
+    "updateDate": "2026-07-28T01:58:35.198Z",
     "titleText": "Verona City News",
-    "mainText": "City news today highlights the VHAT government and public access cable channel. You can watch local government meetings on channels 989 or 1989, or view programs on-demand via the city website and YouTube. Also, please note that residential parking rules require vehicles to be parked on designated surfaces at least five feet from property lines.",
+    "mainText": "The city has two major updates. First, the Senior Center is rolling out their tri-shaw bike program, which requires a signed waiver. Second, the City Clerk is hosting an I Voted sticker design contest for students grades K through 12, with winning designs being used in the November 2026 election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-07-22",
-    "updateDate": "2026-07-22T02:53:04.416Z",
+    "uid": "verona-balanced-events-2026-07-28",
+    "updateDate": "2026-07-28T01:58:35.198Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona! Trivia games are taking place today at Hop Haus, Lake Louie, and Paddy Mac's. Tomorrow, you can enjoy live music at Paddy Mac's, attend yoga at Insight Wellness, visit the downtown farmer's market, grab pizza at Lake Louie, or test your brain at the Bogey Factory.",
+    "mainText": "Today you can head to Insight Wellness for yoga. Tomorrow is a big day for trivia lovers with events at Hop Haus, Lake Lou-ee, and Paddy Mac's, and the farmer's market returns to Hometown Junction Park this Wednesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-07-22",
-    "updateDate": "2026-07-22T02:53:04.416Z",
+    "uid": "verona-balanced-police-2026-07-28",
+    "updateDate": "2026-07-28T01:58:35.198Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on July 13th, a driver was arrested for an O-W-I after their vehicle became trapped on a large rock.",
+    "mainText": "Looking at the report from last Monday, a Verona drone officer assisted the Dane County Sheriff's office in locating an individual who fled from a residence in the town of Springdale.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-07-22",
-    "updateDate": "2026-07-22T02:53:04.416Z",
+    "uid": "verona-balanced-culvers-2026-07-28",
+    "updateDate": "2026-07-28T01:58:35.198Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is serving up the Chocolate Caramel Twist today. They are open until 10:00 PM, which is less than an hour from now, so head over soon to enjoy a bowl.",
+    "mainText": "The flavor of the day at Culver's is Snickers Swirl. They are open until 10 PM tonight, so you still have plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }

@@ -4,7 +4,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 import { fetchWeather } from './weather.js';
-import { fetchRSSFeeds, fetchPoliceRecap } from './rss.js';
+import { fetchRSSFeeds, fetchPoliceRecap, fetchKonaIceFeed } from './rss.js';
 import { fetchUpcomingEvents } from './events.js';
 import { fetchCulversDetails } from './culvers.js';
 import { fetchImportantEmails } from './email.js';
@@ -41,9 +41,15 @@ function enforceCharacterLimit(text, limit = 4500) {
 function fixPronunciations(text) {
   if (!text) return '';
   return text
-    .replace(/\bOWI's\b/gi, "O-W-I's")
-    .replace(/\bOWIs\b/gi, "O-W-I's")
-    .replace(/\bOWI\b/gi, "O-W-I");
+    .replace(/\bOWI's\b/gi, "O W I's")
+    .replace(/\bOWIs\b/gi, "O W I's")
+    .replace(/\bOWI\b/gi, "O W I")
+    .replace(/\btrishaws\b/gi, "tri-shaws")
+    .replace(/\btrishaw\b/gi, "tri-shaw")
+    .replace(/\bLake Louie\b/gi, "Lake Lou-ee")
+    .replace(/\bLouie\b/gi, "Lou-ee")
+    .replace(/\boffenses\b/gi, "offences")
+    .replace(/\boffense\b/gi, "offence");
 }
 
 async function main() {
@@ -90,6 +96,25 @@ async function main() {
   const issResult = await fetchISSFlyover();
   console.log(`ISS: ${issResult.text}`);
 
+  // 7.5. Fetch Kona Ice schedule (between 8:00 AM and 8:00 PM local time only)
+  const tzName = process.env.TIMEZONE || 'America/Chicago';
+  const localHour24 = parseInt(new Intl.DateTimeFormat('en-US', {
+    timeZone: tzName,
+    hour: 'numeric',
+    hourCycle: 'h23'
+  }).format(new Date()), 10);
+
+  let konaIcePosts = null;
+  if (localHour24 >= 8 && localHour24 < 20) {
+    console.log("Fetching Kona Ice details...");
+    konaIcePosts = await fetchKonaIceFeed();
+    if (konaIcePosts) {
+      console.log(`Fetched ${konaIcePosts.length} Kona Ice posts.`);
+    }
+  } else {
+    console.log(`Current local hour is ${localHour24}. Skipping Kona Ice check (active only 8 AM - 8 PM).`);
+  }
+
   // 8. Generate Script with Gemini (returns three tones)
   console.log('Generating multi-tone briefing script with Gemini...');
   const toneScripts = await generateBriefingScript({
@@ -99,7 +124,8 @@ async function main() {
     culvers: culversResult,
     emails,
     iss: issResult,
-    events: eventsResult
+    events: eventsResult,
+    konaIcePosts
   });
 
   console.log('\n--- Generated Briefing Scripts (Tones) ---');
@@ -157,6 +183,21 @@ async function main() {
       console.log(`Copied balanced feed to default path: ${defaultOutputPath}`);
     }
   }
+
+  // 10. Format and write the Culver's-only briefing feed
+  const rawCulversText = toneScripts.balanced?.culvers || '';
+  const cleanCulversText = enforceCharacterLimit(fixPronunciations(rawCulversText));
+  const culversFeedItem = {
+    uid: `${cityKey}-culvers-${dateStr}`,
+    updateDate: now.toISOString(),
+    titleText: `${cityName} Culver's Flavor of the Day`,
+    mainText: cleanCulversText,
+    redirectionUrl: culversUrl,
+    generatorModel: toneScripts.usedModel || 'Local Fallback Template'
+  };
+  const culversOutputPath = path.resolve(`${cityKey}-briefing-culvers.json`);
+  await fs.writeFile(culversOutputPath, JSON.stringify([culversFeedItem], null, 2), 'utf-8');
+  console.log(`Successfully wrote Culver's briefing JSON to: ${culversOutputPath}`);
 
   console.log('--- Pipeline Complete ---');
 }

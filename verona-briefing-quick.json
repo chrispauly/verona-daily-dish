@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-quick-weather-2026-07-22",
-    "updateDate": "2026-07-22T02:53:04.416Z",
+    "uid": "verona-quick-weather-2026-07-28",
+    "updateDate": "2026-07-28T01:58:35.198Z",
     "titleText": "Verona Weather",
-    "mainText": "Quick update: At 9 PM it is 67 degrees and clear at Fireman's Park. The overnight low will be 53 degrees with no rain predicted.",
+    "mainText": "Quick update: At 8 PM, it is a clear 84 degrees at Verona City Hall, with an overnight low of 70 degrees and no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-quick-news-2026-07-22",
-    "updateDate": "2026-07-22T02:53:04.416Z",
+    "uid": "verona-quick-news-2026-07-28",
+    "updateDate": "2026-07-28T01:58:35.198Z",
     "titleText": "Verona City News",
-    "mainText": "The city channel VHAT offers local government meetings and public access information on channels 989 or 1989.",
+    "mainText": "Students are invited to design a new I Voted sticker for the upcoming election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-quick-events-2026-07-22",
-    "updateDate": "2026-07-22T02:53:04.416Z",
+    "uid": "verona-quick-events-2026-07-28",
+    "updateDate": "2026-07-28T01:58:35.198Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Hop Haus Trivia is happening today.",
+    "mainText": "Yoga at Insight Wellness is happening today.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-quick-police-2026-07-22",
-    "updateDate": "2026-07-22T02:53:04.416Z",
+    "uid": "verona-quick-police-2026-07-28",
+    "updateDate": "2026-07-28T01:58:35.198Z",
     "titleText": "Verona Police Report",
-    "mainText": "On July 13th, a man was arrested for operating while intoxicated after his vehicle was found stuck on a large rock.",
+    "mainText": "Last Monday, a drone officer assisted in locating a person who fled from a residence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-quick-culvers-2026-07-22",
-    "updateDate": "2026-07-22T02:53:04.416Z",
+    "uid": "verona-quick-culvers-2026-07-28",
+    "updateDate": "2026-07-28T01:58:35.198Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Chocolate Caramel Twist, and you should grab a scoop before they close in an hour.",
+    "mainText": "Today is the perfect time to grab a scoop of the delicious Snickers Swirl flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
