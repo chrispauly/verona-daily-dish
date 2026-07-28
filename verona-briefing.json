@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-28",
-    "updateDate": "2026-07-28T19:30:37.500Z",
+    "updateDate": "2026-07-28T20:25:59.049Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: expect clear skies with a comfortable 84 degrees near Badger Ridge Middle School under a bright full moon.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we are seeing clear skies and a temperature of 84 degrees outside of Verona City Hall, with a full moon rising tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-28",
-    "updateDate": "2026-07-28T19:30:37.500Z",
+    "updateDate": "2026-07-28T20:25:59.049Z",
     "titleText": "Verona City News",
-    "mainText": "The City Clerk's office is currently hosting an I Voted sticker design contest for local students in grades K through 12. Voting is officially open online through August 7, and the winning designs will be featured on stickers used during the November 2026 election.",
+    "mainText": "The City Clerk's Office is excited to announce that community voting for the I Voted sticker design contest is now open. Students submitted 53 designs across four grade categories, and residents can cast their votes online or via paper ballot at City Hall through August 7 to help choose the winning stickers for the November election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-28",
-    "updateDate": "2026-07-28T19:30:37.500Z",
+    "updateDate": "2026-07-28T20:25:59.049Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town, starting with trivia games at Hop Haus and Wisconsin Brewing Company happening today. Tomorrow, you can look forward to the farmer's market, live music, and even more trivia at The Bogey Factory.",
+    "mainText": "There is plenty to do this week in Verona. Today, you can check out trivia at either Hop Haus Brewing Company or Wisconsin Brewing Company. Tomorrow, the downtown Farmer's Market returns to Hometown Junction Park, along with Wednesday pizza at Lake Lou-ee and trivia at the Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-28",
-    "updateDate": "2026-07-28T19:30:37.500Z",
+    "updateDate": "2026-07-28T20:25:59.049Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly police report, officers responded to a domestic disturbance on July 23 in the 400 block of Lucerne Drive, resulting in an arrest for disorderly conduct and intimidation of a victim.",
+    "mainText": "In a report covering July 20 to July 27, the Verona Police Department noted that on July 26, a hit and run crash occurred near West Verona Avenue and Epic Lane, resulting in a citation for an 83-year-old driver.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-28",
-    "updateDate": "2026-07-28T19:30:37.500Z",
+    "updateDate": "2026-07-28T20:25:59.049Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy the Georgia Peach flavor of the day at Culver's, which remains open until 10 PM. While you are out, Kona Ice will also be at Fireman's Park today from 1:30 PM to 4:15 PM.",
+    "mainText": "Our flavor of the day is Georgia Peach, which is a perfect way to cool off since we are open until 10 PM. You can also visit the Kona Ice truck today at Fireman's Park from 1:30 PM to 4:15 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
