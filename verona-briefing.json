@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-28",
-    "updateDate": "2026-07-28T10:49:32.963Z",
+    "updateDate": "2026-07-28T11:40:28.392Z",
     "titleText": "Verona Weather",
-    "mainText": "<speak><voice name=\"Kendra\">Hello, Verona! At 5 AM, we are looking at 69 degrees under overcast skies near the Military Ridge State Trail, plus a beautiful Full Moon above, though there are no ISS sightings to report tonight.</voice></speak>",
+    "mainText": "<speak><voice name=\"Salli\">Hello, Verona! At 6 AM, here is today&apos;s balanced dish: it is 70 degrees and overcast by Harriet Park, and we are currently under a full moon.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-28",
-    "updateDate": "2026-07-28T10:49:32.963Z",
+    "updateDate": "2026-07-28T11:40:28.392Z",
     "titleText": "Verona City News",
-    "mainText": "<speak><voice name=\"Justin\">The Verona Senior Center is now offering rides on their tri-shaw bikes for community members, provided you have a signed waiver on file. Additionally, the City Clerk is accepting designs for a student I Voted sticker contest, with the top designs from each grade category being used in the upcoming November election.</voice></speak>",
+    "mainText": "<speak><voice name=\"Joanna\">The City Clerk is looking for student designs for an I Voted sticker contest to be used in the November election. Also, if you want to participate in the tri-shaw bike program at the Senior Center, please ensure your waiver is signed and turned in.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-28",
-    "updateDate": "2026-07-28T10:49:32.963Z",
+    "updateDate": "2026-07-28T11:40:28.392Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "<speak><voice name=\"Salli\">You have plenty of ways to stay busy this week! Today, you can check out Hop Haus Trivia or Quizmasters at Lake Lou-ee. Tomorrow, look forward to the farmer&apos;s market, yoga at Insight Wellness, and even more trivia at The Bogey Factory.</voice></speak>",
+    "mainText": "<speak><voice name=\"Justin\">We have a busy day of events with Hop Haus Trivia and Quizmasters Trivia both taking place today. Tomorrow, you can look forward to the downtown farmer&apos;s market and more trivia at The Bogey Factory.</voice></speak>",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-28",
-    "updateDate": "2026-07-28T10:49:32.963Z",
+    "updateDate": "2026-07-28T11:40:28.392Z",
     "titleText": "Verona Police Report",
-    "mainText": "<speak><voice name=\"Ivy\">Reviewing the weekly police report, on July 26, a driver was cited for a hit-and-run crash near West Verona Avenue and Epic Lane after an officer located the vehicle involved.</voice></speak>",
+    "mainText": "<speak><voice name=\"Matthew\">Looking at the weekly police report, on July 26, a 55 year old woman was arrested for her first O W I offence after being clocked at 97 miles per hour on the highway.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-28",
-    "updateDate": "2026-07-28T10:49:32.963Z",
+    "updateDate": "2026-07-28T11:40:28.392Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "<speak><voice name=\"Joey\">Satisfy your cravings with today&apos;s flavor of the day, Georgia Peach. Culver&apos;s is currently closed, but they will be ready to serve you starting at 10 AM today.</voice></speak>",
+    "mainText": "<speak><voice name=\"Ivy\">Today&apos;s delicious Flavor of the Day is Georgia Peach. The shop is currently closed, but they open up at 10 AM, so get ready to head over and grab a treat.</voice></speak>",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
