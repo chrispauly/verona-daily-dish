@@ -184,3 +184,56 @@ export async function fetchPoliceRecap() {
     return null;
   }
 }
+
+/**
+ * Fetches the latest Kona Ice of Madison schedule updates from the FetchRSS feed.
+ */
+export async function fetchKonaIceFeed() {
+  const url = process.env.KONA_ICE_RSS_FEED;
+  if (!url) {
+    console.log("Kona Ice RSS feed URL is not set in .env. Skipping.");
+    return null;
+  }
+
+  const parser = new XMLParser();
+
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      console.warn(`Failed to fetch Kona Ice RSS feed: ${url}, status: ${response.status}`);
+      return null;
+    }
+
+    const xml = await response.text();
+    const jsonObj = parser.parse(xml);
+    
+    let items = jsonObj.rss?.channel?.item || [];
+    if (!Array.isArray(items)) {
+      items = [items];
+    }
+
+    const cleanedItems = items.map(item => {
+      const title = item.title || '';
+      const rawDesc = item.description || '';
+      const pubDateStr = item.pubDate || '';
+
+      // Clean description HTML: replace <br> with newlines, then strip tags
+      const cleanDesc = rawDesc
+        .replace(/<br\s*\/?>/gi, '\n')
+        .replace(/<[^>]*>/g, '')
+        .trim();
+
+      return {
+        title: title.trim(),
+        description: cleanDesc,
+        pubDate: pubDateStr ? new Date(pubDateStr) : new Date()
+      };
+    });
+
+    return cleanedItems;
+  } catch (error) {
+    console.error('Error fetching Kona Ice RSS feed:', error.message);
+    return null;
+  }
+}
+
