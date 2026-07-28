@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-28",
-    "updateDate": "2026-07-28T01:58:35.198Z",
+    "updateDate": "2026-07-28T03:01:40.100Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, we are enjoying clear skies and a full moon at Verona City Hall. If you look toward the west southwest over Mount Horeb at 9:40 PM, you can catch a glimpse of the space station as it travels toward the southwest, remaining low on the horizon. The overnight low will be 70 degrees, and there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 10 PM, it is a clear 81 degrees at Verona Community Park under a full moon, with no visible ISS passes to report. Tonight, we will see a low of 69 degrees, and you do not need to worry about rain as none is predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-28",
-    "updateDate": "2026-07-28T01:58:35.198Z",
+    "updateDate": "2026-07-28T03:01:40.100Z",
     "titleText": "Verona City News",
-    "mainText": "The city has two major updates. First, the Senior Center is rolling out their tri-shaw bike program, which requires a signed waiver. Second, the City Clerk is hosting an I Voted sticker design contest for students grades K through 12, with winning designs being used in the November 2026 election.",
+    "mainText": "The city has two important updates. Residents interested in the tri-shaw program should note that a waiver is required, which may need a witness signature or an in-person visit to the senior center. Additionally, the City Clerk is hosting an I Voted sticker contest for students, with voting for the top designs open through August 7.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-28",
-    "updateDate": "2026-07-28T01:58:35.198Z",
+    "updateDate": "2026-07-28T03:01:40.100Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can head to Insight Wellness for yoga. Tomorrow is a big day for trivia lovers with events at Hop Haus, Lake Lou-ee, and Paddy Mac's, and the farmer's market returns to Hometown Junction Park this Wednesday.",
+    "mainText": "Today, you can join Yoga at Insight Wellness. Tomorrow, trivia fans have plenty of options with events at Hop Haus and Lake Lou-ee, followed by more trivia and live music throughout the week at venues like Paddy Mac's and The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-28",
-    "updateDate": "2026-07-28T01:58:35.198Z",
+    "updateDate": "2026-07-28T03:01:40.100Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the report from last Monday, a Verona drone officer assisted the Dane County Sheriff's office in locating an individual who fled from a residence in the town of Springdale.",
+    "mainText": "In our weekly police report, on July 26, an officer stopped a vehicle for traveling 97 miles per hour on the highway, resulting in the driver being arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-28",
-    "updateDate": "2026-07-28T01:58:35.198Z",
+    "updateDate": "2026-07-28T03:01:40.100Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day at Culver's is Snickers Swirl. They are open until 10 PM tonight, so you still have plenty of time to stop by for a treat.",
+    "mainText": "Today is the perfect day to enjoy the Snickers Swirl flavor of the day. The shop is currently closed, but they will open their doors at 10 AM tomorrow, when the flavor of the day will be Georgia Peach.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
