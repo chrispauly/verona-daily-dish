@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-28",
-    "updateDate": "2026-07-28T15:45:47.398Z",
+    "updateDate": "2026-07-28T16:32:33.990Z",
     "titleText": "Verona Weather",
-    "mainText": "<speak><voice name=\"Salli\">Hello, Verona! At 10 AM, we are enjoying mainly clear skies at Badger Prairie County Park with a pleasant temperature of 76 degrees and a full moon shining bright tonight.</voice></speak>",
+    "mainText": "<speak><voice name=\"Justin\">Hello, Verona! At 11 AM, here is today&apos;s balanced dish: it is 79 degrees under clear skies at the Verona Public Library. We are also under a full moon tonight.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-28",
-    "updateDate": "2026-07-28T15:45:47.398Z",
+    "updateDate": "2026-07-28T16:32:33.990Z",
     "titleText": "Verona City News",
-    "mainText": "<speak><voice name=\"Joey\">The City of Verona is excited to announce that community voting is officially open for the I Voted sticker design contest. Students submitted 53 unique designs, and now it is your turn to pick the winners in four different grade categories. You can cast your vote online at the city website until 11:59 PM on August 7, or stop by City Hall during in-person absentee voting hours to use a paper ballot.</voice></speak>",
+    "mainText": "<speak><voice name=\"Joanna\">The City of Verona is looking for your help with the I Voted sticker contest. Verona students submitted 53 designs, and now community members can vote for their favorites in four grade-level categories through August 7. You can cast your vote online or in person at City Hall during absentee voting hours.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-28",
-    "updateDate": "2026-07-28T15:45:47.398Z",
+    "updateDate": "2026-07-28T16:32:33.990Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "<speak><voice name=\"Joanna\">There is plenty to do this week. Today, you can join in for Hop Haus Trivia or Quizmasters Trivia at Wisconsin Brewing Company. Tomorrow, check out the Verona Downtown Farmer&apos;s Market, yoga at Insight Wellness, or Wednesday Trivia at The Bogey Factory.</voice></speak>",
+    "mainText": "<speak><voice name=\"Kendra\">We have a busy couple of days ahead. Today, you can catch trivia at Hop Haus or Wisconsin Brewing Company. Tomorrow, the lineup includes the Verona Downtown Farmer&apos;s Market, Yoga at Insight Wellness, Wednesday Pizza and a Pitcher at Wisconsin Brewing Company, and trivia at The Bogey Factory.</voice></speak>",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-28",
-    "updateDate": "2026-07-28T15:45:47.398Z",
+    "updateDate": "2026-07-28T16:32:33.990Z",
     "titleText": "Verona Police Report",
-    "mainText": "<speak><voice name=\"Justin\">In our weekly police report, on July 26, an officer stopped a vehicle traveling 97 miles per hour on Highway 18-151. The driver was found to be impaired and was arrested for an O W I, which is their first offence.</voice></speak>",
+    "mainText": "<speak><voice name=\"Kimberly\">Looking at the weekly report, officers were dispatched to a residence on Lucerne Drive on July 23 for a domestic disturbance, which led to a 23-year-old man being arrested for disorderly conduct and intimidation of a victim.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-28",
-    "updateDate": "2026-07-28T15:45:47.398Z",
+    "updateDate": "2026-07-28T16:32:33.990Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "<speak><voice name=\"Kimberly\">Make sure to stop by Culver&apos;s today to enjoy their Georgia Peach flavor of the day. They are open until 10 PM this evening, giving you plenty of time to satisfy your sweet tooth.</voice></speak>",
+    "mainText": "<speak><voice name=\"Matthew\">The flavor of the day is Caramel Pecan. The shop is open until 11 PM, so you still have plenty of time to head over and enjoy a scoop or two.</voice></speak>",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
