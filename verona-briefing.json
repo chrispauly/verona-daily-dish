@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-28",
-    "updateDate": "2026-07-28T12:35:26.917Z",
+    "updateDate": "2026-07-28T13:33:24.191Z",
     "titleText": "Verona Weather",
-    "mainText": "<speak><voice name=\"Joey\">Hello, Verona! At 7 AM, here is today&apos;s balanced dish: we have partly cloudy skies and 70 degree temperatures out at the Military Ridge State Trail, under the glow of a full moon.</voice></speak>",
+    "mainText": "<speak><voice name=\"Matthew\">Hello, Verona! At 8 AM, here is today&apos;s balanced dish: we are seeing partly cloudy skies and a temperature of 72 degrees at Verona City Hall, under the light of a full moon.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-28",
-    "updateDate": "2026-07-28T12:35:26.917Z",
+    "updateDate": "2026-07-28T13:33:24.191Z",
     "titleText": "Verona City News",
-    "mainText": "<speak><voice name=\"Kendra\">The city is currently seeking votes for the I Voted sticker design contest, open through August 7, and the Senior Center is reminding residents to submit their waivers for the popular tri-shaw program, which offers scenic bike rides along the local trails.</voice></speak>",
+    "mainText": "<speak><voice name=\"Kimberly\">The city is inviting everyone to participate in the I Voted sticker design contest. Students from grades K through 12 submitted 53 creative designs, and now the community can vote online or at City Hall through August 7 to select the four winning designs for our November election.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-28",
-    "updateDate": "2026-07-28T12:35:26.917Z",
+    "updateDate": "2026-07-28T13:33:24.191Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "<speak><voice name=\"Justin\">We have a packed schedule with trivia at both Hop Haus and Wisconsin Brewing Company today, followed by the Downtown Farmer&apos;s Market and more trivia at The Bogey Factory tomorrow.</voice></speak>",
+    "mainText": "<speak><voice name=\"Kendra\">There is plenty to do in our area. Today, you can catch trivia at Hop Haus Brewing Company or Wisconsin Brewing Company. Tomorrow, check out the Downtown Farmer&apos;s Market at Hometown Junction Park or enjoy live music at Paddy Mac&apos;s.</voice></speak>",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-28",
-    "updateDate": "2026-07-28T12:35:26.917Z",
+    "updateDate": "2026-07-28T13:33:24.191Z",
     "titleText": "Verona Police Report",
-    "mainText": "<speak><voice name=\"Ivy\">Regarding the weekly safety report, on July 26, an 83-year-old driver was cited for an improper left turn and a hit and run crash near the intersection of West Verona Avenue and Epic Lane.</voice></speak>",
+    "mainText": "<speak><voice name=\"Salli\">Looking at the police report from July 20 to July 27, officers handled various calls. Notably, on July 26, a driver was arrested for an O W I after being stopped for traveling 97 miles per hour on US Highways 18 and 151.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-28",
-    "updateDate": "2026-07-28T12:35:26.917Z",
+    "updateDate": "2026-07-28T13:33:24.191Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "<speak><voice name=\"Matthew\">It is a perfect day for the Georgia Peach flavor, and while the shop is currently closed, you can grab a scoop starting at 10 AM today. If you are planning ahead, tomorrow features Caramel Peanut Buttercup.</voice></speak>",
+    "mainText": "<speak><voice name=\"Ivy\">The Culver&apos;s flavor of the day is Georgia Peach. While they are currently closed, you can stop by when they open their doors at 10 AM today. If you are looking for tomorrow&apos;s treat, they will be serving Caramel Peanut Buttercup.</voice></speak>",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
