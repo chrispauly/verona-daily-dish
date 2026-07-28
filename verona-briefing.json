@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-28",
-    "updateDate": "2026-07-28T13:33:24.191Z",
+    "updateDate": "2026-07-28T14:49:28.061Z",
     "titleText": "Verona Weather",
-    "mainText": "<speak><voice name=\"Matthew\">Hello, Verona! At 8 AM, here is today&apos;s balanced dish: we are seeing partly cloudy skies and a temperature of 72 degrees at Verona City Hall, under the light of a full moon.</voice></speak>",
+    "mainText": "<speak><voice name=\"Kimberly\">Hello, Verona! At 9 AM, here is today&apos;s balanced dish: we have a pleasant 72 degrees with partly cloudy skies at Harriet Park, and we have a full moon gracing us this evening.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-28",
-    "updateDate": "2026-07-28T13:33:24.191Z",
+    "updateDate": "2026-07-28T14:49:28.061Z",
     "titleText": "Verona City News",
-    "mainText": "<speak><voice name=\"Kimberly\">The city is inviting everyone to participate in the I Voted sticker design contest. Students from grades K through 12 submitted 53 creative designs, and now the community can vote online or at City Hall through August 7 to select the four winning designs for our November election.</voice></speak>",
+    "mainText": "<speak><voice name=\"Salli\">The city has launched the I Voted sticker contest where residents can vote online through August 7 to pick designs from four student grade categories for the November election.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-28",
-    "updateDate": "2026-07-28T13:33:24.191Z",
+    "updateDate": "2026-07-28T14:49:28.061Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "<speak><voice name=\"Kendra\">There is plenty to do in our area. Today, you can catch trivia at Hop Haus Brewing Company or Wisconsin Brewing Company. Tomorrow, check out the Downtown Farmer&apos;s Market at Hometown Junction Park or enjoy live music at Paddy Mac&apos;s.</voice></speak>",
+    "mainText": "<speak><voice name=\"Ivy\">Tonight is a great night for trivia with events happening today at both Hop Haus Brewing and Wisconsin Brewing Company, followed by tomorrow&apos;s farmer&apos;s market in downtown Verona.</voice></speak>",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-28",
-    "updateDate": "2026-07-28T13:33:24.191Z",
+    "updateDate": "2026-07-28T14:49:28.061Z",
     "titleText": "Verona Police Report",
-    "mainText": "<speak><voice name=\"Salli\">Looking at the police report from July 20 to July 27, officers handled various calls. Notably, on July 26, a driver was arrested for an O W I after being stopped for traveling 97 miles per hour on US Highways 18 and 151.</voice></speak>",
+    "mainText": "<speak><voice name=\"Joanna\">In our weekly police report, on July 26, a 55-year-old Stoughton woman was arrested for an O W I after being clocked at 97 miles per hour on the highway.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-28",
-    "updateDate": "2026-07-28T13:33:24.191Z",
+    "updateDate": "2026-07-28T14:49:28.061Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "<speak><voice name=\"Ivy\">The Culver&apos;s flavor of the day is Georgia Peach. While they are currently closed, you can stop by when they open their doors at 10 AM today. If you are looking for tomorrow&apos;s treat, they will be serving Caramel Peanut Buttercup.</voice></speak>",
+    "mainText": "<speak><voice name=\"Joey\">Today&apos;s flavor of the day is Georgia Peach. Culver&apos;s is currently closed but will open at 10 AM, and tomorrow you can look forward to the Caramel Peanut Buttercup flavor.</voice></speak>",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
