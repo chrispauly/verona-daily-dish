@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-28",
-    "updateDate": "2026-07-28T07:51:41.909Z",
+    "updateDate": "2026-07-28T08:55:07.835Z",
     "titleText": "Verona Weather",
-    "mainText": "<speak><voice name=\"Kendra\">Hello, Verona! At 2 AM, here is today&apos;s balanced dish: it is 74 degrees with a feels-like temperature of 76 under overcast skies at Harriet Park, and we have a full moon out tonight.</voice></speak>",
+    "mainText": "<speak><voice name=\"Kendra\">Hello, Verona! At 3 AM, here is today&apos;s balanced dish. We are seeing clear skies and a lovely full moon tonight near the Military Ridge State Trail.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-28",
-    "updateDate": "2026-07-28T07:51:41.909Z",
+    "updateDate": "2026-07-28T08:55:07.835Z",
     "titleText": "Verona City News",
-    "mainText": "<speak><voice name=\"Salli\">The City Clerk is looking for student designs for an I Voted sticker, and the Verona Senior Center is now offering rides on their tri-shaw bike along the Military Ridge State Trail for those who sign the liability waiver.</voice></speak>",
+    "mainText": "<speak><voice name=\"Matthew\">The city is hosting an I Voted sticker contest for students to get involved in the local election process, and the Senior Center has updated their tri-shaw program waiver which requires a witness for all participants.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-28",
-    "updateDate": "2026-07-28T07:51:41.909Z",
+    "updateDate": "2026-07-28T08:55:07.835Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "<speak><voice name=\"Matthew\">We have plenty of fun ahead with Hop Haus Trivia and Quizmasters Trivia both taking place today, followed by the Verona Downtown Farmer&apos;s Market tomorrow.</voice></speak>",
+    "mainText": "<speak><voice name=\"Joey\">There is plenty to do with trivia at Hop Haus and Wisconsin Brewing Company today, followed by yoga and the downtown farmer&apos;s market tomorrow.</voice></speak>",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-28",
-    "updateDate": "2026-07-28T07:51:41.909Z",
+    "updateDate": "2026-07-28T08:55:07.835Z",
     "titleText": "Verona Police Report",
-    "mainText": "<speak><voice name=\"Justin\">Looking at the police report from the past week, on July 21, a Verona Police Department drone officer assisted the Dane County Sheriff&apos;s Office in locating someone who had fled from a residence.</voice></speak>",
+    "mainText": "<speak><voice name=\"Kimberly\">In a noteworthy call from July 23, officers responded to a domestic disturbance on Lucerne Drive where a 23-year-old man was arrested for disorderly conduct and O W I related charges were not involved in that specific incident.</voice></speak>",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-28",
-    "updateDate": "2026-07-28T07:51:41.909Z",
+    "updateDate": "2026-07-28T08:55:07.835Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "<speak><voice name=\"Joanna\">The delicious flavor of the day is Georgia Peach. The shop is currently closed but will be ready to serve you starting at 10 AM.</voice></speak>",
+    "mainText": "<speak><voice name=\"Joanna\">Today&apos;s flavor is Georgia Peach, but since the store is currently closed, head over when they open at 10:00 AM. Tomorrow you can look forward to Caramel Peanut Buttercup.</voice></speak>",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
