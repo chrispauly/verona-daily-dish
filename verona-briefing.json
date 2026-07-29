@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-29",
-    "updateDate": "2026-07-29T00:24:28.641Z",
+    "updateDate": "2026-07-29T01:33:41.837Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. We have clear skies near Badger Ridge Middle School and a full moon tonight, but be aware of the elevated air quality index of 55. We will see an overnight low of 62 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 8 PM, we are enjoying clear skies under a full moon at Verona Community Park with temperatures around 75 degrees. The air quality index is currently 55, so keep that in mind if you are heading out. We are looking at a quiet night with an overnight low of 62 degrees and no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-29",
-    "updateDate": "2026-07-29T00:24:28.641Z",
+    "updateDate": "2026-07-29T01:33:41.837Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is currently running an I Voted sticker design contest featuring artwork from local students across all grade levels. You can view and vote for your favorite designs online through August 7 to help decide which ones will be used in the November election.",
+    "mainText": "The city is hosting an I Voted sticker design contest to get students involved in the election process. Voters in November will be using stickers designed by local students from grades K-12. You can view the designs and cast your vote online through August 7 at the city website.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-29",
-    "updateDate": "2026-07-29T00:24:28.641Z",
+    "updateDate": "2026-07-29T01:33:41.837Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our city, including trivia happening today at Hop Haus Brewing Company and Wisconsin Brewing Company. Tomorrow, check out the Verona Downtown Farmer's Market or enjoy pizza and a pitcher at Wisconsin Brewing Company.",
+    "mainText": "Tonight, you can catch trivia at Hop Haus or Wisconsin Brewing Company. Tomorrow, the fun continues with the farmer's market at Hometown Junction Park, plus yoga and more trivia nights at local venues.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-29",
-    "updateDate": "2026-07-29T00:24:28.641Z",
+    "updateDate": "2026-07-29T01:33:41.837Z",
     "titleText": "Verona Police Report",
-    "mainText": "In terms of our weekly report, on last Sunday a drone officer assisted the Dane County Sheriff's office in locating an individual who had fled a residence in the Town of Springdale.",
+    "mainText": "In a report covering July 20 to July 27, officers dealt with a variety of calls. On Wednesday, July 23, officers were dispatched to Lucerne Drive where a 23-year-old man was arrested for disorderly conduct and intimidation of a victim.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-29",
-    "updateDate": "2026-07-29T00:24:28.641Z",
+    "updateDate": "2026-07-29T01:33:41.837Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is a great day to stop by for the Georgia Peach flavor of the day, and you can also visit the Kona Ice truck at Fireman's Park today between 1:30 PM and 4:15 PM.",
+    "mainText": "The flavor of the day is Georgia Peach. Culver's is open until 10 PM tonight, so there is plenty of time to grab a treat before they close.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
