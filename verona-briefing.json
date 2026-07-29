@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-29",
-    "updateDate": "2026-07-29T08:57:28.067Z",
+    "updateDate": "2026-07-29T09:56:47.529Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: the temperature is 61 degrees with clear skies at Verona City Hall. We are currently under an elevated air quality alert with an index of 55, and the night sky is illuminated by a Full Moon.",
+    "mainText": "Hello, Verona! At 4 AM, the temperature is 60 degrees with clear skies around Verona City Hall and a full moon shining, though the air quality index is at a moderate 55.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-29",
-    "updateDate": "2026-07-29T08:57:28.067Z",
+    "updateDate": "2026-07-29T09:56:47.529Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is inviting the community to participate in the I Voted sticker design contest. Students in grades K-12 submitted 53 original designs, and now it is your turn to head online to the city website to vote for your favorites in four age categories through August 7. The winning stickers will be featured at the polls this November.",
+    "mainText": "The city is hosting an I Voted sticker contest for students in grades K through 12. Voting is open now through midnight on August 7 for the designs that will be featured in the November election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-29",
-    "updateDate": "2026-07-29T08:57:28.067Z",
+    "updateDate": "2026-07-29T09:56:47.529Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule today, including the Verona Downtown Farmer's Market at Hometown Junction Park, Yoga at Insight Wellness, and Trivia Night at The Bogey Factory. Looking ahead, you can enjoy Concerts in the Park tomorrow at Century School Park.",
+    "mainText": "Today, you can check out the Downtown Farmer's Market, yoga at Insight Wellness, or trivia at The Bogey Factory. Tomorrow, look forward to Concerts in the Park at Century School Park and trivia at Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-29",
-    "updateDate": "2026-07-29T08:57:28.067Z",
+    "updateDate": "2026-07-29T09:56:47.529Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on July 26, officers responded to a hit and run crash at West Verona Avenue and Epic Lane where the driver was cited for an improper left turn.",
+    "mainText": "In a notable incident this past Saturday, a 55-year-old woman was arrested for O W I after she was pulled over for driving 97 miles per hour on the highway.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-29",
-    "updateDate": "2026-07-29T08:57:28.067Z",
+    "updateDate": "2026-07-29T09:56:47.529Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Caramel Peanut Buttercup. The store is currently closed but will open at 10 AM today. If you are looking for tomorrow's treat, get ready for Caramel Turtle.",
+    "mainText": "Today, you can enjoy the delicious Caramel Peanut Buttercup. The restaurant is currently closed but will open its doors at 10 AM for all your custard cravings.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
