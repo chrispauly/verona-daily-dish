@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-29",
-    "updateDate": "2026-07-29T10:54:25.859Z",
+    "updateDate": "2026-07-29T11:44:05.411Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we have clear skies over Reddan Soccer Park with a temperature of 60 degrees and an air quality index of 63, which is considered moderate. We also have a full moon out there tonight.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: we have clear skies and a temperature of 59 degrees at Badger Prairie County Park, though please note that the air quality is at a moderate level of 64.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-29",
-    "updateDate": "2026-07-29T10:54:25.859Z",
+    "updateDate": "2026-07-29T11:44:05.411Z",
     "titleText": "Verona City News",
-    "mainText": "The City Clerk's office has launched a community vote for the I Voted sticker contest. Verona area students submitted 53 original designs, and residents are encouraged to vote online for their favorite sticker in each age category through August 7 to determine what will be used in the November election.",
+    "mainText": "The City Clerk's Office has launched an I Voted sticker design contest for local students to help create our official stickers for the November election. Community voting for the top designs is now open online through August 7.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-29",
-    "updateDate": "2026-07-29T10:54:25.859Z",
+    "updateDate": "2026-07-29T11:44:05.411Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy day in Verona today. You can stop by the downtown Farmer's Market at Hometown Junction Park, check out Yoga at Insight Wellness, enjoy lunch at the Wednesday Pizza and a Pitcher event at Wisconsin Brewing Company, or head to Trivia Night at The Bogey Factory. Tomorrow, look forward to Concerts in the Park at Century School Park and Hop Haus Trivia.",
+    "mainText": "There is plenty happening in Verona, starting today with the Downtown Farmer's Market at Hometown Junction Park, Wednesday Pizza and a Pitcher at Wisconsin Brewing Company, and Trivia Night at The Bogey Factory. Tomorrow, look forward to Concerts in the Park at Century School Park and Hop Haus Trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-29",
-    "updateDate": "2026-07-29T10:54:25.859Z",
+    "updateDate": "2026-07-29T11:44:05.411Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report on notable calls, police noted that on Saturday, July 26, an 83 year old woman was cited for an improper left turn and hit and run following a crash near West Verona Avenue and Epic Lane.",
+    "mainText": "In a report regarding noteworthy calls for service, on July 26, officers arrested a driver for an O W I after stopping them for speeding at 97 miles per hour on US Highways 18 and 151.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-29",
-    "updateDate": "2026-07-29T10:54:25.859Z",
+    "updateDate": "2026-07-29T11:44:05.411Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Caramel Peanut Buttercup. Since the restaurant is currently closed, please note they will reopen at 10 AM today. Tomorrow, you can look forward to the Caramel Turtle flavor.",
+    "mainText": "Today's flavor is the delicious Caramel Peanut Buttercup. Culver's is currently closed, but they will open at 10 AM today. If you are looking for tomorrow's treat, it will be Caramel Turtle.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
