@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-29",
-    "updateDate": "2026-07-29T13:34:32.917Z",
+    "updateDate": "2026-07-29T14:46:14.623Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we are seeing clear skies and 70 degrees at the Verona Community Park. Please be aware that we are under an air quality alert with an index of 63.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we have clear skies and a temperature of 75 degrees at the Verona Public Library, but please note that our air quality is currently at a moderate level of 62.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-29",
-    "updateDate": "2026-07-29T13:34:32.917Z",
+    "updateDate": "2026-07-29T14:46:14.623Z",
     "titleText": "Verona City News",
-    "mainText": "The city is hosting an I Voted sticker design contest for local students to help shape our November election experience. Voting for the winning designs is currently open to the public through August 7, and you can participate either online or by using paper forms at City Hall.",
+    "mainText": "The City Clerk is hosting an I Voted sticker design contest where residents can vote online through August 7 to pick the artwork that will be featured on stickers for the November election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-29",
-    "updateDate": "2026-07-29T13:34:32.917Z",
+    "updateDate": "2026-07-29T14:46:14.623Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, including the Verona Downtown Farmer's Market happening today at Hometown Junction Park. Later this week, look forward to Concerts in the Park tomorrow at Century School Park and Hop Haus Trivia tomorrow evening.",
+    "mainText": "Today is packed with activities, including the Downtown Farmers Market and evening trivia, plus keep an eye out for tomorrow, when Concerts in the Park returns to Century School Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-29",
-    "updateDate": "2026-07-29T13:34:32.917Z",
+    "updateDate": "2026-07-29T14:46:14.623Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local activity, on Monday, July 27, a Verona Police Department drone officer assisted the Dane County Sheriff's Office in locating an individual who had fled from a residence in the Town of Springdale.",
+    "mainText": "In our police report for the week, we noted that on July 26, a driver was arrested for an O W I after being stopped for traveling 97 miles per hour on the highway.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-29",
-    "updateDate": "2026-07-29T13:34:32.917Z",
+    "updateDate": "2026-07-29T14:46:14.623Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Caramel Peanut Buttercup. The shop opens at 10 AM, so head over to get your scoop. You can also catch Kona Ice today at Fireman's Park from 11 AM to 4:30 PM or at the Verona Farmers Market from 3 PM to 6:30 PM.",
+    "mainText": "Today's flavor is Caramel Peanut Buttercup, and since the store opens at 10 AM, you have plenty of time to stop by, plus you can find Kona Ice at Firemans Park from 11 AM to 4 30 PM and at the Farmers Market from 3 PM to 6 30 PM today.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
