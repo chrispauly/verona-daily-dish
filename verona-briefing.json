@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-29",
-    "updateDate": "2026-07-29T01:33:41.837Z",
+    "updateDate": "2026-07-29T03:01:44.586Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, we are enjoying clear skies under a full moon at Verona Community Park with temperatures around 75 degrees. The air quality index is currently 55, so keep that in mind if you are heading out. We are looking at a quiet night with an overnight low of 62 degrees and no rain expected.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. We have clear skies and a full moon over Verona Community Park with a temperature of 71 degrees and an air quality index of 55, while we look forward to an overnight low of 62 with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-29",
-    "updateDate": "2026-07-29T01:33:41.837Z",
+    "updateDate": "2026-07-29T03:01:44.586Z",
     "titleText": "Verona City News",
-    "mainText": "The city is hosting an I Voted sticker design contest to get students involved in the election process. Voters in November will be using stickers designed by local students from grades K-12. You can view the designs and cast your vote online through August 7 at the city website.",
+    "mainText": "The City Clerk is hosting an I Voted sticker design contest where students in grades K through 12 submitted 53 original designs. The community is invited to vote online or at City Hall for their favorite designs through August 7 to determine the stickers used in the November election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-29",
-    "updateDate": "2026-07-29T01:33:41.837Z",
+    "updateDate": "2026-07-29T03:01:44.586Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Tonight, you can catch trivia at Hop Haus or Wisconsin Brewing Company. Tomorrow, the fun continues with the farmer's market at Hometown Junction Park, plus yoga and more trivia nights at local venues.",
+    "mainText": "There is plenty to do with Hop Haus Trivia and Lake Lou-ee Trivia taking place today, followed by tomorrow featuring the Farmer's Market and Yoga at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-29",
-    "updateDate": "2026-07-29T01:33:41.837Z",
+    "updateDate": "2026-07-29T03:01:44.586Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering July 20 to July 27, officers dealt with a variety of calls. On Wednesday, July 23, officers were dispatched to Lucerne Drive where a 23-year-old man was arrested for disorderly conduct and intimidation of a victim.",
+    "mainText": "In a noteworthy call from last Monday, July 27, an officer located a driver involved in a hit and run crash near West Verona Avenue and Epic Lane.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-29",
-    "updateDate": "2026-07-29T01:33:41.837Z",
+    "updateDate": "2026-07-29T03:01:44.586Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Georgia Peach. Culver's is open until 10 PM tonight, so there is plenty of time to grab a treat before they close.",
+    "mainText": "Today's flavor of the day is delicious Turtle. Culver's of Verona is currently open, but since it is almost 11 PM, they will be closing in less than an hour, so get there soon.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
