@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-30",
-    "updateDate": "2026-07-30T11:37:16.076Z",
+    "updateDate": "2026-07-30T12:33:23.370Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish. We have clear skies and a temperature of 60 degrees over at Reddan Soccer Park, with a full moon visible.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: the weather is a pleasant 65 degrees under clear skies at Fireman's Park, with a full moon visible.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-30",
-    "updateDate": "2026-07-30T11:37:16.076Z",
+    "updateDate": "2026-07-30T12:33:23.370Z",
     "titleText": "Verona City News",
-    "mainText": "The city has launched a new rain barrel rebate program offering credits to property owners who install at least 35-gallon barrels, and residents are also encouraged to vote for the upcoming I Voted sticker contest before August 7.",
+    "mainText": "The City of Verona has launched a rain barrel rebate program where residents can earn a 30 dollar credit per 35-gallon barrel. Additionally, the Nine Mound Road and Mark Drive intersection will be closed from August 5 to August 7 for construction.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-30",
-    "updateDate": "2026-07-30T11:37:16.076Z",
+    "updateDate": "2026-07-30T12:33:23.370Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy lineup today with Yoga at Insight Wellness, Concerts in the Park, and Hop Haus Trivia, while tomorrow brings live music at Bailey's Run and Wisconsin Brewing Company.",
+    "mainText": "We have a busy day in store with Yoga at Insight Wellness, Concerts in the Park at Century School Park, and trivia at Hop Haus Brewing Co all taking place today.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-30",
-    "updateDate": "2026-07-30T11:37:16.076Z",
+    "updateDate": "2026-07-30T12:33:23.370Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident from last Wednesday, a 23-year-old local man was taken into custody for disorderly conduct and intimidation of a victim.",
+    "mainText": "In our weekly update, we noted that on Sunday, July 26, a driver was arrested for an O W I after being stopped for traveling 97 miles per hour on the highway.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-30",
-    "updateDate": "2026-07-30T11:37:16.076Z",
+    "updateDate": "2026-07-30T12:33:23.370Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's of Verona is currently closed but will open its doors at 10 AM. While today's flavor is unknown, we look forward to seeing what they serve up for the community once they open for the day.",
+    "mainText": "Today's flavor of the day is the delightful Turtle Cheesecake. Please note the store is currently closed and will open its doors at 10:00 AM. If you are looking ahead, tomorrow's flavor will be Turtle Dove.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
