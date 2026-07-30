@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-30",
-    "updateDate": "2026-07-30T00:25:04.460Z",
+    "updateDate": "2026-07-30T01:33:04.206Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 82 degrees by the Verona Public Library with a full moon overhead and an elevated AQI of 57. We expect an overnight low of 63 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: skies are clear over City Hall under a full moon with a moderate air quality reading of 56, an overnight low of 63, and no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-30",
-    "updateDate": "2026-07-30T00:25:04.460Z",
+    "updateDate": "2026-07-30T01:33:04.206Z",
     "titleText": "Verona City News",
-    "mainText": "The city has a new rain barrel rebate program offering up to 30 dollars per 35-gallon barrel, and don't forget that voting for our new I Voted sticker design contest is open online until August 7.",
+    "mainText": "The City of Verona is rolling out a rain barrel rebate program to help residents manage stormwater, offering up to 30 dollars per barrel for eligible installations. Additionally, the intersection at Nine Mound Road and Mark Drive will be closed from August 5 through August 7 for essential utility work.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-30",
-    "updateDate": "2026-07-30T00:25:04.460Z",
+    "updateDate": "2026-07-30T01:33:04.206Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today, including yoga at Insight Wellness and trivia at The Bogey Factory, while tomorrow we can look forward to Concerts in the Park and trivia at Hop Haus.",
+    "mainText": "We have plenty to enjoy with the downtown farmer's market happening today, plus trivia night at the Bogey Factory. Looking ahead, you can enjoy free live music tomorrow during the Concerts in the Park series at Century School Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-30",
-    "updateDate": "2026-07-30T00:25:04.460Z",
+    "updateDate": "2026-07-30T01:33:04.206Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding recent activity, on Wednesday, July 22, two juveniles were cited by the Verona Police Department for operating their e-motos on Lincoln Street.",
+    "mainText": "In a report regarding service calls, officers responded on Thursday, July 23, to a residence on Lucerne Drive where a 23-year-old man was arrested for disorderly conduct and intimidation of a victim.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-30",
-    "updateDate": "2026-07-30T00:25:04.460Z",
+    "updateDate": "2026-07-30T01:33:04.206Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Caramel Peanut Buttercup, and you can also find Kona Ice at Fireman's Park until 4:30 PM and the Farmers Market from 3 PM to 6:30 PM.",
+    "mainText": "The flavor of the day is the delightful Caramel Peanut Buttercup, and you can pick up a scoop before the doors close at 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
