@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-30",
-    "updateDate": "2026-07-30T09:50:10.457Z",
+    "updateDate": "2026-07-30T10:43:16.019Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: we have clear skies and a temperature of 61 degrees at Verona Community Park, all under the glow of a full moon.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we have clear skies and a temperature of 60 degrees near the Verona Public Library, all under the glow of a full moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-30",
-    "updateDate": "2026-07-30T09:50:10.457Z",
+    "updateDate": "2026-07-30T10:43:16.019Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has launched a rain barrel rebate program offering thirty dollars in credits per barrel, and don't forget to vote online by August 7 for your favorite I Voted sticker design.",
+    "mainText": "The city is launching a rain barrel rebate program where you can earn a 30 dollar credit on your utility bill for installing qualifying barrels. Additionally, the intersection at Nine Mound Road and Mark Drive will be closed from August 5 through August 7 for construction.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-30",
-    "updateDate": "2026-07-30T09:50:10.457Z",
+    "updateDate": "2026-07-30T10:43:16.019Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy day today with Yoga at Insight Wellness, Concerts in the Park at Century School Park, and Hop Haus Trivia, plus look forward to live music at Bailey's Run and Lake Lou-ee tomorrow.",
+    "mainText": "We have a busy schedule ahead. Today you can enjoy Yoga at Insight Wellness, Concerts in the Park, or Hop Haus Trivia. Tomorrow features music at Bailey's Run and Lake Lou-ee, while the weekend brings the Dane County Farmers' Market and music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-30",
-    "updateDate": "2026-07-30T09:50:10.457Z",
+    "updateDate": "2026-07-30T10:43:16.019Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on July 26, officers arrested a fifty-five-year-old woman for an O W I after she was stopped for driving 97 miles per hour on the highway.",
+    "mainText": "In a look at the weekly report, officers arrested a 23-year-old man on Wednesday, July 23, following a domestic disturbance call on Lucerne Drive.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-30",
-    "updateDate": "2026-07-30T09:50:10.457Z",
+    "updateDate": "2026-07-30T10:43:16.019Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delicious Caramel Turtle. Since the restaurant is currently closed, be sure to head over once they open their doors at 10 AM, and look forward to Raspberry Cheesecake tomorrow.",
+    "mainText": "Today's flavor of the day is the delightful Caramel Turtle. The store is currently closed, but they will be opening their doors at 10:00 AM today for you to get your fix.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
