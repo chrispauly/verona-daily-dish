@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-30",
-    "updateDate": "2026-07-30T21:24:24.639Z",
+    "updateDate": "2026-07-30T22:23:11.288Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: it is 88 degrees with overcast conditions at Harriet Park and a full moon lighting up the sky.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: skies are overcast at Verona Community Park, and we have a full moon tonight. The temperature is 87 degrees, cooling down to an overnight low of 67 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-30",
-    "updateDate": "2026-07-30T21:24:24.639Z",
+    "updateDate": "2026-07-30T22:23:11.288Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that road surface treatments are scheduled for August 4 through 7, starting on Lincoln Street. Additionally, the city is offering a 100 dollar rebate program for residents who replace old, low-efficiency toilets with new high-efficiency models, along with a separate rebate program for installing rain barrels.",
+    "mainText": "The city has two major updates today. First, road surface treatment is scheduled from August 4 through August 7 starting on Lincoln Street, so expect no parking signs. Second, the city offers a 100 dollar rebate for residents who replace old toilets with high-efficiency models, along with a rain barrel rebate program.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-30",
-    "updateDate": "2026-07-30T21:24:24.639Z",
+    "updateDate": "2026-07-30T22:23:11.288Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule starting today with Yoga at Insight Wellness, Concerts in the Park, and Hop Haus Trivia. Tomorrow, look forward to live music at Bailey's Run Vineyard and the Wisconsin Brewing Company. Looking ahead, the Remote Area Medical Clinic, the Sugar River Paddle and Jamboree, and the Dane County Farmer's Market all take place on August 1.",
+    "mainText": "There is plenty to do in our community. Today, you can catch Yoga at Insight Wellness, enjoy free music at Century School Park, or head to Hop Haus Brewing for trivia. Tomorrow, live music returns with performances at Bailey's Run Vineyard and the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-30",
-    "updateDate": "2026-07-30T21:24:24.639Z",
+    "updateDate": "2026-07-30T22:23:11.288Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly report, officers handled a range of calls including a notable incident on July 26 where a driver was arrested for an O W I after being clocked at 97 miles per hour.",
+    "mainText": "In our weekly look at noteworthy calls, on July 26, officers arrested a driver for an O W I after she was clocked traveling 97 miles per hour on US Highway 18 and 151.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-30",
-    "updateDate": "2026-07-30T21:24:24.639Z",
+    "updateDate": "2026-07-30T22:23:11.288Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Enjoy a scoop of the Caramel Turtle flavor of the day before they close at 10 PM. You can also find Kona Ice at Fireman's Park today from 12:30 PM to 4:30 PM for more frozen fun.",
+    "mainText": "Cool down today with the delicious Caramel Turtle flavor of the day at Culver's, which is open until 10 PM. You can also visit the Kona Ice truck at Fireman's Park until 4:30 PM or at McGaw Park until 7 PM for some extra summer fun.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
