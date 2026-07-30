@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-30",
-    "updateDate": "2026-07-30T12:33:23.370Z",
+    "updateDate": "2026-07-30T13:33:51.100Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: the weather is a pleasant 65 degrees under clear skies at Fireman's Park, with a full moon visible.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: it is a pleasant 72 degrees with clear skies by the Military Ridge State Trail under a Full Moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-30",
-    "updateDate": "2026-07-30T12:33:23.370Z",
+    "updateDate": "2026-07-30T13:33:51.100Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has launched a rain barrel rebate program where residents can earn a 30 dollar credit per 35-gallon barrel. Additionally, the Nine Mound Road and Mark Drive intersection will be closed from August 5 to August 7 for construction.",
+    "mainText": "The City of Verona has launched rebate programs for residents, including 100 dollars back for high efficiency toilets and 30 dollars for rain barrels to help manage stormwater. Also, don't forget to vote for your favorite student-designed I Voted sticker before the contest closes at midnight on August 7.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-30",
-    "updateDate": "2026-07-30T12:33:23.370Z",
+    "updateDate": "2026-07-30T13:33:51.100Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy day in store with Yoga at Insight Wellness, Concerts in the Park at Century School Park, and trivia at Hop Haus Brewing Co all taking place today.",
+    "mainText": "We have a busy schedule today with Yoga at Insight Wellness and Concerts in the Park at Century School Park. Also, join us for trivia at Hop Haus Brewing this evening.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-30",
-    "updateDate": "2026-07-30T12:33:23.370Z",
+    "updateDate": "2026-07-30T13:33:51.100Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly update, we noted that on Sunday, July 26, a driver was arrested for an O W I after being stopped for traveling 97 miles per hour on the highway.",
+    "mainText": "In our weekly look at public safety, we noted that on July 21, a Verona Police Department drone officer assisted the Dane County Sheriff's Office in locating someone who had fled from a residence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-30",
-    "updateDate": "2026-07-30T12:33:23.370Z",
+    "updateDate": "2026-07-30T13:33:51.100Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Turtle Cheesecake. Please note the store is currently closed and will open its doors at 10:00 AM. If you are looking ahead, tomorrow's flavor will be Turtle Dove.",
+    "mainText": "Today's delicious flavor is Caramel Turtle. While you are out, you can also catch Kona Ice at Fireman's Park from 12:30 PM to 4:30 PM. If you miss us, the store opens tomorrow at 10 AM, when the flavor will be Raspberry Cheesecake.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
