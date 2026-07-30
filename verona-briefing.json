@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-07-29",
-    "updateDate": "2026-07-29T23:20:47.005Z",
+    "uid": "verona-balanced-weather-2026-07-30",
+    "updateDate": "2026-07-30T00:25:04.460Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. It is 83 degrees with clear skies over Reddan Soccer Park and an air quality index of 57. The overnight low will reach 63 degrees with no rain expected.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 82 degrees by the Verona Public Library with a full moon overhead and an elevated AQI of 57. We expect an overnight low of 63 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-07-29",
-    "updateDate": "2026-07-29T23:20:47.005Z",
+    "uid": "verona-balanced-news-2026-07-30",
+    "updateDate": "2026-07-30T00:25:04.460Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has launched a rain barrel rebate program where residents can receive a credit on their utility bill for installing qualifying rain barrels. Additionally, the final design for the new city skatepark will be presented at a virtual meeting on August 6 from 6:00 to 7:30 PM.",
+    "mainText": "The city has a new rain barrel rebate program offering up to 30 dollars per 35-gallon barrel, and don't forget that voting for our new I Voted sticker design contest is open online until August 7.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-07-29",
-    "updateDate": "2026-07-29T23:20:47.005Z",
+    "uid": "verona-balanced-events-2026-07-30",
+    "updateDate": "2026-07-30T00:25:04.460Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today including the Verona Downtown Farmer's Market and Trivia Night at The Bogey Factory. Looking ahead, you can enjoy Concerts in the Park tomorrow evening at Century School Park.",
+    "mainText": "There is plenty to do today, including yoga at Insight Wellness and trivia at The Bogey Factory, while tomorrow we can look forward to Concerts in the Park and trivia at Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-07-29",
-    "updateDate": "2026-07-29T23:20:47.005Z",
+    "uid": "verona-balanced-police-2026-07-30",
+    "updateDate": "2026-07-30T00:25:04.460Z",
     "titleText": "Verona Police Report",
-    "mainText": "During the past week, officers were kept busy, including an incident on Saturday where a driver was arrested for an O W I after being clocked at 97 miles per hour on US Highways 18 and 151.",
+    "mainText": "Regarding recent activity, on Wednesday, July 22, two juveniles were cited by the Verona Police Department for operating their e-motos on Lincoln Street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-07-29",
-    "updateDate": "2026-07-29T23:20:47.005Z",
+    "uid": "verona-balanced-culvers-2026-07-30",
+    "updateDate": "2026-07-30T00:25:04.460Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor at Culver's is the delicious Caramel Peanut Buttercup. If you are looking for a cool treat, you can also visit the Kona Ice truck at Fireman's Park until 4:30 PM or the Verona Farmers Market until 6:30 PM today.",
+    "mainText": "Today's delicious flavor is Caramel Peanut Buttercup, and you can also find Kona Ice at Fireman's Park until 4:30 PM and the Farmers Market from 3 PM to 6:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
