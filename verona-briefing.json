@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-30",
-    "updateDate": "2026-07-30T22:23:11.288Z",
+    "updateDate": "2026-07-30T23:21:53.227Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: skies are overcast at Verona Community Park, and we have a full moon tonight. The temperature is 87 degrees, cooling down to an overnight low of 67 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: we are looking at 85 degrees with partly cloudy skies near Harriet Park, a full moon in the sky, and an overnight low of 66 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-30",
-    "updateDate": "2026-07-30T22:23:11.288Z",
+    "updateDate": "2026-07-30T23:21:53.227Z",
     "titleText": "Verona City News",
-    "mainText": "The city has two major updates today. First, road surface treatment is scheduled from August 4 through August 7 starting on Lincoln Street, so expect no parking signs. Second, the city offers a 100 dollar rebate for residents who replace old toilets with high-efficiency models, along with a rain barrel rebate program.",
+    "mainText": "The city has announced road surface treatments on Lincoln Street beginning August 4, and residents are reminded that a rebate program is available if you replace older toilets with high-efficiency models.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-30",
-    "updateDate": "2026-07-30T22:23:11.288Z",
+    "updateDate": "2026-07-30T23:21:53.227Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community. Today, you can catch Yoga at Insight Wellness, enjoy free music at Century School Park, or head to Hop Haus Brewing for trivia. Tomorrow, live music returns with performances at Bailey's Run Vineyard and the Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do today, including Yoga at Insight Wellness, Concerts in the Park, and trivia at Hop Haus, followed by live music at Bailey's Run and Wisconsin Brewing Company tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-30",
-    "updateDate": "2026-07-30T22:23:11.288Z",
+    "updateDate": "2026-07-30T23:21:53.227Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly look at noteworthy calls, on July 26, officers arrested a driver for an O W I after she was clocked traveling 97 miles per hour on US Highway 18 and 151.",
+    "mainText": "Looking at the weekly report, on July 26, an officer stopped a vehicle traveling 97 miles per hour, resulting in an arrest for an O W I offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-30",
-    "updateDate": "2026-07-30T22:23:11.288Z",
+    "updateDate": "2026-07-30T23:21:53.227Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Cool down today with the delicious Caramel Turtle flavor of the day at Culver's, which is open until 10 PM. You can also visit the Kona Ice truck at Fireman's Park until 4:30 PM or at McGaw Park until 7 PM for some extra summer fun.",
+    "mainText": "Culver's is serving up Caramel Turtle today, and you can also find Kona Ice at Fireman's Park until 4:30 PM and McGaw Park until 7 PM today.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
