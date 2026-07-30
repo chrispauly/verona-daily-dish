@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-30",
-    "updateDate": "2026-07-30T05:01:14.642Z",
+    "updateDate": "2026-07-30T06:52:08.730Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we have clear skies over Badger Ridge Middle School with a temperature of 65 degrees and a full moon, plus an air quality index of 52.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we are seeing clear skies and a full moon above City Hall with a temperature of 62 degrees and a moderate air quality index of 52.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-30",
-    "updateDate": "2026-07-30T05:01:14.642Z",
+    "updateDate": "2026-07-30T06:52:08.730Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced a new rain barrel rebate program for stormwater utility customers, offering up to 30 dollars per barrel. Additionally, you have until August 7 to vote online for the student-designed I Voted stickers for our November elections.",
+    "mainText": "The city has launched a new rain barrel rebate program providing a 30 dollar credit for qualifying installations, and residents can also vote online through August 7 to select the new I Voted sticker designs for the upcoming November election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-30",
-    "updateDate": "2026-07-30T05:01:14.642Z",
+    "updateDate": "2026-07-30T06:52:08.730Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town today, including Yoga at Insight Wellness, Concerts in the Park at Century School Park, and trivia at Hop Haus. Looking ahead, you can enjoy live music at Bailey's Run and Lake Lou-ee tomorrow.",
+    "mainText": "We have plenty happening today including Yoga at Insight Wellness, Concerts in the Park, and Hop Haus Trivia, with even more music and markets scheduled through the rest of the week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-30",
-    "updateDate": "2026-07-30T05:01:14.642Z",
+    "updateDate": "2026-07-30T06:52:08.730Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident from the past week, on July 25, a 29-year-old Madison woman was arrested for her first offence of O W I.",
+    "mainText": "During a traffic stop on July 26, an officer arrested a 55 year old Stoughton woman for an O W I after clocked her driving 97 miles per hour on US Highways 18 and 151.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-30",
-    "updateDate": "2026-07-30T05:01:14.642Z",
+    "updateDate": "2026-07-30T06:52:08.730Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Caramel Turtle. The store is currently closed, but they will open tomorrow at 10:00 AM so you can grab your treat then.",
+    "mainText": "Today's flavor of the day is the delightful Caramel Turtle, though please note that the store is currently closed and will open its doors again at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
