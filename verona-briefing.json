@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-30",
-    "updateDate": "2026-07-30T06:52:08.730Z",
+    "updateDate": "2026-07-30T07:48:02.374Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we are seeing clear skies and a full moon above City Hall with a temperature of 62 degrees and a moderate air quality index of 52.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: it is 61 degrees with clear skies near Badger Ridge Middle School, a beautiful full moon is visible, and the air quality is moderate at 51.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-30",
-    "updateDate": "2026-07-30T06:52:08.730Z",
+    "updateDate": "2026-07-30T07:48:02.374Z",
     "titleText": "Verona City News",
-    "mainText": "The city has launched a new rain barrel rebate program providing a 30 dollar credit for qualifying installations, and residents can also vote online through August 7 to select the new I Voted sticker designs for the upcoming November election.",
+    "mainText": "The city is offering a new rain barrel rebate of 30 dollars for properties installing qualifying barrels, and residents can also vote now through August 7 to pick the student-designed stickers for our November elections.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-30",
-    "updateDate": "2026-07-30T06:52:08.730Z",
+    "updateDate": "2026-07-30T07:48:02.374Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty happening today including Yoga at Insight Wellness, Concerts in the Park, and Hop Haus Trivia, with even more music and markets scheduled through the rest of the week.",
+    "mainText": "Today offers a variety of activities including yoga sessions, live music at the park, and trivia at Hop Haus, with more live music starting tomorrow at Bailey's Run and Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-30",
-    "updateDate": "2026-07-30T06:52:08.730Z",
+    "updateDate": "2026-07-30T07:48:02.374Z",
     "titleText": "Verona Police Report",
-    "mainText": "During a traffic stop on July 26, an officer arrested a 55 year old Stoughton woman for an O W I after clocked her driving 97 miles per hour on US Highways 18 and 151.",
+    "mainText": "On July 23, officers responded to a domestic disturbance on Lucerne Drive where a 23-year-old man was arrested for disorderly conduct and intimidation of a victim.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-30",
-    "updateDate": "2026-07-30T06:52:08.730Z",
+    "updateDate": "2026-07-30T07:48:02.374Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Caramel Turtle, though please note that the store is currently closed and will open its doors again at 10 AM.",
+    "mainText": "The flavor of the day is the delightful Caramel Turtle. Culver's is currently closed, but they will be ready to serve you starting at 10 AM today.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
