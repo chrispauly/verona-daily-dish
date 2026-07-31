@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-31",
-    "updateDate": "2026-07-31T10:54:21.327Z",
+    "updateDate": "2026-07-31T11:41:53.074Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we are seeing overcast skies and a temperature of 65 degrees near the Verona Public Library, all under the glow of a Waning Gibbous moon.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish. We are seeing 67 degree temperatures with overcast skies at Reddan Soccer Park, and a Waning Gibbous moon is currently visible.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-31",
-    "updateDate": "2026-07-31T10:54:21.327Z",
+    "updateDate": "2026-07-31T11:41:53.074Z",
     "titleText": "Verona City News",
-    "mainText": "The city is initiating road surface treatments from August 4 through 7, beginning on Lincoln Street. Also, don't forget the city's toilet rebate program, which offers a 100 dollar credit for replacing older models with high-efficiency ones, capped at 10,000 dollars annually.",
+    "mainText": "In city news, the Verona Cemetery is open for plot purchases for non-residents, and the city has launched rebate programs for high-efficiency toilets and rain barrels to help residents save on their utility bills.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-31",
-    "updateDate": "2026-07-31T10:54:21.327Z",
+    "updateDate": "2026-07-31T11:41:53.074Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with Live Music at Bailey's Run today and a busy day tomorrow featuring the Remote Area Medical clinic, the Sugar River Paddle and Jamboree, and the Dane County Farmer's Market.",
+    "mainText": "Today features live music at Bailey's Run and Lake Lou-ee. Tomorrow, you can head to the Verona Area High School for a free medical and dental clinic, enjoy the Sugar River Paddle and Jamboree, or visit the Dane County Farmer's Market.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-31",
-    "updateDate": "2026-07-31T10:54:21.327Z",
+    "updateDate": "2026-07-31T11:41:53.074Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly report, on July 21, a drone officer successfully assisted the Dane County Sheriff's Office in locating an individual who fled from a residence.",
+    "mainText": "To keep you informed, on July 25, a 29-year-old woman was arrested for her first O W I offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-31",
-    "updateDate": "2026-07-31T10:54:21.327Z",
+    "updateDate": "2026-07-31T11:41:53.074Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the wonderful Raspberry Cheesecake. The store is currently closed, but they will open their doors at 10 AM. If you are looking ahead, tomorrow's flavor will be Chocolate Volcano.",
+    "mainText": "Today's flavor is the delightful Raspberry Cheesecake. The store is currently closed but will open its doors at 10 AM, and if you are looking ahead, tomorrow's flavor is Chocolate Volcano.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
