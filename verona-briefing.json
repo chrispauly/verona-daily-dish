@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-31",
-    "updateDate": "2026-07-31T14:48:20.647Z",
+    "updateDate": "2026-07-31T15:42:18.412Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we have overcast skies and a temperature of 74 degrees by Verona City Hall, with a Waning Gibbous moon in the sky.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: it is 74 degrees with overcast skies near the Military Ridge State Trail and we are under a Waning Gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-31",
-    "updateDate": "2026-07-31T14:48:20.647Z",
+    "updateDate": "2026-07-31T15:42:18.412Z",
     "titleText": "Verona City News",
-    "mainText": "The city is currently working on road surface treatments from August 4 through 7 on Lincoln Street, so keep an eye out for no parking signs. Additionally, residents can apply for rebates on high-efficiency toilets or rain barrels through the public works department.",
+    "mainText": "The city has a new toilet rebate program offering 100 dollars to replace older models with high-efficiency ones, plus don't forget the rain barrel rebate program if you are looking to collect water for your garden.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-31",
-    "updateDate": "2026-07-31T14:48:20.647Z",
+    "updateDate": "2026-07-31T15:42:18.412Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, enjoy live music at Bailey's Run. Tomorrow is packed with the Remote Area Medical Clinic at the high school, the Sugar River Paddle and Jamboree, and the Dane County Farmers Market in Madison.",
+    "mainText": "There is a lot going on with live music today at Bailey's Run Vineyard and tomorrow features the Remote Area Medical clinic at the high school and the Sugar River Paddle and Jamboree.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-31",
-    "updateDate": "2026-07-31T14:48:20.647Z",
+    "updateDate": "2026-07-31T15:42:18.412Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report regarding notable calls for service, a 55-year-old driver was arrested on July 26 for an O W I after being clocked at 97 miles per hour on US Highways 18 and 151.",
+    "mainText": "In police news, on July 26, an officer stopped a vehicle traveling 97 miles per hour on the highway and the driver was subsequently arrested for an O W I offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-31",
-    "updateDate": "2026-07-31T14:48:20.647Z",
+    "updateDate": "2026-07-31T15:42:18.412Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Raspberry Cheesecake, which is a must-try. The store opens at 10 AM, and you can also visit the Kona Ice truck at Fireman's Park today from 12:30 PM to 4:30 PM.",
+    "mainText": "Enjoy the Raspberry Cheesecake flavor of the day at Culver's, and remember you can also grab a treat from the Kona Ice truck at Fireman's Park today from 12:30 to 4:30.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
