@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-31",
-    "updateDate": "2026-07-31T00:28:11.986Z",
+    "updateDate": "2026-07-31T01:34:05.886Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, the weather is overcast with a temperature of 82 degrees near Badger Ridge Middle School. Under the full moon tonight, the temperature will drop to an overnight low of 66 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: it is currently overcast at the Verona Public Library with a full moon visible, and we are expecting an overnight low of 64 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-31",
-    "updateDate": "2026-07-31T00:28:11.986Z",
+    "updateDate": "2026-07-31T01:34:05.886Z",
     "titleText": "Verona City News",
-    "mainText": "The city has two important updates for homeowners. First, a road surface treatment project kicks off August 4, starting on Lincoln Street, so look out for no-parking signs tomorrow. Additionally, the city offers rebates for both high-efficiency toilets and rain barrels to help with water conservation.",
+    "mainText": "Road surface treatment is scheduled across city streets from August 4 to 7, so watch for no parking signs. Additionally, the city offers rebates for high efficiency toilets and rain barrels to help with water conservation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-31",
-    "updateDate": "2026-07-31T00:28:11.986Z",
+    "updateDate": "2026-07-31T01:34:05.886Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community, including Yoga at Insight Wellness, Concerts in the Park, and Hop Haus Trivia, all happening today. Looking ahead, you can catch live music at Bailey's Run Vineyard tomorrow.",
+    "mainText": "There is plenty to do with Concerts in the Park and trivia at Hop Haus occurring today. Looking ahead, Verona Area High School hosts a medical clinic and the Sugar River Paddle and Jamboree takes place on August 1.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-31",
-    "updateDate": "2026-07-31T00:28:11.986Z",
+    "updateDate": "2026-07-31T01:34:05.886Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the police report from last week, on July 26, an officer responded to a hit-and-run collision near West Verona Avenue and Epic Lane, resulting in a citation for the driver.",
+    "mainText": "The Verona Police Department reported that on Saturday, July 26, a driver was arrested for an O W I after being clocked at 97 miles per hour on the highway.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-31",
-    "updateDate": "2026-07-31T00:28:11.986Z",
+    "updateDate": "2026-07-31T01:34:05.886Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Enjoy the Caramel Turtle flavor at Culver's, open until 10 PM tonight. You can also catch Kona Ice today at Fireman's Park from 12:30 PM to 4:30 PM and at McGaw Park from 4:30 PM to 7 PM.",
+    "mainText": "Today's flavor of the day is Caramel Turtle, and you have until 10 PM tonight to get your fix. If you miss out, look forward to Raspberry Cheesecake tomorrow.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
