@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-31",
-    "updateDate": "2026-07-31T03:02:49.289Z",
+    "updateDate": "2026-07-31T05:09:20.803Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: we have overcast skies currently at Reddan Soccer Park with a temperature of 72 degrees. The full moon is lighting up the night, and we expect an overnight low of 65 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we have overcast skies near Badger Ridge Middle School and a beautiful Full Moon lighting up the night.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-31",
-    "updateDate": "2026-07-31T03:02:49.289Z",
+    "updateDate": "2026-07-31T05:09:20.803Z",
     "titleText": "Verona City News",
-    "mainText": "City residents should be aware that road surface treatments are scheduled from August 4 to August 7, starting on Lincoln Street. Additionally, the city is offering rebate programs for water-efficient toilets and rain barrels to help residents conserve resources.",
+    "mainText": "The city has a new road treatment schedule starting August 4th on Lincoln Street, and don't forget the city manages the Verona Cemetery where plot applications are now available.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-31",
-    "updateDate": "2026-07-31T03:02:49.289Z",
+    "updateDate": "2026-07-31T05:09:20.803Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty happening in town. Today you can catch Yoga at Insight Wellness, enjoy a concert at Century School Park, or head to Hop Haus Brewing Company for trivia. Looking ahead, you can enjoy music at Bailey's Run or Wisconsin Brewing Company tomorrow, followed by the Sugar River Paddle and Jamboree this Friday.",
+    "mainText": "Today you can enjoy live music at Bailey's Run, and tomorrow the Sugar River Paddle and Jamboree and the Remote Area Medical clinic take place at Verona Area High School.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-31",
-    "updateDate": "2026-07-31T03:02:49.289Z",
+    "updateDate": "2026-07-31T05:09:20.803Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable update from the Verona Police Department, an officer conducted a traffic stop on July 26 for a vehicle traveling 97 miles per hour on the highway, resulting in an O W I arrest.",
+    "mainText": "In a noteworthy update from last week, a 55-year-old woman was arrested for an O W I on July 26th after officers clocked her driving 97 miles per hour.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-31",
-    "updateDate": "2026-07-31T03:02:49.289Z",
+    "updateDate": "2026-07-31T05:09:20.803Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy the Caramel Turtle flavor of the day today. Please note the restaurant is currently closed, but they will open their doors again tomorrow at 10 AM. Tomorrow's flavor will be Raspberry Cheesecake.",
+    "mainText": "Today's flavor is the delightful Raspberry Cheesecake. Since they are currently closed, stop by when they open at 10 AM to grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
