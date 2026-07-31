@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-31",
-    "updateDate": "2026-07-31T20:28:26.249Z",
+    "updateDate": "2026-07-31T21:23:42.941Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, we are seeing a temperature of 66 degrees with light rain falling at Badger Prairie County Park, and the moon is in a waning gibbous phase.",
+    "mainText": "Hello, Verona! At 4 PM, we are seeing overcast skies with a temperature of 66 degrees near Badger Ridge Middle School and a waning gibbous moon is in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-31",
-    "updateDate": "2026-07-31T20:28:26.249Z",
+    "updateDate": "2026-07-31T21:23:42.941Z",
     "titleText": "Verona City News",
-    "mainText": "The city is continuing its toilet rebate program where residents can get 100 dollars back for installing high efficiency toilets, and road surface treatments are scheduled for August 4 through 7 on Lincoln Street.",
+    "mainText": "For city updates, the Verona Police Department is streamlining record requests and crash reports online, while the Public Works Department has announced road surface treatments scheduled from August 4 to 7.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-31",
-    "updateDate": "2026-07-31T20:28:26.249Z",
+    "updateDate": "2026-07-31T21:23:42.941Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can enjoy live music at Bailey's Run. Looking ahead to tomorrow, there is a Remote Area Medical clinic at the high school, the Sugar River Paddle and Jamboree, and the Dane County Farmer's Market.",
+    "mainText": "There is a great lineup starting today with live music at Bailey's Run and Wisconsin Brewing Company, followed by a busy tomorrow featuring the Remote Area Medical clinic and the Sugar River Paddle and Jamboree.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-31",
-    "updateDate": "2026-07-31T20:28:26.249Z",
+    "updateDate": "2026-07-31T21:23:42.941Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Saturday, July 25, a 29-year-old Madison woman was arrested for operating a vehicle while O W I.",
+    "mainText": "In a noteworthy call from July 26, a driver was cited for a hit-and-run incident near West Verona Avenue after local officers successfully located the vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-31",
-    "updateDate": "2026-07-31T20:28:26.249Z",
+    "updateDate": "2026-07-31T21:23:42.941Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Raspberry Cheesecake and the restaurant is open until 10:30 PM. Also, you can find Kona Ice at Fireman's Park today between 12:30 and 4:30 PM.",
+    "mainText": "Today's flavor is the delicious Raspberry Cheesecake at Culver's, which is open until 10:30 PM, and you can also visit the Kona Ice truck at Fireman's Park today from 12:30 PM to 4:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
