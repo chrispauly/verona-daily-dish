@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-31",
-    "updateDate": "2026-07-31T05:09:20.803Z",
+    "updateDate": "2026-07-31T06:57:47.423Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we have overcast skies near Badger Ridge Middle School and a beautiful Full Moon lighting up the night.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: the temperature is a comfortable 66 degrees under clear skies with a beautiful full moon visible near the Verona Public Library.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-31",
-    "updateDate": "2026-07-31T05:09:20.803Z",
+    "updateDate": "2026-07-31T06:57:47.423Z",
     "titleText": "Verona City News",
-    "mainText": "The city has a new road treatment schedule starting August 4th on Lincoln Street, and don't forget the city manages the Verona Cemetery where plot applications are now available.",
+    "mainText": "In city news, please be advised that road surface treatments are scheduled from August 4 to August 7, starting on Lincoln Street. Also, the city offers a 100 dollar rebate program for residents who replace older toilets with high-efficiency models or install rain barrels.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-31",
-    "updateDate": "2026-07-31T05:09:20.803Z",
+    "updateDate": "2026-07-31T06:57:47.423Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can enjoy live music at Bailey's Run, and tomorrow the Sugar River Paddle and Jamboree and the Remote Area Medical clinic take place at Verona Area High School.",
+    "mainText": "There is plenty to do this week! Today, enjoy live music at Bailey's Run Vineyard. Tomorrow, you can visit the Remote Area Medical clinic at the high school, join the Sugar River Paddle and Jamboree, or browse the Dane County Farmers Market in Madison.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-31",
-    "updateDate": "2026-07-31T05:09:20.803Z",
+    "updateDate": "2026-07-31T06:57:47.423Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy update from last week, a 55-year-old woman was arrested for an O W I on July 26th after officers clocked her driving 97 miles per hour.",
+    "mainText": "Looking at the weekly police report, on July 26, an officer responded to a hit-and-run crash near West Verona Avenue and Epic Lane, where the driver was eventually identified and cited.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-31",
-    "updateDate": "2026-07-31T05:09:20.803Z",
+    "updateDate": "2026-07-31T06:57:47.423Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delightful Raspberry Cheesecake. Since they are currently closed, stop by when they open at 10 AM to grab a scoop.",
+    "mainText": "For dessert lovers, today's flavor of the day is Raspberry Cheesecake. The store is currently closed, but they will be ready to serve you starting at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
