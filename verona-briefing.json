@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-31",
-    "updateDate": "2026-07-31T08:03:05.102Z",
+    "updateDate": "2026-07-31T09:53:54.586Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: it is 66 degrees with mainly clear skies over Fireman's Park and a lovely Full Moon to light up the night.",
+    "mainText": "Hello, Verona! At 4 AM, we are looking at 65 degrees with overcast skies near the Verona Public Library, and a beautiful waning gibbous moon is overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-31",
-    "updateDate": "2026-07-31T08:03:05.102Z",
+    "updateDate": "2026-07-31T09:53:54.586Z",
     "titleText": "Verona City News",
-    "mainText": "The city has shared important updates regarding cemetery regulations and public works. Road maintenance is scheduled for Lincoln Street and the Range Trail route between August 4th and 7th. Also, don't forget the city offers rebates for high efficiency toilets and rain barrels to help with property conservation efforts.",
+    "mainText": "The city has announced road surface treatment work from August 4th through the 7th starting on Lincoln Street, and don't forget the city also offers a 100 dollar rebate for installing high efficiency toilets to help conserve water.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-31",
-    "updateDate": "2026-07-31T08:03:05.102Z",
+    "updateDate": "2026-07-31T09:53:54.586Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town. Today you can enjoy live music at Bailey's Run or the Wisconsin Brewing Company. Tomorrow, the Verona Area High School hosts a free medical and dental clinic, the Sugar River Paddle and Jamboree takes place, and the Dane County Farmers' Market is open downtown.",
+    "mainText": "There is plenty to do around town with live music at Bailey's Run Vineyard today, followed by a busy tomorrow featuring the Remote Area Medical clinic at the high school and the Sugar River Paddle and Jamboree.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-31",
-    "updateDate": "2026-07-31T08:03:05.102Z",
+    "updateDate": "2026-07-31T09:53:54.586Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, we noted an incident on July 23rd where officers were dispatched to a domestic disturbance in the 400 block of Lucerne Drive.",
+    "mainText": "In a notable call from this past week, on July 22, two juveniles were cited for operating their e-motos on Lincoln Street and received a warning for reckless driving.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-31",
-    "updateDate": "2026-07-31T08:03:05.102Z",
+    "updateDate": "2026-07-31T09:53:54.586Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "For your sweet tooth today, Culver's is serving up their Raspberry Cheesecake flavor. The shop is currently closed but will open its doors at 10 AM, and tomorrow you can look forward to the Chocolate Volcano flavor.",
+    "mainText": "Today's flavor of the day is the delicious Raspberry Cheesecake. The restaurant is currently closed but will open at 10 AM, and if you are looking ahead, tomorrow's flavor will be Chocolate Volcano.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
