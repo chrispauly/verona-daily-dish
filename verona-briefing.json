@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-07-31",
-    "updateDate": "2026-07-31T17:34:28.608Z",
+    "updateDate": "2026-07-31T18:35:27.863Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we have a temperature of 70 degrees with slight rain currently falling at the Verona Community Park under a Waning Gibbous moon.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: it is 68 degrees with some light drizzle at Verona Community Park, and the moon is currently in a waning gibbous phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-07-31",
-    "updateDate": "2026-07-31T17:34:28.608Z",
+    "updateDate": "2026-07-31T18:35:27.863Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is currently managing the Verona Cemetery on North Main Street, where residents and non-residents alike can purchase plots. Also, remember that road surface treatments are scheduled across the city from August 4 to August 7.",
+    "mainText": "The City of Verona reminds residents that road surface treatments are scheduled for Lincoln Street and the Range Trail area starting August 4. Additionally, you can apply for a 100 dollar rebate if you replace your old toilet with a high-efficiency model.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-07-31",
-    "updateDate": "2026-07-31T17:34:28.608Z",
+    "updateDate": "2026-07-31T18:35:27.863Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can catch live music at Bailey's Run Vineyard and the Wisconsin Brewing Company. Tomorrow, the Remote Area Medical Clinic will be at Verona Area High School, and the Sugar River Paddle and Jamboree will celebrate our local watershed.",
+    "mainText": "We have plenty to look forward to, including live music today at Bailey's Run Vineyard and the exciting Sugar River Paddle and Jamboree happening tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-07-31",
-    "updateDate": "2026-07-31T17:34:28.608Z",
+    "updateDate": "2026-07-31T18:35:27.863Z",
     "titleText": "Verona Police Report",
-    "mainText": "During the period of July 20 to July 27, the Verona Police Department handled a variety of calls including E-moto enforcement and several O W I investigations.",
+    "mainText": "In a notable incident from July 26, an 83-year-old Madison woman was cited for hit-and-run after a crash occurred near West Verona Avenue and Epic Lane.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-07-31",
-    "updateDate": "2026-07-31T17:34:28.608Z",
+    "updateDate": "2026-07-31T18:35:27.863Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Raspberry Cheesecake. Additionally, you can find Kona Ice at Fireman's Park today from 12:30 PM to 4:30 PM. The store is open until 10:30 PM tonight, so stop by and grab a treat.",
+    "mainText": "Today's featured flavor at Culver's is Raspberry Cheesecake, and they are open until 10:30 PM tonight. Also, keep an eye out for the Kona Ice truck at Fireman's Park today from 12:30 PM to 4:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
