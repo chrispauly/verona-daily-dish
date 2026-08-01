@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-01",
-    "updateDate": "2026-08-01T01:33:34.237Z",
+    "updateDate": "2026-08-01T03:02:21.590Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have a temperature of 63 degrees with moderate rain reported near Verona Area High School under a Waning Gibbous moon. The overnight low will be 62 degrees with rain predicted.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: we are seeing 63 degrees with moderate rain by Badger Ridge Middle School. The moon is in its Waning Gibbous phase, and you can expect that temperature to hold at 63 degrees overnight with rain continuing in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-01",
-    "updateDate": "2026-08-01T01:33:34.237Z",
+    "updateDate": "2026-08-01T03:02:21.590Z",
     "titleText": "Verona City News",
-    "mainText": "City residents should be aware of a few updates. Road surface treatments begin August 4 on Lincoln Street, so look for no-parking signs tomorrow. Also, the city provides a 100 dollar rebate for replacing old toilets with high-efficiency models, and you can now request police records online through crashdocs.org.",
+    "mainText": "The city has two important updates for you. First, the Records Section of the Police Department now uses crashdocs.org to make accident reports available online. Second, road surface treatment is scheduled for August 4 through 7, starting on Lincoln Street, so please watch for no-parking signs.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-01",
-    "updateDate": "2026-08-01T01:33:34.237Z",
+    "updateDate": "2026-08-01T03:02:21.590Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, with live music at Bailey's Run happening today. Tomorrow, you can participate in the Sugar River Paddle and Jamboree, visit the Dane County Farmers' Market, or get free medical care at the high school. Looking further out, enjoy trivia at Hop Haus on August 4.",
+    "mainText": "There is plenty happening in our area. Today you can enjoy live music at Bailey's Run. Tomorrow is a busy day featuring the Sugar River Paddle and Jamboree, the Dane County Farmers' Market, and a free medical clinic at the high school.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-01",
-    "updateDate": "2026-08-01T01:33:34.237Z",
+    "updateDate": "2026-08-01T03:02:21.590Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a recent report, on July 23, officers responded to a residence on Lucerne Drive where a 23-year-old man was arrested for disorderly conduct and intimidation of a victim.",
+    "mainText": "Looking at the weekly report, on Saturday, July 26, an officer responded to a hit-and-run crash near West Verona Avenue and Epic Lane, where an 83-year-old driver was cited for the incident.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-01",
-    "updateDate": "2026-08-01T01:33:34.237Z",
+    "updateDate": "2026-08-01T03:02:21.590Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Raspberry Cheesecake. Culver's is open until 10:30 PM tonight, so there is still plenty of time to stop by for a treat.",
+    "mainText": "Today's delicious flavor of the day is Raspberry Cheesecake. The shop is currently open but will be closing soon in less than 60 minutes, so be sure to stop by before they wrap up for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
