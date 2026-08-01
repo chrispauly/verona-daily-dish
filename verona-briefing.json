@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-01",
-    "updateDate": "2026-08-01T19:25:47.790Z",
+    "updateDate": "2026-08-01T20:19:13.103Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We have overcast skies and temperatures sitting at 67 degrees down at Harriet Park, with a waning gibbous moon visible in the sky.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we have overcast skies and 69 degrees near Verona City Hall under a Waning Gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-01",
-    "updateDate": "2026-08-01T19:25:47.790Z",
+    "updateDate": "2026-08-01T20:19:13.103Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the police department has streamlined record requests through crashdocs.org to help you get accident reports within 10 days, and remember that road work begins August 4th on Lincoln Street.",
+    "mainText": "City officials remind us that road surface treatment begins August 4 on Lincoln Street, so expect parking restrictions. Also, if you are looking to save water, you can apply for a 100 dollar rebate for installing a high-efficiency toilet.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-01",
-    "updateDate": "2026-08-01T19:25:47.790Z",
+    "updateDate": "2026-08-01T20:19:13.103Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a busy lineup today with the Remote Area Medical Clinic at the high school, the Sugar River Paddle and Jamboree, and the Dane County Farmers Market, plus plenty of live music options around town.",
+    "mainText": "Today is packed with activities including the Remote Area Medical clinic at Verona Area High School and the Sugar River Paddle and Jamboree at Seven Acre Dairy Co. Looking ahead, you can enjoy yoga at Insight Wellness on August 3 or trivia nights starting August 4.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-01",
-    "updateDate": "2026-08-01T19:25:47.790Z",
+    "updateDate": "2026-08-01T20:19:13.103Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly look at public safety, officers arrested a 55 year old woman on July 26th for operating while intoxicated after she was clocked traveling at 97 miles per hour on the highway.",
+    "mainText": "Regarding local activity, on July 25, a 29-year-old woman was arrested for O W I, which marks a reminder to always drive safely.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-01",
-    "updateDate": "2026-08-01T19:25:47.790Z",
+    "updateDate": "2026-08-01T20:19:13.103Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Enjoy the refreshing Double Strawberry flavor at Culver's, which is open until 11 PM tonight, and don't forget you can also find the Kona Ice truck at Fireman's Park today from 1:30 PM to 3:15 PM.",
+    "mainText": "The flavor of the day is Chocolate Volcano and the restaurant is open until 10:30 PM. For some extra fun today, you can find the Kona Ice truck at Fireman's Park between 1:30 PM and 3:15 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
