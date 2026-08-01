@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-01",
-    "updateDate": "2026-08-01T06:49:18.972Z",
+    "updateDate": "2026-08-01T07:44:54.952Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: it is 63 degrees with a bit of rain near the Verona Area High School, and we have a Waning Gibbous moon hanging in the sky.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: it is 63 degrees with moderate rain outside City Hall under a Waning Gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-01",
-    "updateDate": "2026-08-01T06:49:18.972Z",
+    "updateDate": "2026-08-01T07:44:54.952Z",
     "titleText": "Verona City News",
-    "mainText": "The city has updated road treatment plans for Lincoln Street beginning July 31, and don't forget that you can earn a one hundred dollar rebate by upgrading to a high-efficiency toilet.",
+    "mainText": "The city is preparing for road surface treatments starting August 4th, so look for no-parking signs. Also, residents can apply for a 100 dollar rebate when replacing old toilets with high-efficiency models.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-01",
-    "updateDate": "2026-08-01T06:49:18.972Z",
+    "updateDate": "2026-08-01T07:44:54.952Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot going on today, including the Remote Area Medical Clinic at the high school and the Sugar River Paddle and Jamboree, plus the Dane County Farmers Market at the Capitol.",
+    "mainText": "There is a lot going on today, including the Remote Area Medical clinic at the high school and the Sugar River Paddle and Jamboree. Looking ahead, you can enjoy trivia at Hop Haus on August 4th.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-01",
-    "updateDate": "2026-08-01T06:49:18.972Z",
+    "updateDate": "2026-08-01T07:44:54.952Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at recent reports, on July 26, officers arrested a 55-year-old Stoughton woman for O W I after she was clocked traveling 97 miles per hour on the highway.",
+    "mainText": "In a noteworthy call from July 26th, an 83-year-old driver was cited for a hit-and-run crash near West Verona Avenue and Epic Lane.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-01",
-    "updateDate": "2026-08-01T06:49:18.972Z",
+    "updateDate": "2026-08-01T07:44:54.952Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor is the decadent Chocolate Volcano. The shop is currently closed, but they will be ready to serve you starting at 10 AM.",
+    "mainText": "Today's featured flavor is the Chocolate Volcano. The store is currently closed, but they will reopen at 10 AM for you to stop by and grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
