@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-01",
-    "updateDate": "2026-08-01T18:19:36.867Z",
+    "updateDate": "2026-08-01T19:25:47.790Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we have overcast skies and a temperature of 68 degrees down by Fireman's Park, under a Waning Gibbous moon.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We have overcast skies and temperatures sitting at 67 degrees down at Harriet Park, with a waning gibbous moon visible in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-01",
-    "updateDate": "2026-08-01T18:19:36.867Z",
+    "updateDate": "2026-08-01T19:25:47.790Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has provided updates on the records section, noting that crash reports are accessible via crashdocs.org 10 days after an event. Additionally, the city is offering a 100 dollar rebate for residents who install high-efficiency toilets to help conserve water.",
+    "mainText": "In city news, the police department has streamlined record requests through crashdocs.org to help you get accident reports within 10 days, and remember that road work begins August 4th on Lincoln Street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-01",
-    "updateDate": "2026-08-01T18:19:36.867Z",
+    "updateDate": "2026-08-01T19:25:47.790Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today, including the Remote Area Medical Clinic at Verona Area High School, the Sugar River Paddle and Jamboree, and the Dane County Farmers Market. Looking ahead, you can enjoy trivia at Hop Haus Brewing on August 4.",
+    "mainText": "There is a busy lineup today with the Remote Area Medical Clinic at the high school, the Sugar River Paddle and Jamboree, and the Dane County Farmers Market, plus plenty of live music options around town.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-01",
-    "updateDate": "2026-08-01T18:19:36.867Z",
+    "updateDate": "2026-08-01T19:25:47.790Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a recent report from the Verona Police Department, officers responded to a domestic disturbance on July 23, resulting in the arrest of a 23-year-old man for disorderly conduct and O W I intimidation of a victim.",
+    "mainText": "In our weekly look at public safety, officers arrested a 55 year old woman on July 26th for operating while intoxicated after she was clocked traveling at 97 miles per hour on the highway.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-01",
-    "updateDate": "2026-08-01T18:19:36.867Z",
+    "updateDate": "2026-08-01T19:25:47.790Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is the rich and delicious Chocolate Volcano, and the store is open until 10:30 PM. You can also catch the Kona Ice truck at Fireman's Park today from 1:30 PM to 3:15 PM.",
+    "mainText": "Enjoy the refreshing Double Strawberry flavor at Culver's, which is open until 11 PM tonight, and don't forget you can also find the Kona Ice truck at Fireman's Park today from 1:30 PM to 3:15 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
