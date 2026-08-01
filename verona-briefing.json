@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-07-31",
-    "updateDate": "2026-07-31T23:21:02.978Z",
+    "uid": "verona-balanced-weather-2026-08-01",
+    "updateDate": "2026-08-01T00:27:07.401Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: it is 67 degrees and overcast at Verona Area High School under a Waning Gibbous moon, with an overnight low of 64 degrees and rain in the forecast.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 64 degrees with moderate drizzle near the Verona Area High School, the moon is a waning gibbous, and we expect an overnight low of 64 degrees with rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-07-31",
-    "updateDate": "2026-07-31T23:21:02.978Z",
+    "uid": "verona-balanced-news-2026-08-01",
+    "updateDate": "2026-08-01T00:27:07.401Z",
     "titleText": "Verona City News",
-    "mainText": "The city is offering a 100 dollar rebate for residents who replace old toilets with high efficiency models, and please note that road maintenance on Lincoln Street begins August 4.",
+    "mainText": "The City of Verona has a helpful toilet rebate program where you can earn a 100 dollar credit for upgrading to a high-efficiency model. Also, the police department has clarified that you can request official records through their website, typically with a 10-day processing window.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-07-31",
-    "updateDate": "2026-07-31T23:21:02.978Z",
+    "uid": "verona-balanced-events-2026-08-01",
+    "updateDate": "2026-08-01T00:27:07.401Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is live music today at Bailey's Run, while tomorrow you can check out the Remote Area Medical clinic at the high school or the Sugar River Paddle and Jamboree.",
+    "mainText": "We have a busy couple of days ahead! Live Music at Bailey's Run is today, while tomorrow features the Sugar River Paddle and Jamboree, the Dane County Farmer's Market, and a free medical clinic at Verona Area High School.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-07-31",
-    "updateDate": "2026-07-31T23:21:02.978Z",
+    "uid": "verona-balanced-police-2026-08-01",
+    "updateDate": "2026-08-01T00:27:07.401Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from last Friday, a 37-year-old Madison man was arrested for O W I at 2:23 a.m.",
+    "mainText": "In a noteworthy call from this past week, on Saturday, July 26th, a hit-and-run incident occurred near West Verona Avenue and Epic Lane, resulting in a citation for the driver.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-07-31",
-    "updateDate": "2026-07-31T23:21:02.978Z",
+    "uid": "verona-balanced-culvers-2026-08-01",
+    "updateDate": "2026-08-01T00:27:07.401Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is Raspberry Cheesecake, and they are open until 10:30 PM. You can also grab a treat from the Kona Ice truck at Fireman's Park today until 4:30 PM.",
+    "mainText": "Enjoy the delicious Raspberry Cheesecake flavor of the day at Culver's, which remains open until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
