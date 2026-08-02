@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-02",
-    "updateDate": "2026-08-02T15:23:02.915Z",
+    "updateDate": "2026-08-02T16:20:14.479Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: current conditions at Verona City Hall show 70 degrees with overcast skies and a waning gibbous moon phase.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: it is 70 degrees with overcast skies near the Verona Public Library, and we are currently under a Waning Gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-02",
-    "updateDate": "2026-08-02T15:23:02.915Z",
+    "updateDate": "2026-08-02T16:20:14.479Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Police Department is ready to assist with your records requests online through crashdocs.org, and the public works department has announced road surface treatments scheduled for August 4 through 7.",
+    "mainText": "The city has announced that road surface treatments are scheduled from August 4 to August 7, starting on Lincoln Street, and the public works department is also processing toilet rebates for residents who upgrade to high efficiency models.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-02",
-    "updateDate": "2026-08-02T15:23:02.915Z",
+    "updateDate": "2026-08-02T16:20:14.479Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy weekend ahead, starting with the Remote Area Medical clinic today at Verona Area High School and live music at Bailey's Run Vineyard today, followed by yoga classes at Insight Wellness tomorrow.",
+    "mainText": "There is a lot going on, including the Remote Area Medical clinic happening today, live music at Bailey's Run Vineyard today, and the Verona Downtown Farmer's Market taking place this Tuesday at Hometown Junction Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-02",
-    "updateDate": "2026-08-02T15:23:02.915Z",
+    "updateDate": "2026-08-02T16:20:14.479Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly police report, one noteworthy call occurred on July 23 when officers responded to a domestic disturbance on Lucerne Drive which resulted in an arrest.",
+    "mainText": "In a noteworthy call from the weekly recap, a 29-year-old Madison woman was arrested for an O W I on July 25.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-02",
-    "updateDate": "2026-08-02T15:23:02.915Z",
+    "updateDate": "2026-08-02T16:20:14.479Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is serving up OREO Cookie Cheesecake today until 10 PM, and if you are looking for more frozen treats, Kona Ice will be at Fireman's Park today from 1:30 PM to 3:15 PM.",
+    "mainText": "You can enjoy the OREO Cookie Cheesecake flavor of the day at Culver's, which is open until 10 PM. Also, Kona Ice will be stopping at Fireman's Park Verona today from 1:30 PM to 3:15 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
