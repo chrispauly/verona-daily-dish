@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-02",
-    "updateDate": "2026-08-02T17:21:20.370Z",
+    "updateDate": "2026-08-02T18:20:05.474Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: it is 74 degrees under mainly clear skies at Verona Community Park, and the moon is currently in a Waning Gibbous phase.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we have mainly clear skies at the Verona Community Park with temperatures sitting at 76 degrees and a waning gibbous moon watching over us.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-02",
-    "updateDate": "2026-08-02T17:21:20.370Z",
+    "updateDate": "2026-08-02T18:20:05.474Z",
     "titleText": "Verona City News",
-    "mainText": "Important updates for residents include the city's plan for road surface treatments starting August 4 on Lincoln Street, and a reminder that you can now request police records online through crashdocs.org.",
+    "mainText": "City updates include important changes at the Verona Cemetery, where the city now handles all management, and residents are reminded that road surface treatments are scheduled for Lincoln Street starting August 4.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-02",
-    "updateDate": "2026-08-02T17:21:20.370Z",
+    "updateDate": "2026-08-02T18:20:05.474Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can visit the Remote Area Medical clinic at the high school or enjoy music at Bailey's Run. Tomorrow, stop by Insight Wellness for yoga, and on August 4, join us for trivia at Hop Haus.",
+    "mainText": "There is a lot happening this week, starting with the Remote Area Medical clinic today and live music at Bailey's Run Vineyard today, followed by yoga at Insight Wellness tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-02",
-    "updateDate": "2026-08-02T17:21:20.370Z",
+    "updateDate": "2026-08-02T18:20:05.474Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local activity, an officer pulled over a driver on July 26 who was traveling 97 miles per hour and was subsequently arrested for O W I.",
+    "mainText": "In police news, officers made several notable stops recently, including an arrest on July 26 of a 55-year-old woman for O W I after she was clocked traveling 97 miles per hour on the highway.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-02",
-    "updateDate": "2026-08-02T17:21:20.370Z",
+    "updateDate": "2026-08-02T18:20:05.474Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's flavor, OREO Cookie Cheesecake, at Culver's, which is open until 10 PM. You can also visit the Kona Ice truck at Fireman's Park today between 1:30 PM and 3:15 PM.",
+    "mainText": "Treat yourself to the OREO Cookie Cheesecake flavor of the day at Culver's, which is open until 10 PM, and make sure to stop by Fireman's Park today between 1:30 PM and 3:15 PM to grab a Kona Ice.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
