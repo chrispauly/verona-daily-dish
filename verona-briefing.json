@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-08-01",
-    "updateDate": "2026-08-01T23:18:49.803Z",
+    "uid": "verona-balanced-weather-2026-08-02",
+    "updateDate": "2026-08-02T00:27:58.981Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. We have overcast skies and a comfortable 71 degrees at Harriet Park. The temperature will head down to an overnight low of 63 degrees with no rain predicted for the rest of the evening.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: we are looking at 70 degrees with overcast skies by the Verona Area High School, a Waning Gibbous moon, an overnight low of 63 degrees, and no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-08-01",
-    "updateDate": "2026-08-01T23:18:49.803Z",
+    "uid": "verona-balanced-news-2026-08-02",
+    "updateDate": "2026-08-02T00:27:58.981Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Police Department has updated their records process to be more efficient, allowing you to obtain crash reports online. Also, keep an eye out for road surface treatments starting on Lincoln Street and surrounding areas between August 4 and 7.",
+    "mainText": "The city has two important updates for you. First, road surface treatments begin August 4 on Lincoln Street, so look for parking restrictions. Second, the city is offering a 100 dollar rebate for residents who install water-efficient toilets.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-08-01",
-    "updateDate": "2026-08-01T23:18:49.803Z",
+    "uid": "verona-balanced-events-2026-08-02",
+    "updateDate": "2026-08-02T00:27:58.981Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with activities including the Remote Area Medical Clinic at the high school, the Sugar River Paddle and Jamboree, and the Dane County Farmers Market in Madison. Coming up, you can catch trivia at Hop Haus on Tuesday and Paddy Mac's on Tuesday night.",
+    "mainText": "There is a lot going on today! We have the Remote Area Medical clinic at Verona Area High School, the Sugar River Paddle and Jamboree at Seven Acre Dairy, plus various live music performances across our local venues.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-08-01",
-    "updateDate": "2026-08-01T23:18:49.803Z",
+    "uid": "verona-balanced-police-2026-08-02",
+    "updateDate": "2026-08-02T00:27:58.981Z",
     "titleText": "Verona Police Report",
-    "mainText": "Checking in on the weekly police report, on July 23, officers responded to a disturbance on Lucerne Drive where a 23-year-old man was arrested for disorderly conduct and intimidation of a victim.",
+    "mainText": "For our weekly report, we noted an incident on Saturday, July 26, involving an O W I arrest after a vehicle was stopped for traveling 97 miles per hour on the highway.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-08-01",
-    "updateDate": "2026-08-01T23:18:49.803Z",
+    "uid": "verona-balanced-culvers-2026-08-02",
+    "updateDate": "2026-08-02T00:27:58.981Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect time to visit Culver's for their delicious Chocolate Volcano flavor. They are open until 10:30 PM, so there is plenty of time to head over. You can also find a Kona Ice truck at Fireman's Park today from 1:30 PM to 3:15 PM.",
+    "mainText": "Today's featured flavor is the decadent Chocolate Volcano, and you have plenty of time to get one before Culver's closes at 10:30 PM. Also, be sure to visit the Kona Ice truck at Fireman's Park today from 1:30 PM to 3:15 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
