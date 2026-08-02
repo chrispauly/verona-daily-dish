@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-02",
-    "updateDate": "2026-08-02T12:21:45.769Z",
+    "updateDate": "2026-08-02T13:30:15.286Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have overcast skies and 66 degrees at Badger Ridge Middle School, with a Waning Gibbous moon in the sky.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: it is 68 degrees with overcast skies near the Military Ridge State Trail, and we are under a Waning Gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-02",
-    "updateDate": "2026-08-02T12:21:45.769Z",
+    "updateDate": "2026-08-02T13:30:15.286Z",
     "titleText": "Verona City News",
-    "mainText": "Road surface treatments are scheduled from August 4 to August 7, starting on Lincoln Street, and the city continues to offer a 100 dollar toilet rebate program for residents who switch to high-efficiency models to conserve water.",
+    "mainText": "The City of Verona has announced that road surface treatments are scheduled from August 4 through August 7, starting on Lincoln Street. Additionally, the city is offering a 100 dollar rebate program for residents who replace older toilets with high-efficiency models.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-02",
-    "updateDate": "2026-08-02T12:21:45.769Z",
+    "updateDate": "2026-08-02T13:30:15.286Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, we have the Remote Area Medical Clinic at the high school, along with live music at Bailey's Run and the Wisconsin Brewing Company. Looking ahead, yoga is available tomorrow at Insight Wellness.",
+    "mainText": "It is a big day for the community with the Remote Area Medical Clinic happening today at the high school, along with live music at Bailey's Run and the Wisconsin Brewing Company. Looking ahead, you can enjoy yoga tomorrow at Insight Wellness and trivia on Monday at Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-02",
-    "updateDate": "2026-08-02T12:21:45.769Z",
+    "updateDate": "2026-08-02T13:30:15.286Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, officers handled a variety of calls, including an incident on July 26 where a driver was arrested for an O W I after being stopped for traveling 97 miles per hour on the highway.",
+    "mainText": "On July 26, officers responded to a hit-and-run crash near West Verona Avenue and Epic Lane, where an 83-year-old driver was later cited for the incident.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-02",
-    "updateDate": "2026-08-02T12:21:45.769Z",
+    "updateDate": "2026-08-02T13:30:15.286Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is OREO Cookie Cheesecake. They are currently closed but will open their doors at 10 AM, and tomorrow you can look forward to the Chocolate Covered Strawberry flavor.",
+    "mainText": "Today's featured flavor is Oreo Cookie Cheesecake, though the store is currently closed and will open at 10 AM. You can also catch Kona Ice at Fireman's Park today from 1:30 PM to 3:15 PM. If you miss today's treat, tomorrow's flavor will be Chocolate Covered Strawberry.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
