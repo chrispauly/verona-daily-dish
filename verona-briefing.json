@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-02",
-    "updateDate": "2026-08-02T03:02:14.691Z",
+    "updateDate": "2026-08-02T05:03:54.363Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, it is 67 degrees and clear near the Military Ridge State Trail under a waning gibbous moon; tonight will reach a low of 64 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 12 AM, conditions are clear at Badger Prairie County Park with a temperature of 65 degrees and a Waning Gibbous moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-02",
-    "updateDate": "2026-08-02T03:02:14.691Z",
+    "updateDate": "2026-08-02T05:03:54.363Z",
     "titleText": "Verona City News",
-    "mainText": "The city is preparing for road surface treatment from August 4 through August 7, starting on Lincoln Street, and don't forget that the city offers a toilet rebate program to help residents conserve water.",
+    "mainText": "The Verona Police Department has updated their records process to allow for easier access to crash reports, and the city is currently offering a hundred dollar rebate for homeowners who replace old toilets with high-efficiency models.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-02",
-    "updateDate": "2026-08-02T03:02:14.691Z",
+    "updateDate": "2026-08-02T05:03:54.363Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can check out the Remote Area Medical clinic at the high school, the Sugar River Paddle and Jamboree, or the Dane County Farmers Market, followed by yoga at Insight Wellness on August 3.",
+    "mainText": "Today you can visit the Remote Area Medical clinic at Verona Area High School or check out live music at Bailey's Run Vineyard. Tomorrow, look for yoga sessions at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-02",
-    "updateDate": "2026-08-02T03:02:14.691Z",
+    "updateDate": "2026-08-02T05:03:54.363Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering July 20 to July 27, officers arrested a 29-year-old woman for an O W I during a stop on July 25.",
+    "mainText": "Regarding local safety, on July 26, a driver was arrested for operating under the influence, or O W I, after being stopped for traveling at high speeds on the highway.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-02",
-    "updateDate": "2026-08-02T03:02:14.691Z",
+    "updateDate": "2026-08-02T05:03:54.363Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Chocolate Volcano, and since Culver's is closing in less than 30 minutes, you should head over right now to grab a treat.",
+    "mainText": "Today's featured flavor is Oreo Cookie Cheesecake. Culvers is currently closed, but they will be ready to serve you starting at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
