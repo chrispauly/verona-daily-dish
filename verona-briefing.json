@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-02",
-    "updateDate": "2026-08-02T08:47:05.434Z",
+    "updateDate": "2026-08-02T09:39:25.167Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish. We are looking at a comfortable 63 degrees with clear skies at Reddan Soccer Park and a Waning Gibbous moon overhead.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: we are seeing clear skies and a comfortable 63 degrees over Harriet Park, accompanied by a waning gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-02",
-    "updateDate": "2026-08-02T08:47:05.434Z",
+    "updateDate": "2026-08-02T09:39:25.167Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, please be aware that road surface treatment is scheduled for Lincoln Street and the surrounding area from August 4 through August 7. Also, if you need police records, the department now facilitates requests through an online system, though note that redactions for sensitive information may cause slight processing delays.",
+    "mainText": "The city is preparing for road surface treatments from August 4 to August 7, and don't forget that you can apply for a 100 dollar rebate when you upgrade to a high efficiency toilet.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-02",
-    "updateDate": "2026-08-02T08:47:05.434Z",
+    "updateDate": "2026-08-02T09:39:25.167Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot happening in Verona. Today, you can visit the Remote Area Medical Clinic at Verona Area High School or catch live music at Bailey's Run Vineyard. Tomorrow, look forward to yoga sessions at Insight Wellness.",
+    "mainText": "There is a lot to do this weekend, starting with the Remote Area Medical Clinic today at Verona Area High School and live music today at Bailey's Run Vineyard, followed by yoga tomorrow at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-02",
-    "updateDate": "2026-08-02T08:47:05.434Z",
+    "updateDate": "2026-08-02T09:39:25.167Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on July 26, officers arrested a 55-year-old woman for O W I after stopping her for traveling 97 miles per hour on the highway.",
+    "mainText": "In our weekly look at local reports, on July 26, an 83 year old driver was cited for an improper left turn and a hit and run following a crash near West Verona Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-02",
-    "updateDate": "2026-08-02T08:47:05.434Z",
+    "updateDate": "2026-08-02T09:39:25.167Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is OREO Cookie Cheesecake. They are currently closed but will be opening at 10 AM today, so stop by once they are ready to serve you.",
+    "mainText": "Today is the perfect time to visit for the OREO Cookie Cheesecake flavor of the day; the restaurant is currently closed but will open at 10 AM. If you miss out, tomorrow's flavor is Chocolate Covered Strawberry.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
