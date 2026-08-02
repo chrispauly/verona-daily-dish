@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-02",
-    "updateDate": "2026-08-02T14:30:55.310Z",
+    "updateDate": "2026-08-02T15:23:02.915Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we are looking at 68 degrees with partly cloudy skies at Badger Prairie County Park under a waning gibbous moon.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: current conditions at Verona City Hall show 70 degrees with overcast skies and a waning gibbous moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-02",
-    "updateDate": "2026-08-02T14:30:55.310Z",
+    "updateDate": "2026-08-02T15:23:02.915Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced that road surface treatments will take place from August 4 to August 7, beginning on Lincoln Street. Additionally, the police department reminds residents that crash reports can now be obtained online through crashdocs.org ten days after an incident.",
+    "mainText": "In city news, the Verona Police Department is ready to assist with your records requests online through crashdocs.org, and the public works department has announced road surface treatments scheduled for August 4 through 7.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-02",
-    "updateDate": "2026-08-02T14:30:55.310Z",
+    "updateDate": "2026-08-02T15:23:02.915Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule today with the Remote Area Medical clinic at Verona Area High School. Tomorrow, you can also head over to Insight Wellness for yoga classes.",
+    "mainText": "We have a busy weekend ahead, starting with the Remote Area Medical clinic today at Verona Area High School and live music at Bailey's Run Vineyard today, followed by yoga classes at Insight Wellness tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-02",
-    "updateDate": "2026-08-02T14:30:55.310Z",
+    "updateDate": "2026-08-02T15:23:02.915Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering July 20 through July 27, officers arrested a 55-year-old woman for an O W I offence on July 26 after she was clocked driving 97 miles per hour on the highway.",
+    "mainText": "Looking at the weekly police report, one noteworthy call occurred on July 23 when officers responded to a domestic disturbance on Lucerne Drive which resulted in an arrest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-02",
-    "updateDate": "2026-08-02T14:30:55.310Z",
+    "updateDate": "2026-08-02T15:23:02.915Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today, you can enjoy the OREO Cookie Cheesecake flavor at Culver's, which opens at 10:00 AM. Also, catch Kona Ice at Fireman's Park today from 1:30 PM to 3:15 PM. Tomorrow, the flavor of the day will be Chocolate Covered Strawberry.",
+    "mainText": "Culver's of Verona is serving up OREO Cookie Cheesecake today until 10 PM, and if you are looking for more frozen treats, Kona Ice will be at Fireman's Park today from 1:30 PM to 3:15 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
