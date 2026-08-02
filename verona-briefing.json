@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-02",
-    "updateDate": "2026-08-02T01:33:47.096Z",
+    "updateDate": "2026-08-02T03:02:14.691Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: current temperatures are 68 degrees with partly cloudy skies at Badger Prairie County Park, the moon is in a Waning Gibbous phase, and we expect an overnight low of 64 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 10 PM, it is 67 degrees and clear near the Military Ridge State Trail under a waning gibbous moon; tonight will reach a low of 64 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-02",
-    "updateDate": "2026-08-02T01:33:47.096Z",
+    "updateDate": "2026-08-02T03:02:14.691Z",
     "titleText": "Verona City News",
-    "mainText": "City news today includes a reminder about upcoming road work on Lincoln Street starting August 4 and information on the city's toilet rebate program, which offers a 100 dollar credit for installing high-efficiency models.",
+    "mainText": "The city is preparing for road surface treatment from August 4 through August 7, starting on Lincoln Street, and don't forget that the city offers a toilet rebate program to help residents conserve water.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-02",
-    "updateDate": "2026-08-02T01:33:47.096Z",
+    "updateDate": "2026-08-02T03:02:14.691Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot happening today, including the Remote Area Medical Clinic at the high school, the Sugar River Paddle and Jamboree, and the Dane County Farmers' Market downtown.",
+    "mainText": "Today, you can check out the Remote Area Medical clinic at the high school, the Sugar River Paddle and Jamboree, or the Dane County Farmers Market, followed by yoga at Insight Wellness on August 3.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-02",
-    "updateDate": "2026-08-02T01:33:47.096Z",
+    "updateDate": "2026-08-02T03:02:14.691Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report regarding a traffic stop on July 26, a driver was arrested for an O W I offence after being clocked at 97 miles per hour on the highway.",
+    "mainText": "In a report covering July 20 to July 27, officers arrested a 29-year-old woman for an O W I during a stop on July 25.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-02",
-    "updateDate": "2026-08-02T01:33:47.096Z",
+    "updateDate": "2026-08-02T03:02:14.691Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is serving up Chocolate Volcano today and remains open until 10:30 PM, so there is still plenty of time to stop by for a treat.",
+    "mainText": "Today's flavor is Chocolate Volcano, and since Culver's is closing in less than 30 minutes, you should head over right now to grab a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
