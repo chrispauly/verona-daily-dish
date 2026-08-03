@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-03",
-    "updateDate": "2026-08-03T18:34:38.773Z",
+    "updateDate": "2026-08-03T19:30:56.287Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, we have clear skies at Badger Prairie County Park with a temperature of 79 degrees, though it feels a bit warmer at 87.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: expect clear skies with temperatures reaching 80 degrees near the Verona Public Library.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-03",
-    "updateDate": "2026-08-03T18:34:38.773Z",
+    "updateDate": "2026-08-03T19:30:56.287Z",
     "titleText": "Verona City News",
-    "mainText": "The Public Works Department wants to ensure you stay updated on street maintenance, refuse, and utility services, so be sure to subscribe to the city newsletter for all the latest notices.",
+    "mainText": "The Public Works Department is hard at work maintaining our city streets and utilities, and you can stay updated on their projects by subscribing to the City of Verona digital newsletter.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-03",
-    "updateDate": "2026-08-03T18:34:38.773Z",
+    "updateDate": "2026-08-03T19:30:56.287Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty to look forward to, including Yoga at Insight Wellness today, followed by trivia tomorrow at Hop Haus Brewing Company and the Wisconsin Brewing Company.",
+    "mainText": "We have plenty to do, including Yoga at Insight Wellness today, followed by Trivia Night at Hop Haus tomorrow and the Verona Downtown Farmer's Market this Wednesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-03",
-    "updateDate": "2026-08-03T18:34:38.773Z",
+    "updateDate": "2026-08-03T19:30:56.287Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding our weekly report, on July 31, a driver was arrested for an O W I after being spotted driving without taillights and on a flat tire.",
+    "mainText": "In a notable call from the past week, on July 31, an officer conducted a traffic stop that resulted in an O W I arrest and citations for suspended registration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-03",
-    "updateDate": "2026-08-03T18:34:38.773Z",
+    "updateDate": "2026-08-03T19:30:56.287Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor at the Verona location is the indulgent Chocolate Covered Strawberry. The store is open until 10 PM tonight, so there is plenty of time to satisfy your sweet tooth.",
+    "mainText": "Indulge in today's flavor, Chocolate Covered Strawberry, available at Culver's until they close at 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
