@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-03",
-    "updateDate": "2026-08-03T00:28:04.433Z",
+    "updateDate": "2026-08-03T01:34:05.014Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. We have clear skies over Badger Ridge Middle School with a temperature of 74 degrees, and we are looking at an overnight low of 60 degrees with no rain expected.",
+    "mainText": "Hello, Verona! At 8 PM, the temperature is 71 degrees under clear skies at the Verona Public Library, with a Waning Gibbous moon visible and an overnight low of 61 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-03",
-    "updateDate": "2026-08-03T00:28:04.433Z",
+    "updateDate": "2026-08-03T01:34:05.014Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department reminds residents that crash reports are handled through the online portal crashdocs.org. For other public records, you can submit a request through the department, though please keep in mind that some personal information may be redacted according to state law.",
+    "mainText": "The Verona Police Department reminds residents that their Records Section manages all official documentation, including traffic crash reports which are usually available 10 days after an incident through their website portal.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-03",
-    "updateDate": "2026-08-03T00:28:04.433Z",
+    "updateDate": "2026-08-03T01:34:05.014Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town. The Remote Area Medical Clinic is today at the High School, and we have live music happening at both Bailey's Run Vineyard and the Wisconsin Brewing Company today. Looking ahead, yoga is scheduled for tomorrow, and we have trivia nights and the Farmers Market starting on August 5th.",
+    "mainText": "There is a lot to do this weekend, starting with the Remote Area Medical Clinic taking place today at Verona Area High School, followed by live music at Bailey's Run Vineyard and the Wisconsin Brewing Company, both happening today.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-03",
-    "updateDate": "2026-08-03T00:28:04.433Z",
+    "updateDate": "2026-08-03T01:34:05.014Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable call from last week, a driver was arrested for an O W I on July 26th after being stopped for traveling 97 miles per hour on the highway.",
+    "mainText": "For our weekly report, on July 26, a 55-year-old woman was arrested for O W I after being stopped for traveling 97 miles per hour on the highway.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-03",
-    "updateDate": "2026-08-03T00:28:04.433Z",
+    "updateDate": "2026-08-03T01:34:05.014Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's today for their Caramel Fudge Cookie Dough flavor; they are open until 11 PM tonight. You can also catch Kona Ice at Fireman's Park today from 11 AM to 2 PM.",
+    "mainText": "Today's delicious Flavor of the Day is OREO Cookie Cheesecake, and since the store is open until 10 PM tonight, you have plenty of time to stop by for a frozen treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
