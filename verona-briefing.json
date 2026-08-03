@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-03",
-    "updateDate": "2026-08-03T07:05:48.018Z",
+    "updateDate": "2026-08-03T09:05:15.777Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish. We have clear skies at Badger Prairie County Park with a comfortable temperature of 62 degrees and a Waning Gibbous moon visible overhead.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: it is 60 degrees and clear out by the Verona Public Library, under the glow of a waning gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-03",
-    "updateDate": "2026-08-03T07:05:48.018Z",
+    "updateDate": "2026-08-03T09:05:15.777Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department reminds residents that they can now process records and crash reports through crashdocs.org. Please keep in mind that redactions for personal information may cause a delay of up to 10 business days for record requests.",
+    "mainText": "The Verona Police Department reminds residents that they can process official paperwork and crash reports through their online records section, which generally fulfills requests within ten business days.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-03",
-    "updateDate": "2026-08-03T07:05:48.018Z",
+    "updateDate": "2026-08-03T09:05:15.777Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of fun on the horizon. Start today with Yoga at Insight Wellness. Tomorrow features trivia nights at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus the Downtown Farmer's Market and live music later this week.",
+    "mainText": "We have a busy schedule starting with Yoga at Insight Wellness today, followed by plenty of options tomorrow like trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-03",
-    "updateDate": "2026-08-03T07:05:48.018Z",
+    "updateDate": "2026-08-03T09:05:15.777Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from July 21, a Verona Police drone officer assisted the Dane County Sheriff's Office in a search for an individual who fled a residence.",
+    "mainText": "In a notable incident from July 21, a Verona police drone operator successfully assisted the Dane County Sheriff's Office in locating a person who had fled a residence in the Town of Springdale.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-03",
-    "updateDate": "2026-08-03T07:05:48.018Z",
+    "updateDate": "2026-08-03T09:05:15.777Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Chocolate Covered Strawberry. The store is currently closed, but they will be ready to serve you starting at 10 AM.",
+    "mainText": "Today's flavor of the day is Chocolate Covered Strawberry. The store is currently closed but will open at 10 AM. If you miss out, tomorrow's flavor will be Butter Pecan.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
