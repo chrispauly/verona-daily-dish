@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-03",
-    "updateDate": "2026-08-03T19:30:56.287Z",
+    "updateDate": "2026-08-03T20:30:55.684Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: expect clear skies with temperatures reaching 80 degrees near the Verona Public Library.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. It is a clear 80 degrees outside Verona City Hall under a Waning Gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-03",
-    "updateDate": "2026-08-03T19:30:56.287Z",
+    "updateDate": "2026-08-03T20:30:55.684Z",
     "titleText": "Verona City News",
-    "mainText": "The Public Works Department is hard at work maintaining our city streets and utilities, and you can stay updated on their projects by subscribing to the City of Verona digital newsletter.",
+    "mainText": "The Public Works Department is hard at work maintaining our city streets and utilities. You can keep up with their latest efforts and other city news by subscribing to the official City of Verona digital newsletter.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-03",
-    "updateDate": "2026-08-03T19:30:56.287Z",
+    "updateDate": "2026-08-03T20:30:55.684Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty to do, including Yoga at Insight Wellness today, followed by Trivia Night at Hop Haus tomorrow and the Verona Downtown Farmer's Market this Wednesday.",
+    "mainText": "We have plenty to do this week. Yoga at Insight Wellness is happening today, and tomorrow you can catch trivia at either Hop Haus Brewing or Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-03",
-    "updateDate": "2026-08-03T19:30:56.287Z",
+    "updateDate": "2026-08-03T20:30:55.684Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable call from the past week, on July 31, an officer conducted a traffic stop that resulted in an O W I arrest and citations for suspended registration.",
+    "mainText": "During the early hours of July 28, an officer patrolling Fireman Park discovered an occupied vehicle after hours, resulting in an arrest on an active warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-03",
-    "updateDate": "2026-08-03T19:30:56.287Z",
+    "updateDate": "2026-08-03T20:30:55.684Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Indulge in today's flavor, Chocolate Covered Strawberry, available at Culver's until they close at 10 PM.",
+    "mainText": "Treat yourself to the Chocolate Covered Strawberry flavor of the day at Culver's, which is open until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
