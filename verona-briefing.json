@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-03",
-    "updateDate": "2026-08-03T15:00:49.792Z",
+    "updateDate": "2026-08-03T15:57:58.580Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. It is a clear and pleasant 70 degrees near Verona Area High School with the moon in a waning gibbous phase.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we are looking at clear skies and a comfortable 73 degrees at Harriet Park, with a waning gibbous moon phase appearing lately.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-03",
-    "updateDate": "2026-08-03T15:00:49.792Z",
+    "updateDate": "2026-08-03T15:57:58.580Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department Records Section processes official paperwork including crash reports and requests for documents. Most motor vehicle crash forms are available online 10 days after an incident, while other requests may take up to 10 business days to process due to necessary legal redactions.",
+    "mainText": "The Verona Police Department reminds residents that crash reports and other official records are handled by their records section. You can obtain traffic accident forms online at crashdocs.org about 10 days after an incident, or request other documents through their office with a standard 10-day processing window.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-03",
-    "updateDate": "2026-08-03T15:00:49.792Z",
+    "updateDate": "2026-08-03T15:57:58.580Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town with Yoga at Insight Wellness happening today. Tomorrow, you can enjoy trivia at Hop Haus, the Wisconsin Brewing Company, or Paddy Mac's, plus the downtown farmer's market.",
+    "mainText": "We have plenty to look forward to, starting with Yoga at Insight Wellness today. Tomorrow is packed with trivia options at Hop Haus and Lake Lou-ee, followed by the downtown farmers market and live music at Paddy Mac's on August 5.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-03",
-    "updateDate": "2026-08-03T15:00:49.792Z",
+    "updateDate": "2026-08-03T15:57:58.580Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Monday July 27, a Verona police drone officer assisted the Dane County Sheriff's Office in locating a person who fled from a residence.",
+    "mainText": "Regarding the weekly police report, on July 23, officers were called to a residence on Lucerne Drive for a domestic disturbance, which resulted in the arrest of a 23-year-old local man.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-03",
-    "updateDate": "2026-08-03T15:00:49.792Z",
+    "updateDate": "2026-08-03T15:57:58.580Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day for a Chocolate Covered Strawberry flavor of the day, and you can also visit the Kona Ice truck at Fireman Park today from 11 AM to 2 PM.",
+    "mainText": "Enjoy the Chocolate Covered Strawberry flavor today at Culver's, open until 10 PM. You can also find Kona Ice at Fireman's Park today from 11 AM to 2 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
