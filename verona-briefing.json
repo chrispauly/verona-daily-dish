@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-03",
-    "updateDate": "2026-08-03T22:22:18.311Z",
+    "updateDate": "2026-08-03T23:22:54.961Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, it is a clear 81 degrees near the Verona Public Library. Please note the air quality index is at a moderate level of 51. Looking ahead to tonight, we will see a waning gibbous moon, an overnight low of 63 degrees, and no rain expected.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: it is 79 degrees under clear skies at the Verona Area High School. We are currently under a Waning Gibbous moon phase. Tonight, the temperature will drop to an overnight low of 63 degrees, and there is no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-03",
-    "updateDate": "2026-08-03T22:22:18.311Z",
+    "updateDate": "2026-08-03T23:22:54.961Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona manages the local cemetery and accepts applications for plot purchases. Additionally, the public works department is encouraging residents to install rain barrels, offering a 30 dollar rebate per unit to help manage stormwater runoff.",
+    "mainText": "The City of Verona has announced that they are now managing the local cemetery on North Main Street, allowing anyone to purchase a plot through their online application process. Additionally, the city is encouraging residents to install rain barrels to help manage stormwater, offering a 30 dollar rebate for qualifying barrels.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-03",
-    "updateDate": "2026-08-03T22:22:18.311Z",
+    "updateDate": "2026-08-03T23:22:54.961Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty happening locally, starting with yoga at Insight Wellness today. Tomorrow, you can catch trivia at Hop Haus or Lake Lou-ee, and Wednesday brings more trivia at the Bogey Factory alongside the downtown farmer's market.",
+    "mainText": "We have a busy schedule starting today with Yoga at Insight Wellness. Tomorrow, you can catch trivia at Hop Haus Brewing Company or Wisconsin Brewing Company, followed by the Downtown Farmer's Market and more live music later in the week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-03",
-    "updateDate": "2026-08-03T22:22:18.311Z",
+    "updateDate": "2026-08-03T23:22:54.961Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on August 2, a Verona man was located and taken into custody for bail jumping and resisting an officer after fleeing from a previous encounter.",
+    "mainText": "On July 31, a police officer stopped a vehicle for lacking taillights and driving on a flat tire, resulting in the driver being arrested for an O W I, alongside additional citations for suspended registration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-03",
-    "updateDate": "2026-08-03T22:22:18.311Z",
+    "updateDate": "2026-08-03T23:22:54.961Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day at Culver's is the delicious Really Reese's. If you miss out, tomorrow's flavor will be OREO Cookie Cheesecake. Culver's is currently open, so there is still time to stop by for a treat.",
+    "mainText": "Stop by Culver's of Verona today to enjoy the Chocolate Covered Strawberry flavor of the day; they are open until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
