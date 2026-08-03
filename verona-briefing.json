@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-03",
-    "updateDate": "2026-08-03T09:05:15.777Z",
+    "updateDate": "2026-08-03T11:03:35.129Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: it is 60 degrees and clear out by the Verona Public Library, under the glow of a waning gibbous moon.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: we are looking at clear skies and 58 degrees near Reddan Soccer Park with a Waning Gibbous moon visible.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-03",
-    "updateDate": "2026-08-03T09:05:15.777Z",
+    "updateDate": "2026-08-03T11:03:35.129Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department reminds residents that they can process official paperwork and crash reports through their online records section, which generally fulfills requests within ten business days.",
+    "mainText": "The Verona Police Department Records Section has updated its process for handling documents. You can now request motor vehicle crash reports online through crashdocs.org, which usually makes them available ten days after an incident. For other police records, remember that redactions may be required under state law, and the department works to process these requests within ten business days.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-03",
-    "updateDate": "2026-08-03T09:05:15.777Z",
+    "updateDate": "2026-08-03T11:03:35.129Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule starting with Yoga at Insight Wellness today, followed by plenty of options tomorrow like trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's.",
+    "mainText": "Today, you can join Yoga at Insight Wellness. Looking ahead to tomorrow, there are plenty of trivia options including events at Hop Haus Brewing, Wisconsin Brewing Company, and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-03",
-    "updateDate": "2026-08-03T09:05:15.777Z",
+    "updateDate": "2026-08-03T11:03:35.129Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident from July 21, a Verona police drone operator successfully assisted the Dane County Sheriff's Office in locating a person who had fled a residence in the Town of Springdale.",
+    "mainText": "In a noteworthy call from the past week, on July 26, a 55-year-old woman was stopped for traveling 97 miles per hour and was subsequently arrested for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-03",
-    "updateDate": "2026-08-03T09:05:15.777Z",
+    "updateDate": "2026-08-03T11:03:35.129Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Chocolate Covered Strawberry. The store is currently closed but will open at 10 AM. If you miss out, tomorrow's flavor will be Butter Pecan.",
+    "mainText": "The Culver's flavor of the day is Chocolate Covered Strawberry. Since the store is currently closed, please note they open at 10:00 AM today. Tomorrow, you can look forward to Butter Pecan.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
