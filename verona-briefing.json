@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-04",
-    "updateDate": "2026-08-04T12:36:58.638Z",
+    "updateDate": "2026-08-04T13:34:10.003Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have clear skies and a pleasant 67 degrees out at Badger Prairie County Park, with the third quarter moon still lingering.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we are seeing a pleasant 72 degrees with mainly clear skies around Harriet Park, while the moon is in its third quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-04",
-    "updateDate": "2026-08-04T12:36:58.638Z",
+    "updateDate": "2026-08-04T13:34:10.003Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is offering a rain barrel rebate to encourage water conservation, and residents can also purchase cemetery plots at 565 North Main Street if needed.",
+    "mainText": "In city news, the Recreation Department has seasonal openings for fitness instructors and other roles. Also, the city is offering a rebate program for residents who install rain barrels to help manage stormwater runoff.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-04",
-    "updateDate": "2026-08-04T12:36:58.638Z",
+    "updateDate": "2026-08-04T13:34:10.003Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town with Hop Haus Trivia today, followed by the Downtown Farmer's Market and Yoga at Insight Wellness happening tomorrow.",
+    "mainText": "You have plenty to look forward to, starting with trivia at Hop Haus today. Tomorrow brings the downtown farmer's market, more trivia at The Bogey Factory, and live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-04",
-    "updateDate": "2026-08-04T12:36:58.638Z",
+    "updateDate": "2026-08-04T13:34:10.003Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, on July 31st, an officer performed a traffic stop that resulted in the arrest of a driver for an O W I and suspended vehicle registration.",
+    "mainText": "Reflecting on the week, officers had a busy shift last Thursday, including a traffic stop that led to an arrest for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-04",
-    "updateDate": "2026-08-04T12:36:58.638Z",
+    "updateDate": "2026-08-04T13:34:10.003Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Butter Pecan. Culver's is currently closed, but they will open at 10 AM today. Tomorrow's flavor is Peanut Butter Fudge Brownie.",
+    "mainText": "Butter Pecan is the flavor of the day at Culver's. Since the store is currently closed, plan your visit for when they open at 10 AM to grab a delicious treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
