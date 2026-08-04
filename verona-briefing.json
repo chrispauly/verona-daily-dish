@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-04",
-    "updateDate": "2026-08-04T16:36:41.543Z",
+    "updateDate": "2026-08-04T17:32:24.271Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. We are seeing 80 degrees with clear skies near the Verona Public Library, and we are currently in the third quarter moon phase.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we have 81 degrees and clear skies over the Military Ridge State Trail, plus the moon is currently in its third quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-04",
-    "updateDate": "2026-08-04T16:36:41.543Z",
+    "updateDate": "2026-08-04T17:32:24.271Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has some great updates today. The Senior Center is launching a free tri-shaw bike program for community members, while the Recreation Department is currently seeking applicants for seasonal roles like adult fitness instructors.",
+    "mainText": "The City of Verona has launched a tri-shaw bike program at the Senior Center, offering free 30-minute rides for residents on the Military Ridge State Trail, while the Parks Department is also seeking applicants for seasonal roles like adult fitness instructors.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-04",
-    "updateDate": "2026-08-04T16:36:41.543Z",
+    "updateDate": "2026-08-04T17:32:24.271Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can head to Hop Haus or Lake Lou-ee for trivia nights. Tomorrow, the downtown farmer's market kicks off at Hometown Junction Park, and we also have yoga at Insight Wellness and Wednesday trivia at The Bogey Factory.",
+    "mainText": "There is plenty to do, including Hop Haus Trivia and Quizmasters Trivia both taking place today, followed by a full lineup tomorrow featuring Yoga at Insight Wellness and the Verona Downtown Farmer's Market.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-04",
-    "updateDate": "2026-08-04T16:36:41.543Z",
+    "updateDate": "2026-08-04T17:32:24.271Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local police activity, on July 31, an officer conducted a traffic stop for an equipment violation, which resulted in the driver being arrested for O W I and cited for suspended vehicle registration.",
+    "mainText": "In a recent report, on July 28, an officer located an occupied vehicle in Fireman's Park after hours, resulting in a warning for the occupants and an arrest for a man who had an outstanding warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-04",
-    "updateDate": "2026-08-04T16:36:41.543Z",
+    "updateDate": "2026-08-04T17:32:24.271Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "It is a great day to visit Culver's because the flavor of the day is Butter Pecan. They are open until 10 PM tonight, so there is plenty of time to stop by for a treat.",
+    "mainText": "You can beat the heat today with the Butter Pecan flavor of the day at Culver's, which remains open until 10 PM this evening.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
