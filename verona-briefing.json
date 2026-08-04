@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-08-03",
-    "updateDate": "2026-08-03T23:22:54.961Z",
+    "uid": "verona-balanced-weather-2026-08-04",
+    "updateDate": "2026-08-04T00:27:39.888Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: it is 79 degrees under clear skies at the Verona Area High School. We are currently under a Waning Gibbous moon phase. Tonight, the temperature will drop to an overnight low of 63 degrees, and there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. It is 76 degrees with clear skies at Verona Community Park. We expect an overnight low of 63 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-08-03",
-    "updateDate": "2026-08-03T23:22:54.961Z",
+    "uid": "verona-balanced-news-2026-08-04",
+    "updateDate": "2026-08-04T00:27:39.888Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that they are now managing the local cemetery on North Main Street, allowing anyone to purchase a plot through their online application process. Additionally, the city is encouraging residents to install rain barrels to help manage stormwater, offering a 30 dollar rebate for qualifying barrels.",
+    "mainText": "The City of Verona has announced that residents can now purchase plots at the Verona Cemetery, located on North Main Street. Additionally, the city is offering a rebate program for residents who install rain barrels to help manage stormwater runoff.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-08-03",
-    "updateDate": "2026-08-03T23:22:54.961Z",
+    "uid": "verona-balanced-events-2026-08-04",
+    "updateDate": "2026-08-04T00:27:39.888Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule starting today with Yoga at Insight Wellness. Tomorrow, you can catch trivia at Hop Haus Brewing Company or Wisconsin Brewing Company, followed by the Downtown Farmer's Market and more live music later in the week.",
+    "mainText": "We have several events on the horizon, starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus Brewing or the Wisconsin Brewing Company. Looking further ahead, the Verona Downtown Farmer's Market is this Wednesday, and our Concerts in the Park series continues this Thursday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-08-03",
-    "updateDate": "2026-08-03T23:22:54.961Z",
+    "uid": "verona-balanced-police-2026-08-04",
+    "updateDate": "2026-08-04T00:27:39.888Z",
     "titleText": "Verona Police Report",
-    "mainText": "On July 31, a police officer stopped a vehicle for lacking taillights and driving on a flat tire, resulting in the driver being arrested for an O W I, alongside additional citations for suspended registration.",
+    "mainText": "In our weekly police report, we noted an incident from Tuesday, July 28th, where a man was taken into custody on an outstanding arrest warrant after being found in Fireman's Park after closing hours.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-08-03",
-    "updateDate": "2026-08-03T23:22:54.961Z",
+    "uid": "verona-balanced-culvers-2026-08-04",
+    "updateDate": "2026-08-04T00:27:39.888Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's of Verona today to enjoy the Chocolate Covered Strawberry flavor of the day; they are open until 10 PM tonight.",
+    "mainText": "You can treat yourself to the Chocolate Covered Strawberry flavor of the day at Culver's until they close at 10 PM tonight. It is a fantastic choice for this clear evening.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
