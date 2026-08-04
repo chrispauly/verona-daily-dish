@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-04",
-    "updateDate": "2026-08-04T00:27:39.888Z",
+    "updateDate": "2026-08-04T01:33:19.391Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. It is 76 degrees with clear skies at Verona Community Park. We expect an overnight low of 63 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish on the weather, featuring clear skies near the high school and a waning gibbous moon. The temperature will dip to a low of 64 degrees tonight, and we are not expecting any rain.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-04",
-    "updateDate": "2026-08-04T00:27:39.888Z",
+    "updateDate": "2026-08-04T01:33:19.391Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that residents can now purchase plots at the Verona Cemetery, located on North Main Street. Additionally, the city is offering a rebate program for residents who install rain barrels to help manage stormwater runoff.",
+    "mainText": "The city has released information regarding the Verona Cemetery located on North Main Street, where plots are now available for purchase by anyone, regardless of residency. Additionally, residents can now apply for a 30 dollar rain barrel rebate to help with water conservation and stormwater management.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-04",
-    "updateDate": "2026-08-04T00:27:39.888Z",
+    "updateDate": "2026-08-04T01:33:19.391Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have several events on the horizon, starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus Brewing or the Wisconsin Brewing Company. Looking further ahead, the Verona Downtown Farmer's Market is this Wednesday, and our Concerts in the Park series continues this Thursday.",
+    "mainText": "We have plenty going on, starting with yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus or the Wisconsin Brewing Company, and look forward to the Farmer's Market downtown this Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-04",
-    "updateDate": "2026-08-04T00:27:39.888Z",
+    "updateDate": "2026-08-04T01:33:19.391Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, we noted an incident from Tuesday, July 28th, where a man was taken into custody on an outstanding arrest warrant after being found in Fireman's Park after closing hours.",
+    "mainText": "Regarding the weekly police update, on August 2nd, officers successfully located a 49-year-old man who had fled from them previously, taking him into custody on charges of bail jumping and resisting arrest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-04",
-    "updateDate": "2026-08-04T00:27:39.888Z",
+    "updateDate": "2026-08-04T01:33:19.391Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can treat yourself to the Chocolate Covered Strawberry flavor of the day at Culver's until they close at 10 PM tonight. It is a fantastic choice for this clear evening.",
+    "mainText": "The Culver's flavor of the day is the delightful Chocolate Covered Strawberry. The shop is open until 10 PM tonight, so stop by soon for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
