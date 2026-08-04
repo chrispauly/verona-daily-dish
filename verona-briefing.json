@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-04",
-    "updateDate": "2026-08-04T15:47:30.748Z",
+    "updateDate": "2026-08-04T16:36:41.543Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: it is 78 degrees with clear skies near the Public Library, and we are currently in the third quarter moon phase.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. We are seeing 80 degrees with clear skies near the Verona Public Library, and we are currently in the third quarter moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-04",
-    "updateDate": "2026-08-04T15:47:30.748Z",
+    "updateDate": "2026-08-04T16:36:41.543Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is now offering free tri-shaw bike rides along the Military Ridge State Trail, while the city is also accepting applications for a rain barrel rebate program to help with stormwater management.",
+    "mainText": "The City of Verona has some great updates today. The Senior Center is launching a free tri-shaw bike program for community members, while the Recreation Department is currently seeking applicants for seasonal roles like adult fitness instructors.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-04",
-    "updateDate": "2026-08-04T15:47:30.748Z",
+    "updateDate": "2026-08-04T16:36:41.543Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can head to Hop Haus or Wisconsin Brewing Company for trivia nights, and tomorrow brings even more fun with the Downtown Farmer's Market and Wednesday trivia at The Bogey Factory.",
+    "mainText": "Today, you can head to Hop Haus or Lake Lou-ee for trivia nights. Tomorrow, the downtown farmer's market kicks off at Hometown Junction Park, and we also have yoga at Insight Wellness and Wednesday trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-04",
-    "updateDate": "2026-08-04T15:47:30.748Z",
+    "updateDate": "2026-08-04T16:36:41.543Z",
     "titleText": "Verona Police Report",
-    "mainText": "During the early hours of July 31, a vehicle stop resulted in the arrest of a driver for O W I and multiple traffic citations.",
+    "mainText": "Regarding local police activity, on July 31, an officer conducted a traffic stop for an equipment violation, which resulted in the driver being arrested for O W I and cited for suspended vehicle registration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-04",
-    "updateDate": "2026-08-04T15:47:30.748Z",
+    "updateDate": "2026-08-04T16:36:41.543Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the classic Butter Pecan at Culver's of Verona. They are open until 10 PM, so there is plenty of time to stop by for a scoop.",
+    "mainText": "It is a great day to visit Culver's because the flavor of the day is Butter Pecan. They are open until 10 PM tonight, so there is plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
