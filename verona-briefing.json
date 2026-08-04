@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-04",
-    "updateDate": "2026-08-04T01:33:19.391Z",
+    "updateDate": "2026-08-04T03:02:12.860Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish on the weather, featuring clear skies near the high school and a waning gibbous moon. The temperature will dip to a low of 64 degrees tonight, and we are not expecting any rain.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. We have clear skies near Badger Ridge Middle School with a temperature of 70 degrees. The moon is in its third quarter, and we expect an overnight low of 64 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-04",
-    "updateDate": "2026-08-04T01:33:19.391Z",
+    "updateDate": "2026-08-04T03:02:12.860Z",
     "titleText": "Verona City News",
-    "mainText": "The city has released information regarding the Verona Cemetery located on North Main Street, where plots are now available for purchase by anyone, regardless of residency. Additionally, residents can now apply for a 30 dollar rain barrel rebate to help with water conservation and stormwater management.",
+    "mainText": "The City of Verona now manages the Verona Cemetery at 565 North Main Street. Anyone can purchase a plot, though specific rules apply for monument sizes and decorations. Additionally, the city offers a rain barrel rebate program to help residents reduce stormwater runoff by providing a credit for qualifying barrel installations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-04",
-    "updateDate": "2026-08-04T01:33:19.391Z",
+    "updateDate": "2026-08-04T03:02:12.860Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty going on, starting with yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus or the Wisconsin Brewing Company, and look forward to the Farmer's Market downtown this Tuesday.",
+    "mainText": "We have plenty happening in town. Yoga at Insight Wellness is today. Tomorrow, you can catch trivia at Hop Haus Brewing or the Quizmasters event at Wisconsin Brewing Company. Looking further ahead, we have a variety of events on August 5 including trivia at Paddy Mac's, the Farmer's Market, and more.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-04",
-    "updateDate": "2026-08-04T01:33:19.391Z",
+    "updateDate": "2026-08-04T03:02:12.860Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly police update, on August 2nd, officers successfully located a 49-year-old man who had fled from them previously, taking him into custody on charges of bail jumping and resisting arrest.",
+    "mainText": "In a report from the past week, on July 31, an officer stopped a vehicle for an equipment violation and ended up arresting the driver for O W I and citing her for a prohibited alcohol concentration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-04",
-    "updateDate": "2026-08-04T01:33:19.391Z",
+    "updateDate": "2026-08-04T03:02:12.860Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is the delightful Chocolate Covered Strawberry. The shop is open until 10 PM tonight, so stop by soon for a treat.",
+    "mainText": "Today's Flavor of the Day is the delicious Chocolate Covered Strawberry. Since the store is currently closed, you can look forward to stopping by when they open tomorrow at 10:00 AM, when the flavor will be Butter Pecan.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
