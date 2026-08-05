@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-05",
-    "updateDate": "2026-08-05T20:30:29.007Z",
+    "updateDate": "2026-08-05T21:25:35.486Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, we are seeing overcast skies with temperatures around 76 degrees at Reddan Soccer Park under a third quarter moon.",
+    "mainText": "Hello, Verona! At 4 PM, we are seeing overcast skies at Harriet Park with a temperature of 75 degrees and a third quarter moon phase visible in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-05",
-    "updateDate": "2026-08-05T20:30:29.007Z",
+    "updateDate": "2026-08-05T21:25:35.486Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona remains committed to infrastructure excellence with regular engineering reports provided to the City Council, and residents can also take advantage of a rebate program by installing rain barrels to help manage stormwater.",
+    "mainText": "City engineering services are managed through contracts with AECOM, with reports presented to the City Council regularly, and residents can also apply for rain barrel rebates to help with stormwater management.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-05",
-    "updateDate": "2026-08-05T20:30:29.007Z",
+    "updateDate": "2026-08-05T21:25:35.486Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy day in store with the Verona Downtown Farmer's Market and Wednesday Pizza and a Pitcher at the Wisconsin Brewing Company happening today, plus Concerts in the Park tomorrow.",
+    "mainText": "Today is full of community activity including Live Music at Paddy Mac's, trivia at the Bogey Factory, and the Verona Downtown Farmer's Market, followed by free concerts at Century School Park tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-05",
-    "updateDate": "2026-08-05T20:30:29.007Z",
+    "updateDate": "2026-08-05T21:25:35.486Z",
     "titleText": "Verona Police Report",
-    "mainText": "A notable call for service occurred on July 31st, when an officer stopped a vehicle for an equipment violation and arrested the driver for O W I and suspended registration.",
+    "mainText": "In our weekly report, the police noted that on July 31, an officer stopped a vehicle for an equipment violation, which led to citations for possession of THC and drug paraphernalia.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-05",
-    "updateDate": "2026-08-05T20:30:29.007Z",
+    "updateDate": "2026-08-05T21:25:35.486Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "It is a perfect day for a scoop of Peanut Butter Fudge Brownie at Culver's, and since they are open until 10 PM, you have plenty of time to head over.",
+    "mainText": "Today's Culver's flavor is Peanut Butter Fudge Brownie, and the restaurant is open until 10 PM tonight for you to enjoy a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
