@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-05",
-    "updateDate": "2026-08-05T22:23:26.475Z",
+    "updateDate": "2026-08-05T23:21:33.868Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: we have overcast skies and a temperature of 74 degrees at Verona City Hall. The moon is in its third quarter phase, and tonight the temperature will drop to an overnight low of 63 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: we have overcast skies near Harriet Park with a temperature of 70 degrees, a third quarter moon, an overnight low of 60 degrees, and no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-05",
-    "updateDate": "2026-08-05T22:23:26.475Z",
+    "updateDate": "2026-08-05T23:21:33.868Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Parks Department reminds residents that they manage the local cemetery and are currently accepting applications for plots. Also, the city offers a rebate program for residents who install rain barrels on their property to help manage stormwater.",
+    "mainText": "The City of Verona has updated their engineering report archives for the Council and is encouraging residents to apply for the tri-shaw bike program for seniors or look into the rain barrel rebate policy to help with stormwater.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-05",
-    "updateDate": "2026-08-05T22:23:26.475Z",
+    "updateDate": "2026-08-05T23:21:33.868Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot happening this week in Verona. Today, enjoy the Downtown Farmer's Market, Yoga at Insight Wellness, or Trivia Night at The Bogey Factory. Tomorrow, look forward to Concerts in the Park at Century School Park and Hop Haus Trivia.",
+    "mainText": "Today features live music at Paddy Mac's, the downtown farmer's market, and trivia night at the Bogey Factory, while tomorrow you can check out concerts in the park or trivia at Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-05",
-    "updateDate": "2026-08-05T22:23:26.475Z",
+    "updateDate": "2026-08-05T23:21:33.868Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on July 31, an officer conducted a traffic stop that resulted in the arrest of a 20-year-old woman for possession of T H C and drug paraphernalia, while the driver was cited for operating without a valid license.",
+    "mainText": "On Thursday, July 31st, Verona police conducted a traffic stop that led to an arrest for O W I and citations for suspended registration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-05",
-    "updateDate": "2026-08-05T22:23:26.475Z",
+    "updateDate": "2026-08-05T23:21:33.868Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Peanut Butter Fudge Brownie. The store is open until 10 PM, so stop by soon for a treat. Also, please note that Kona Ice has no scheduled stops in Verona for today.",
+    "mainText": "Stop by for the Peanut Butter Fudge Brownie flavor of the day today before they close at 10 PM. If you miss it, tomorrow's flavor will be Chocolate Caramel Twist.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
