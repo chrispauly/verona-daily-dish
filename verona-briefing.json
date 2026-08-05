@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-05",
-    "updateDate": "2026-08-05T06:52:19.741Z",
+    "updateDate": "2026-08-05T07:52:44.725Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish. We have overcast conditions near the Verona Public Library with temperatures at 70 degrees, and we are currently under a third quarter moon.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: it is 70 degrees with overcast skies at Harriet Park under a third quarter moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-05",
-    "updateDate": "2026-08-05T06:52:19.741Z",
+    "updateDate": "2026-08-05T07:52:44.725Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is offering a rain barrel rebate program to help conserve water, and the Senior Center is seeking volunteer pilots for their new tri-shaw bike program.",
+    "mainText": "The Verona Senior Center is currently highlighting their tri-shaw bike program which provides free 30-minute rides for seniors. Also, the Recreation Department is hiring for various seasonal roles, so check their website if you are looking to join their team.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-05",
-    "updateDate": "2026-08-05T06:52:19.741Z",
+    "updateDate": "2026-08-05T07:52:44.725Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty happening, including the Downtown Farmer's Market and pizza at Lake Lou-ee today, plus Concerts in the Park and trivia at Hop Haus tomorrow.",
+    "mainText": "Today is packed with activities including the downtown farmer's market, trivia at The Bogey Factory, pizza at the Wisconsin Brewing Company, and music at Paddy Mac's. Tomorrow, look forward to Concerts in the Park at Century School Park and trivia at Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-05",
-    "updateDate": "2026-08-05T06:52:19.741Z",
+    "updateDate": "2026-08-05T07:52:44.725Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident from July 31, a driver was stopped for equipment violations and arrested for O W I.",
+    "mainText": "In a notable call from July 31st, an officer performed a traffic stop that resulted in an arrest for O W I and citations for suspended registration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-05",
-    "updateDate": "2026-08-05T06:52:19.741Z",
+    "updateDate": "2026-08-05T07:52:44.725Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Peanut Butter Fudge Brownie. The restaurant is currently closed but will open its doors at 10 AM.",
+    "mainText": "Today's flavor of the day is the delightful Peanut Butter Fudge Brownie. Culver's is currently closed, but they will be ready to serve you when they open at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
