@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-05",
-    "updateDate": "2026-08-05T18:31:33.839Z",
+    "updateDate": "2026-08-05T19:30:45.346Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we are seeing overcast skies at Badger Prairie County Park with a temperature of 76 degrees, though it feels more like 84.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: expect overcast skies with a temperature of 75 degrees at Reddan Soccer Park and the moon is currently in its third quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-05",
-    "updateDate": "2026-08-05T18:31:33.839Z",
+    "updateDate": "2026-08-05T19:30:45.346Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has updated its engineering services reports, which are available on the city website, and residents are reminded that rain barrel rebates are available for those looking to conserve water and manage stormwater runoff.",
+    "mainText": "In city news, the Verona Senior Center is offering free 30-minute rides on their tri-shaw bikes along the Military Ridge State Trail, and the Recreation Department is currently hiring for adult fitness instructors.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-05",
-    "updateDate": "2026-08-05T18:31:33.839Z",
+    "updateDate": "2026-08-05T19:30:45.346Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with local fun including trivia at The Bogey Factory and music at Paddy Mac's, followed by Concerts in the Park and Hop Haus trivia occurring tomorrow.",
+    "mainText": "There is plenty to do with the downtown farmer's market and live music at Paddy Mac's today, plus catch the Concerts in the Park series happening tomorrow at Century School Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-05",
-    "updateDate": "2026-08-05T18:31:33.839Z",
+    "updateDate": "2026-08-05T19:30:45.346Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly report, a notable incident occurred on July 31 when an officer conducted a traffic stop that resulted in a driver being arrested for an O W I offence.",
+    "mainText": "In our weekly police report, on July 31st, an officer performed a traffic stop that resulted in the driver being arrested for O W I and cited for suspended vehicle registration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-05",
-    "updateDate": "2026-08-05T18:31:33.839Z",
+    "updateDate": "2026-08-05T19:30:45.346Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You are in luck because today's flavor is the decadent Peanut Butter Fudge Brownie, available until the store closes at 10 PM tonight.",
+    "mainText": "Today's flavor of the day is Peanut Butter Fudge Brownie. Culver's is open until 10 PM tonight, so there is plenty of time to stop by and enjoy a delicious frozen treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
