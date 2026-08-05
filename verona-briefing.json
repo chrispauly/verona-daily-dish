@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-08-04",
-    "updateDate": "2026-08-04T23:22:24.228Z",
+    "uid": "verona-balanced-weather-2026-08-05",
+    "updateDate": "2026-08-05T00:27:05.254Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. We are seeing partly cloudy skies and 81 degrees near Badger Ridge Middle School. The moon is in its third quarter, and as we look toward tonight, we are anticipating an overnight low of 66 degrees with rain expected.",
+    "mainText": "Hello, Verona! At 7 PM, we are seeing overcast skies near the Verona Area High School, and the moon is in its third quarter phase. Expect the temperature to dip to an overnight low of 66 degrees, with rain predicted to move in as well.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-08-04",
-    "updateDate": "2026-08-04T23:22:24.228Z",
+    "uid": "verona-balanced-news-2026-08-05",
+    "updateDate": "2026-08-05T00:27:05.254Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has some great updates. You can now volunteer as a pilot or sign up for a free ride on a tri-shaw bike at the Senior Center. Additionally, the city is offering a rebate program for residents who install rain barrels to help manage stormwater.",
+    "mainText": "The City of Verona has some great updates. The Senior Center is currently running a tri-shaw bike program that offers free, scenic rides on the Military Ridge State Trail for community members. Additionally, if you are looking to help with city beautification, the city is providing a rain barrel rebate program to help residents reduce stormwater runoff.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-08-04",
-    "updateDate": "2026-08-04T23:22:24.228Z",
+    "uid": "verona-balanced-events-2026-08-05",
+    "updateDate": "2026-08-05T00:27:05.254Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town. Today, join in for trivia at Hop Haus or at Lake Lou-ee. Tomorrow, check out the downtown Farmer's Market at Hometown Junction Park or catch some trivia at Paddy Mac's.",
+    "mainText": "There is plenty to do this week. Today, you can catch trivia at either Hop Haus Brewing Co. or Wisconsin Brewing Company. Tomorrow, we have a busy day with trivia at Paddy Mac's, yoga at Insight Wellness, the Verona Downtown Farmer's Market, and much more.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-08-04",
-    "updateDate": "2026-08-04T23:22:24.228Z",
+    "uid": "verona-balanced-police-2026-08-05",
+    "updateDate": "2026-08-05T00:27:05.254Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on July 31, an officer conducted a traffic stop that led to the arrest of a driver for an O W I offence.",
+    "mainText": "Regarding local safety, on July 31, an officer conducted a traffic stop that resulted in a driver being arrested for O W I after they were observed driving on a flat tire without active taillights.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-08-04",
-    "updateDate": "2026-08-04T23:22:24.228Z",
+    "uid": "verona-balanced-culvers-2026-08-05",
+    "updateDate": "2026-08-05T00:27:05.254Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day for some Butter Pecan, so make sure to stop by Culvers. They are open until 10:00 PM tonight, giving you plenty of time to grab a scoop.",
+    "mainText": "Make sure to satisfy your sweet tooth with today's flavor, Butter Pecan. Culver's is open until 10 PM tonight, giving you plenty of time to stop by and grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
