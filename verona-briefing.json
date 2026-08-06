@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-06",
-    "updateDate": "2026-08-06T06:53:16.779Z",
+    "updateDate": "2026-08-06T07:52:18.201Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, conditions are clear near Badger Ridge Middle School, with the third quarter moon visible overhead.",
+    "mainText": "Hello, Verona! At 2 AM, we are seeing 60 degree temperatures with fog lingering near Reddan Soccer Park, and the moon is currently in its third quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-06",
-    "updateDate": "2026-08-06T06:53:16.779Z",
+    "updateDate": "2026-08-06T07:52:18.201Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona provides ongoing engineering reports to the City Council, which are available to the public online. Additionally, those interested in community service can look into becoming a tri-shaw pilot at the Senior Center to help seniors enjoy the outdoors, or apply for seasonal recreation department jobs.",
+    "mainText": "City residents should know that the Verona Senior Center offers a free tri-shaw bike program for seniors to enjoy the Military Ridge State Trail, while the Parks Department is currently seeking applicants for seasonal positions like lifeguards.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-06",
-    "updateDate": "2026-08-06T06:53:16.779Z",
+    "updateDate": "2026-08-06T07:52:18.201Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty going on in town. Today, you can catch Yoga at Insight Wellness, enjoy live music at Concerts in the Park, or test your knowledge at Hop Haus Trivia. Looking ahead, we have live music at Bailey's Run and Lake Lou-ee tomorrow, followed by the Dane County Farmers' Market and music at Paddy Mac's this Friday.",
+    "mainText": "There is plenty to do in town, with Yoga at Insight Wellness and the Concerts in the Park series both taking place today, plus trivia at Hop Haus occurring today as well.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-06",
-    "updateDate": "2026-08-06T06:53:16.779Z",
+    "updateDate": "2026-08-06T07:52:18.201Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on July 31st, officers conducted a stop that resulted in the arrest of a driver for an O W I and citations for a suspended vehicle registration.",
+    "mainText": "In our weekly report, on July 31st, an officer conducted a traffic stop that resulted in the driver being arrested for O W I and cited for suspended vehicle registration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-06",
-    "updateDate": "2026-08-06T06:53:16.779Z",
+    "updateDate": "2026-08-06T07:52:18.201Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor is the Chocolate Caramel Twist. If you are craving a treat, Culver's is currently closed but will open at 10 AM today.",
+    "mainText": "Today is the perfect day for a Chocolate Caramel Twist, but keep in mind that the store is currently closed and will open its doors at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
