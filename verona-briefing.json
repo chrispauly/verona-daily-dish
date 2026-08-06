@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-06",
-    "updateDate": "2026-08-06T09:54:15.759Z",
+    "updateDate": "2026-08-06T10:52:10.139Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: we are seeing 61 degrees with clear skies near Verona City Hall and a third quarter moon.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish. We are seeing temperatures around 60 degrees with foggy conditions near the Verona Area High School under a third quarter moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-06",
-    "updateDate": "2026-08-06T09:54:15.759Z",
+    "updateDate": "2026-08-06T10:52:10.139Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Senior Center is currently offering free tri-shaw bike rides along the Military Ridge State Trail, and the Recreation Department is seeking adult fitness instructors for our community.",
+    "mainText": "In city news, the Verona Senior Center is currently offering free tri-shaw bike rides, which is a great way to enjoy the scenery on the Military Ridge State Trail. Additionally, the city is offering a rain barrel rebate program to help residents reduce stormwater runoff.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-06",
-    "updateDate": "2026-08-06T09:54:15.759Z",
+    "updateDate": "2026-08-06T10:52:10.139Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have several great local options today, including Yoga at Insight Wellness and Concerts in the Park at Century School Park, plus Hop Haus Trivia is also taking place today.",
+    "mainText": "You have plenty to choose from today, including yoga at Insight Wellness and a free concert at Century School Park, plus there is live music at Bailey's Run Vineyard starting tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-06",
-    "updateDate": "2026-08-06T09:54:15.759Z",
+    "updateDate": "2026-08-06T10:52:10.139Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly look at local reports, on July 31, a driver was arrested for O W I after an officer initiated a stop for driving on a flat tire.",
+    "mainText": "In our weekly police report, on July 31, an officer conducted a traffic stop that resulted in the driver being arrested for an O W I, alongside citations for suspended registration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-06",
-    "updateDate": "2026-08-06T09:54:15.759Z",
+    "updateDate": "2026-08-06T10:52:10.139Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently closed, but they open at 10:00 AM today, so be sure to stop by and try their flavor of the day, the Chocolate Caramel Twist.",
+    "mainText": "Today's delicious flavor is Chocolate Caramel Twist. Please note that Culver's is currently closed but will open its doors at 10 AM, so you can grab your treat later today.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
