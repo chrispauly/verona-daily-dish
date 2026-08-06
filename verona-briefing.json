@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-06",
-    "updateDate": "2026-08-06T03:02:03.060Z",
+    "updateDate": "2026-08-06T05:02:34.973Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: skies are clear near Badger Ridge Middle School with a temperature of 63 degrees. The third quarter moon is out, and we expect an overnight low of 57 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: skies are clear near Badger Ridge Middle School with a temperature of 61 degrees and we are seeing a Third Quarter moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-06",
-    "updateDate": "2026-08-06T03:02:03.060Z",
+    "updateDate": "2026-08-06T05:02:34.973Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Senior Center is inviting residents to book free 30-minute rides on their tri-shaw bikes, which are pedal-assist vehicles designed for two riders to enjoy the scenery. Additionally, the recreation department is currently seeking energetic individuals for seasonal roles, including adult fitness instructors.",
+    "mainText": "City operations are steady as we continue to track engineering service reports from AECOM, and the Senior Center is inviting residents to sign up for free 30-minute rides on their tri-shaw bikes along the Military Ridge State Trail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-06",
-    "updateDate": "2026-08-06T03:02:03.060Z",
+    "updateDate": "2026-08-06T05:02:34.973Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community, including Trivia Night at The Bogey Factory today. Tomorrow, you can head over to Century School Park for the free Concerts in the Park series or participate in Hop Haus trivia.",
+    "mainText": "Today is a great day to get active with Yoga at Insight Wellness, enjoy live music at the Concerts in the Park event, or test your knowledge at Hop Haus Trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-06",
-    "updateDate": "2026-08-06T03:02:03.060Z",
+    "updateDate": "2026-08-06T05:02:34.973Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the latest police report, an incident on July 31 involved an officer conducting a traffic stop that led to an arrest for an O W I, with the driver also cited for prohibited alcohol concentration and suspended vehicle registration.",
+    "mainText": "In our weekly police report, on Tuesday, an officer located a vehicle in Fireman's Park after hours which led to the arrest of a man on an outstanding warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-06",
-    "updateDate": "2026-08-06T03:02:03.060Z",
+    "updateDate": "2026-08-06T05:02:34.973Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the decadent Peanut Butter Fudge Brownie. The shop is currently closed, but they will reopen tomorrow at 10 AM, when the flavor will switch to Chocolate Caramel Twist.",
+    "mainText": "Today's flavor of the day is the delightful Chocolate Caramel Twist. Since the restaurant is currently closed, make sure to stop by when they open their doors at 10 AM to enjoy your treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
