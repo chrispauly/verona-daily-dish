@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-06",
-    "updateDate": "2026-08-06T01:33:09.806Z",
+    "updateDate": "2026-08-06T03:02:03.060Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: it is 65 degrees with partly cloudy skies near Badger Ridge Middle School, and under a third quarter moon, we expect an overnight low of 57 degrees with no rain.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: skies are clear near Badger Ridge Middle School with a temperature of 63 degrees. The third quarter moon is out, and we expect an overnight low of 57 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-06",
-    "updateDate": "2026-08-06T01:33:09.806Z",
+    "updateDate": "2026-08-06T03:02:03.060Z",
     "titleText": "Verona City News",
-    "mainText": "City Hall reminds residents that they can apply for the rain barrel rebate program to help conserve water, and the Recreation Department is currently hiring for adult fitness instructors.",
+    "mainText": "In city news, the Verona Senior Center is inviting residents to book free 30-minute rides on their tri-shaw bikes, which are pedal-assist vehicles designed for two riders to enjoy the scenery. Additionally, the recreation department is currently seeking energetic individuals for seasonal roles, including adult fitness instructors.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-06",
-    "updateDate": "2026-08-06T01:33:09.806Z",
+    "updateDate": "2026-08-06T03:02:03.060Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can enjoy the Downtown Farmer's Market, while tomorrow brings Concerts in the Park at Century School Park and trivia at Hop Haus Brewing Company.",
+    "mainText": "There is plenty to do in our community, including Trivia Night at The Bogey Factory today. Tomorrow, you can head over to Century School Park for the free Concerts in the Park series or participate in Hop Haus trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-06",
-    "updateDate": "2026-08-06T01:33:09.806Z",
+    "updateDate": "2026-08-06T03:02:03.060Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly report, on August 2, officers located a 49-year-old man who had been evading them and took him into custody for bail jumping and resisting arrest.",
+    "mainText": "Regarding the latest police report, an incident on July 31 involved an officer conducting a traffic stop that led to an arrest for an O W I, with the driver also cited for prohibited alcohol concentration and suspended vehicle registration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-06",
-    "updateDate": "2026-08-06T01:33:09.806Z",
+    "updateDate": "2026-08-06T03:02:03.060Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You are in for a treat with today's flavor, Peanut Butter Fudge Brownie, available at Culver's until they close tonight at 10 PM.",
+    "mainText": "Today's flavor of the day is the decadent Peanut Butter Fudge Brownie. The shop is currently closed, but they will reopen tomorrow at 10 AM, when the flavor will switch to Chocolate Caramel Twist.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
