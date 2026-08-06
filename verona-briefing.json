@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-06",
-    "updateDate": "2026-08-06T07:52:18.201Z",
+    "updateDate": "2026-08-06T08:55:40.372Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, we are seeing 60 degree temperatures with fog lingering near Reddan Soccer Park, and the moon is currently in its third quarter phase.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: it is 61 degrees with foggy conditions observed near Reddan Soccer Park, and we are currently under a third quarter moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-06",
-    "updateDate": "2026-08-06T07:52:18.201Z",
+    "updateDate": "2026-08-06T08:55:40.372Z",
     "titleText": "Verona City News",
-    "mainText": "City residents should know that the Verona Senior Center offers a free tri-shaw bike program for seniors to enjoy the Military Ridge State Trail, while the Parks Department is currently seeking applicants for seasonal positions like lifeguards.",
+    "mainText": "The City of Verona has several programs available, including a rain barrel rebate policy to help with stormwater management and seasonal job openings at the recreation department.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-06",
-    "updateDate": "2026-08-06T07:52:18.201Z",
+    "updateDate": "2026-08-06T08:55:40.372Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, with Yoga at Insight Wellness and the Concerts in the Park series both taking place today, plus trivia at Hop Haus occurring today as well.",
+    "mainText": "Today, you can check out Yoga at Insight Wellness or catch the Concerts in the Park performance, and don't forget about Hop Haus Trivia happening later today.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-06",
-    "updateDate": "2026-08-06T07:52:18.201Z",
+    "updateDate": "2026-08-06T08:55:40.372Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, on July 31st, an officer conducted a traffic stop that resulted in the driver being arrested for O W I and cited for suspended vehicle registration.",
+    "mainText": "In a recent report, an officer conducted a traffic stop on July 31st that resulted in a driver being arrested for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-06",
-    "updateDate": "2026-08-06T07:52:18.201Z",
+    "updateDate": "2026-08-06T08:55:40.372Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day for a Chocolate Caramel Twist, but keep in mind that the store is currently closed and will open its doors at 10 AM.",
+    "mainText": "Today's flavor of the day is Chocolate Caramel Twist. The restaurant is currently closed but will open at 10 AM. Tomorrow's flavor will be Really Reese's.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
