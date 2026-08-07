@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-07",
-    "updateDate": "2026-08-07T04:39:11.703Z",
+    "updateDate": "2026-08-07T05:31:54.056Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: it is 70 degrees at Verona City Hall under overcast skies with a Third Quarter moon. The air quality index is 51, so keep that in mind, and we expect an overnight low of 66 with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we are seeing clear conditions at Badger Prairie County Park with an air quality index of 51, and the moon is currently in its third quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-07",
-    "updateDate": "2026-08-07T04:39:11.703Z",
+    "updateDate": "2026-08-07T05:31:54.056Z",
     "titleText": "Verona City News",
-    "mainText": "The city is currently accepting applications for seasonal positions with the Recreation Department, including adult fitness instructors, and the senior center is promoting their tri-shaw bike program for scenic rides on the Military Ridge State Trail.",
+    "mainText": "City engineering updates remain ongoing with reports provided at every council meeting, while the Senior Center is currently offering free tri-shaw bike rides for residents along the Military Ridge State Trail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-07",
-    "updateDate": "2026-08-07T04:39:11.703Z",
+    "updateDate": "2026-08-07T05:31:54.056Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy few days ahead starting with live music at Bailey's Run and Lake Lou-ee tomorrow, the Dane County Farmers Market on Friday, and the girls try hockey event this Saturday.",
+    "mainText": "Enjoy live music at Bailey's Run Vineyard and Wisconsin Brewing Company today, the Dane County Farmers' Market tomorrow, and look forward to Girls Try Hockey at the arena this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-07",
-    "updateDate": "2026-08-07T04:39:11.703Z",
+    "updateDate": "2026-08-07T05:31:54.056Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on Thursday, July 31st, officers conducted a traffic stop that led to an arrest for O W I after observing a vehicle with no active taillights and a flat tire.",
+    "mainText": "In a report regarding incidents from July 27 to August 3, a notable call occurred on July 31, when a Madison woman was arrested for operating while intoxicated after being stopped for having no taillights and driving on a flat tire.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-07",
-    "updateDate": "2026-08-07T04:39:11.703Z",
+    "updateDate": "2026-08-07T05:31:54.056Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Chocolate Caramel Twist. Culver's is currently closed, but they will be ready to serve you starting at 10 AM tomorrow.",
+    "mainText": "Today's flavor of the day is the delightful Really Reese's. The shop is currently closed but will open its doors at 10:00 AM today.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
