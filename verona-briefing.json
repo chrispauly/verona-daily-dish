@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-07",
-    "updateDate": "2026-08-07T03:00:43.178Z",
+    "updateDate": "2026-08-07T04:39:11.703Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish on the weather. Conditions are clear at Harriet Park, though the air quality index is at a moderate 52. The moon is in its third quarter phase tonight, and we are looking at an overnight low of 66 degrees with no rain expected while you sleep.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: it is 70 degrees at Verona City Hall under overcast skies with a Third Quarter moon. The air quality index is 51, so keep that in mind, and we expect an overnight low of 66 with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-07",
-    "updateDate": "2026-08-07T03:00:43.178Z",
+    "updateDate": "2026-08-07T04:39:11.703Z",
     "titleText": "Verona City News",
-    "mainText": "Regarding city business, the Engineering Department continues its long-standing contract with AECOM Inc., with records of reports dating back years. Meanwhile, the Verona Senior Center is promoting their tri-shaw bike program, which offers free scenic rides for seniors on the Military Ridge State Trail, and the Recreation Department is currently hiring adult fitness instructors for the upcoming season.",
+    "mainText": "The city is currently accepting applications for seasonal positions with the Recreation Department, including adult fitness instructors, and the senior center is promoting their tri-shaw bike program for scenic rides on the Military Ridge State Trail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-07",
-    "updateDate": "2026-08-07T03:00:43.178Z",
+    "updateDate": "2026-08-07T04:39:11.703Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule starting today with Yoga at Insight Wellness and a live concert at Century School Park. Tomorrow, you can catch live music at Bailey's Run or Wisconsin Brewing Company, and later this week we have the Dane County Farmers Market on Saturday followed by Girls Try Hockey at the Verona Ice Arena on August 9th.",
+    "mainText": "We have a busy few days ahead starting with live music at Bailey's Run and Lake Lou-ee tomorrow, the Dane County Farmers Market on Friday, and the girls try hockey event this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-07",
-    "updateDate": "2026-08-07T03:00:43.178Z",
+    "updateDate": "2026-08-07T04:39:11.703Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from the Verona Police Department, an incident occurred on Thursday, July 31st, where a driver was arrested for O W I and cited for suspended registration after being stopped for driving with a flat tire.",
+    "mainText": "In our weekly police report, on Thursday, July 31st, officers conducted a traffic stop that led to an arrest for O W I after observing a vehicle with no active taillights and a flat tire.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-07",
-    "updateDate": "2026-08-07T03:00:43.178Z",
+    "updateDate": "2026-08-07T04:39:11.703Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is the Chocolate Caramel Twist. Since the shop is currently closed, you can look forward to heading over when they open tomorrow at 10 AM, and remember that tomorrow's flavor will be the delicious Really Reese's.",
+    "mainText": "The flavor of the day is Chocolate Caramel Twist. Culver's is currently closed, but they will be ready to serve you starting at 10 AM tomorrow.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
