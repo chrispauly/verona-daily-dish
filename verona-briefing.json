@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-07",
-    "updateDate": "2026-08-07T05:31:54.056Z",
+    "updateDate": "2026-08-07T06:23:26.785Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we are seeing clear conditions at Badger Prairie County Park with an air quality index of 51, and the moon is currently in its third quarter phase.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish. We are seeing clear skies and 67 degrees down at City Hall, with the moon currently in its third quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-07",
-    "updateDate": "2026-08-07T05:31:54.056Z",
+    "updateDate": "2026-08-07T06:23:26.785Z",
     "titleText": "Verona City News",
-    "mainText": "City engineering updates remain ongoing with reports provided at every council meeting, while the Senior Center is currently offering free tri-shaw bike rides for residents along the Military Ridge State Trail.",
+    "mainText": "In city news, the engineering department continues to track project reports with AECOM, while the Senior Center is inviting residents to sign up for free tri-shaw bike rides to enjoy our beautiful local trails.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-07",
-    "updateDate": "2026-08-07T05:31:54.056Z",
+    "updateDate": "2026-08-07T06:23:26.785Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Enjoy live music at Bailey's Run Vineyard and Wisconsin Brewing Company today, the Dane County Farmers' Market tomorrow, and look forward to Girls Try Hockey at the arena this Saturday.",
+    "mainText": "There is plenty to do, with live music at Bailey's Run and Lake Lou-ee both happening today, and the Dane County Farmers Market taking place tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-07",
-    "updateDate": "2026-08-07T05:31:54.056Z",
+    "updateDate": "2026-08-07T06:23:26.785Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report regarding incidents from July 27 to August 3, a notable call occurred on July 31, when a Madison woman was arrested for operating while intoxicated after being stopped for having no taillights and driving on a flat tire.",
+    "mainText": "In our weekly police report, on July 31, an officer conducted a traffic stop that led to an O W I arrest for a driver who was operating on a flat tire.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-07",
-    "updateDate": "2026-08-07T05:31:54.056Z",
+    "updateDate": "2026-08-07T06:23:26.785Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Really Reese's. The shop is currently closed but will open its doors at 10:00 AM today.",
+    "mainText": "Today's flavor of the day is the fan-favorite Really Reese's. Culver's is currently closed but will be ready to serve you starting at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
