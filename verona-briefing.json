@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-07",
-    "updateDate": "2026-08-07T01:47:13.740Z",
+    "updateDate": "2026-08-07T03:00:43.178Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: conditions are clear around the Military Ridge State Trail with an air quality index of 53. We are currently under a third quarter moon, and our overnight low will hit 67 degrees with no rain predicted for the rest of the night.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish on the weather. Conditions are clear at Harriet Park, though the air quality index is at a moderate 52. The moon is in its third quarter phase tonight, and we are looking at an overnight low of 66 degrees with no rain expected while you sleep.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-07",
-    "updateDate": "2026-08-07T01:47:13.740Z",
+    "updateDate": "2026-08-07T03:00:43.178Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona remains committed to maintaining our infrastructure by contracting engineering services through AECOM Inc. Detailed reports are presented during regular City Council meetings, with the most recent updates spanning through August 10th of this year.",
+    "mainText": "Regarding city business, the Engineering Department continues its long-standing contract with AECOM Inc., with records of reports dating back years. Meanwhile, the Verona Senior Center is promoting their tri-shaw bike program, which offers free scenic rides for seniors on the Military Ridge State Trail, and the Recreation Department is currently hiring adult fitness instructors for the upcoming season.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-07",
-    "updateDate": "2026-08-07T01:47:13.740Z",
+    "updateDate": "2026-08-07T03:00:43.178Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule today with Yoga at Insight Wellness, free live music at the Concerts in the Park, and Hop Haus Trivia this evening. Looking ahead, you can enjoy music at Bailey's Run and Lake Lou-ee tomorrow, or head to the Capitol Square for the Dane County Farmer's Market this Friday.",
+    "mainText": "We have a packed schedule starting today with Yoga at Insight Wellness and a live concert at Century School Park. Tomorrow, you can catch live music at Bailey's Run or Wisconsin Brewing Company, and later this week we have the Dane County Farmers Market on Saturday followed by Girls Try Hockey at the Verona Ice Arena on August 9th.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-07",
-    "updateDate": "2026-08-07T01:47:13.740Z",
+    "updateDate": "2026-08-07T03:00:43.178Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly recap, on July 31st, a traffic stop regarding an equipment violation resulted in the arrest of a 27-year-old woman for O W I, alongside additional citations for suspended registration.",
+    "mainText": "In a report from the Verona Police Department, an incident occurred on Thursday, July 31st, where a driver was arrested for O W I and cited for suspended registration after being stopped for driving with a flat tire.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-07",
-    "updateDate": "2026-08-07T01:47:13.740Z",
+    "updateDate": "2026-08-07T03:00:43.178Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to the Chocolate Caramel Twist at Culver's today. They are open until 10 PM this evening, so you have plenty of time to stop by for a scoop.",
+    "mainText": "The flavor of the day is the Chocolate Caramel Twist. Since the shop is currently closed, you can look forward to heading over when they open tomorrow at 10 AM, and remember that tomorrow's flavor will be the delicious Really Reese's.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
