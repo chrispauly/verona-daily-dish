@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-07",
-    "updateDate": "2026-08-07T00:00:54.167Z",
+    "updateDate": "2026-08-07T01:47:13.740Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: we have clear skies at Verona City Hall with temperatures at 77 degrees. The air quality index is currently 54. Expect a low of 67 degrees overnight with no rain predicted.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: conditions are clear around the Military Ridge State Trail with an air quality index of 53. We are currently under a third quarter moon, and our overnight low will hit 67 degrees with no rain predicted for the rest of the night.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-07",
-    "updateDate": "2026-08-07T00:00:54.167Z",
+    "updateDate": "2026-08-07T01:47:13.740Z",
     "titleText": "Verona City News",
-    "mainText": "For city news, the engineering department continues to update council reports regularly online. Also, don't forget the tri-shaw bike program at the senior center, where you can volunteer as a pilot or take a free ride on the Military Ridge State Trail.",
+    "mainText": "The City of Verona remains committed to maintaining our infrastructure by contracting engineering services through AECOM Inc. Detailed reports are presented during regular City Council meetings, with the most recent updates spanning through August 10th of this year.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-07",
-    "updateDate": "2026-08-07T00:00:54.167Z",
+    "updateDate": "2026-08-07T01:47:13.740Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today, including Yoga at Insight Wellness, Concerts in the Park at Century School Park, and trivia at the Hop Haus. Tomorrow, look out for live music at Bailey's Run Vineyard and the Wisconsin Brewing Company.",
+    "mainText": "We have a busy schedule today with Yoga at Insight Wellness, free live music at the Concerts in the Park, and Hop Haus Trivia this evening. Looking ahead, you can enjoy music at Bailey's Run and Lake Lou-ee tomorrow, or head to the Capitol Square for the Dane County Farmer's Market this Friday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-07",
-    "updateDate": "2026-08-07T00:00:54.167Z",
+    "updateDate": "2026-08-07T01:47:13.740Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly police report, on July 31, an officer conducted a traffic stop for an equipment violation and subsequently located marijuana, resulting in drug-related citations for the passengers.",
+    "mainText": "Looking at the weekly recap, on July 31st, a traffic stop regarding an equipment violation resulted in the arrest of a 27-year-old woman for O W I, alongside additional citations for suspended registration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-07",
-    "updateDate": "2026-08-07T00:00:54.167Z",
+    "updateDate": "2026-08-07T01:47:13.740Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is Chocolate Caramel Twist, and they are open until 10 PM. Also, Kona Ice will be at Fireman's Park today until 4 PM.",
+    "mainText": "Treat yourself to the Chocolate Caramel Twist at Culver's today. They are open until 10 PM this evening, so you have plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
