@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-07",
-    "updateDate": "2026-08-07T16:17:17.987Z",
+    "updateDate": "2026-08-07T17:16:56.810Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: expect 75 degree temperatures with overcast skies near the Verona Public Library and a moderate air quality index of 54.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish. It is a warm 79 degrees by the Military Ridge State Trail under clear skies, though the air quality index is currently at 54.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-07",
-    "updateDate": "2026-08-07T16:17:17.987Z",
+    "updateDate": "2026-08-07T17:16:56.810Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona continues its partnership with AECOM for ongoing engineering services, with detailed reports presented regularly to the City Council, and the Senior Center is currently offering free tri-shaw bike rides along the Military Ridge State Trail for those who sign up in advance.",
+    "mainText": "The city recently updated the engineering services page with reports dating back several years. Additionally, the Senior Center is promoting their tri-shaw bike program, which offers free rides for seniors along the Military Ridge State Trail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-07",
-    "updateDate": "2026-08-07T16:17:17.987Z",
+    "updateDate": "2026-08-07T17:16:56.810Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today features live music at Bailey's Run Vineyard and the Wisconsin Brewing Company, while tomorrow you can check out the Dane County Farmers Market at the Capitol or live music at Paddy Mac's.",
+    "mainText": "Today features live music at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, check out the Dane County Farmers' Market at the Capitol or live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-07",
-    "updateDate": "2026-08-07T16:17:17.987Z",
+    "updateDate": "2026-08-07T17:16:56.810Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from July 28, Verona police conducted a check at Fireman's Park after closing hours, resulting in a warning for two individuals and an arrest of a man with an outstanding warrant.",
+    "mainText": "Regarding the weekly police recap, on July 31, an officer conducted a traffic stop that resulted in a passenger being cited for possession of T H C and drug paraphernalia.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-07",
-    "updateDate": "2026-08-07T16:17:17.987Z",
+    "updateDate": "2026-08-07T17:16:56.810Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day to stop by for the Really Reese's flavor before closing time at 10:30 PM, and you can also find Kona Ice at Fireman's Park today from 11 AM until 4 PM.",
+    "mainText": "The flavor of the day is Really Reese's, and the restaurant is open until 10:30 PM. For another cool treat, the Kona Ice truck will be at Fireman's Park today from 11 AM to 4 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
