@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-07",
-    "updateDate": "2026-08-07T11:16:50.554Z",
+    "updateDate": "2026-08-07T12:15:32.761Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: the weather at Verona Community Park is clear and 66 degrees, but we are under a moderate air quality alert with an index of 55, and the moon is in its third quarter phase.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we are seeing partly cloudy skies at 70 degrees near City Hall, with an elevated air quality index of 54.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-07",
-    "updateDate": "2026-08-07T11:16:50.554Z",
+    "updateDate": "2026-08-07T12:15:32.761Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has updated its engineering services reports for the council, and for those looking for some fresh air, the Senior Center is offering free tri-shaw bike rides where a volunteer pilot takes you on the Military Ridge State Trail.",
+    "mainText": "City Hall is currently tracking long-term engineering services with AECOM Inc. Additionally, the Verona Senior Center is offering free tri-shaw bike rides for seniors along the Military Ridge State Trail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-07",
-    "updateDate": "2026-08-07T11:16:50.554Z",
+    "updateDate": "2026-08-07T12:15:32.761Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a great lineup coming up, with live music today at Bailey's Run Vineyard and Wisconsin Brewing Company, plus the Dane County Farmer's Market is happening tomorrow.",
+    "mainText": "We have a busy schedule with live music today at Bailey's Run and Wisconsin Brewing Company, plus the Dane County Farmers' Market is happening tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-07",
-    "updateDate": "2026-08-07T11:16:50.554Z",
+    "updateDate": "2026-08-07T12:15:32.761Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering July 27 to August 3, police noted that on July 31, a driver was arrested for O W I after being observed driving on a flat tire without activated taillights.",
+    "mainText": "In a noteworthy call from last Thursday, July 31, an officer stopped a vehicle for an equipment violation, which resulted in the driver being cited for operating without a valid license and the passenger being cited for possession of T H C.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-07",
-    "updateDate": "2026-08-07T11:16:50.554Z",
+    "updateDate": "2026-08-07T12:15:32.761Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Really Reese's. The store is currently closed, but they will be ready to serve you starting at 10 AM.",
+    "mainText": "Today's flavor of the day is the crowd-favorite Really Reese's. The store is currently closed but will open its doors at 10 AM. If you are planning ahead, tomorrow's flavor will be Andes Mint Avalanche.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
