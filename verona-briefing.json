@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-08",
-    "updateDate": "2026-08-08T00:14:04.491Z",
+    "updateDate": "2026-08-08T01:31:39.210Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 75 degrees and overcast by the Military Ridge State Trail. The air quality index is at a moderate 53, the moon is in a waning crescent phase, and we should prepare for an overnight low of 65 degrees with rain in the forecast.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish on the weather. Conditions are currently overcast near Verona Area High School with a temperature of 71 degrees and an air quality index of 52. We are under a waning crescent moon tonight, and you should prepare for an overnight low of 64 degrees with rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-08",
-    "updateDate": "2026-08-08T00:14:04.491Z",
+    "updateDate": "2026-08-08T01:31:39.210Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona keeps its engineering services updated through a contract with AECOM Incorporated. Regular reports are submitted to the City Council, with the most recent updates spanning back through the past few years to keep the city operations transparent and well-documented.",
+    "mainText": "Regarding city business, the City of Verona continues to contract with AECOM Inc. for professional engineering services, ensuring that detailed reports are presented at each city council meeting to keep our infrastructure projects on track.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-08",
-    "updateDate": "2026-08-08T00:14:04.491Z",
+    "updateDate": "2026-08-08T01:31:39.210Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, including live music happening today at Bailey's Run and the Wisconsin Brewing Company. Tomorrow, head downtown to the capitol square for the Dane County Farmers' Market, and keep an eye out for more events coming up this weekend.",
+    "mainText": "There is plenty to do in our community, starting with live music today at Bailey's Run and Wisconsin Brewing Company. Tomorrow, check out the Dane County Farmers' Market at the Capitol or live music at Paddy Mac's, and mark your calendars for Girls Try Hockey this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-08",
-    "updateDate": "2026-08-08T00:14:04.491Z",
+    "updateDate": "2026-08-08T01:31:39.210Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on Thursday, July 30, an officer performed a traffic stop for an equipment violation, which led to a driver being arrested for O W I and cited for suspended registration.",
+    "mainText": "In our weekly police report, a notable incident occurred on Thursday, July 31st, when an officer stopped a vehicle for equipment violations and arrested the driver for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-08",
-    "updateDate": "2026-08-08T00:14:04.491Z",
+    "updateDate": "2026-08-08T01:31:39.210Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can satisfy your sweet tooth with the Really Reese's flavor of the day at Culver's, which is open until 10:30 PM tonight, and you can also visit the Kona Ice truck at Fireman's Park today until 4 PM.",
+    "mainText": "The flavor of the day is the delightful Really Reese's. Culver's is open until 10:30 PM tonight, so stop by soon to get your scoop before they close.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
