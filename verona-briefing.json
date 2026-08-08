@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-08",
-    "updateDate": "2026-08-08T15:08:12.993Z",
+    "updateDate": "2026-08-08T16:08:17.888Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have lovely clear skies and a comfortable 73 degrees over at Badger Ridge Middle School.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: the weather is a pleasant 75 degrees with clear skies by the Verona Area High School, and we are currently seeing a waning crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-08",
-    "updateDate": "2026-08-08T15:08:12.993Z",
+    "updateDate": "2026-08-08T16:08:17.888Z",
     "titleText": "Verona City News",
-    "mainText": "The city of Verona continues its partnership with AECOM for engineering services, and detailed reports dating back to 2018 are available for public viewing on the city website.",
+    "mainText": "The City of Verona continues its partnership with AECOM for engineering services, with detailed reports provided to the City Council at every meeting, all of which are documented online at the city website.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-08",
-    "updateDate": "2026-08-08T15:08:12.993Z",
+    "updateDate": "2026-08-08T16:08:17.888Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today, including the Dane County Farmers Market, as well as live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company.",
+    "mainText": "It is a busy weekend for the community with the Dane County Farmers Market happening today, plus live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company, followed by a Girls Try Hockey event at the Verona Ice Arena tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-08",
-    "updateDate": "2026-08-08T15:08:12.993Z",
+    "updateDate": "2026-08-08T16:08:17.888Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly police report, on Thursday July 31st, a driver was stopped for equipment violations, which resulted in the driver being cited for operating without a valid license and the passenger being cited for possession of THC.",
+    "mainText": "In our weekly police update, an incident occurred on July 31st where a driver was pulled over for having no taillights and a flat tire, resulting in an arrest for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-08",
-    "updateDate": "2026-08-08T15:08:12.993Z",
+    "updateDate": "2026-08-08T16:08:17.888Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day to stop by for an Andes Mint Avalanche at Culver's, and remember you can also find Kona Ice at Firemans Park today from 11 AM to 4 PM.",
+    "mainText": "Stop by Culver's today for an Andes Mint Avalanche before they close at 10:30 PM, and you can also visit the Kona Ice truck at Firemans Park from 11 AM to 4 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
