@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-08",
-    "updateDate": "2026-08-08T20:07:45.295Z",
+    "updateDate": "2026-08-08T21:08:18.003Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we have lovely clear skies with a temperature of 80 degrees near Verona City Hall under a waning crescent moon.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we are seeing clear skies and a comfortable 80 degrees near the Verona Area High School, with a Waning Crescent moon appearing later tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-08",
-    "updateDate": "2026-08-08T20:07:45.295Z",
+    "updateDate": "2026-08-08T21:08:18.003Z",
     "titleText": "Verona City News",
-    "mainText": "The city is highlighting several programs today, including the tri-shaw bike service at the senior center and the ongoing rain barrel rebate policy to help manage stormwater. Additionally, the recreation department is looking for new team members.",
+    "mainText": "The city is currently managing several programs, including a rain barrel rebate policy to help with stormwater, and the recreation department is actively hiring for seasonal positions.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-08",
-    "updateDate": "2026-08-08T20:07:45.295Z",
+    "updateDate": "2026-08-08T21:08:18.003Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is so much happening in our area. Today, you can visit the Dane County Farmers Market or catch live music at Baileys Run, Paddys Macs, and Lake Lou-ee. Tomorrow, do not miss the Girls Try Hockey event at the Verona Ice Arena.",
+    "mainText": "We have a busy lineup, including the Dane County Farmer's Market today, live music at various local venues, and a free Girls Try Hockey session taking place at the arena tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-08",
-    "updateDate": "2026-08-08T20:07:45.295Z",
+    "updateDate": "2026-08-08T21:08:18.003Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from July 28, an officer located an occupied vehicle in Firemans Park after closing hours, which resulted in a man being taken into custody on an outstanding arrest warrant.",
+    "mainText": "On July 28th, an officer found an occupied vehicle in Fireman's Park after hours, resulting in a warning and one arrest on an outstanding warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-08",
-    "updateDate": "2026-08-08T20:07:45.295Z",
+    "updateDate": "2026-08-08T21:08:18.003Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is a great day to enjoy an Andes Mint Avalanche at Culvers, which is open until 10:30 PM. You can also catch the Kona Ice truck at Firemans Park today until 4 PM.",
+    "mainText": "You should definitely try the Andes Mint Avalanche today, and you can also find Kona Ice at Fireman's Park until 4 PM today, with Culver's staying open until 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
