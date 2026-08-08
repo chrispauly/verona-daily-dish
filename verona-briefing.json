@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-08",
-    "updateDate": "2026-08-08T12:07:46.769Z",
+    "updateDate": "2026-08-08T13:20:21.954Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have clear skies near Harriet Park and a current temperature of 65 degrees.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish. We are looking at a clear and comfortable 68 degrees near Verona City Hall under a waning crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-08",
-    "updateDate": "2026-08-08T12:07:46.769Z",
+    "updateDate": "2026-08-08T13:20:21.954Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona provides regular engineering updates from AECOM Inc. to the City Council, with records of these reports dating back to 2018 available on the city website.",
+    "mainText": "The city has updated its engineering services page. Records of reports submitted to the City Council are now available online, dating back to June of 2018 for those interested in local infrastructure projects.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-08",
-    "updateDate": "2026-08-08T12:07:46.769Z",
+    "updateDate": "2026-08-08T13:20:21.954Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy weekend! Today you can visit the Dane County Farmers Market or catch live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Tomorrow, the Verona Ice Arena is hosting a free Girls Try Hockey event.",
+    "mainText": "It is a busy weekend for the community. Today, you can visit the Dane County Farmers Market or catch live music at Baileys Run, Paddy Mac's, or Lake Lou-ee. Tomorrow, the Verona Ice Arena is hosting a free Girls Try Hockey event.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-08",
-    "updateDate": "2026-08-08T12:07:46.769Z",
+    "updateDate": "2026-08-08T13:20:21.954Z",
     "titleText": "Verona Police Report",
-    "mainText": "For our weekly report, we look at an incident from Thursday, July 31st, when an officer stopped a vehicle for an equipment violation and arrested the driver for O W I.",
+    "mainText": "Looking at the weekly activity, on July 31st, a Madison woman was arrested for O W I and operating with a prohibited alcohol concentration after an officer noticed her vehicle lacked functional taillights.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-08",
-    "updateDate": "2026-08-08T12:07:46.769Z",
+    "updateDate": "2026-08-08T13:20:21.954Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the Andes Mint Avalanche. Please note that Culver's is currently closed but will open at 10 AM, so plan your visit for later today.",
+    "mainText": "Stop by Culver's today to grab their delightful Caramel Pecan flavor. The restaurant opens at 10 AM, so get there early to snag a dish before they sell out.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
