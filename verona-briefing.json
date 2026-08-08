@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-08",
-    "updateDate": "2026-08-08T10:09:23.177Z",
+    "updateDate": "2026-08-08T11:08:30.082Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we are seeing clear skies around the Verona Public Library with a temperature of 64 degrees and a waning crescent moon in the sky.",
+    "mainText": "Hello, Verona! At 6 AM, the temperature at Verona Area High School is 64 degrees with clear skies and a waning crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-08",
-    "updateDate": "2026-08-08T10:09:23.177Z",
+    "updateDate": "2026-08-08T11:08:30.082Z",
     "titleText": "Verona City News",
-    "mainText": "Regarding city news, Verona continues to contract with AECOM Inc. for engineering services. These comprehensive reports are updated and presented to the City Council regularly, with the most recent filing dated August 10, 2026.",
+    "mainText": "City Hall has released updated engineering service reports for the public, which detail ongoing infrastructure work contracted through AECOM Inc.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-08",
-    "updateDate": "2026-08-08T10:09:23.177Z",
+    "updateDate": "2026-08-08T11:08:30.082Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, with the Dane County Farmer's Market happening today alongside live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Tomorrow, the Verona Ice Arena is hosting a free Girls Try Hockey event.",
+    "mainText": "Today is packed with local fun including the Dane County Farmers Market, plus live music at Baileys Run, Paddy Mac's, and the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-08",
-    "updateDate": "2026-08-08T10:09:23.177Z",
+    "updateDate": "2026-08-08T11:08:30.082Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from the past week, an officer on July 31 performed a traffic stop after noticing a vehicle driving on a flat tire, resulting in the driver being arrested for an O W I.",
+    "mainText": "In a report from this past week, officers performed a traffic stop on July 31st that resulted in a driver being arrested for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-08",
-    "updateDate": "2026-08-08T10:09:23.177Z",
+    "updateDate": "2026-08-08T11:08:30.082Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Andes Mint Avalanche. The restaurant is currently closed, but they will be ready to serve you starting at 10 AM.",
+    "mainText": "Treat yourself to the Andes Mint Avalanche today. The shop is currently closed but will open its doors at 10 AM for you to grab a delicious scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
