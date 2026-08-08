@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-08",
-    "updateDate": "2026-08-08T09:14:49.345Z",
+    "updateDate": "2026-08-08T10:09:23.177Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: we are seeing clear skies and a temperature of 65 degrees at Badger Prairie County Park, accompanied by a lovely waning crescent moon.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we are seeing clear skies around the Verona Public Library with a temperature of 64 degrees and a waning crescent moon in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-08",
-    "updateDate": "2026-08-08T09:14:49.345Z",
+    "updateDate": "2026-08-08T10:09:23.177Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona remains committed to infrastructure oversight through its long-standing contract with AECOM Inc., which provides consistent engineering reports to the City Council to support our local development.",
+    "mainText": "Regarding city news, Verona continues to contract with AECOM Inc. for engineering services. These comprehensive reports are updated and presented to the City Council regularly, with the most recent filing dated August 10, 2026.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-08",
-    "updateDate": "2026-08-08T09:14:49.345Z",
+    "updateDate": "2026-08-08T10:09:23.177Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with activities, starting with the Dane County Farmer's Market at the Capitol, followed by live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking ahead, don't miss the Girls Try Hockey event at the Verona Ice Arena tomorrow.",
+    "mainText": "There is plenty to do, with the Dane County Farmer's Market happening today alongside live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Tomorrow, the Verona Ice Arena is hosting a free Girls Try Hockey event.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-08",
-    "updateDate": "2026-08-08T09:14:49.345Z",
+    "updateDate": "2026-08-08T10:09:23.177Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report regarding service calls from last week, an officer conducted a traffic stop on July 31 for a vehicle with no taillights and a flat tire, resulting in the driver being arrested for O W I.",
+    "mainText": "In a noteworthy call from the past week, an officer on July 31 performed a traffic stop after noticing a vehicle driving on a flat tire, resulting in the driver being arrested for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-08",
-    "updateDate": "2026-08-08T09:14:49.345Z",
+    "updateDate": "2026-08-08T10:09:23.177Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Culver's flavor is the Andes Mint Avalanche. The store is currently closed but will open at 10:00 AM. If you miss out today, tomorrow's flavor will be the Snickers Swirl.",
+    "mainText": "Today's delicious flavor is Andes Mint Avalanche. The restaurant is currently closed, but they will be ready to serve you starting at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
