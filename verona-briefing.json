@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-09",
-    "updateDate": "2026-08-09T06:14:51.134Z",
+    "updateDate": "2026-08-09T07:24:40.795Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, we have clear skies with a temperature of 63 degrees as the waning crescent moon hangs over Badger Prairie County Park.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish. We have clear skies and a temperature of 61 degrees near the Military Ridge State Trail, paired with a lovely Waning Crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-09",
-    "updateDate": "2026-08-09T06:14:51.134Z",
+    "updateDate": "2026-08-09T07:24:40.795Z",
     "titleText": "Verona City News",
-    "mainText": "City updates include the latest engineering reports submitted to the City Council, and residents are reminded that the Senior Center is currently looking for volunteers to help with their tri-shaw bike program for local seniors.",
+    "mainText": "The City of Verona keeps us updated with regular engineering reports, and if you are looking for summer work, the Rec Department is currently accepting applications for positions like adult fitness instructors.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-09",
-    "updateDate": "2026-08-09T06:14:51.134Z",
+    "updateDate": "2026-08-09T07:24:40.795Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is a great day to get outside with live music at Bailey's Run and the Wisconsin Brewing Company, plus the Girls Try Hockey event at the Verona Ice Arena. Looking ahead, yoga is available tomorrow at Insight Wellness.",
+    "mainText": "There is plenty to do this weekend, including live music today at Bailey is Run and Wisconsin Brewing Company, plus the Girls Try Hockey event at the Verona Ice Arena, and yoga classes at Insight Wellness tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-09",
-    "updateDate": "2026-08-09T06:14:51.134Z",
+    "updateDate": "2026-08-09T07:24:40.795Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding recent activity, on August 1, a traffic stop occurred late at night which resulted in a 71-year-old man being taken into custody for an outstanding arrest warrant.",
+    "mainText": "In a police report from July 28, officers located a parked vehicle in Fireman is Park after hours, resulting in a 29-year-old man being taken into custody for an active arrest warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-09",
-    "updateDate": "2026-08-09T06:14:51.134Z",
+    "updateDate": "2026-08-09T07:24:40.795Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Snickers Swirl. Culver's is currently closed, but they will be opening up at 10 AM, so be sure to stop by and enjoy a treat.",
+    "mainText": "Today's flavor of the day is Snickers Swirl. Culver is is currently closed but will be ready to serve you when they open at 10 AM today.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
