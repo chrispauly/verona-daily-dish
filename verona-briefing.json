@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-09",
-    "updateDate": "2026-08-09T20:07:14.908Z",
+    "updateDate": "2026-08-09T21:08:53.807Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we have overcast skies and 78 degrees near the Military Ridge State Trail, with an air quality index of 52, which is currently in the moderate range.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: the current temperature is 78 degrees with clear skies at Verona Community Park, and we are seeing an air quality index of 53 today.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-09",
-    "updateDate": "2026-08-09T20:07:14.908Z",
+    "updateDate": "2026-08-09T21:08:53.807Z",
     "titleText": "Verona City News",
-    "mainText": "City engineering reports are updated regularly, and you can access these records on the Verona municipal website. Also, consider volunteering as a tri-shaw pilot for the Senior Center, or check out seasonal job openings at the recreation department.",
+    "mainText": "The City of Verona provides engineering updates via AECOM for council review, and if you are looking to give back or stay active, the Verona Recreation Department is currently hiring for adult fitness instructors and the Senior Center offers free tri-shaw bike rides.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-09",
-    "updateDate": "2026-08-09T20:07:14.908Z",
+    "updateDate": "2026-08-09T21:08:53.807Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy couple of days for local fun. Today, catch live music at Bailey's Run and the Wisconsin Brewing Company, or head to the Verona Ice Arena for the Girls Try Hockey event. Tomorrow, drop in for yoga at Insight Wellness.",
+    "mainText": "There is plenty to do in our community today, including live music at both Bailey's Run Vineyard and Wisconsin Brewing Company, along with a Girls Try Hockey session at the Verona Ice Arena.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-09",
-    "updateDate": "2026-08-09T20:07:14.908Z",
+    "updateDate": "2026-08-09T21:08:53.807Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, we noted an incident on Thursday, July 31st, where a driver was arrested for O W I after being pulled over for having a flat tire and deactivated taillights.",
+    "mainText": "Looking back at the weekly police report, on Thursday, an officer conducted a traffic stop for a vehicle with a flat tire and no active tail lights, which resulted in the driver being arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-09",
-    "updateDate": "2026-08-09T20:07:14.908Z",
+    "updateDate": "2026-08-09T21:08:53.807Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Snickers Swirl. Culver's is open until 10 PM tonight, so you have plenty of time to stop by for a scoop.",
+    "mainText": "Today's flavor of the day is the delightful Snickers Swirl. Culver's is open until 10 PM tonight, so there is plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
