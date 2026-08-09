@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-09",
-    "updateDate": "2026-08-09T11:08:39.086Z",
+    "updateDate": "2026-08-09T12:08:32.212Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish. We are looking at a clear morning with temperatures at 59 degrees near City Hall under a waning crescent moon.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we are looking at 61 degrees with overcast skies at the Military Ridge State Trail, and we are currently seeing a waning crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-09",
-    "updateDate": "2026-08-09T11:08:39.086Z",
+    "updateDate": "2026-08-09T12:08:32.212Z",
     "titleText": "Verona City News",
-    "mainText": "Stay informed on city operations. The City of Verona maintains a partnership with AECOM Inc. for engineering services with regular reporting. Also, the Senior Center is currently offering free tri-shaw bike rides along the Military Ridge State Trail for those who register.",
+    "mainText": "In city news, the Verona Senior Center is offering free 30-minute rides on their tri-shaw bikes along the Military Ridge State Trail, and don't forget that the City also has a rain barrel rebate policy to help residents conserve water.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-09",
-    "updateDate": "2026-08-09T11:08:39.086Z",
+    "updateDate": "2026-08-09T12:08:32.212Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot to do this weekend, including live music at Bailey's Run happening today and a Girls Try Hockey event also happening today at the Verona Ice Arena. Looking ahead, you can join a yoga session tomorrow at Insight Wellness.",
+    "mainText": "There is a busy schedule today with live music at Bailey's Run Vineyard and the Girls Try Hockey event at the Verona Ice Arena, plus Yoga at Insight Wellness is happening tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-09",
-    "updateDate": "2026-08-09T11:08:39.086Z",
+    "updateDate": "2026-08-09T12:08:32.212Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department released their weekly summary, noting that on July 31st, a traffic stop led to an arrest for O W I and additional citations for a suspended registration.",
+    "mainText": "Regarding local safety, on July 31, a police officer conducted a traffic stop for equipment violations which led to the arrest of a driver for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-09",
-    "updateDate": "2026-08-09T11:08:39.086Z",
+    "updateDate": "2026-08-09T12:08:32.212Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently closed but will open at 10 AM. Today's flavor is Snickers Swirl, and if you miss out, tomorrow features Georgia Peach.",
+    "mainText": "Today's delicious flavor is Snickers Swirl. Culver's is currently closed but will open its doors at 10:00 AM, so you can plan your visit accordingly.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
