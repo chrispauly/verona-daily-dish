@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-10",
-    "updateDate": "2026-08-10T18:16:36.882Z",
+    "updateDate": "2026-08-10T19:21:20.144Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: it is 81 degrees under clear skies at Reddan Soccer Park, and the current moon phase is a Waning Crescent.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: the weather is a warm 82 degrees with clear skies, providing a lovely view near the Verona Area High School, and the moon is currently in a waning crescent phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-10",
-    "updateDate": "2026-08-10T18:16:36.882Z",
+    "updateDate": "2026-08-10T19:21:20.144Z",
     "titleText": "Verona City News",
-    "mainText": "City Hall is busy with the Plan Commission reviewing development projects like the Sub-Zero facility at Liberty Business Park, plus the City Clerk's office recently held a contest for students to design new I Voted stickers for the upcoming election.",
+    "mainText": "The City is reviewing new development projects at 201 South Main Street and the Liberty Business Park, while the City Clerks Office has successfully wrapped up the I Voted sticker design contest for students.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-10",
-    "updateDate": "2026-08-10T18:16:36.882Z",
+    "updateDate": "2026-08-10T19:21:20.144Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have Yoga at Insight Wellness today, followed by a packed schedule tomorrow including trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus the downtown farmer's market and live music at Paddy Mac's.",
+    "mainText": "You can catch Yoga at Insight Wellness today, followed by a busy Tuesday featuring trivia at Hop Haus, Lake Lou-ee, and Paddy Macs, plus the Downtown Farmers Market coming up on Wednesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-10",
-    "updateDate": "2026-08-10T18:16:36.882Z",
+    "updateDate": "2026-08-10T19:21:20.144Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly report, on July 31st, police conducted a traffic stop for an equipment violation which led to an O W I arrest for a 27-year-old Madison woman.",
+    "mainText": "Reflecting on the weekly police report, officers responded on August 5 to a residence on Whalen Road to arrest a suspect on a probation violation warrant after a brief pursuit.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-10",
-    "updateDate": "2026-08-10T18:16:36.882Z",
+    "updateDate": "2026-08-10T19:21:20.144Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's Georgia Peach flavor at Culver's, which is open until 10 PM tonight.",
+    "mainText": "Indulge in the Georgia Peach flavor of the day at Culvers, which remains open until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
