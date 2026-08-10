@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-10",
-    "updateDate": "2026-08-10T20:13:30.512Z",
+    "updateDate": "2026-08-10T21:15:42.498Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. We have clear skies and a temperature of 83 degrees, which feels like 92 at Firemans Park. The moon phase is a waning crescent.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we have clear skies and 85 degrees at Verona City Hall, with a beautiful Waning Crescent moon appearing tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-10",
-    "updateDate": "2026-08-10T20:13:30.512Z",
+    "updateDate": "2026-08-10T21:15:42.498Z",
     "titleText": "Verona City News",
-    "mainText": "The City Clerk has wrapped up the I Voted sticker contest for local students, and the city plan commission is currently reviewing site plans for 201 South Main Street.",
+    "mainText": "City officials are currently reviewing development plans for 201 South Main Street and the Sub-Zero project in Liberty Business Park, while the Clerk's Office is finalizing student-designed stickers for the November election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-10",
-    "updateDate": "2026-08-10T20:13:30.512Z",
+    "updateDate": "2026-08-10T21:15:42.498Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona, starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus, Wisconsin Brewing Company, or Paddy Macs, followed by the Downtown Farmers Market and live music later this week.",
+    "mainText": "Today you can join Yoga at Insight Wellness, and tomorrow is packed with fun including trivia at Hop Haus, Lake Lou-ee, Paddy Mac's, The Mill, and The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-10",
-    "updateDate": "2026-08-10T20:13:30.512Z",
+    "updateDate": "2026-08-10T21:15:42.498Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 8, officers assisted the Dane County Sheriffs Office with a rollover crash where the driver fled the scene, but was later arrested for O W I.",
+    "mainText": "On August 8, Verona police assisted the Dane County Sheriff's Office with a vehicle rollover crash where the driver attempted to flee the scene before being apprehended for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-10",
-    "updateDate": "2026-08-10T20:13:30.512Z",
+    "updateDate": "2026-08-10T21:15:42.498Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Make sure to satisfy your sweet tooth today with a scoop of Georgia Peach at Culvers, which remains open until 10 PM tonight.",
+    "mainText": "Stop by Culvers before they close at 10 PM to grab a bowl of their flavorful Georgia Peach ice cream.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
