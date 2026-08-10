@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-10",
-    "updateDate": "2026-08-10T08:31:47.450Z",
+    "updateDate": "2026-08-10T09:30:56.597Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, we are looking at clear skies and 67 degrees at Reddan Soccer Park, with a beautiful waning crescent moon in the sky.",
+    "mainText": "Hello, Verona! At 4 AM, the temperature is 66 degrees with clear skies by the Verona Public Library and a waning crescent moon visible.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-10",
-    "updateDate": "2026-08-10T08:31:47.450Z",
+    "updateDate": "2026-08-10T09:30:56.597Z",
     "titleText": "Verona City News",
-    "mainText": "City engineering services are contracted through AECOM, with reports presented to the City Council at every meeting. Additionally, the city offers a rain barrel rebate program to help residents reduce stormwater runoff.",
+    "mainText": "The City of Verona remains busy with ongoing engineering reports through AECOM Inc. Also, check out the free tri-shaw bike program at the Senior Center, which offers riders a chance to tour the Military Ridge State Trail, or look into seasonal job opportunities currently available with the recreation department.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-10",
-    "updateDate": "2026-08-10T08:31:47.450Z",
+    "updateDate": "2026-08-10T09:30:56.597Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You can catch Yoga at Insight Wellness today, followed by several trivia nights tomorrow including events at Hop Haus and Wisconsin Brewing Company.",
+    "mainText": "Today you can join a class at Insight Wellness for yoga. Tomorrow is a big day for trivia lovers, with sessions at Hop Haus Brewing, Wisconsin Brewing Company, Paddy Mac's, The Mill, and The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-10",
-    "updateDate": "2026-08-10T08:31:47.450Z",
+    "updateDate": "2026-08-10T09:30:56.597Z",
     "titleText": "Verona Police Report",
-    "mainText": "On July 31st, an officer conducted a traffic stop that resulted in an arrest for O W I and citations for vehicle registration issues.",
+    "mainText": "Regarding local activity, on Thursday, July 31, an officer conducted a traffic stop that resulted in an O W I arrest for a Madison woman who was driving without taillights and on a flat tire.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-10",
-    "updateDate": "2026-08-10T08:31:47.450Z",
+    "updateDate": "2026-08-10T09:30:56.597Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today, you can enjoy the Georgia Peach flavor of the day. The store is currently closed but will open at 10 AM. If you miss out, tomorrow features Chocolate Heath Crunch.",
+    "mainText": "The flavor of the day is Georgia Peach. The store is currently closed but will open at 10 AM. If you are already looking forward to tomorrow, the flavor will be Chocolate Heath Crunch.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
