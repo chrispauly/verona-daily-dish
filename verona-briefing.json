@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-10",
-    "updateDate": "2026-08-10T13:29:51.720Z",
+    "updateDate": "2026-08-10T14:25:52.063Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish. We are looking at overcast skies with a temperature of 69 degrees near Verona City Hall under a waning crescent moon.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we have 73 degrees with overcast skies at Verona Area High School under a Waning Crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-10",
-    "updateDate": "2026-08-10T13:29:51.720Z",
+    "updateDate": "2026-08-10T14:25:52.063Z",
     "titleText": "Verona City News",
-    "mainText": "The city continues to manage engineering services through AECOM, with reports presented to the City Council regularly. Additionally, the Verona Senior Center is offering free tri-shaw bike rides along the Military Ridge State Trail for those looking to enjoy the scenery.",
+    "mainText": "The City Clerk is highlighting our talented students after the I Voted sticker contest concluded on August 7, while our city leadership continues their dedicated service as we look toward the upcoming election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-10",
-    "updateDate": "2026-08-10T13:29:51.720Z",
+    "updateDate": "2026-08-10T14:25:52.063Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can join Yoga at Insight Wellness. Tomorrow is packed with activities, including trivia at Hop Haus and the Wisconsin Brewing Company, while Wednesday features the Downtown Farmer's Market and various trivia options.",
+    "mainText": "We have a full calendar starting with Yoga at Insight Wellness today, followed by plenty of trivia options at local spots tomorrow, and the Verona Downtown Farmer's Market on Wednesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-10",
-    "updateDate": "2026-08-10T13:29:51.720Z",
+    "updateDate": "2026-08-10T14:25:52.063Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable update from the police department, an officer conducted a traffic stop on July 31 which resulted in a driver being arrested for operating while intoxicated, or O W I.",
+    "mainText": "In a report covering July 27 through August 3, police noted that on July 31, an officer performed a traffic stop on a vehicle with no taillights, resulting in an O W I arrest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-10",
-    "updateDate": "2026-08-10T13:29:51.720Z",
+    "updateDate": "2026-08-10T14:25:52.063Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delightful Georgia Peach. Culver's is currently closed, but they will open at 10 AM today so you can grab your treat then.",
+    "mainText": "The flavor of the day is Georgia Peach, so stop by Culver's when they open at 10 AM; if you miss out today, tomorrow's flavor is Chocolate Heath Crunch.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
