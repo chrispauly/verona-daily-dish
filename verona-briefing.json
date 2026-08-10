@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-10",
-    "updateDate": "2026-08-10T21:15:42.498Z",
+    "updateDate": "2026-08-10T22:12:42.225Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we have clear skies and 85 degrees at Verona City Hall, with a beautiful Waning Crescent moon appearing tonight.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. We have clear skies near the Military Ridge State Trail and a temperature of 84 degrees, with a waning crescent moon visible tonight, an overnight low of 69 degrees, and rain forecasted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-10",
-    "updateDate": "2026-08-10T21:15:42.498Z",
+    "updateDate": "2026-08-10T22:12:42.225Z",
     "titleText": "Verona City News",
-    "mainText": "City officials are currently reviewing development plans for 201 South Main Street and the Sub-Zero project in Liberty Business Park, while the Clerk's Office is finalizing student-designed stickers for the November election.",
+    "mainText": "The City of Verona is finalizing its I Voted sticker designs from a student competition, and the Plan Commission is preparing to review several development projects including the Liberty Business Park on September 8.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-10",
-    "updateDate": "2026-08-10T21:15:42.498Z",
+    "updateDate": "2026-08-10T22:12:42.225Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can join Yoga at Insight Wellness, and tomorrow is packed with fun including trivia at Hop Haus, Lake Lou-ee, Paddy Mac's, The Mill, and The Bogey Factory.",
+    "mainText": "We have plenty happening, starting with Yoga at Insight Wellness today, followed by a busy Tuesday featuring Hop Haus Trivia tomorrow, and the Verona Downtown Farmer's Market taking place this Wednesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-10",
-    "updateDate": "2026-08-10T21:15:42.498Z",
+    "updateDate": "2026-08-10T22:12:42.225Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 8, Verona police assisted the Dane County Sheriff's Office with a vehicle rollover crash where the driver attempted to flee the scene before being apprehended for O W I.",
+    "mainText": "In a noteworthy call for service on August 6, an officer arrested a driver for an O W I fourth offence after observing erratic driving.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-10",
-    "updateDate": "2026-08-10T21:15:42.498Z",
+    "updateDate": "2026-08-10T22:12:42.225Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culvers before they close at 10 PM to grab a bowl of their flavorful Georgia Peach ice cream.",
+    "mainText": "Enjoy the Georgia Peach flavor of the day while the store is open until 10 PM tonight, and be sure to check back tomorrow for Chocolate Heath Crunch.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
