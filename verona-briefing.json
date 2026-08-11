@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-11",
-    "updateDate": "2026-08-11T07:26:56.728Z",
+    "updateDate": "2026-08-11T08:20:23.623Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: we have a temperature of 71 degrees with overcast skies near the Verona Public Library. Please note the air quality is currently moderate with an index of 56, and we are under a Waning Crescent moon tonight.",
+    "mainText": "Hello, Verona! At 3 AM, it is a clear 70 degrees near Reddan Soccer Park under a waning crescent moon, with an air quality index of 56.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-11",
-    "updateDate": "2026-08-11T07:26:56.728Z",
+    "updateDate": "2026-08-11T08:20:23.623Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Plan Commission is reviewing upcoming development projects including the site plan for 201 South Main Street. Additionally, while voting for the new I Voted sticker contest has concluded, we look forward to seeing the winning student designs in the November election.",
+    "mainText": "City officials are moving forward with development plans near South Main Street and in Liberty Business Park, while also celebrating the student winners of the I Voted sticker design contest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-11",
-    "updateDate": "2026-08-11T07:26:56.728Z",
+    "updateDate": "2026-08-11T08:20:23.623Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona! Today you can catch trivia at Hop Haus Brewing or Wisconsin Brewing Company. Tomorrow, the fun continues with Farmer's Market festivities at Hometown Junction Park, yoga at Insight Wellness, and more trivia options at The Mill and The Bogey Factory.",
+    "mainText": "There is plenty to do, with Hop Haus Trivia and Quizmasters Trivia at Lake Lou-ee both happening today, followed by a busy Wednesday featuring the Farmer's Market and various trivia nights.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-11",
-    "updateDate": "2026-08-11T07:26:56.728Z",
+    "updateDate": "2026-08-11T08:20:23.623Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on August 6, an officer conducted a traffic stop that led to the arrest of a 49-year-old man for his fourth O W I offence.",
+    "mainText": "During the early hours of August 8, officers issued citations to two juveniles on Barbara Street for underage alcohol consumption and curfew violations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-11",
-    "updateDate": "2026-08-11T07:26:56.728Z",
+    "updateDate": "2026-08-11T08:20:23.623Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Chocolate Heath Crunch. Culver's is currently closed, but they will be ready to serve you when they open at 10 AM.",
+    "mainText": "Today is the perfect day for Chocolate Heath Crunch, and you can pick some up starting at 10 AM. If you miss it, tomorrow's flavor will be Chocolate Covered Strawberry.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
