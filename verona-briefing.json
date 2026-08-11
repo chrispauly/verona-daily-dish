@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-11",
-    "updateDate": "2026-08-11T22:15:14.349Z",
+    "updateDate": "2026-08-11T23:15:19.478Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. We have clear skies at Badger Ridge Middle School and a moderate air quality index of 56. We are currently under a new moon phase. Tonight, the temperature will dip to a comfortable overnight low of 69 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: it is 81 degrees at Verona Community Park under clear skies, though please note our air quality is at a moderate 54 today. The moon is currently in a new moon phase, and looking ahead, our overnight low will be 68 degrees with no rain predicted for the rest of the night.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-11",
-    "updateDate": "2026-08-11T22:15:14.349Z",
+    "updateDate": "2026-08-11T23:15:19.478Z",
     "titleText": "Verona City News",
-    "mainText": "Construction on Highway M west of the Highway PB intersection begins August 18, which will shift traffic patterns for the next few weeks. Additionally, the city is reviewing development plans for 201 South Main Street and the Sub-Zero expansion at Liberty Business Park.",
+    "mainText": "City news is busy with road construction on Highway M starting August 18, which will involve utility work and lane shifts for about three weeks. Additionally, the City Plan Commission has meetings coming up on September 8 to review site plans for local developments like the Sub-Zero facility at Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-11",
-    "updateDate": "2026-08-11T22:15:14.349Z",
+    "updateDate": "2026-08-11T23:15:19.478Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You have plenty of local options today with trivia at Hop Haus and Lake Lou-ee. Tomorrow brings even more community fun including the Verona Downtown Farmer's Market and trivia at The Mill and The Bogey Factory.",
+    "mainText": "It is a big week for local fun with trivia happening today at Hop Haus and Lake Lou-ee, followed by more trivia tomorrow at the Bogey Factory, The Mill, and Paddy Mac's, where you can also catch live music later this week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-11",
-    "updateDate": "2026-08-11T22:15:14.349Z",
+    "updateDate": "2026-08-11T23:15:19.478Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly police report, on Wednesday, August 5, officers arrested a 37-year-old Madison man on Whalen Road after he initially fled to avoid a probation warrant.",
+    "mainText": "In a notable incident from August 8, officers and a drone pilot assisted in the arrest of a burglary suspect who fled into a cornfield, and that same day, two juveniles were cited for underage alcohol consumption.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-11",
-    "updateDate": "2026-08-11T22:15:14.349Z",
+    "updateDate": "2026-08-11T23:15:19.478Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's flavor, Caramel Chocolate Pecan. The shop is open until 11 PM, so there is still plenty of time to stop by for a treat.",
+    "mainText": "The delicious flavor of the day is Chocolate Heath Crunch, and you can pick it up at Culver's until they close tonight at 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
