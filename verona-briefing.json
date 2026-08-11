@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-11",
-    "updateDate": "2026-08-11T01:31:27.453Z",
+    "updateDate": "2026-08-11T02:41:49.450Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have clear skies near Reddan Soccer Park and a waning crescent moon overhead. The air quality index is currently at 52, which is in the moderate range. Expect an overnight low of 70 degrees with some rain predicted as we head into the early morning hours.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: it is 76 degrees at Harriet Park under clear skies with an air quality index of 53, while the moon is currently a waning crescent; tonight will cool down to a low of 72 with rain expected overnight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-11",
-    "updateDate": "2026-08-11T01:31:27.453Z",
+    "updateDate": "2026-08-11T02:41:49.450Z",
     "titleText": "Verona City News",
-    "mainText": "City officials are currently focused on several upcoming developments. The Plan Commission has site plans for 201 South Main Street and an initial review for Sub-Zero in the Liberty Business Park on their agenda for September 8.",
+    "mainText": "The city is moving forward with development projects including a site plan at 201 South Main Street, and our local student body recently participated in a creative contest to design the official I Voted stickers for November.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-11",
-    "updateDate": "2026-08-11T01:31:27.453Z",
+    "updateDate": "2026-08-11T02:41:49.450Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this week. You can participate in Yoga at Insight Wellness today. Tomorrow, local options include Hop Haus Trivia, Quizmasters Trivia at Lake Lou-ee, and Dream Day Trivia at Paddy Mac's. Looking ahead, you can also enjoy the Verona Downtown Farmer's Market and live music this Wednesday.",
+    "mainText": "Enjoy yoga today, followed by a full lineup tomorrow including trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus the Downtown Farmer's Market and more trivia at The Mill and The Bogey Factory on August 12.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-11",
-    "updateDate": "2026-08-11T01:31:27.453Z",
+    "updateDate": "2026-08-11T02:41:49.450Z",
     "titleText": "Verona Police Report",
-    "mainText": "Reviewing the police department report, an officer observed a driver speeding and acting erratically on August 6. Upon investigation, the driver was arrested for his fourth O W I offence and booked into jail.",
+    "mainText": "On August 6, an officer conducted a traffic stop that resulted in the arrest of a 49-year-old man for his fourth O W I offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-11",
-    "updateDate": "2026-08-11T01:31:27.453Z",
+    "updateDate": "2026-08-11T02:41:49.450Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Georgia Peach. The restaurant is open until 10 PM tonight, so there is still plenty of time to stop by for a treat.",
+    "mainText": "Today's flavor is the delicious Georgia Peach, and since the shop is closing in less than 60 minutes, you will want to get there soon; if you miss out, remember that tomorrow's flavor is Chocolate Heath Crunch.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
