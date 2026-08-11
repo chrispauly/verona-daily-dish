@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-11",
-    "updateDate": "2026-08-11T18:17:26.239Z",
+    "updateDate": "2026-08-11T19:22:57.146Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: it is 77 degrees with overcast skies at Verona Community Park, and we are under an air quality alert with an index of 60.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: it is a clear 81 degrees at City Hall under a new moon, with an air quality index of 59.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-11",
-    "updateDate": "2026-08-11T18:17:26.239Z",
+    "updateDate": "2026-08-11T19:22:57.146Z",
     "titleText": "Verona City News",
-    "mainText": "City officials are planning road improvements on Highway M starting August 18, which will impact traffic flow near the Alliant and Kwik Trip driveway. Additionally, the City Council is reviewing upcoming development projects including a new site plan for 201 South Main Street.",
+    "mainText": "City officials announced that road construction begins August 18 on Highway M near the Alliant and Kwik Trip to improve utilities, and the Plan Commission will meet on September 8 to discuss new development projects including a site plan for 201 South Main Street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-11",
-    "updateDate": "2026-08-11T18:17:26.239Z",
+    "updateDate": "2026-08-11T19:22:57.146Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town today with trivia at Hop Haus and the Wisconsin Brewing Company. Tomorrow, check out the Farmer's Market at Hometown Junction Park or enjoy music and yoga sessions around the city.",
+    "mainText": "There is plenty to do with trivia happening today at Hop Haus and Lake Lou-ee, followed by a busy tomorrow featuring the downtown farmer's market, yoga at Insight Wellness, and more trivia at The Mill and The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-11",
-    "updateDate": "2026-08-11T18:17:26.239Z",
+    "updateDate": "2026-08-11T19:22:57.146Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly report, on Saturday, August 8, local officers apprehended two juveniles for underage drinking and curfew violations on Barbara Street.",
+    "mainText": "On August 8, a Verona police drone pilot helped locate a suspect hiding in a corn field after a burglary in the town of Christiana, leading to their arrest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-11",
-    "updateDate": "2026-08-11T18:17:26.239Z",
+    "updateDate": "2026-08-11T19:22:57.146Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is Chocolate Heath Crunch, and you have until 10 PM to grab some. Tomorrow, you can look forward to the Chocolate Covered Strawberry flavor.",
+    "mainText": "Stop by Culver's today for the Chocolate Heath Crunch flavor of the day; they are open until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
