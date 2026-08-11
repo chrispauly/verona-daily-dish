@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-11",
-    "updateDate": "2026-08-11T14:25:53.772Z",
+    "updateDate": "2026-08-11T15:20:29.523Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we have overcast skies at the Verona Public Library with an air quality index of 63, which is in the moderate range, so please keep that in mind while you are out and about today.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have 74 degrees and dense drizzle outside the Verona Public Library with a moderate air quality index of 62.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-11",
-    "updateDate": "2026-08-11T14:25:53.772Z",
+    "updateDate": "2026-08-11T15:20:29.523Z",
     "titleText": "Verona City News",
-    "mainText": "City officials are busy with the upcoming September 8th Plan Commission meeting where they will review projects such as the site plan for 201 South Main Street and an initial review for the Sub-Zero project in Liberty Business Park.",
+    "mainText": "The City of Verona Plan Commission is meeting on September 8th to discuss site plans for 201 South Main Street and initial reviews for projects like Sub-Zero in the Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-11",
-    "updateDate": "2026-08-11T14:25:53.772Z",
+    "updateDate": "2026-08-11T15:20:29.523Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy couple of days for our community. Today, you can join trivia at either Hop Haus or Lake Lou-ee. Tomorrow, there is even more to choose from with yoga at Insight Wellness, the downtown farmer's market, and trivia nights at The Mill and the Bogey Factory.",
+    "mainText": "There is plenty to do with trivia at Hop Haus and Lake Lou-ee today. Tomorrow, be sure to catch the Downtown Farmers Market at Hometown Junction Park or join in on trivia at The Mill and The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-11",
-    "updateDate": "2026-08-11T14:25:53.772Z",
+    "updateDate": "2026-08-11T15:20:29.523Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, officers noted that on August 8, a drone pilot from the department assisted the Dane County Sheriff's office by tracking a suspect vehicle that fled into a corn field.",
+    "mainText": "In a report from last Saturday, Verona police assisted the Dane County Sheriff's Office following a vehicle rollover crash where the driver fled the scene and was eventually arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-11",
-    "updateDate": "2026-08-11T14:25:53.772Z",
+    "updateDate": "2026-08-11T15:20:29.523Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Chocolate Heath Crunch. Since they are currently closed, you can plan to head over when they open at 10 AM. If you are looking for tomorrow's treat, they will be serving Chocolate Covered Strawberry.",
+    "mainText": "Today is the perfect day for some Chocolate Heath Crunch at Culvers. They are open until 10 PM tonight, so you have plenty of time to stop by for a sweet snack.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
