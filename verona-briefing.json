@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-11",
-    "updateDate": "2026-08-11T19:22:57.146Z",
+    "updateDate": "2026-08-11T20:13:55.350Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: it is a clear 81 degrees at City Hall under a new moon, with an air quality index of 59.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: it is 81 degrees under clear skies at Badger Prairie County Park, though keep in mind the air quality index is currently at a moderate 58.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-11",
-    "updateDate": "2026-08-11T19:22:57.146Z",
+    "updateDate": "2026-08-11T20:13:55.350Z",
     "titleText": "Verona City News",
-    "mainText": "City officials announced that road construction begins August 18 on Highway M near the Alliant and Kwik Trip to improve utilities, and the Plan Commission will meet on September 8 to discuss new development projects including a site plan for 201 South Main Street.",
+    "mainText": "Starting Tuesday, August 18, road construction begins on Highway M west of the Highway PB intersection. Traffic will shift into the westbound lanes for phase one, so expect one lane of travel in each direction for the next two to three weeks. Also, the City Plan Commission has an agenda set for September 8th regarding site plans for 201 South Main Street and the Sub-Zero project.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-11",
-    "updateDate": "2026-08-11T19:22:57.146Z",
+    "updateDate": "2026-08-11T20:13:55.350Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with trivia happening today at Hop Haus and Lake Lou-ee, followed by a busy tomorrow featuring the downtown farmer's market, yoga at Insight Wellness, and more trivia at The Mill and The Bogey Factory.",
+    "mainText": "There is plenty to do in town! Today, you can catch trivia at both Hop Haus and Lake Lou-ee. Tomorrow, there is more trivia at Paddy Mac's, The Mill, and The Bogey Factory, plus live music and yoga options. Don't forget the Verona Downtown Farmer's Market is also happening tomorrow at Hometown Junction Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-11",
-    "updateDate": "2026-08-11T19:22:57.146Z",
+    "updateDate": "2026-08-11T20:13:55.350Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 8, a Verona police drone pilot helped locate a suspect hiding in a corn field after a burglary in the town of Christiana, leading to their arrest.",
+    "mainText": "In a recent report, on August 6, an officer observed a vehicle speeding and driving erratically. The driver, a 49-year-old man, was found to be impaired and was arrested for his fourth O W I offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-11",
-    "updateDate": "2026-08-11T19:22:57.146Z",
+    "updateDate": "2026-08-11T20:13:55.350Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's today for the Chocolate Heath Crunch flavor of the day; they are open until 10 PM tonight.",
+    "mainText": "Today's flavor at Culver's is the delectable Chocolate Heath Crunch. They are open until 10 PM tonight, so you have plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
