@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-12",
-    "updateDate": "2026-08-12T22:15:11.566Z",
+    "updateDate": "2026-08-12T23:14:25.913Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: it is 82 degrees with clear skies near Verona Area High School. Tonight, the temperature will drop to an overnight low of 67 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: we have clear skies and a temperature of 81 degrees at Harriet Park, with a New Moon phase and an overnight low of 68 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-12",
-    "updateDate": "2026-08-12T22:15:11.566Z",
+    "updateDate": "2026-08-12T23:14:25.913Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has posted notices for the upcoming partisan primary and the November 3 general election. Additionally, drivers should be aware that road construction on Highway M starts August 18, requiring traffic shifts and utility work for the next few weeks.",
+    "mainText": "The City of Verona has released important notices for the upcoming August partisan primary and November general elections, while also reminding residents that construction on Highway M begins on August 18.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-12",
-    "updateDate": "2026-08-12T22:15:11.566Z",
+    "updateDate": "2026-08-12T23:14:25.913Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today, including the Verona Downtown Farmer's Market, Trivia Night at The Mill and The Bogey Factory, plus live music at Paddy Mac's. Looking ahead to tomorrow, you can catch the free Concerts in the Park series at Century School Park.",
+    "mainText": "It is a busy day in town with trivia at The Mill and The Bogey Factory, live music at Paddy Mac's, and the downtown farmer's market all happening today.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-12",
-    "updateDate": "2026-08-12T22:15:11.566Z",
+    "updateDate": "2026-08-12T23:14:25.913Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 8, Verona police assisted the Dane County Sheriff's Office with a vehicle rollover crash where the driver fled the scene, but was successfully located and arrested for O W I.",
+    "mainText": "On August 5, police located and arrested a man at a residence on Whalen Road for a probation violation warrant after he briefly attempted to flee from officers.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-12",
-    "updateDate": "2026-08-12T22:15:11.566Z",
+    "updateDate": "2026-08-12T23:14:25.913Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Butter Pecan. The store is currently closed but will reopen at 10 AM tomorrow, when you can try the Really Reese's flavor.",
+    "mainText": "Today's flavor of the day is Chocolate Covered Strawberry. You have plenty of time to enjoy a scoop as Culver's remains open until 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
