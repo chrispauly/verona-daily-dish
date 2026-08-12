@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-12",
-    "updateDate": "2026-08-12T09:25:39.487Z",
+    "updateDate": "2026-08-12T10:23:13.147Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: we have clear skies and a temperature of 69 degrees out at Badger Prairie County Park under a New Moon.",
+    "mainText": "Hello, Verona! At 5 AM, conditions are clear near Verona Area High School with temperatures holding steady at 69 degrees under a New Moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-12",
-    "updateDate": "2026-08-12T09:25:39.487Z",
+    "updateDate": "2026-08-12T10:23:13.147Z",
     "titleText": "Verona City News",
-    "mainText": "The city is planning for the future with upcoming infrastructure and business updates, including road construction on Highway M starting August 18 and a new project site plan for 201 South Main Street.",
+    "mainText": "City Hall reminds residents of the upcoming Fall Partisan Primary election. Additionally, please be aware that road construction on Highway M begins on August 18, which will shift traffic patterns and include some lane closures.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-12",
-    "updateDate": "2026-08-12T09:25:39.487Z",
+    "updateDate": "2026-08-12T10:23:13.147Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with activities like the Farmer's Market downtown, plus yoga at Insight Wellness and trivia at both The Mill and The Bogey Factory.",
+    "mainText": "Today, you can enjoy the Downtown Farmer's Market, yoga at Insight Wellness, or trivia at The Bogey Factory. Tomorrow, look forward to Concerts in the Park at Century School Park and Hop Haus trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-12",
-    "updateDate": "2026-08-12T09:25:39.487Z",
+    "updateDate": "2026-08-12T10:23:13.147Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from August 8, officers assisted with a vehicle pursuit and burglary investigation that concluded when a suspect was located in a field.",
+    "mainText": "On August 6, an officer arrested a 49-year-old man for his fourth O W I offence after observing erratic driving.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-12",
-    "updateDate": "2026-08-12T09:25:39.487Z",
+    "updateDate": "2026-08-12T10:23:13.147Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently closed but will open at 10 AM to serve today's tasty flavor, Chocolate Covered Strawberry. Tomorrow's flavor will be Devil's Food Cake.",
+    "mainText": "You can enjoy today's flavor, Chocolate Covered Strawberry. The shop is currently closed but will open its doors at 10 AM. If you miss it, tomorrow's flavor is Devil's Food Cake.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
