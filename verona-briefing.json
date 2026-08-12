@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-12",
-    "updateDate": "2026-08-12T07:30:28.646Z",
+    "updateDate": "2026-08-12T08:28:36.231Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: current temperatures are holding steady at 70 degrees at the Verona Public Library with clear skies and a new moon.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: it is 70 degrees under clear skies near Badger Ridge Middle School, with a New Moon phase visible.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-12",
-    "updateDate": "2026-08-12T07:30:28.646Z",
+    "updateDate": "2026-08-12T08:28:36.231Z",
     "titleText": "Verona City News",
-    "mainText": "The city has released important election notices for the fall partisan primary and general election, and residents should prepare for road construction on Highway M beginning August 18.",
+    "mainText": "City Hall reminds residents of upcoming election notices and asks commuters to prepare for road improvements on Highway M starting August 18, which will include traffic shifts and daytime flagging.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-12",
-    "updateDate": "2026-08-12T07:30:28.646Z",
+    "updateDate": "2026-08-12T08:28:36.231Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona today, including live music at Paddy Mac's, yoga sessions, the downtown farmers market, and pizza nights. Tomorrow, look forward to Concerts in the Park and trivia at the Hop Haus.",
+    "mainText": "Today is a busy day in Verona! We have the Farmer's Market at Hometown Junction Park, yoga at Insight Wellness, and trivia games at both The Mill and The Bogey Factory. Looking ahead, you can enjoy Concerts in the Park tomorrow at Century School Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-12",
-    "updateDate": "2026-08-12T07:30:28.646Z",
+    "updateDate": "2026-08-12T08:28:36.231Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on Wednesday, August 5, officers successfully took a man into custody on Whalen Road after he initially fled during an arrest attempt for a warrant.",
+    "mainText": "In a report covering August 3 to August 10, police noted that on August 8, a department drone successfully assisted in tracking a suspect vehicle during a burglary investigation in the Town of Christiana.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-12",
-    "updateDate": "2026-08-12T07:30:28.646Z",
+    "updateDate": "2026-08-12T08:28:36.231Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Chocolate Covered Strawberry. The shop is currently closed, but it will open its doors at 10 AM today.",
+    "mainText": "Today's flavor of the day is Chocolate Covered Strawberry. The shop is currently closed but will open its doors at 10:00 AM. If you are looking for tomorrow's treat, it will be Devil's Food Cake.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
