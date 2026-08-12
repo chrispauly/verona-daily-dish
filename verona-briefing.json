@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-12",
-    "updateDate": "2026-08-12T06:28:22.257Z",
+    "updateDate": "2026-08-12T07:30:28.646Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we have clear skies with a temperature of 70 degrees near Badger Ridge Middle School under a New Moon.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: current temperatures are holding steady at 70 degrees at the Verona Public Library with clear skies and a new moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-12",
-    "updateDate": "2026-08-12T06:28:22.257Z",
+    "updateDate": "2026-08-12T07:30:28.646Z",
     "titleText": "Verona City News",
-    "mainText": "City Hall reminds us to check the website for upcoming election notices, and heads up that road work on Highway M starts August 18.",
+    "mainText": "The city has released important election notices for the fall partisan primary and general election, and residents should prepare for road construction on Highway M beginning August 18.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-12",
-    "updateDate": "2026-08-12T06:28:22.257Z",
+    "updateDate": "2026-08-12T07:30:28.646Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy day today with the Verona Downtown Farmer's Market, trivia at The Bogey Factory, and yoga at Insight Wellness.",
+    "mainText": "There is plenty to do in Verona today, including live music at Paddy Mac's, yoga sessions, the downtown farmers market, and pizza nights. Tomorrow, look forward to Concerts in the Park and trivia at the Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-12",
-    "updateDate": "2026-08-12T06:28:22.257Z",
+    "updateDate": "2026-08-12T07:30:28.646Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Saturday August 8, officers assisted with a vehicle rollover crash where the driver attempted to flee before being arrested for an O W I.",
+    "mainText": "In police news, on Wednesday, August 5, officers successfully took a man into custody on Whalen Road after he initially fled during an arrest attempt for a warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-12",
-    "updateDate": "2026-08-12T06:28:22.257Z",
+    "updateDate": "2026-08-12T07:30:28.646Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor is the delightful Chocolate Covered Strawberry; the shop is currently closed but will open its doors for you at 10 AM.",
+    "mainText": "Today's flavor of the day is the delightful Chocolate Covered Strawberry. The shop is currently closed, but it will open its doors at 10 AM today.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
