@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-12",
-    "updateDate": "2026-08-12T03:43:15.552Z",
+    "updateDate": "2026-08-12T04:33:50.249Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: we have clear skies at 73 degrees near City Hall, and tonight's new moon phase adds a nice touch, with an overnight low of 69 degrees and no rain in the forecast.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we have mainly clear skies over Reddan Soccer Park, a current temperature of 72 degrees, an overnight low of 69, and no rain expected overnight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-12",
-    "updateDate": "2026-08-12T03:43:15.552Z",
+    "updateDate": "2026-08-12T04:33:50.249Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has released notices for the August partisan primary and November elections, and residents should also prepare for upcoming construction on Highway M beginning August 18, which will shift traffic lanes for utility work.",
+    "mainText": "City Hall reminds residents that construction on Highway M starts August 18, which will involve traffic shifts and utility work for up to three weeks. Additionally, official notices for the August partisan primary and November general election are now available.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-12",
-    "updateDate": "2026-08-12T03:43:15.552Z",
+    "updateDate": "2026-08-12T04:33:50.249Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of fun ahead, including trivia at Hop Haus Brewing and Lake Lou-ee happening today, followed by the downtown Farmer's Market and more trivia at The Mill and The Bogey Factory tomorrow.",
+    "mainText": "There is plenty to do tomorrow including the Verona Downtown Farmer's Market, morning yoga at Insight Wellness, and several evening options like trivia at The Bogey Factory or The Mill.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-12",
-    "updateDate": "2026-08-12T03:43:15.552Z",
+    "updateDate": "2026-08-12T04:33:50.249Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from last Wednesday, a 49-year-old man from Oregon was arrested for an O W I, fourth offence, after an officer observed erratic driving.",
+    "mainText": "In a noteworthy call from last Thursday, August 6, an officer observed a vehicle driving erratically and subsequently arrested the driver for a fourth offence O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-12",
-    "updateDate": "2026-08-12T03:43:15.552Z",
+    "updateDate": "2026-08-12T04:33:50.249Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Chocolate Heath Crunch. Please note that the store is currently closed, but they will be ready to serve you starting at 10:00 AM tomorrow, when they will be featuring the Chocolate Covered Strawberry flavor.",
+    "mainText": "Today's flavor is Chocolate Heath Crunch. While the store is currently closed, they open tomorrow at 10 AM, and you can look forward to the Chocolate Covered Strawberry flavor tomorrow.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
