@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-12",
-    "updateDate": "2026-08-12T15:20:46.111Z",
+    "updateDate": "2026-08-12T16:18:25.466Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. We are seeing overcast skies at Fireman Park with a temperature of 75 degrees under a new moon.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. We have beautiful, mainly clear skies over Verona Community Park with a temperature of 76 degrees, though it feels a bit warmer at 85 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-12",
-    "updateDate": "2026-08-12T15:20:46.111Z",
+    "updateDate": "2026-08-12T16:18:25.466Z",
     "titleText": "Verona City News",
-    "mainText": "City Hall has released notices regarding the fall partisan primary and November elections. Additionally, road improvements on Highway M are set to begin August 18, which will involve lane shifts and utility work lasting a few weeks.",
+    "mainText": "The City Clerk is preparing for upcoming elections with various notices posted, while drivers should be aware that road construction on Highway M starts August 18 with traffic lane shifts expected for the next few weeks.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-12",
-    "updateDate": "2026-08-12T15:20:46.111Z",
+    "updateDate": "2026-08-12T16:18:25.466Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can enjoy the downtown Farmer Market at Hometown Junction Park, trivia at The Mill or The Bogey Factory, or yoga at Insight Wellness. Looking ahead to tomorrow, be sure to head to Century School Park for the free Concerts in the Park.",
+    "mainText": "We have a packed day today with the Downtown Farmer's Market at Hometown Junction Park, Yoga at Insight Wellness, and several evening options including trivia at The Mill and The Bogey Factory or music and pizza at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-12",
-    "updateDate": "2026-08-12T15:20:46.111Z",
+    "updateDate": "2026-08-12T16:18:25.466Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding recent activity, on August 8, a Verona Police Department drone pilot helped law enforcement track down a suspect in a cornfield following a burglary in the Town of Christiana.",
+    "mainText": "In our weekly police report, on August 6, an officer arrested a 49-year-old driver for an O W I, which was their fourth offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-12",
-    "updateDate": "2026-08-12T15:20:46.111Z",
+    "updateDate": "2026-08-12T16:18:25.466Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is serving up the delightful Chocolate Covered Strawberry flavor of the day and will remain open for you to visit until 10 PM tonight.",
+    "mainText": "Stop by Culver's to grab a scoop of the Chocolate Covered Strawberry flavor of the day before they close at 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
