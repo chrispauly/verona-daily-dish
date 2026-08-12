@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-12",
-    "updateDate": "2026-08-12T18:17:49.478Z",
+    "updateDate": "2026-08-12T19:23:08.698Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we have partly cloudy skies and a temperature of 80 degrees at Reddan Soccer Park, with the new moon phase in effect.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we are looking at clear skies at Fireman's Park with a temperature of 81 degrees and a heat index of 91.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-12",
-    "updateDate": "2026-08-12T18:17:49.478Z",
+    "updateDate": "2026-08-12T19:23:08.698Z",
     "titleText": "Verona City News",
-    "mainText": "The city has published multiple notices for the upcoming elections, and residents should also be aware that road construction on Highway M is scheduled to begin on August 18, impacting traffic patterns for several weeks.",
+    "mainText": "City officials have released notices for the upcoming August primary and November election, and residents should prepare for traffic changes on Highway M starting August 18 due to upcoming road construction.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-12",
-    "updateDate": "2026-08-12T18:17:49.478Z",
+    "updateDate": "2026-08-12T19:23:08.698Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today, including the Farmer's Market at Hometown Junction Park and Trivia Night at The Mill, with Concerts in the Park happening tomorrow at Century School Park.",
+    "mainText": "There is plenty to do today, from the Farmer's Market at Hometown Junction Park to Wednesday night trivia at The Mill and The Bogey Factory, with live music starting tomorrow at Century School Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-12",
-    "updateDate": "2026-08-12T18:17:49.478Z",
+    "updateDate": "2026-08-12T19:23:08.698Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Wednesday, August 5, officers successfully located and arrested a man on Whalen Road for a probation violation after he attempted to flee custody.",
+    "mainText": "On August 6, local officers conducted a traffic stop where the driver was found to be impaired and subsequently arrested for a fourth offence O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-12",
-    "updateDate": "2026-08-12T18:17:49.478Z",
+    "updateDate": "2026-08-12T19:23:08.698Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can grab a scoop of today's Chocolate Covered Strawberry flavor of the day until the store closes at 10 PM tonight.",
+    "mainText": "You are going to love today's flavor, Chocolate Covered Strawberry. Culver's is open until 10 PM tonight, so you have plenty of time to grab a scoop before they close.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
