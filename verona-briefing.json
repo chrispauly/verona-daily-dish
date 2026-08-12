@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-12",
-    "updateDate": "2026-08-12T19:23:08.698Z",
+    "updateDate": "2026-08-12T20:14:02.528Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we are looking at clear skies at Fireman's Park with a temperature of 81 degrees and a heat index of 91.",
+    "mainText": "Hello, Verona! At 3 PM, we are seeing clear skies over Fireman's Park with a temperature of 82 degrees, though it feels like 93, and we are currently in a New Moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-12",
-    "updateDate": "2026-08-12T19:23:08.698Z",
+    "updateDate": "2026-08-12T20:14:02.528Z",
     "titleText": "Verona City News",
-    "mainText": "City officials have released notices for the upcoming August primary and November election, and residents should prepare for traffic changes on Highway M starting August 18 due to upcoming road construction.",
+    "mainText": "The city has published various election notices for the upcoming primary and general contests, and residents should also be aware that road construction on Highway M begins August 18 with traffic shifting to the westbound lanes for the first phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-12",
-    "updateDate": "2026-08-12T19:23:08.698Z",
+    "updateDate": "2026-08-12T20:14:02.528Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today, from the Farmer's Market at Hometown Junction Park to Wednesday night trivia at The Mill and The Bogey Factory, with live music starting tomorrow at Century School Park.",
+    "mainText": "There is plenty to do today, including the Verona Downtown Farmer's Market at Hometown Junction Park and Trivia Night at The Mill, plus look forward to Concerts in the Park tomorrow at Century School Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-12",
-    "updateDate": "2026-08-12T19:23:08.698Z",
+    "updateDate": "2026-08-12T20:14:02.528Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 6, local officers conducted a traffic stop where the driver was found to be impaired and subsequently arrested for a fourth offence O W I.",
+    "mainText": "In a noteworthy report from August 8, a Verona police drone pilot assisted the Dane County Sheriff's Office in locating a suspect vehicle that had fled into a corn field following a burglary.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-12",
-    "updateDate": "2026-08-12T19:23:08.698Z",
+    "updateDate": "2026-08-12T20:14:02.528Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You are going to love today's flavor, Chocolate Covered Strawberry. Culver's is open until 10 PM tonight, so you have plenty of time to grab a scoop before they close.",
+    "mainText": "You must try the Chocolate Covered Strawberry flavor of the day at Culver's, and since they are open until 10 PM, you have plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
