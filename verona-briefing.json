@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-12",
-    "updateDate": "2026-08-12T00:17:53.399Z",
+    "updateDate": "2026-08-12T01:31:55.437Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: skies are clear over Harriet Park, though the air quality index is slightly elevated at 53. We are currently experiencing a new moon phase, and as we look ahead to the overnight hours, we expect a low of 68 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish on the weather. Conditions at Verona City Hall are clear with a temperature of 75 degrees, though the air quality index is 52. Under the new moon, the overnight low will dip to 70 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-12",
-    "updateDate": "2026-08-12T00:17:53.399Z",
+    "updateDate": "2026-08-12T01:31:55.437Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, construction on Highway M begins on August 18, which will involve lane shifts and the closure of the Alliant and Kwik Trip driveway. Also, the Plan Commission will meet on September 8 to discuss the site plan for 201 South Main Street and an initial review for the Sub-Zero project in Liberty Business Park.",
+    "mainText": "The city has announced that road construction begins August 18 along Highway M, which will shift traffic into the westbound lanes for utility work. Additionally, the Plan Commission will review new development projects at their meeting on September 8.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-12",
-    "updateDate": "2026-08-12T00:17:53.399Z",
+    "updateDate": "2026-08-12T01:31:55.437Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with trivia, including events at Hop Haus and Wisconsin Brewing Company. Tomorrow, we have a variety of activities ranging from morning yoga at Insight Wellness and the downtown Farmer's Market in the afternoon to evening trivia at The Mill and The Bogey Factory.",
+    "mainText": "There is a lot to do in Verona! You can join Hop Haus Trivia today. Tomorrow is packed with activities including the downtown farmer's market, yoga at Insight Wellness, and several local trivia nights, plus Concerts in the Park this Thursday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-12",
-    "updateDate": "2026-08-12T00:17:53.399Z",
+    "updateDate": "2026-08-12T01:31:55.437Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported that on Wednesday, August 5, officers apprehended a 37-year-old Madison man at a residence on Whalen Road following a foot pursuit related to a probation violation warrant, which has resulted in an additional charge of failing to comply with officers.",
+    "mainText": "Regarding the weekly report, officers handled a notable incident on August 6, when a driver was arrested for his fourth O W I offence following reports of erratic driving.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-12",
-    "updateDate": "2026-08-12T00:17:53.399Z",
+    "updateDate": "2026-08-12T01:31:55.437Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Chocolate Heath Crunch. The shop is open until 10 PM tonight, so you have plenty of time to stop by for a treat before they close.",
+    "mainText": "You can enjoy the delicious Chocolate Heath Crunch flavor of the day at Culver's until they close at 10 PM. If you miss it, tomorrow's flavor will be Chocolate Covered Strawberry.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
