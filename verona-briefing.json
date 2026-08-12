@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-12",
-    "updateDate": "2026-08-12T16:18:25.466Z",
+    "updateDate": "2026-08-12T17:19:42.740Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. We have beautiful, mainly clear skies over Verona Community Park with a temperature of 76 degrees, though it feels a bit warmer at 85 degrees.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we are seeing 77 degrees with partly cloudy skies at Harriet Park under a new moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-12",
-    "updateDate": "2026-08-12T16:18:25.466Z",
+    "updateDate": "2026-08-12T17:19:42.740Z",
     "titleText": "Verona City News",
-    "mainText": "The City Clerk is preparing for upcoming elections with various notices posted, while drivers should be aware that road construction on Highway M starts August 18 with traffic lane shifts expected for the next few weeks.",
+    "mainText": "The city is preparing for the fall elections with various notices now posted. Also, please note that road construction begins August 18 on Highway M, shifting traffic and closing the driveway near Alliant and Kwik Trip.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-12",
-    "updateDate": "2026-08-12T16:18:25.466Z",
+    "updateDate": "2026-08-12T17:19:42.740Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed day today with the Downtown Farmer's Market at Hometown Junction Park, Yoga at Insight Wellness, and several evening options including trivia at The Mill and The Bogey Factory or music and pizza at Lake Lou-ee.",
+    "mainText": "There is plenty to do, including the Verona Downtown Farmer's Market today at Hometown Junction Park and Trivia Night at The Mill this evening. Looking ahead, you can enjoy Concerts in the Park tomorrow at Century School Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-12",
-    "updateDate": "2026-08-12T16:18:25.466Z",
+    "updateDate": "2026-08-12T17:19:42.740Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on August 6, an officer arrested a 49-year-old driver for an O W I, which was their fourth offence.",
+    "mainText": "In our weekly report, we noted an incident on August 5 where a man was arrested on Whalen Road for a probation violation warrant after attempting to flee from officers.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-12",
-    "updateDate": "2026-08-12T16:18:25.466Z",
+    "updateDate": "2026-08-12T17:19:42.740Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's to grab a scoop of the Chocolate Covered Strawberry flavor of the day before they close at 10 PM tonight.",
+    "mainText": "Caramel Peanut Buttercup is the flavor of the day at Culver's, and they are open until 10:30 PM tonight, so there is plenty of time to stop by.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
