@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-08-11",
-    "updateDate": "2026-08-11T23:15:19.478Z",
+    "uid": "verona-balanced-weather-2026-08-12",
+    "updateDate": "2026-08-12T00:17:53.399Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: it is 81 degrees at Verona Community Park under clear skies, though please note our air quality is at a moderate 54 today. The moon is currently in a new moon phase, and looking ahead, our overnight low will be 68 degrees with no rain predicted for the rest of the night.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: skies are clear over Harriet Park, though the air quality index is slightly elevated at 53. We are currently experiencing a new moon phase, and as we look ahead to the overnight hours, we expect a low of 68 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-08-11",
-    "updateDate": "2026-08-11T23:15:19.478Z",
+    "uid": "verona-balanced-news-2026-08-12",
+    "updateDate": "2026-08-12T00:17:53.399Z",
     "titleText": "Verona City News",
-    "mainText": "City news is busy with road construction on Highway M starting August 18, which will involve utility work and lane shifts for about three weeks. Additionally, the City Plan Commission has meetings coming up on September 8 to review site plans for local developments like the Sub-Zero facility at Liberty Business Park.",
+    "mainText": "In city news, construction on Highway M begins on August 18, which will involve lane shifts and the closure of the Alliant and Kwik Trip driveway. Also, the Plan Commission will meet on September 8 to discuss the site plan for 201 South Main Street and an initial review for the Sub-Zero project in Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-08-11",
-    "updateDate": "2026-08-11T23:15:19.478Z",
+    "uid": "verona-balanced-events-2026-08-12",
+    "updateDate": "2026-08-12T00:17:53.399Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a big week for local fun with trivia happening today at Hop Haus and Lake Lou-ee, followed by more trivia tomorrow at the Bogey Factory, The Mill, and Paddy Mac's, where you can also catch live music later this week.",
+    "mainText": "Today is packed with trivia, including events at Hop Haus and Wisconsin Brewing Company. Tomorrow, we have a variety of activities ranging from morning yoga at Insight Wellness and the downtown Farmer's Market in the afternoon to evening trivia at The Mill and The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-08-11",
-    "updateDate": "2026-08-11T23:15:19.478Z",
+    "uid": "verona-balanced-police-2026-08-12",
+    "updateDate": "2026-08-12T00:17:53.399Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident from August 8, officers and a drone pilot assisted in the arrest of a burglary suspect who fled into a cornfield, and that same day, two juveniles were cited for underage alcohol consumption.",
+    "mainText": "The Verona Police Department reported that on Wednesday, August 5, officers apprehended a 37-year-old Madison man at a residence on Whalen Road following a foot pursuit related to a probation violation warrant, which has resulted in an additional charge of failing to comply with officers.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-08-11",
-    "updateDate": "2026-08-11T23:15:19.478Z",
+    "uid": "verona-balanced-culvers-2026-08-12",
+    "updateDate": "2026-08-12T00:17:53.399Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The delicious flavor of the day is Chocolate Heath Crunch, and you can pick it up at Culver's until they close tonight at 10 PM.",
+    "mainText": "Today's delicious flavor is Chocolate Heath Crunch. The shop is open until 10 PM tonight, so you have plenty of time to stop by for a treat before they close.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
