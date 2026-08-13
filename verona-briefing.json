@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-13",
-    "updateDate": "2026-08-13T11:17:05.160Z",
+    "updateDate": "2026-08-13T12:16:39.528Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: we are seeing foggy conditions with a temperature of 70 degrees at the Verona Area High School, and we are currently under a New Moon phase.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: it is 70 degrees with overcast skies near Verona Area High School, under a new moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-13",
-    "updateDate": "2026-08-13T11:17:05.160Z",
+    "updateDate": "2026-08-13T12:16:39.528Z",
     "titleText": "Verona City News",
-    "mainText": "Important city updates include new notices for the upcoming August partisan primary and the start of road construction on Highway M beginning August 18, which will include lane shifts and utility work for the next few weeks.",
+    "mainText": "The city has posted notices for the fall partisan primary and general elections. Additionally, road construction is set to begin on Highway M on August 18, which will involve traffic shifts and lane closures for the next few weeks.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-13",
-    "updateDate": "2026-08-13T11:17:05.160Z",
+    "updateDate": "2026-08-13T12:16:39.528Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule today with yoga at Insight Wellness, concerts in the park, and trivia at Hop Haus, followed by live music at Bailey's Run and Wisconsin Brewing Company tomorrow.",
+    "mainText": "There is plenty to do in town today, including Yoga at Insight Wellness and Concerts in the Park. Looking further ahead, the Cave Carnival takes place this Sunday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-13",
-    "updateDate": "2026-08-13T11:17:05.160Z",
+    "updateDate": "2026-08-13T12:16:39.528Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering August 3 to August 10, police noted an incident on August 6 where an officer arrested a driver for an O W I, which was their fourth offence.",
+    "mainText": "On Saturday, August 8, officers assisted the sheriff's office with a burglary investigation where they used a drone to locate a suspect who had fled into a cornfield.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-13",
-    "updateDate": "2026-08-13T11:17:05.160Z",
+    "updateDate": "2026-08-13T12:16:39.528Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Devils Food Cake. Culver's is currently closed, but they open their doors at 10 AM today. If you miss out, tomorrow's flavor is Caramel Fudge Cookie Dough.",
+    "mainText": "Today's flavor of the day is the chocolatey Devil's Food Cake. The store is currently closed but will open its doors at 10 AM, so be ready for a sweet treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
