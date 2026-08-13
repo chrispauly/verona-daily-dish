@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-13",
-    "updateDate": "2026-08-13T03:45:36.380Z",
+    "updateDate": "2026-08-13T04:35:37.996Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. It is a clear 72 degrees at Fireman's Park under a New Moon. We are expecting an overnight low of 67 degrees, and thankfully, no rain is in the forecast.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we have clear skies at Badger Prairie County Park with a current temperature of 70 degrees. We are looking at an overnight low of 66 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-13",
-    "updateDate": "2026-08-13T03:45:36.380Z",
+    "updateDate": "2026-08-13T04:35:37.996Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, please be advised that road construction on Highway M begins August 18, which will include traffic shifts and temporary closures near the Kwik Trip entrance. Also, keep an eye out for upcoming public meetings regarding development projects at South Main Street and in the Liberty Business Park.",
+    "mainText": "Important updates for the city include a major construction project on Highway M starting August 18, which will involve lane shifts and utility work for a few weeks. Also, the city's new student-designed I Voted stickers will be featured in the November election following the recent community contest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-13",
-    "updateDate": "2026-08-13T03:45:36.380Z",
+    "updateDate": "2026-08-13T04:35:37.996Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town today. You can catch live music at Paddy Mac's, hit up the yoga studio, browse the Farmer's Market at Hometown Junction Park, grab a pizza and a pitcher at Wisconsin Brewing Company, or join a trivia night at The Mill or The Bogey Factory. Looking ahead, we have Concerts in the Park tomorrow at Century School Park.",
+    "mainText": "There is plenty to do in our community starting tomorrow, including Yoga at Insight Wellness, Concerts in the Park, and trivia night at Hop Haus. Looking ahead, you can catch live music at Bailey's Run and Paddy Mac's this weekend, or check out the Cave Carnival on August 16.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-13",
-    "updateDate": "2026-08-13T03:45:36.380Z",
+    "updateDate": "2026-08-13T04:35:37.996Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly police report, an officer observed a driver on August 6 speeding and driving erratically, resulting in an arrest for O W I, fourth offence.",
+    "mainText": "In a noteworthy call from the past week, on August 8, a drone pilot from the Verona Police Department assisted the Dane County Sheriff's Office in locating a suspect vehicle that fled into a cornfield after a burglary in the Town of Christiana.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-13",
-    "updateDate": "2026-08-13T03:45:36.380Z",
+    "updateDate": "2026-08-13T04:35:37.996Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is Chocolate Covered Strawberry. The store is currently closed, but they will reopen at 10 AM tomorrow when you can try tomorrow's flavor, Devil's Food Cake.",
+    "mainText": "The delicious flavor of the day today is Chocolate Covered Strawberry. The shop is currently closed, but they will be ready to serve you starting at 10 AM tomorrow morning.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
