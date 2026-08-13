@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-13",
-    "updateDate": "2026-08-13T04:35:37.996Z",
+    "updateDate": "2026-08-13T05:32:04.297Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we have clear skies at Badger Prairie County Park with a current temperature of 70 degrees. We are looking at an overnight low of 66 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. We have 70 degree temperatures at Reddan Soccer Park with partly cloudy skies and a New Moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-13",
-    "updateDate": "2026-08-13T04:35:37.996Z",
+    "updateDate": "2026-08-13T05:32:04.297Z",
     "titleText": "Verona City News",
-    "mainText": "Important updates for the city include a major construction project on Highway M starting August 18, which will involve lane shifts and utility work for a few weeks. Also, the city's new student-designed I Voted stickers will be featured in the November election following the recent community contest.",
+    "mainText": "There is important news for drivers, as road construction on Highway M begins August 18 with lane shifts and utility work planned. Also, the city is moving forward with development projects for the Plan Commission meeting on September 8.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-13",
-    "updateDate": "2026-08-13T04:35:37.996Z",
+    "updateDate": "2026-08-13T05:32:04.297Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community starting tomorrow, including Yoga at Insight Wellness, Concerts in the Park, and trivia night at Hop Haus. Looking ahead, you can catch live music at Bailey's Run and Paddy Mac's this weekend, or check out the Cave Carnival on August 16.",
+    "mainText": "We have plenty of activities to enjoy. Happening today, you can attend Yoga at Insight Wellness, enjoy live music at Concerts in the Park, or test your knowledge at Hop Haus Trivia. Tomorrow, look out for live music at Bailey's Run and Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-13",
-    "updateDate": "2026-08-13T04:35:37.996Z",
+    "updateDate": "2026-08-13T05:32:04.297Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from the past week, on August 8, a drone pilot from the Verona Police Department assisted the Dane County Sheriff's Office in locating a suspect vehicle that fled into a cornfield after a burglary in the Town of Christiana.",
+    "mainText": "Looking at the weekly report, on August 8, the Verona Police Department assisted the Dane County Sheriff's Office with a vehicle rollover crash where the driver attempted to flee but was ultimately arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-13",
-    "updateDate": "2026-08-13T04:35:37.996Z",
+    "updateDate": "2026-08-13T05:32:04.297Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The delicious flavor of the day today is Chocolate Covered Strawberry. The shop is currently closed, but they will be ready to serve you starting at 10 AM tomorrow morning.",
+    "mainText": "Today's flavor of the day is the delicious Devil's Food Cake. Culver's is currently closed but will open its doors at 10 AM, so be sure to stop by then to satisfy your craving.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
