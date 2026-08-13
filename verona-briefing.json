@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-13",
-    "updateDate": "2026-08-13T15:21:07.579Z",
+    "updateDate": "2026-08-13T16:17:48.864Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: expect partly cloudy skies and 76-degree weather, perfect for a walk along the Military Ridge State Trail under this New Moon.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we are seeing overcast skies and a temperature of 75 degrees near City Hall.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-13",
-    "updateDate": "2026-08-13T15:21:07.579Z",
+    "updateDate": "2026-08-13T16:17:48.864Z",
     "titleText": "Verona City News",
-    "mainText": "City officials have released official election notices for the upcoming primary and general elections, and residents should note that road construction on Highway M begins August 18 with traffic shifts near the Alliant and Kwik Trip area.",
+    "mainText": "In city news, the Plan Commission is preparing to review site plans for projects on South Main Street and in the Liberty Business Park during their September 8 meeting. Also, keep in mind that road construction on Highway M begins August 18.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-13",
-    "updateDate": "2026-08-13T15:21:07.579Z",
+    "updateDate": "2026-08-13T16:17:48.864Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with activities, featuring yoga at Insight Wellness, Concerts in the Park, and trivia at Hop Haus, followed by live music events throughout the weekend at Bailey's Run and Paddy Mac's.",
+    "mainText": "We have a busy day ahead! Join us today for Yoga at Insight Wellness, enjoy some live music at Concerts in the Park, or stop by Hop Haus Trivia this evening.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-13",
-    "updateDate": "2026-08-13T15:21:07.579Z",
+    "updateDate": "2026-08-13T16:17:48.864Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report regarding incidents from August 3 to August 10, police noted that on August 6, an officer arrested a man for a fourth offence O W I after witnessing erratic driving behavior.",
+    "mainText": "On Saturday, August 8, officers assisted the Dane County Sheriff's Office with a burglary investigation where a drone successfully located a suspect hiding in a field.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-13",
-    "updateDate": "2026-08-13T15:21:07.579Z",
+    "updateDate": "2026-08-13T16:17:48.864Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor is the delicious Devil's Food Cake, and you have until 10 PM tonight to stop by and satisfy your sweet tooth.",
+    "mainText": "Treat yourself to today's delicious Devil's Food Cake flavor of the day. The store is open until 10 PM tonight, so you still have plenty of time to stop by.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
