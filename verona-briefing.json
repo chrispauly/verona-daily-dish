@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-13",
-    "updateDate": "2026-08-13T19:23:23.447Z",
+    "updateDate": "2026-08-13T20:11:53.235Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: it is 74 degrees with a bit of rain near Badger Prairie County Park, under a new moon.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we are seeing temperatures around 69 degrees with moderate rain falling over the Military Ridge State Trail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-13",
-    "updateDate": "2026-08-13T19:23:23.447Z",
+    "updateDate": "2026-08-13T20:11:53.235Z",
     "titleText": "Verona City News",
-    "mainText": "Construction begins August 18 on Highway M, which will shift traffic lanes for about three weeks, and the Senior Center is currently seeking new volunteers who can commit to two shifts a month.",
+    "mainText": "In city news, the Senior Center is looking for volunteers to support their programs, and construction on Highway M is scheduled to begin next week on Tuesday, August 18, bringing some temporary lane shifts.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-13",
-    "updateDate": "2026-08-13T19:23:23.447Z",
+    "updateDate": "2026-08-13T20:11:53.235Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule starting today with Yoga at Insight Wellness, Concerts in the Park, and Hop Haus Trivia, followed by live music at Baileys Run and Wisconsin Brewing Company tomorrow.",
+    "mainText": "We have a busy schedule today with Yoga at Insight Wellness and Concerts in the Park taking place, followed by live music events starting tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-13",
-    "updateDate": "2026-08-13T19:23:23.447Z",
+    "updateDate": "2026-08-13T20:11:53.235Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Wednesday, August 5, police officers located and arrested a 37-year-old man on Whalen Road for a probation violation warrant after he attempted to flee.",
+    "mainText": "Regarding local safety, on August 8, officers used a department drone to successfully locate a burglary suspect who had attempted to flee into a corn field.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-13",
-    "updateDate": "2026-08-13T19:23:23.447Z",
+    "updateDate": "2026-08-13T20:11:53.235Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Satisfy your sweet tooth with the Devils Food Cake flavor of the day at Culvers, which remains open until 10 PM this evening.",
+    "mainText": "You can enjoy the delicious Devil's Food Cake flavor of the day at Culver's, and since they are open until 10 PM tonight, you have plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
