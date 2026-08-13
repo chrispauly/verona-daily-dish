@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-13",
-    "updateDate": "2026-08-13T00:18:20.723Z",
+    "updateDate": "2026-08-13T01:32:24.383Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 79 degrees under clear skies at City Hall, and we are currently experiencing a New Moon. The overnight low will drop to 68 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. It is a pleasant 76 degrees at Verona Community Park under a new moon. We expect the temperature to dip to a low of 68 degrees overnight, and there is no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-13",
-    "updateDate": "2026-08-13T00:18:20.723Z",
+    "updateDate": "2026-08-13T01:32:24.383Z",
     "titleText": "Verona City News",
-    "mainText": "Regarding city news, road construction is set to begin on Highway M on August 18, which will include traffic shifts and the temporary closure of the driveway serving Alliant and Kwik Trip. Additionally, please note that election notices for the upcoming November general election have been posted at City Hall.",
+    "mainText": "City Hall reminds residents that construction on Highway M starts August 18th, impacting traffic between Highway PB and M, and please note that the Plan Commission will meet on September 8th to review several development projects.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-13",
-    "updateDate": "2026-08-13T00:18:20.723Z",
+    "updateDate": "2026-08-13T01:32:24.383Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community. Today, you can check out the Verona Downtown Farmer's Market, enjoy a yoga session at Insight Wellness, grab pizza and a pitcher at Wisconsin Brewing Company, or participate in trivia nights at either The Mill or The Bogey Factory. Looking ahead, you can enjoy free live music at the Concerts in the Park event tomorrow at Century School Park.",
+    "mainText": "Today is packed with activities, including yoga at Insight Wellness, the downtown farmers market, and pizza and a pitcher at Lake Lou-ee. Tomorrow, catch the free concert at Century School Park or join the fun at Hop Haus trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-13",
-    "updateDate": "2026-08-13T00:18:20.723Z",
+    "updateDate": "2026-08-13T01:32:24.383Z",
     "titleText": "Verona Police Report",
-    "mainText": "For this week's police report, on Wednesday, August 6, an officer conducted a stop on a vehicle being driven erratically, resulting in the driver being arrested for an O W I, fourth offence.",
+    "mainText": "Looking at the weekly report, on August 5th, officers arrested a 37-year-old man on Whalen Road for a probation violation after he attempted to flee custody.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-13",
-    "updateDate": "2026-08-13T00:18:20.723Z",
+    "updateDate": "2026-08-13T01:32:24.383Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Chocolate Covered Strawberry, and you can grab it at Culver's until they close at 10 PM tonight.",
+    "mainText": "Indulge in today's flavor, Chocolate Covered Strawberry. We are open until 10 PM, so there is still plenty of time to stop by and enjoy a scoop before we close for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
