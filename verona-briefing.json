@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-13",
-    "updateDate": "2026-08-13T21:16:20.362Z",
+    "updateDate": "2026-08-13T22:15:09.504Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we have 72 degree temperatures with overcast skies near Harriet Park, and we are currently under a New Moon phase.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: we have overcast skies and a temperature of 73 degrees near the Military Ridge State Trail. We are currently under a New Moon phase, and you should prepare for an overnight low of 65 degrees with rain expected later tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-13",
-    "updateDate": "2026-08-13T21:16:20.362Z",
+    "updateDate": "2026-08-13T22:15:09.504Z",
     "titleText": "Verona City News",
-    "mainText": "City news today includes a reminder from the Senior Center about volunteer requirements and a heads up that road construction on Highway M begins next Tuesday.",
+    "mainText": "The Verona Senior Center is looking for volunteers to assist with programs, requiring a two-time-per-month commitment and a background check for certain roles. Additionally, prepare for upcoming road construction on Highway M starting August 18, which will shift traffic patterns for the next few weeks.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-13",
-    "updateDate": "2026-08-13T21:16:20.362Z",
+    "updateDate": "2026-08-13T22:15:09.504Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of action today including Yoga at Insight Wellness, Concerts in the Park, and trivia night at Hop Haus Brewing.",
+    "mainText": "There is plenty to do in Verona! Today, you can attend Yoga at Insight Wellness, enjoy live music at Concerts in the Park in Century School Park, or head to Hop Haus Brewing Company for trivia night.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-13",
-    "updateDate": "2026-08-13T21:16:20.362Z",
+    "updateDate": "2026-08-13T22:15:09.504Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable call from August 8, Verona police used drone technology to assist the Dane County Sheriff's Office in locating a suspect who fled into a cornfield following a burglary.",
+    "mainText": "In a noteworthy report from Wednesday, August 5, Verona police officers were called to the 500 block of Whalen Road to serve a warrant, resulting in an arrest after the suspect attempted to evade authorities.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-13",
-    "updateDate": "2026-08-13T21:16:20.362Z",
+    "updateDate": "2026-08-13T22:15:09.504Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You do not want to miss the Devils Food Cake flavor of the day at Culver's today, and they are open until 10 PM if you want to swing by for a scoop.",
+    "mainText": "Stop by for a scoop of the delicious Devil's Food Cake, our flavor of the day. The store is open until 10 PM tonight, giving you plenty of time to satisfy those cravings.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
