@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-13",
-    "updateDate": "2026-08-13T16:17:48.864Z",
+    "updateDate": "2026-08-13T17:21:13.240Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we are seeing overcast skies and a temperature of 75 degrees near City Hall.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: expect overcast skies and a temperature of 75 degrees, though it feels like 80 out near Badger Prairie County Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-13",
-    "updateDate": "2026-08-13T16:17:48.864Z",
+    "updateDate": "2026-08-13T17:21:13.240Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Plan Commission is preparing to review site plans for projects on South Main Street and in the Liberty Business Park during their September 8 meeting. Also, keep in mind that road construction on Highway M begins August 18.",
+    "mainText": "City updates include a call for volunteers at the Senior Center for various roles, and upcoming road construction along Highway M is set to begin August 18, which will shift traffic patterns.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-13",
-    "updateDate": "2026-08-13T16:17:48.864Z",
+    "updateDate": "2026-08-13T17:21:13.240Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy day ahead! Join us today for Yoga at Insight Wellness, enjoy some live music at Concerts in the Park, or stop by Hop Haus Trivia this evening.",
+    "mainText": "We have plenty happening today, including Yoga at Insight Wellness and Concerts in the Park, followed by Hop Haus Trivia tonight.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-13",
-    "updateDate": "2026-08-13T16:17:48.864Z",
+    "updateDate": "2026-08-13T17:21:13.240Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Saturday, August 8, officers assisted the Dane County Sheriff's Office with a burglary investigation where a drone successfully located a suspect hiding in a field.",
+    "mainText": "In police news from this past week, on Saturday, officers cited two juveniles walking on Barbara Street for violating curfew and underage alcohol consumption.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-13",
-    "updateDate": "2026-08-13T16:17:48.864Z",
+    "updateDate": "2026-08-13T17:21:13.240Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's delicious Devil's Food Cake flavor of the day. The store is open until 10 PM tonight, so you still have plenty of time to stop by.",
+    "mainText": "Today's flavor of the day is the decadent Devil's Food Cake. The store is open until 10 PM, so there is plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
