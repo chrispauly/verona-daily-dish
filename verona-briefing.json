@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-14",
-    "updateDate": "2026-08-14T16:17:20.969Z",
+    "updateDate": "2026-08-14T17:18:17.944Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish on the weather, with overcast skies and a temperature of 77 degrees near the Verona Public Library, under the current New Moon phase.",
+    "mainText": "Hello, Verona! At 12 PM, here is today is balanced dish. We have overcast skies with a temperature of 79 degrees, feeling like 83 degrees near the Verona Public Library.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-14",
-    "updateDate": "2026-08-14T16:17:20.969Z",
+    "updateDate": "2026-08-14T17:18:17.944Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is seeking volunteers for various programs and requires a two-shift monthly commitment. Also, road construction on Highway M begins August 18, involving lane shifts and utility work that will impact local traffic for several weeks.",
+    "mainText": "In city news, the Senior Center is seeking volunteers for various roles, and road construction is set to begin on August 18th along Highway M near the Highway PB intersection.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-14",
-    "updateDate": "2026-08-14T16:17:20.969Z",
+    "updateDate": "2026-08-14T17:18:17.944Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, including Live Music at Bailey's Run and Lake Lou-ee today. Tomorrow, you can visit the Dane County Farmer's Market or catch more live music at Paddy Mac's.",
+    "mainText": "There is plenty to do with live music at Bailey is Run today, followed by the Dane County Farmer is Market and live music at Paddy Mac is tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-14",
-    "updateDate": "2026-08-14T16:17:20.969Z",
+    "updateDate": "2026-08-14T17:18:17.944Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, we noted an incident on Wednesday, August 5, where officers successfully took a man into custody on Whalen Road after he attempted to flee from a probation violation warrant.",
+    "mainText": "In a report from the police department, on Wednesday, August 5th, officers successfully arrested a man for a probation violation after he attempted to flee from a residence on Whalen Road.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-14",
-    "updateDate": "2026-08-14T16:17:20.969Z",
+    "updateDate": "2026-08-14T17:18:17.944Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor is Caramel Fudge Cookie Dough, and you have plenty of time to get it as the store remains open until 10:30 PM.",
+    "mainText": "Stop by today to enjoy the Caramel Fudge Cookie Dough flavor of the day, available until the store closes at 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
