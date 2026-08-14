@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-14",
-    "updateDate": "2026-08-14T21:06:38.489Z",
+    "updateDate": "2026-08-14T22:04:36.960Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: it is 80 degrees and partly cloudy at Fireman's Park, with a New Moon gracing our skies.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: we have mainly clear skies and 80 degree weather by the Verona Public Library, while our New Moon phase arrives alongside an overnight low of 67 degrees and some expected rain.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-14",
-    "updateDate": "2026-08-14T21:06:38.489Z",
+    "updateDate": "2026-08-14T22:04:36.960Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Senior Center is looking for volunteers to assist with their services, and the city has posted official notices regarding the upcoming fall partisan primary.",
+    "mainText": "The Senior Center is seeking reliable volunteers for programs, requiring a two-shift monthly commitment and a criminal background check, while the City of Verona has also released notices regarding the upcoming August partisan primary.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-14",
-    "updateDate": "2026-08-14T21:06:38.489Z",
+    "updateDate": "2026-08-14T22:04:36.960Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You have plenty of fun ahead, with live music at Bailey's Run Vineyard and Wisconsin Brewing Company today, plus the Dane County Farmer's Market and more music at Paddy Mac's tomorrow.",
+    "mainText": "There is a busy schedule ahead including live music at Bailey's Run today and at Wisconsin Brewing Company today, followed by the Dane County Farmer's Market and music at Paddy Mac's tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-14",
-    "updateDate": "2026-08-14T21:06:38.489Z",
+    "updateDate": "2026-08-14T22:04:36.960Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local safety, the police department reported that on August 8, their drone unit was instrumental in locating a burglary suspect who had fled into a corn field.",
+    "mainText": "In our weekly report, officers handled a variety of calls, including an incident on Wednesday, August 6, where a 49-year-old was arrested for a fourth offence O W I after being observed driving erratically.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-14",
-    "updateDate": "2026-08-14T21:06:38.489Z",
+    "updateDate": "2026-08-14T22:04:36.960Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Enjoy the Caramel Fudge Cookie Dough flavor of the day at Culver's, and make sure to stop by before they close tonight at 10:30 PM.",
+    "mainText": "The flavor of the day is Caramel Fudge Cookie Dough, available until Culver's closes at 10:30 PM tonight, so be sure to stop in and grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
