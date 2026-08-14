@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-14",
-    "updateDate": "2026-08-14T08:27:27.586Z",
+    "updateDate": "2026-08-14T09:23:02.787Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: we are seeing clear skies and 65 degree temperatures out by the Reddan Soccer Park under a New Moon.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: we have a pleasant temperature of 64 degrees with clear skies at Reddan Soccer Park and a New Moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-14",
-    "updateDate": "2026-08-14T08:27:27.586Z",
+    "updateDate": "2026-08-14T09:23:02.787Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that road construction along Highway M will begin this coming Tuesday to improve underground utilities, and the Senior Center is actively looking for volunteers to support their daily programs.",
+    "mainText": "Verona has several updates, including a call for volunteers at the Senior Center and upcoming road construction starting August 18 on Highway M, which will shift traffic patterns and include some lane closures for utility work.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-14",
-    "updateDate": "2026-08-14T08:27:27.586Z",
+    "updateDate": "2026-08-14T09:23:02.787Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead with live music at Bailey's Run and Wisconsin Brewing Company happening today, followed by the Dane County Farmers Market and more live music at Paddy Mac's tomorrow.",
+    "mainText": "There is plenty to do, with live music today at Bailey's Run Vineyard and the Wisconsin Brewing Company, followed by the Dane County Farmers Market, more live music at Paddy Mac's, and the Cave Carnival at Cave of the Mounds all happening tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-14",
-    "updateDate": "2026-08-14T08:27:27.586Z",
+    "updateDate": "2026-08-14T09:23:02.787Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable call from last Wednesday, August 5, Verona police officers successfully took a 37-year-old man into custody on Whalen Road following a probation violation warrant.",
+    "mainText": "In a noteworthy call from August 5, officers located and arrested a 37-year-old man on Whalen Road for a probation violation after he attempted to flee custody.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-14",
-    "updateDate": "2026-08-14T08:27:27.586Z",
+    "updateDate": "2026-08-14T09:23:02.787Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delicious Caramel Fudge Cookie Dough. Since the store is currently closed, please note they will open at 10 AM, and tomorrow's flavor of the day will be Turtle.",
+    "mainText": "Today's flavor is the decadent Caramel Fudge Cookie Dough. Culver's is currently closed, but they will open at 10 AM. Tomorrow you can look forward to the Turtle flavor.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
