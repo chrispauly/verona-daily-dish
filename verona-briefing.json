@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-14",
-    "updateDate": "2026-08-14T04:34:11.942Z",
+    "updateDate": "2026-08-14T05:31:30.712Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: current conditions at Reddan Soccer Park are 68 degrees with clear skies under a new moon phase. The overnight low will drop to 65 degrees, and we have no rain in the forecast for the night.",
+    "mainText": "Hello, Verona! At 12 AM, conditions at Harriet Park are clear and comfortable at 67 degrees under a New Moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-14",
-    "updateDate": "2026-08-14T04:34:11.942Z",
+    "updateDate": "2026-08-14T05:31:30.712Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is looking for volunteers to assist with programs, requiring a two-shift monthly commitment. Additionally, road construction on Highway M is slated to start August 18, which will shift traffic patterns for the next few weeks.",
+    "mainText": "The Verona Senior Center is looking for volunteers to support its programming, requiring a commitment of two shifts per month and adherence to strict confidentiality policies. Additionally, road construction starts August 18 on Highway M near the intersection with Highway PB, which will involve traffic shifts and lane closures for utility work over the next few weeks.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-14",
-    "updateDate": "2026-08-14T04:34:11.942Z",
+    "updateDate": "2026-08-14T05:31:30.712Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule! Tomorrow features live music at Bailey's Run Vineyard and Wisconsin Brewing Company. Saturday includes the Dane County Farmers' Market at the Square, music at Paddy Mac's, the Cave Carnival at Cave of the Mounds, and a Girls Try Hockey event at the Verona Ice Arena.",
+    "mainText": "We have a busy schedule ahead. Today you can enjoy live music at Bailey's Run Vineyard. Tomorrow, catch the Dane County Farmer's Market in Madison or live music at Paddy Mac's. Looking ahead, the Cave Carnival takes place at Cave of the Mounds on August 16, and the Girls Try Hockey event at the Verona Ice Arena is also on August 16.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-14",
-    "updateDate": "2026-08-14T04:34:11.942Z",
+    "updateDate": "2026-08-14T05:31:30.712Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from Wednesday, August 5, officers tracked down a 37-year-old man on Whalen Road to serve a warrant, leading to an additional charge for failing to comply with officers during the arrest.",
+    "mainText": "In a noteworthy call from August 8, a Verona Police Department drone pilot assisted the Dane County Sheriff's Office with an in-progress burglary by locating the suspect vehicle, which eventually became disabled in a corn field.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-14",
-    "updateDate": "2026-08-14T04:34:11.942Z",
+    "updateDate": "2026-08-14T05:31:30.712Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Devil's Food Cake. While the store is currently closed, you can satisfy your craving tomorrow morning when they open their doors at 10 AM.",
+    "mainText": "Today's flavor of the day is Caramel Fudge Cookie Dough. The store is currently closed but will open its doors at 10 AM to serve you.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
