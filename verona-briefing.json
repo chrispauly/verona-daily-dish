@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-14",
-    "updateDate": "2026-08-14T00:18:30.854Z",
+    "updateDate": "2026-08-14T01:32:11.673Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: we have overcast skies at Badger Prairie County Park with temperatures at 72 degrees. Tonight, the temperature will drop to an overnight low of 64 degrees, and you can rest easy knowing there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. It is a pleasant 71 degrees with partly cloudy skies at Verona Community Park. We are under a new moon tonight, and the temperature will dip to a low of 65 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-14",
-    "updateDate": "2026-08-14T00:18:30.854Z",
+    "updateDate": "2026-08-14T01:32:11.673Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Senior Center is looking for volunteers for their various programs, noting that some roles require physical activity. Additionally, remember that road construction begins next Tuesday on Highway M, which will shift traffic patterns for the next few weeks.",
+    "mainText": "The City of Verona has announced that road construction begins August 18 on Highway M, while the Senior Center is currently seeking dedicated volunteers to help with their essential services.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-14",
-    "updateDate": "2026-08-14T00:18:30.854Z",
+    "updateDate": "2026-08-14T01:32:11.673Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, including Yoga at Insight Wellness today, Concerts in the Park today, and the weekly Hop Haus Trivia happening today as well.",
+    "mainText": "There is a lot going on today, including Yoga at Insight Wellness, Concerts in the Park, and Hop Haus Trivia. Looking ahead, we have live music tomorrow at Bailey's Run and Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-14",
-    "updateDate": "2026-08-14T00:18:30.854Z",
+    "updateDate": "2026-08-14T01:32:11.673Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, on Wednesday, August 5, police responded to a residence on Whalen Road where they apprehended a man who had fled from officers while they were attempting to serve a probation warrant.",
+    "mainText": "Regarding local safety, on August 5, police arrested a man on Whalen Road for a probation violation after he attempted to flee officers.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-14",
-    "updateDate": "2026-08-14T00:18:30.854Z",
+    "updateDate": "2026-08-14T01:32:11.673Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the rich and decadent Devil's Food Cake. The store is open until 10:00 PM tonight, so stop by soon to grab a scoop before they close.",
+    "mainText": "You can enjoy the delicious Devil's Food Cake flavor of the day until closing time at 10 PM. If you miss it, tomorrow's flavor will be Caramel Fudge Cookie Dough.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
