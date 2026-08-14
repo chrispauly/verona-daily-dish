@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-14",
-    "updateDate": "2026-08-14T14:22:44.366Z",
+    "updateDate": "2026-08-14T15:17:13.976Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we are seeing overcast skies by the library with a temperature of 73 degrees under a new moon phase.",
+    "mainText": "Hello, Verona! At 10 AM, we have overcast skies and a temperature of 75 degrees at Harriet Park, with a New Moon phase in the sky tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-14",
-    "updateDate": "2026-08-14T14:22:44.366Z",
+    "updateDate": "2026-08-14T15:17:13.976Z",
     "titleText": "Verona City News",
-    "mainText": "The Senior Center is looking for volunteers to support their services, and please note that road construction on Highway M begins next Tuesday.",
+    "mainText": "The City of Verona has announced that road construction begins August 18 on Highway M, which will impact local traffic for a few weeks, while the Senior Center is also looking for volunteers to assist with various community programs.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-14",
-    "updateDate": "2026-08-14T14:22:44.366Z",
+    "updateDate": "2026-08-14T15:17:13.976Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Enjoy live music today at Bailey's Run or Wisconsin Brewing Company, and look forward to the Dane County Farmer's Market and more live music happening tomorrow.",
+    "mainText": "We have a busy weekend ahead, starting with live music at Bailey's Run and Wisconsin Brewing Company happening today. Tomorrow, you can visit the Dane County Farmers Market or enjoy music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-14",
-    "updateDate": "2026-08-14T14:22:44.366Z",
+    "updateDate": "2026-08-14T15:17:13.976Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 8, the police department successfully used a drone to assist the Sheriff's Office in locating a burglary suspect who had fled into a field.",
+    "mainText": "On August 8, officers were kept busy when a drone pilot assisted the Dane County Sheriff's Office in a pursuit that ended with a suspect being taken into custody in a corn field.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-14",
-    "updateDate": "2026-08-14T14:22:44.366Z",
+    "updateDate": "2026-08-14T15:17:13.976Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Caramel Fudge Cookie Dough, but since the restaurant is currently closed until 10 AM, you have a little time to plan your visit.",
+    "mainText": "Today is the perfect day for Caramel Fudge Cookie Dough at Culver's, and since they are open until 10:30 PM, you have plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
