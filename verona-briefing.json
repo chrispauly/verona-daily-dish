@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-14",
-    "updateDate": "2026-08-14T03:44:27.447Z",
+    "updateDate": "2026-08-14T04:34:11.942Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. It is a pleasant 68 degrees under a New Moon near the Military Ridge State Trail, with an overnight low of 64 degrees and no rain expected.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: current conditions at Reddan Soccer Park are 68 degrees with clear skies under a new moon phase. The overnight low will drop to 65 degrees, and we have no rain in the forecast for the night.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-14",
-    "updateDate": "2026-08-14T03:44:27.447Z",
+    "updateDate": "2026-08-14T04:34:11.942Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is currently seeking volunteers for various programs and reminds everyone to respect participant confidentiality, while the city also notes that road construction on Highway M begins on August 18.",
+    "mainText": "The Verona Senior Center is looking for volunteers to assist with programs, requiring a two-shift monthly commitment. Additionally, road construction on Highway M is slated to start August 18, which will shift traffic patterns for the next few weeks.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-14",
-    "updateDate": "2026-08-14T03:44:27.447Z",
+    "updateDate": "2026-08-14T04:34:11.942Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy lineup with Yoga at Insight Wellness, Concerts in the Park, and Hop Haus Trivia all happening today, followed by live music at Bailey's Run and Wisconsin Brewing Company tomorrow.",
+    "mainText": "We have a packed schedule! Tomorrow features live music at Bailey's Run Vineyard and Wisconsin Brewing Company. Saturday includes the Dane County Farmers' Market at the Square, music at Paddy Mac's, the Cave Carnival at Cave of the Mounds, and a Girls Try Hockey event at the Verona Ice Arena.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-14",
-    "updateDate": "2026-08-14T03:44:27.447Z",
+    "updateDate": "2026-08-14T04:34:11.942Z",
     "titleText": "Verona Police Report",
-    "mainText": "",
+    "mainText": "In a noteworthy call from Wednesday, August 5, officers tracked down a 37-year-old man on Whalen Road to serve a warrant, leading to an additional charge for failing to comply with officers during the arrest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-14",
-    "updateDate": "2026-08-14T03:44:27.447Z",
+    "updateDate": "2026-08-14T04:34:11.942Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Devil's Food Cake. Since the store is currently closed, you can look forward to stopping by when they open tomorrow at 10 AM, or try the Caramel Fudge Cookie Dough flavor coming up tomorrow.",
+    "mainText": "Today's delicious flavor of the day is Devil's Food Cake. While the store is currently closed, you can satisfy your craving tomorrow morning when they open their doors at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
