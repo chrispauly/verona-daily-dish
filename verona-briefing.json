@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-08-14",
-    "updateDate": "2026-08-14T23:05:18.106Z",
+    "uid": "verona-balanced-weather-2026-08-15",
+    "updateDate": "2026-08-15T00:08:28.494Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. We are seeing overcast skies at 77 degrees with a new moon phase overhead. Tonight will cool down to 67 degrees and there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. It is currently 74 degrees and overcast by the Verona Area High School. We are in a new moon phase tonight, and you can expect an overnight low of 66 degrees with rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-08-14",
-    "updateDate": "2026-08-14T23:05:18.106Z",
+    "uid": "verona-balanced-news-2026-08-15",
+    "updateDate": "2026-08-15T00:08:28.494Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is seeking volunteers for various programs and requires a commitment of at least twice a month plus a confidentiality agreement. Additionally, City Hall has posted notices regarding the upcoming partisan primary and general election.",
+    "mainText": "The Senior Center is seeking new volunteers to help keep programs running smoothly, and City Hall has officially released election notices for the upcoming August primary and November general election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-08-14",
-    "updateDate": "2026-08-14T23:05:18.106Z",
+    "uid": "verona-balanced-events-2026-08-15",
+    "updateDate": "2026-08-15T00:08:28.494Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule with live music at Bailey's Run and Wisconsin Brewing Company happening today. Tomorrow, you can catch the Dane County Farmers' Market, music at Paddy Mac's, or head out to the Cave Carnival.",
+    "mainText": "We have a busy weekend ahead. Today, catch live music at both Bailey's Run and Lake Lou-ee. Tomorrow, you can visit the Dane County Farmers Market or hear music at Paddy Mac's, and the Cave Carnival at Cave of the Mounds is also coming up.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-08-14",
-    "updateDate": "2026-08-14T23:05:18.106Z",
+    "uid": "verona-balanced-police-2026-08-15",
+    "updateDate": "2026-08-15T00:08:28.494Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly report, on Wednesday, officers responded to a residence on Whalen Road to arrest a 37-year-old man on a probation warrant after he attempted to flee.",
+    "mainText": "In a report covering August 3 to August 10, officers were busy with several calls, including an incident on August 5 where a man was taken into custody on Whalen Road for a probation violation warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-08-14",
-    "updateDate": "2026-08-14T23:05:18.106Z",
+    "uid": "verona-balanced-culvers-2026-08-15",
+    "updateDate": "2026-08-15T00:08:28.494Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Caramel Fudge Cookie Dough. Culver's is open until 10:30 PM tonight, so there is plenty of time to stop by for a treat.",
+    "mainText": "Today's delicious flavor is Caramel Fudge Cookie Dough. Culver's is open until 10:30 PM tonight, so there is still plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
