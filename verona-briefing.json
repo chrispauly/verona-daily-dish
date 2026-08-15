@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-15",
-    "updateDate": "2026-08-15T11:04:21.263Z",
+    "updateDate": "2026-08-15T12:04:44.322Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: skies are clear over Fireman's Park with temperatures steady at 65 degrees and a waxing crescent moon visible overhead.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have overcast skies at Verona Community Park with a temperature of 67 degrees and a waxing crescent moon in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-15",
-    "updateDate": "2026-08-15T11:04:21.263Z",
+    "updateDate": "2026-08-15T12:04:44.322Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is looking for volunteers to assist with their services. Volunteers are asked to commit to two sessions per month, and please be aware that some roles involve physical tasks like light lifting or stair climbing. Training and confidentiality agreements are required for all positions.",
+    "mainText": "The Verona Senior Center is currently seeking volunteers to help with their community programs. Volunteers need to commit to at least two shifts per month and should be prepared for some light physical activity. Please visit the city website to complete an application or stop by the front desk for a paper form.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-15",
-    "updateDate": "2026-08-15T11:04:21.263Z",
+    "updateDate": "2026-08-15T12:04:44.322Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot going on this weekend. Today you can check out the Dane County Farmer's Market or enjoy live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Tomorrow, check out the Girls Try Hockey event at the Verona Ice Arena or the Cave Carnival at Cave of the Mounds.",
+    "mainText": "Today, you can visit the Dane County Farmers Market or enjoy music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Tomorrow, check out the Cave Carnival at Cave of the Mounds or take your kids to the Girls Try Hockey event at the Verona Ice Arena.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-15",
-    "updateDate": "2026-08-15T11:04:21.263Z",
+    "updateDate": "2026-08-15T12:04:44.322Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable call from August 8, Verona police assisted the Dane County Sheriff's office with an in-progress burglary. A police drone located the suspect vehicle after it drove into a corn field, leading to an arrest.",
+    "mainText": "On August 8th, the Verona Police Department assisted the Dane County Sheriff's Office with a burglary investigation. Using a department drone, officers tracked a suspect vehicle into a corn field and successfully located one of the suspects hiding nearby.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-15",
-    "updateDate": "2026-08-15T11:04:21.263Z",
+    "updateDate": "2026-08-15T12:04:44.322Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Turtle. Culver's is currently closed, but they will reopen for you at 10 AM. If you are looking for tomorrow's treat, get ready for Mint Cookie.",
+    "mainText": "Today's featured flavor is Turtle. Since the restaurant is currently closed, please note they will open their doors at 10 AM. If you are looking for tomorrow's treat, it will be Mint Cookie.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
