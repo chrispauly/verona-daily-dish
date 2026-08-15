@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-15",
-    "updateDate": "2026-08-15T15:04:18.217Z",
+    "updateDate": "2026-08-15T16:03:43.740Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have overcast skies and a temperature of 72 degrees, which feels more like 77 near Reddan Soccer Park. We are also under a waxing crescent moon phase today.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we have overcast skies and a temperature of 75 degrees, which feels like 80 degrees, near the Verona Public Library. The moon phase is a waxing crescent.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-15",
-    "updateDate": "2026-08-15T15:04:18.217Z",
+    "updateDate": "2026-08-15T16:03:43.740Z",
     "titleText": "Verona City News",
-    "mainText": "If you are looking to get involved in the community, the Verona Senior Center is currently accepting volunteer applications. They need help with various programs and ask that volunteers commit to at least two visits per month. Please note that some roles require physical activity, and all volunteers must sign a confidentiality agreement.",
+    "mainText": "The Verona Senior Center is currently seeking volunteers to assist with their programs. Volunteers must commit to at least two shifts per month and may need to perform tasks like lifting or climbing stairs. You can apply online or at the center, but please be aware that all volunteers must sign a confidentiality agreement and pass a background check if they work with seniors.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-15",
-    "updateDate": "2026-08-15T15:04:18.217Z",
+    "updateDate": "2026-08-15T16:03:43.740Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town. Today, you can visit the Dane County Farmers Market or catch live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Tomorrow, check out the Cave Carnival at Cave of the Mounds or the Girls Try Hockey event at the Verona Ice Arena.",
+    "mainText": "Today is packed with activities, including the Dane County Farmers Market and live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Tomorrow, check out the Cave Carnival at Cave of the Mounds or the Girls Try Hockey event at the Verona Ice Arena.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-15",
-    "updateDate": "2026-08-15T15:04:18.217Z",
+    "updateDate": "2026-08-15T16:03:43.740Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, we noted that on Wednesday, an officer observed a vehicle driving erratically and arrested the 49-year-old driver for an O W I, fourth offence, which resulted in a blood draw and jail booking.",
+    "mainText": "In our weekly police report, on August 5, officers were called to the 500 block of Whalen Road to locate a man with an outstanding warrant. The subject attempted to flee but was eventually taken into custody and faces new charges.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-15",
-    "updateDate": "2026-08-15T15:04:18.217Z",
+    "updateDate": "2026-08-15T16:03:43.740Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You are in for a treat because the flavor of the day at Culver's is Turtle. They are open until 10:30 PM, so there is plenty of time to stop by for a delicious frozen dessert.",
+    "mainText": "Today is the perfect day to stop by for the Turtle flavor of the day. The store is open until 10:30 PM, so there is plenty of time to grab a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
