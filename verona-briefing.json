@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-15",
-    "updateDate": "2026-08-15T18:03:44.723Z",
+    "updateDate": "2026-08-15T19:06:27.370Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. We have overcast skies with a temperature of 78 degrees at the Verona Area High School, and the moon is currently in a waxing crescent phase.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we have 78 degree temperatures with overcast skies at Badger Prairie County Park, under a waxing crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-15",
-    "updateDate": "2026-08-15T18:03:44.723Z",
+    "updateDate": "2026-08-15T19:06:27.370Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is currently looking for volunteers to support their services. Applicants must commit to at least two shifts per month and will need to complete a background check for roles involving interaction with seniors.",
+    "mainText": "The Verona Senior Center is inviting community members to volunteer for their programs, asking for a commitment of at least two times per month. Volunteers will need to sign a confidentiality agreement and may undergo background checks, and they can find application forms online or at the center.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-15",
-    "updateDate": "2026-08-15T18:03:44.723Z",
+    "updateDate": "2026-08-15T19:06:27.370Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy weekend ahead. Today, you can visit the Dane County Farmers Market or enjoy live music at several local spots including Baileys Run, Paddy Macs, and the Wisconsin Brewing Company. Tomorrow, check out the Cave Carnival at Cave of the Mounds or the Girls Try Hockey event at the Verona Ice Arena.",
+    "mainText": "There is plenty to do this weekend, starting with the Dane County Farmers Market today, plus live music at various spots today, the Cave Carnival tomorrow, and a girls try hockey event tomorrow at the Verona Ice Arena.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-15",
-    "updateDate": "2026-08-15T18:03:44.723Z",
+    "updateDate": "2026-08-15T19:06:27.370Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Friday, August 8, the Verona Police Department assisted the Dane County Sheriffs Office with a burglary investigation where a drone successfully located a suspect hiding in a corn field.",
+    "mainText": "In a noteworthy update, an officer observed a driver speeding on Wednesday, August 6, which led to an arrest for an O W I, which was the driver's fourth offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-15",
-    "updateDate": "2026-08-15T18:03:44.723Z",
+    "updateDate": "2026-08-15T19:06:27.370Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the classic Turtle. Culvers is open until 10:30 PM, so there is plenty of time to stop by and satisfy your sweet tooth.",
+    "mainText": "Stop by Culver's today to enjoy the Turtle flavor of the day before they close at 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
