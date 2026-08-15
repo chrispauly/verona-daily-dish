@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-15",
-    "updateDate": "2026-08-15T04:09:45.627Z",
+    "updateDate": "2026-08-15T05:06:13.904Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. We are seeing overcast skies at Verona City Hall with a temperature of 67 degrees. The waxing crescent moon is out, and the overnight low will dip to 63 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. It is a pleasant 66 degrees with mainly clear skies at Reddan Soccer Park and a waxing crescent moon visible in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-15",
-    "updateDate": "2026-08-15T04:09:45.627Z",
+    "updateDate": "2026-08-15T05:06:13.904Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is inviting residents to volunteer. You can help out with various programs, provided you can commit to serving at least two times per month. Some roles involve light physical activity, and they offer both online and paper application forms at the front desk.",
+    "mainText": "The Verona Senior Center is actively seeking volunteers to support their community programs. They are asking for a commitment of at least two times per month, and while some roles require light physical activity, it is a great way to respect the dignity and worth of others in our city. You can apply online or visit their front desk for a form.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-15",
-    "updateDate": "2026-08-15T04:09:45.627Z",
+    "updateDate": "2026-08-15T05:06:13.904Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule starting tomorrow with the Dane County Farmer's Market and live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking further ahead, the Cave Carnival is this Saturday, and the Epic Systems UGM kicks off this Sunday.",
+    "mainText": "There is so much happening in and around Verona! Today, you can visit the Dane County Farmers Market or catch live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Tomorrow, don't miss the Cave Carnival at Cave of the Mounds or the Girls Try Hockey event at the Verona Ice Arena. Looking ahead, keep an eye out for UGM at Epic Systems and yoga classes at Insight Wellness on August 17, followed by trivia nights on August 18.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-15",
-    "updateDate": "2026-08-15T04:09:45.627Z",
+    "updateDate": "2026-08-15T05:06:13.904Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported a notable incident on Friday, August 8, where a drone pilot assisted in the arrest of a burglary suspect who had fled into a corn field.",
+    "mainText": "In our weekly police report, on Wednesday, August 6, officers stopped a driver for erratic behavior, which unfortunately resulted in an arrest for a fourth O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-15",
-    "updateDate": "2026-08-15T04:09:45.627Z",
+    "updateDate": "2026-08-15T05:06:13.904Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Enjoy the Caramel Fudge Cookie Dough flavor today. The store is currently closed, but they will reopen tomorrow at 10 AM, when the flavor of the day will be Turtle.",
+    "mainText": "Today's flavor of the day is the classic and tasty Turtle. Culver's is currently closed, but they will be ready to serve you starting at 10 AM tomorrow morning.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
