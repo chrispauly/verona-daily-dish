@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-16",
-    "updateDate": "2026-08-16T19:06:51.289Z",
+    "updateDate": "2026-08-16T20:03:20.511Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: it is 83 degrees with clear skies over Harriet Park, and we are currently under a waxing crescent moon.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we are looking at 83 degrees with overcast skies near Verona City Hall and a waxing crescent moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-16",
-    "updateDate": "2026-08-16T19:06:51.289Z",
+    "updateDate": "2026-08-16T20:03:20.511Z",
     "titleText": "Verona City News",
-    "mainText": "The city is preparing for road construction on Highway M beginning August 18, which will shift traffic patterns for the next few weeks, and the Senior Center is looking for volunteers to help with their community programs.",
+    "mainText": "The Verona Senior Center is accepting volunteer applications for their programs, while road construction on Highway M is scheduled to begin on August 18, involving lane shifts and utility work.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-16",
-    "updateDate": "2026-08-16T19:06:51.289Z",
+    "updateDate": "2026-08-16T20:03:20.511Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy weekend ahead, with live music at Bailey's Run Vineyard and the Wisconsin Brewing Company happening today, along with a girls hockey event today at the Verona Ice Arena. Tomorrow, you can look forward to the Epic User Group Meeting and yoga classes at Insight Wellness.",
+    "mainText": "We have a busy couple of days, starting with live music and girls' hockey today, followed by the UGM meeting and yoga sessions tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-16",
-    "updateDate": "2026-08-16T19:06:51.289Z",
+    "updateDate": "2026-08-16T20:03:20.511Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Wednesday, August 5, a 37-year-old Madison man was taken into custody on Whalen Road following a probation violation warrant and a brief attempt to flee from officers.",
+    "mainText": "In a report from last Wednesday, officers arrested a Madison man on Whalen Road resident following a warrant investigation that involved a brief pursuit.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-16",
-    "updateDate": "2026-08-16T19:06:51.289Z",
+    "updateDate": "2026-08-16T20:03:20.511Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can cool off today with a delicious Mint Cookie flavor of the day at Culver's, which remains open until 10 PM tonight.",
+    "mainText": "You can enjoy the Mint Cookie flavor of the day at Culver's until they close at 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
