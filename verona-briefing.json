@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-16",
-    "updateDate": "2026-08-16T21:04:09.115Z",
+    "updateDate": "2026-08-16T22:03:29.243Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. It is 82 degrees with clear skies near the Verona Public Library, and the moon is currently a waxing crescent.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. We have clear skies at Harriet Park with a temperature of 81 degrees. The overnight low will be 61 degrees, and there is no rain in the forecast. Keep an eye on the sky tonight for a waxing crescent moon and an International Space Station flyover tomorrow morning at 4:47 AM, rising from Belleville toward Fitchburg.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-16",
-    "updateDate": "2026-08-16T21:04:09.115Z",
+    "updateDate": "2026-08-16T22:03:29.243Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that road construction along Highway M will begin on August 18th, requiring traffic to shift while utility work is completed. Also, the Senior Center is seeking volunteers to support their services and encourages anyone interested to apply online or stop by for a form.",
+    "mainText": "City updates include new volunteer opportunities at the Senior Center which requires a commitment of at least two sessions per month. Additionally, please be aware that road construction on Highway M begins on August 18, which will shift traffic patterns for the next two to three weeks.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-16",
-    "updateDate": "2026-08-16T21:04:09.115Z",
+    "updateDate": "2026-08-16T22:03:29.243Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a busy weekend ahead, with live music at Baileys Run and Lake Lou-ee plus a Girls Try Hockey event happening today. Looking ahead to tomorrow, the Epic User Group Meeting is taking place along with yoga classes at Insight Wellness.",
+    "mainText": "We have a packed schedule with live music at Bailey's Run and Lake Lou-ee happening today. Tomorrow, Epic Systems hosts its annual UGM, and Insight Wellness offers yoga classes. Looking ahead to Tuesday, you can enjoy trivia at Hop Haus or Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-16",
-    "updateDate": "2026-08-16T21:04:09.115Z",
+    "updateDate": "2026-08-16T22:03:29.243Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering August 3rd through August 10th, police noted that on August 6th, an officer observed a vehicle driving erratically, leading to the arrest of a driver for a fourth O W I offence.",
+    "mainText": "Regarding the weekly report, on Wednesday, August 6, an officer observed a vehicle driving erratically and arrested the driver for his fourth O W I offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-16",
-    "updateDate": "2026-08-16T21:04:09.115Z",
+    "updateDate": "2026-08-16T22:03:29.243Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is Mint Cookie, and they are open until 10 PM tonight so there is plenty of time to stop by for a scoop.",
+    "mainText": "You can cool down today with the Mint Cookie flavor of the day at Culver's. The store is open until 10 PM, so there is plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
