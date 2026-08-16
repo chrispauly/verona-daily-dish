@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-16",
-    "updateDate": "2026-08-16T22:03:29.243Z",
+    "updateDate": "2026-08-16T23:03:57.899Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. We have clear skies at Harriet Park with a temperature of 81 degrees. The overnight low will be 61 degrees, and there is no rain in the forecast. Keep an eye on the sky tonight for a waxing crescent moon and an International Space Station flyover tomorrow morning at 4:47 AM, rising from Belleville toward Fitchburg.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: skies are clear over Verona Community Park with a temperature of 78 degrees. Tonight's low will be 61 degrees with no rain predicted. If you are an early bird, look for the ISS crossing the sky tomorrow morning starting at 4:47 AM, rising over Belleville and moving toward Fitchburg.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-16",
-    "updateDate": "2026-08-16T22:03:29.243Z",
+    "updateDate": "2026-08-16T23:03:57.899Z",
     "titleText": "Verona City News",
-    "mainText": "City updates include new volunteer opportunities at the Senior Center which requires a commitment of at least two sessions per month. Additionally, please be aware that road construction on Highway M begins on August 18, which will shift traffic patterns for the next two to three weeks.",
+    "mainText": "In city news, the Senior Center is seeking volunteers for various roles, and residents should note that road construction on Highway M begins August 18 with traffic shifting to accommodate utility work.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-16",
-    "updateDate": "2026-08-16T22:03:29.243Z",
+    "updateDate": "2026-08-16T23:03:57.899Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule with live music at Bailey's Run and Lake Lou-ee happening today. Tomorrow, Epic Systems hosts its annual UGM, and Insight Wellness offers yoga classes. Looking ahead to Tuesday, you can enjoy trivia at Hop Haus or Lake Lou-ee.",
+    "mainText": "We have a busy schedule! Today, catch live music at Bailey's Run Vineyard and the Wisconsin Brewing Company, or head to the Verona Ice Arena for the Girls Try Hockey event. Tomorrow, Epic Systems hosts their User Group Meeting, and you can also find yoga at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-16",
-    "updateDate": "2026-08-16T22:03:29.243Z",
+    "updateDate": "2026-08-16T23:03:57.899Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly report, on Wednesday, August 6, an officer observed a vehicle driving erratically and arrested the driver for his fourth O W I offence.",
+    "mainText": "In our weekly police report, officers responded to a situation on August 6 where a driver was arrested for O W I, fourth offence, after being spotted driving erratically.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-16",
-    "updateDate": "2026-08-16T22:03:29.243Z",
+    "updateDate": "2026-08-16T23:03:57.899Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can cool down today with the Mint Cookie flavor of the day at Culver's. The store is open until 10 PM, so there is plenty of time to stop by for a treat.",
+    "mainText": "Today's delicious flavor of the day is Caramel Fudge Cookie Dough. The store is open until 11 PM, so you have plenty of time to stop by for a treat before they close.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
