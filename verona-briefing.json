@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-16",
-    "updateDate": "2026-08-16T20:03:20.511Z",
+    "updateDate": "2026-08-16T21:04:09.115Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we are looking at 83 degrees with overcast skies near Verona City Hall and a waxing crescent moon phase.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. It is 82 degrees with clear skies near the Verona Public Library, and the moon is currently a waxing crescent.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-16",
-    "updateDate": "2026-08-16T20:03:20.511Z",
+    "updateDate": "2026-08-16T21:04:09.115Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is accepting volunteer applications for their programs, while road construction on Highway M is scheduled to begin on August 18, involving lane shifts and utility work.",
+    "mainText": "The City of Verona has announced that road construction along Highway M will begin on August 18th, requiring traffic to shift while utility work is completed. Also, the Senior Center is seeking volunteers to support their services and encourages anyone interested to apply online or stop by for a form.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-16",
-    "updateDate": "2026-08-16T20:03:20.511Z",
+    "updateDate": "2026-08-16T21:04:09.115Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days, starting with live music and girls' hockey today, followed by the UGM meeting and yoga sessions tomorrow.",
+    "mainText": "There is a busy weekend ahead, with live music at Baileys Run and Lake Lou-ee plus a Girls Try Hockey event happening today. Looking ahead to tomorrow, the Epic User Group Meeting is taking place along with yoga classes at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-16",
-    "updateDate": "2026-08-16T20:03:20.511Z",
+    "updateDate": "2026-08-16T21:04:09.115Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from last Wednesday, officers arrested a Madison man on Whalen Road resident following a warrant investigation that involved a brief pursuit.",
+    "mainText": "In a report covering August 3rd through August 10th, police noted that on August 6th, an officer observed a vehicle driving erratically, leading to the arrest of a driver for a fourth O W I offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-16",
-    "updateDate": "2026-08-16T20:03:20.511Z",
+    "updateDate": "2026-08-16T21:04:09.115Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy the Mint Cookie flavor of the day at Culver's until they close at 10 PM tonight.",
+    "mainText": "The Culver's flavor of the day is Mint Cookie, and they are open until 10 PM tonight so there is plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
