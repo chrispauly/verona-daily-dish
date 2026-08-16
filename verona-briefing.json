@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-16",
-    "updateDate": "2026-08-16T04:13:52.383Z",
+    "updateDate": "2026-08-16T05:10:48.133Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we have clear skies at Verona Community Park with a waxing crescent moon, a feels-like temperature of 75 degrees, an overnight low of 69, and no rain in the forecast.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: the temperature is a mild 71 degrees under foggy conditions near the Verona Area High School, and we are currently seeing a waxing crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-16",
-    "updateDate": "2026-08-16T04:13:52.383Z",
+    "updateDate": "2026-08-16T05:10:48.133Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is currently recruiting volunteers to assist with their programs. You can sign up online or stop by the front desk for an application, but keep in mind that some roles involve physical tasks and require a confidentiality agreement.",
+    "mainText": "The Verona Senior Center is actively seeking volunteers to help with their community programs. Applicants should be ready to commit to two shifts per month and must pass a background check for roles involving unsupervised interactions with seniors.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-16",
-    "updateDate": "2026-08-16T04:13:52.383Z",
+    "updateDate": "2026-08-16T05:10:48.133Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule starting tomorrow with live music at Bailey's Run and Wisconsin Brewing Company, plus a free Girls Try Hockey event at the Verona Ice Arena. Looking ahead, you can check out the UGM at Epic Systems on August 17.",
+    "mainText": "We have a packed schedule today with live music at Bailey's Run Vineyard and the Wisconsin Brewing Company, alongside a Girls Try Hockey session at the Verona Ice Arena. Tomorrow, look forward to the Epic User Group Meeting and yoga classes at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-16",
-    "updateDate": "2026-08-16T04:13:52.383Z",
+    "updateDate": "2026-08-16T05:10:48.133Z",
     "titleText": "Verona Police Report",
-    "mainText": "During the weekly reporting period, on August 5, officers located a Madison man on Whalen Road for a probation violation; he initially fled but was eventually taken into custody and charged with failing to comply with officers.",
+    "mainText": "In our weekly report, officers arrested a 49-year-old man for his fourth O W I offence on August 6 after he was observed driving erratically.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-16",
-    "updateDate": "2026-08-16T04:13:52.383Z",
+    "updateDate": "2026-08-16T05:10:48.133Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The delicious Flavor of the Day is Turtle. Since the store is currently closed, you can stop by when they open tomorrow at 10:00 AM, or try the Mint Cookie tomorrow.",
+    "mainText": "The flavor of the day is Mint Cookie. The store is currently closed but will open its doors at 10 AM, so get ready to enjoy that treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
