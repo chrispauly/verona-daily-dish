@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-16",
-    "updateDate": "2026-08-16T11:04:26.778Z",
+    "updateDate": "2026-08-16T12:04:16.956Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: expect temperatures around 73 degrees with overcast skies near Badger Prairie County Park. We are currently under a waxing crescent moon.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have overcast skies at Fireman's Park with a temperature of 73 degrees and a Waxing Crescent moon above.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-16",
-    "updateDate": "2026-08-16T11:04:26.778Z",
+    "updateDate": "2026-08-16T12:04:16.956Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is seeking volunteers to assist with their programs. They ask for a commitment of at least two shifts per month, and while some roles require light physical activity, they are happy to discuss accommodations.",
+    "mainText": "The Verona Senior Center is seeking volunteers for various roles. You must commit to two shifts a month and be able to handle physical tasks like lifting and climbing stairs. Please remember to respect participant privacy and confidentiality at all times.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-16",
-    "updateDate": "2026-08-16T11:04:26.778Z",
+    "updateDate": "2026-08-16T12:04:16.956Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona! Today, you can catch live music at Bailey's Run and Lake Lou-ee or bring the kids to the Girls Try Hockey event at the Verona Ice Arena. Tomorrow, Epic Systems hosts their UGM event and there is yoga at Insight Wellness.",
+    "mainText": "Today, you can catch live music at Bailey's Run and Wisconsin Brewing Company, or head to the Verona Ice Arena for Girls Try Hockey. Tomorrow, check out the UGM event at Epic Systems or stop by Insight Wellness for a yoga session.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-16",
-    "updateDate": "2026-08-16T11:04:26.778Z",
+    "updateDate": "2026-08-16T12:04:16.956Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 6, an officer arrested a driver for an O W I, fourth offence, after observing erratic driving.",
+    "mainText": "On Wednesday, August 6, police arrested a 49-year-old driver for his fourth O W I following a traffic stop for erratic driving.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-16",
-    "updateDate": "2026-08-16T11:04:26.778Z",
+    "updateDate": "2026-08-16T12:04:16.956Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Mint Cookie. The shop is currently closed but will open at 10 AM. Tomorrow's flavor will be Caramel Peanut Buttercup.",
+    "mainText": "The Culver's flavor of the day is Mint Cookie. The store is currently closed but will open at 10 AM, so make sure to stop by once they are ready to serve.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
