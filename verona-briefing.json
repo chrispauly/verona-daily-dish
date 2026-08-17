@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-08-16",
-    "updateDate": "2026-08-16T23:03:57.899Z",
+    "uid": "verona-balanced-weather-2026-08-17",
+    "updateDate": "2026-08-17T00:08:48.607Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: skies are clear over Verona Community Park with a temperature of 78 degrees. Tonight's low will be 61 degrees with no rain predicted. If you are an early bird, look for the ISS crossing the sky tomorrow morning starting at 4:47 AM, rising over Belleville and moving toward Fitchburg.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. We have overcast skies and a temperature of 75 degrees at Reddan Soccer Park. Under a waxing crescent moon, we have no rain in the forecast as the temperature drops to a low of 61 degrees overnight. Keep your eyes peeled at 4:47 AM for the space station pass, which will be visible from the south over Belleville heading east toward Fitchburg.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-08-16",
-    "updateDate": "2026-08-16T23:03:57.899Z",
+    "uid": "verona-balanced-news-2026-08-17",
+    "updateDate": "2026-08-17T00:08:48.607Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Senior Center is seeking volunteers for various roles, and residents should note that road construction on Highway M begins August 18 with traffic shifting to accommodate utility work.",
+    "mainText": "The Verona Senior Center is seeking volunteers for various roles, and construction on Highway M is set to begin this Tuesday with traffic shifts expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-08-16",
-    "updateDate": "2026-08-16T23:03:57.899Z",
+    "uid": "verona-balanced-events-2026-08-17",
+    "updateDate": "2026-08-17T00:08:48.607Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule! Today, catch live music at Bailey's Run Vineyard and the Wisconsin Brewing Company, or head to the Verona Ice Arena for the Girls Try Hockey event. Tomorrow, Epic Systems hosts their User Group Meeting, and you can also find yoga at Insight Wellness.",
+    "mainText": "There is a busy lineup today with live music at Bailey's Run and Lake Lou-ee, along with a Girls Try Hockey session. Tomorrow, check out the UGM event at Epic or try a yoga class.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-08-16",
-    "updateDate": "2026-08-16T23:03:57.899Z",
+    "uid": "verona-balanced-police-2026-08-17",
+    "updateDate": "2026-08-17T00:08:48.607Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, officers responded to a situation on August 6 where a driver was arrested for O W I, fourth offence, after being spotted driving erratically.",
+    "mainText": "In the weekly recap, on August 8, officers utilized a drone to successfully locate a suspect involved in a burglary who had fled into a corn field.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-08-16",
-    "updateDate": "2026-08-16T23:03:57.899Z",
+    "uid": "verona-balanced-culvers-2026-08-17",
+    "updateDate": "2026-08-17T00:08:48.607Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Caramel Fudge Cookie Dough. The store is open until 11 PM, so you have plenty of time to stop by for a treat before they close.",
+    "mainText": "Enjoy the refreshing Mint Cookie flavor of the day at Culver's. The store is open until 10 PM, giving you plenty of time to grab a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
