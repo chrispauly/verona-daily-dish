@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-17",
-    "updateDate": "2026-08-17T15:06:42.382Z",
+    "updateDate": "2026-08-17T16:04:52.120Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: it is 70 degrees with clear skies at City Hall, and we have a Waxing Crescent moon in the sky tonight.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we have a comfortable 72 degrees with clear skies observed at Verona Area High School and a lovely waxing crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-17",
-    "updateDate": "2026-08-17T15:06:42.382Z",
+    "updateDate": "2026-08-17T16:04:52.120Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Senior Center is looking for volunteers to assist with programs, while residents should prepare for upcoming road construction on Highway M starting August 18.",
+    "mainText": "The City of Verona has announced that road construction along Highway M is scheduled to begin next Tuesday, August 18, which will involve lane shifts and utility work. Also, the Senior Center is inviting residents to volunteer to support their vital community services.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-17",
-    "updateDate": "2026-08-17T15:06:42.382Z",
+    "updateDate": "2026-08-17T16:04:52.120Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule today with the UGM at Epic and yoga sessions at Insight Wellness, followed by a week of trivia nights and the Downtown Farmer's Market on Wednesday.",
+    "mainText": "There is plenty to do this week. Today, you can check out the User Group Meeting at Epic Systems or join the yoga class at Insight Wellness. Looking toward tomorrow, we have trivia nights at Hop Haus Brewing and Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-17",
-    "updateDate": "2026-08-17T15:06:42.382Z",
+    "updateDate": "2026-08-17T16:04:52.120Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, on Thursday, August 6, an officer conducted a traffic stop where a driver was arrested for an O W I, which was their fourth offence.",
+    "mainText": "In our weekly report, we noted an incident from Wednesday, August 5, where officers were dispatched to the 500 block of Whalen Road to locate and arrest an individual with an outstanding warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-17",
-    "updateDate": "2026-08-17T15:06:42.382Z",
+    "updateDate": "2026-08-17T16:04:52.120Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Caramel Peanut Buttercup. The store is open until 10 PM, so make sure to stop in soon to enjoy this delicious treat.",
+    "mainText": "Today, you can enjoy the delicious Caramel Peanut Buttercup flavor of the day. The store is open until 10 PM, so there is plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
