@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-17",
-    "updateDate": "2026-08-17T13:16:33.715Z",
+    "updateDate": "2026-08-17T14:07:52.579Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we are seeing clear skies and a comfortable 64 degrees near the Verona Public Library, while the moon phase is a waxing crescent.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we are seeing clear skies and a comfortable 68 degrees at the Verona Area High School, with a lovely waxing crescent moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-17",
-    "updateDate": "2026-08-17T13:16:33.715Z",
+    "updateDate": "2026-08-17T14:07:52.579Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Senior Center is seeking new volunteers, and please be aware that road construction on Highway M begins next Tuesday with traffic shifts in place. Additionally, the Plan Commission will review new development projects, including a site plan for 201 South Main Street, at their September 8th meeting.",
+    "mainText": "The Verona Senior Center is looking for volunteers who can commit to two shifts a month to support local services, and please note that road work on Highway M is scheduled to begin on August 18.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-17",
-    "updateDate": "2026-08-17T13:16:33.715Z",
+    "updateDate": "2026-08-17T14:07:52.579Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, we have the User Group Meeting at Epic Systems. Looking ahead to tomorrow, there are several trivia events scheduled at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus yoga sessions at Insight Wellness.",
+    "mainText": "Today, you can check out the User Group Meeting at Epic or grab a session at Insight Wellness, while tomorrow features Hop Haus and Lake Lou-ee trivia nights.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-17",
-    "updateDate": "2026-08-17T13:16:33.715Z",
+    "updateDate": "2026-08-17T14:07:52.579Z",
     "titleText": "Verona Police Report",
-    "mainText": "Reviewing the police department report, an officer observed a driver speeding on Thursday, August 6th, which led to an arrest for an O W I, fourth offence.",
+    "mainText": "A notable incident from August 8 involved a vehicle rollover where the driver fled the scene, but Verona police successfully located and detained the individual for an O W I arrest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-17",
-    "updateDate": "2026-08-17T13:16:33.715Z",
+    "updateDate": "2026-08-17T14:07:52.579Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the indulgent Caramel Peanut Buttercup. Since the shop is currently closed but opens at 10 AM, be sure to stop by later today. Tomorrow, you can look forward to the Caramel Chocolate Pecan flavor.",
+    "mainText": "Today's delicious flavor is Caramel Peanut Buttercup. Culver's is currently closed but will open its doors at 10 AM, so you have plenty of time to plan your visit.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
