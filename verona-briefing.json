@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-17",
-    "updateDate": "2026-08-17T17:07:23.606Z",
+    "updateDate": "2026-08-17T18:07:47.260Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, it is a pleasant 74 degrees with clear skies at Badger Ridge Middle School, under a waxing crescent moon.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. It is a beautiful day with clear skies at Harriet Park and a comfortable temperature of 77 degrees, though it feels like 80.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-17",
-    "updateDate": "2026-08-17T17:07:23.606Z",
+    "updateDate": "2026-08-17T18:07:47.260Z",
     "titleText": "Verona City News",
-    "mainText": "The city recently wrapped up its I Voted sticker contest, choosing four student winners from kindergarten through 12th grade whose designs will be featured at polling places this November. Also, remember that the local police have been busy keeping our streets safe.",
+    "mainText": "In city news, the I Voted sticker contest has concluded with four winners selected from over fifty student entries, and their designs will be available at polling locations this November. Additionally, the Verona police department continues to monitor local traffic safety and juvenile activities.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-17",
-    "updateDate": "2026-08-17T17:07:23.606Z",
+    "updateDate": "2026-08-17T18:07:47.260Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community today including the User Group Meeting at Epic Systems and yoga classes at Insight Wellness. Looking ahead to tomorrow, you can enjoy trivia at Hop Haus or head to Lake Lou-ee for more trivia fun.",
+    "mainText": "There is plenty to do in town, starting with the Epic user group meeting taking place today. Looking ahead to tomorrow, you can check out trivia at the Hop Haus Brewing Company or the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-17",
-    "updateDate": "2026-08-17T17:07:23.606Z",
+    "updateDate": "2026-08-17T18:07:47.260Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from August 13, a 14-year-old was stopped and educated by officers after being found riding an electronic dirt bike on a public roadway.",
+    "mainText": "Looking back at the police department report, an incident occurred on August 15 when a woman was arrested for her first O W I offence after being found passed out behind the wheel of her vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-17",
-    "updateDate": "2026-08-17T17:07:23.606Z",
+    "updateDate": "2026-08-17T18:07:47.260Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delightful Caramel Peanut Buttercup, and the shop is open until 10 PM. You can also visit the Kona Ice truck at the Concerts at McKee event today between 5 PM and 9 PM.",
+    "mainText": "Today is the perfect day to stop by for our flavor of the day, Caramel Peanut Buttercup. The restaurant is open until 10 PM, so there is plenty of time to get your fix.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
