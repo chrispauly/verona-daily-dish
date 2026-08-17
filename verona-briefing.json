@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-17",
-    "updateDate": "2026-08-17T20:05:18.371Z",
+    "updateDate": "2026-08-17T21:06:41.538Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, we are looking at clear skies and a pleasant 79 degrees near the high school, with a waxing crescent moon starting its cycle tonight.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we are looking at clear skies and a temperature of 79 degrees at Verona Community Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-17",
-    "updateDate": "2026-08-17T20:05:18.371Z",
+    "updateDate": "2026-08-17T21:06:41.538Z",
     "titleText": "Verona City News",
-    "mainText": "The Plan Commission has a busy agenda this Tuesday, September 8, including a comprehensive look at various zoning amendments and a pending initial review for the Sub-Zero project at Liberty Business Park.",
+    "mainText": "The City of Verona recently approved updated sewer and stormwater utility rates to ensure self-supporting systems, and we also announced the four student winners of the I Voted sticker contest for the November election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-17",
-    "updateDate": "2026-08-17T20:05:18.371Z",
+    "updateDate": "2026-08-17T21:06:41.538Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is the Epic User Group Meeting. Looking ahead, tomorrow features trivia nights at Hop Haus Brewing Company and the Wisconsin Brewing Company, plus the downtown farmer's market on Wednesday.",
+    "mainText": "Today you can catch the Epic Systems UGM or yoga at Insight Wellness. Tomorrow brings trivia at both Hop Haus and Lake Lou-ee, followed by Wednesday's downtown farmer's market and trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-17",
-    "updateDate": "2026-08-17T20:05:18.371Z",
+    "updateDate": "2026-08-17T21:06:41.538Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported a few notable calls this past week, including an arrest on Saturday, August 15, where a driver was taken into custody for a second offence O W I, along with several other traffic citations.",
+    "mainText": "Our police report highlights that on Friday, August 15, a 29-year-old Verona man was arrested for a second offence O W I after being reported for reckless driving.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-17",
-    "updateDate": "2026-08-17T20:05:18.371Z",
+    "updateDate": "2026-08-17T21:06:41.538Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to the Caramel Peanut Buttercup flavor of the day at Culver's, which is open until 10 PM tonight. Also, don't forget to stop by the Kona Ice truck at the Concerts at McKee event today between 5 PM and 9 PM.",
+    "mainText": "Today's flavor is Caramel Peanut Buttercup, available until the store closes at 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
