@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-17",
-    "updateDate": "2026-08-17T22:05:20.685Z",
+    "updateDate": "2026-08-17T23:05:10.879Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: skies are clear and it is 79 degrees by Badger Ridge Middle School. We are under a waxing crescent moon tonight with an overnight low of 62 and no rain in the forecast.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. We have clear skies at Verona Community Park with a Waxing Crescent moon. You can spot the ISS tomorrow morning at 5:35 AM as it rises over Mount Horeb and travels toward Fitchburg, appearing almost directly overhead. Expect an overnight low of 62 degrees with no rain.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-17",
-    "updateDate": "2026-08-17T22:05:20.685Z",
+    "updateDate": "2026-08-17T23:05:10.879Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Common Council has approved new sewer and stormwater rates to ensure our utilities remain self-supporting and properly maintained. Additionally, we are celebrating our local student artists who won the I Voted sticker contest, with their artwork set to appear at polling places in November.",
+    "mainText": "The city council has approved new sewer and stormwater utility rates to cover essential maintenance and prevent future service failures, with the average home seeing an increase of 26 dollars per quarter. Additionally, the city has revealed the four student winners of the I Voted sticker contest who will have their artwork displayed on stickers at local polling places this November.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-17",
-    "updateDate": "2026-08-17T22:05:20.685Z",
+    "updateDate": "2026-08-17T23:05:10.879Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with the UGM at Epic Systems today. Tomorrow brings trivia at both Hop Haus and Lake Lou-ee, followed by a full lineup on Wednesday featuring the Farmer's Market and trivia at the Bogey Factory.",
+    "mainText": "Today, Epic is hosting their annual User Group Meeting. Looking ahead to tomorrow, there is trivia at Hop Haus and Wisconsin Brewing Company. You can also look forward to trivia at Paddy Mac's, the Downtown Farmer's Market, and a concert in the park later this week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-17",
-    "updateDate": "2026-08-17T22:05:20.685Z",
+    "updateDate": "2026-08-17T23:05:10.879Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, on Saturday, August 15, officers arrested a woman for an O W I after she was found unresponsive behind the wheel of her vehicle.",
+    "mainText": "Regarding the weekly police report, on last Friday, August 15, a local woman was arrested for her first O W I offence after being found passed out behind the wheel near North Main Street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-17",
-    "updateDate": "2026-08-17T22:05:20.685Z",
+    "updateDate": "2026-08-17T23:05:10.879Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You should definitely try the Caramel Peanut Buttercup flavor today, available until the store closes at 10 PM. Also, catch Kona Ice at Concerts at McKee tonight between 5 PM and 9 PM.",
+    "mainText": "Today's delicious flavor is Caramel Peanut Buttercup, and you can pick it up until the store closes at 10 PM. Also, don't miss out on Kona Ice, which will be at the Concerts at McKee party tonight from 5 PM to 9 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
