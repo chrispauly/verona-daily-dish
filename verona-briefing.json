@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-17",
-    "updateDate": "2026-08-17T11:06:35.540Z",
+    "updateDate": "2026-08-17T12:06:23.994Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, we are looking at clear skies and 59 degrees near Verona City Hall under a waxing crescent moon.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have clear skies near the Verona Public Library with a temperature of 60 degrees and a waxing crescent moon in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-17",
-    "updateDate": "2026-08-17T11:06:35.540Z",
+    "updateDate": "2026-08-17T12:06:23.994Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that road work begins August 18 on Highway M, which will shift traffic patterns for the next few weeks, and the Senior Center is currently recruiting volunteers for various local programs.",
+    "mainText": "The city has announced that road construction along Highway M begins tomorrow to prepare for the new Aldi development, requiring traffic shifts for the next few weeks. Additionally, the Senior Center is looking for volunteers to help with their programs, provided you can commit to at least two shifts a month.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-17",
-    "updateDate": "2026-08-17T11:06:35.540Z",
+    "updateDate": "2026-08-17T12:06:23.994Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, Epic Systems hosts the User Group Meeting, and tomorrow you can test your knowledge at trivia nights at both Hop Haus Brewing Company and Wisconsin Brewing Company.",
+    "mainText": "There is a lot going on in town today, starting with the Epic Systems User Group Meeting and yoga classes at Insight Wellness. Tomorrow, you can head over to Hop Haus or Wisconsin Brewing Company for trivia nights, and look forward to the Downtown Farmer's Market this Wednesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-17",
-    "updateDate": "2026-08-17T11:06:35.540Z",
+    "updateDate": "2026-08-17T12:06:23.994Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news from August 5, officers located a man on Whalen Road and took him into custody after he attempted to flee from a probation violation warrant.",
+    "mainText": "The Verona Police Department released their weekly report, which noted that on Saturday, August 8, officers assisted the Dane County Sheriff's Office by using a drone to locate a suspect following a vehicle rollover crash.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-17",
-    "updateDate": "2026-08-17T11:06:35.540Z",
+    "updateDate": "2026-08-17T12:06:23.994Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Caramel Peanut Buttercup. Since the store is currently closed, you can plan your visit for when they open at 10 AM. Tomorrow's featured flavor will be Caramel Chocolate Pecan.",
+    "mainText": "The flavor of the day is Caramel Peanut Buttercup. The store is currently closed but will open its doors at 10 AM. If you are looking for tomorrow's treat, it will be Caramel Chocolate Pecan.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
