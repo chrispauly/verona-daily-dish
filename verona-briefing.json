@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-17",
-    "updateDate": "2026-08-17T08:12:59.314Z",
+    "updateDate": "2026-08-17T09:14:29.282Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: it is 61 degrees at the Verona Public Library with clear skies. The moon is a Waxing Crescent, and you can catch the space station passing overhead starting at 4:47 AM, rising over Belleville and moving toward Fitchburg while staying low on the horizon.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish. We have clear skies and 60 degrees out at Reddan Soccer Park, accompanied by a waxing crescent moon. If you are an early bird, you can spot the International Space Station starting at 4:47 AM as it travels from the south over Belleville toward the east over Fitchburg.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-17",
-    "updateDate": "2026-08-17T08:12:59.314Z",
+    "updateDate": "2026-08-17T09:14:29.282Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is looking for volunteers to assist with their programs, provided you can commit to at least two shifts a month. Meanwhile, road construction on Highway M begins on August 18th, which will shift traffic patterns for the next few weeks as utility work takes place.",
+    "mainText": "The Senior Center is seeking volunteers for at least two shifts a month, while the city warns of road work on Highway M starting August 18, which will shift traffic and close the driveway to Alliant and Kwik Trip.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-17",
-    "updateDate": "2026-08-17T08:12:59.314Z",
+    "updateDate": "2026-08-17T09:14:29.282Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, Epic Systems is hosting their User Group Meeting, and you can also check out yoga at Insight Wellness. Starting tomorrow, trivia fans can head to Hop Haus Brewing or Wisconsin Brewing Company for quiz nights.",
+    "mainText": "We have plenty going on including UGM at Epic Systems and yoga at Insight Wellness happening today. Tomorrow, you can enjoy trivia at Hop Haus or Lake Lou-ee, and look forward to the farmer's market on August 19.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-17",
-    "updateDate": "2026-08-17T08:12:59.314Z",
+    "updateDate": "2026-08-17T09:14:29.282Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 5th, officers arrested a man on Whalen Road for a probation violation after he attempted to flee custody.",
+    "mainText": "In police news, officers had a notable call on August 6, when a driver was observed speeding and ultimately arrested for a fourth O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-17",
-    "updateDate": "2026-08-17T08:12:59.314Z",
+    "updateDate": "2026-08-17T09:14:29.282Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Caramel Peanut Buttercup. Since the store is currently closed, please note they open at 10:00 AM, and tomorrow you can look forward to the Caramel Chocolate Pecan flavor.",
+    "mainText": "Today's flavor of the day is Caramel Peanut Buttercup. Culver's is currently closed, but they will be ready to serve you starting at 10 AM tomorrow, when the flavor changes to Caramel Chocolate Pecan.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
