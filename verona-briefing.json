@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-17",
-    "updateDate": "2026-08-17T03:19:43.488Z",
+    "updateDate": "2026-08-17T04:15:24.882Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. It is a clear night at Harriet Park with a waxing crescent moon above. If you are an early bird, the International Space Station will be visible for 4 minutes starting at 4:47 AM, rising in the south over Belleville and traveling toward the east toward Fitchburg while staying low on the horizon. Expect an overnight low of 60 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: the temperature is 66 degrees under clear skies at Badger Prairie County Park. We are under a waxing crescent moon, and the ISS will pass by at 4:47 AM, rising over Belleville and heading toward Fitchburg, staying low near the horizon. Expect an overnight low of 60 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-17",
-    "updateDate": "2026-08-17T03:19:43.488Z",
+    "updateDate": "2026-08-17T04:15:24.882Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is seeking new volunteers, and road construction on Highway M begins August 18. This project will shift traffic lanes while crews work on underground utilities, so expect daytime flagging during the first few weeks.",
+    "mainText": "City Hall is preparing for the August 18 road construction project on Highway M, which will feature traffic shifts for utility work, and the Senior Center is accepting volunteer applications for those willing to commit to two shifts per month.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-17",
-    "updateDate": "2026-08-17T03:19:43.488Z",
+    "updateDate": "2026-08-17T04:15:24.882Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty going on with music at Bailey's Run and Lake Lou-ee happening today, alongside the Girls Try Hockey event at the Verona Ice Arena. Looking ahead to tomorrow, check out the User Group Meeting at Epic Systems or some yoga at Insight Wellness.",
+    "mainText": "There is plenty to do around town, including the UGM at Epic Systems tomorrow, yoga at Insight Wellness tomorrow, and trivia nights at Hop Haus and Lake Lou-ee on Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-17",
-    "updateDate": "2026-08-17T03:19:43.488Z",
+    "updateDate": "2026-08-17T04:15:24.882Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on August 5, officers located a Madison man at a residence on Whalen Road for a probation violation, resulting in his arrest after he attempted to flee.",
+    "mainText": "On August 5, Verona police officers assisted the Department of Corrections in taking a Madison man into custody at a residence on Whalen Road after a brief foot pursuit.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-17",
-    "updateDate": "2026-08-17T03:19:43.488Z",
+    "updateDate": "2026-08-17T04:15:24.882Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the refreshing Mint Cookie. The store is currently closed, but they will be back open tomorrow at 10:00 AM. Tomorrow's flavor will be Caramel Peanut Buttercup.",
+    "mainText": "Today's flavor is Mint Cookie, a classic crowd favorite. Culver's is currently closed, but they will reopen tomorrow at 10 AM, when the flavor of the day will be Caramel Peanut Buttercup.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
