@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-17",
-    "updateDate": "2026-08-17T04:15:24.882Z",
+    "updateDate": "2026-08-17T05:13:33.353Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: the temperature is 66 degrees under clear skies at Badger Prairie County Park. We are under a waxing crescent moon, and the ISS will pass by at 4:47 AM, rising over Belleville and heading toward Fitchburg, staying low near the horizon. Expect an overnight low of 60 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we are seeing clear skies at 64 degrees near Reddan Soccer Park under a waxing crescent moon. Also, keep your eyes peeled at 4:47 AM for a 4-minute ISS pass traveling from Belleville toward Fitchburg, appearing low on the horizon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-17",
-    "updateDate": "2026-08-17T04:15:24.882Z",
+    "updateDate": "2026-08-17T05:13:33.353Z",
     "titleText": "Verona City News",
-    "mainText": "City Hall is preparing for the August 18 road construction project on Highway M, which will feature traffic shifts for utility work, and the Senior Center is accepting volunteer applications for those willing to commit to two shifts per month.",
+    "mainText": "In city news, the Senior Center is looking for volunteers for their various programs, and please note that construction on Highway M starts August 18, which will shift traffic patterns for the next few weeks.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-17",
-    "updateDate": "2026-08-17T04:15:24.882Z",
+    "updateDate": "2026-08-17T05:13:33.353Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town, including the UGM at Epic Systems tomorrow, yoga at Insight Wellness tomorrow, and trivia nights at Hop Haus and Lake Lou-ee on Tuesday.",
+    "mainText": "Today, Epic Systems is hosting their UGM, while tomorrow features trivia at Hop Haus and Lake Lou-ee. On Wednesday, check out the Farmer's Market at Hometown Junction Park or join the trivia night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-17",
-    "updateDate": "2026-08-17T04:15:24.882Z",
+    "updateDate": "2026-08-17T05:13:33.353Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 5, Verona police officers assisted the Department of Corrections in taking a Madison man into custody at a residence on Whalen Road after a brief foot pursuit.",
+    "mainText": "In police news, on August 6, an officer conducted a traffic stop that resulted in the arrest of a driver for an O W I, fourth offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-17",
-    "updateDate": "2026-08-17T04:15:24.882Z",
+    "updateDate": "2026-08-17T05:13:33.353Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Mint Cookie, a classic crowd favorite. Culver's is currently closed, but they will reopen tomorrow at 10 AM, when the flavor of the day will be Caramel Peanut Buttercup.",
+    "mainText": "Today's featured flavor is Caramel Peanut Buttercup. Since the store is currently closed, make sure to head over once they open at 10 AM to get your scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
