@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-18",
-    "updateDate": "2026-08-18T19:11:53.878Z",
+    "updateDate": "2026-08-18T20:04:42.233Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: it is 78 degrees with overcast skies near Badger Prairie County Park, and the moon is in a waxing crescent phase.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. We have overcast skies at Harriet Park with a temperature of 72 degrees, though it feels a bit warmer at 75.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-18",
-    "updateDate": "2026-08-18T19:11:53.878Z",
+    "updateDate": "2026-08-18T20:04:42.233Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has approved stepped rate increases for sewer and stormwater utilities. These utilities are self-supporting, and the adjustments are necessary to fund essential maintenance, infrastructure improvements, and equipment to prevent service failures like flooding or sewer backups.",
+    "mainText": "The City of Verona has launched a rain barrel rebate program to help manage stormwater. Additionally, the city has updated sewer and stormwater utility rates to ensure our infrastructure remains self-supporting and reliable for all residents.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-18",
-    "updateDate": "2026-08-18T19:11:53.878Z",
+    "updateDate": "2026-08-18T20:04:42.233Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today we have the Epic User Group Meeting and trivia at Hop Haus Brewing. Looking ahead to tomorrow, there is a farmer's market at Hometown Junction Park, yoga at Insight Wellness, and trivia nights at both The Bogey Factory and Paddy Mac's.",
+    "mainText": "There is plenty to do in town with the Epic User Group Meeting today, plus trivia nights at Hop Haus and the Wisconsin Brewing Company. Tomorrow, you can look forward to the Verona Downtown Farmer's Market and more trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-18",
-    "updateDate": "2026-08-18T19:11:53.878Z",
+    "updateDate": "2026-08-18T20:04:42.233Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call for service from this past Friday, officers arrested a 44-year-old woman for a first offence O W I after she was found unresponsive while operating a vehicle near North Main Street.",
+    "mainText": "On Friday, August 15, Verona police officers stopped a driver who was operating while intoxicated for the second time, which also resulted in citations for failing to use an ignition interlock device and having open intoxicants.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-18",
-    "updateDate": "2026-08-18T19:11:53.878Z",
+    "updateDate": "2026-08-18T20:04:42.233Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Caramel Chocolate Pecan. The store is open until 10 PM tonight, so there is still plenty of time to grab a scoop.",
+    "mainText": "Stop by Culver's today to enjoy the delicious Caramel Chocolate Pecan flavor before they close their doors for the night at 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
