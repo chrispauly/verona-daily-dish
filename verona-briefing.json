@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-18",
-    "updateDate": "2026-08-18T10:06:58.514Z",
+    "updateDate": "2026-08-18T11:06:49.290Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we have clear skies and a temperature of 61 degrees at Reddan Soccer Park. We are currently under a Waxing Crescent moon, and if you are up early, you can catch the space station passing from over Mount Horeb toward Fitchburg and Madison, reaching almost directly overhead starting at 5:35 AM.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: it is 61 degrees and overcast near the Verona Public Library with a waxing crescent moon in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-18",
-    "updateDate": "2026-08-18T10:06:58.514Z",
+    "updateDate": "2026-08-18T11:06:49.290Z",
     "titleText": "Verona City News",
-    "mainText": "The Common Council has approved new sewer and stormwater utility rates to ensure our city infrastructure remains self-supporting and well-maintained. Also, the city has officially selected the four student winners for the I Voted sticker contest, whose artwork will be featured at polling locations this November.",
+    "mainText": "The City Council recently approved new sewer and stormwater utility rates to prevent deficits and fund necessary infrastructure repairs. Also, our I Voted sticker contest winners have been announced, featuring four local students whose designs will be used in the November election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-18",
-    "updateDate": "2026-08-18T10:06:58.514Z",
+    "updateDate": "2026-08-18T11:06:49.290Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty happening around town today, including the Epic Systems User Group Meeting. Tonight, you can test your knowledge at Hop Haus or Wisconsin Brewing Company trivia. Tomorrow, the downtown farmer's market returns to Hometown Junction Park, along with trivia at The Bogey Factory and pizza night at Lake Lou-ee.",
+    "mainText": "There is plenty happening in Verona. Today, Epic Systems is hosting their User Group Meeting, and you can join trivia night at Hop Haus or Lake Lou-ee. Tomorrow, look forward to the downtown Farmer's Market and more trivia options.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-18",
-    "updateDate": "2026-08-18T10:06:58.514Z",
+    "updateDate": "2026-08-18T11:06:49.290Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on August 15, officers responded to a situation involving a reckless driver who was ultimately arrested for a second offence of O W I.",
+    "mainText": "In a report from August 15, an officer initiated a stop for a swerving vehicle and subsequently arrested the driver for a first offence O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-18",
-    "updateDate": "2026-08-18T10:06:58.514Z",
+    "updateDate": "2026-08-18T11:06:49.290Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delicious Caramel Chocolate Pecan. Culvers is currently closed but will open at 10 AM. If you miss out today, tomorrow's flavor of the day is Double Strawberry.",
+    "mainText": "Today's flavor of the day is the delicious Caramel Chocolate Pecan. Culver's is currently closed, but they will be ready to serve you when they open at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
