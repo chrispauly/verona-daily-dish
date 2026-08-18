@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-18",
-    "updateDate": "2026-08-18T12:07:32.760Z",
+    "updateDate": "2026-08-18T13:17:51.302Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have a current temperature of 62 degrees under overcast skies near Badger Ridge Middle School.",
+    "mainText": "Hello, Verona! At 8 AM, it is currently 68 degrees and overcast at Badger Ridge Middle School, with a waxing crescent moon in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-18",
-    "updateDate": "2026-08-18T12:07:32.760Z",
+    "updateDate": "2026-08-18T13:17:51.302Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is reminding residents to be wary of scams involving planning fees. Official payments must be made by check at City Hall. Additionally, the City Council has approved new sewer and stormwater rates to ensure our utilities remain self-supporting and well-maintained.",
+    "mainText": "The city has issued a scam alert warning residents about fraudulent requests for planning and permit fees; please note that the city only accepts payments by check at the Administration Building. Additionally, new sewer and stormwater rates have been approved to keep our utility infrastructure self-supporting and reliable.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-18",
-    "updateDate": "2026-08-18T12:07:32.760Z",
+    "updateDate": "2026-08-18T13:17:51.302Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy week in our city. Today, Epic Systems is hosting its annual User Group Meeting, and later tonight you can catch trivia at Hop Haus or the Wisconsin Brewing Company. Tomorrow, we have farmers market activities, yoga at Insight Wellness, and more trivia, followed by our final Concerts in the Park on August 20.",
+    "mainText": "There is a lot happening today, including the User Group Meeting at Epic Systems and trivia games at Hop Haus and the Wisconsin Brewing Company. Tomorrow, you can look forward to the farmer's market at Hometown Junction Park and more trivia fun.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-18",
-    "updateDate": "2026-08-18T12:07:32.760Z",
+    "updateDate": "2026-08-18T13:17:51.302Z",
     "titleText": "Verona Police Report",
-    "mainText": "During the week of August 10 to August 17, the Verona Police Department handled numerous calls. Specifically, on Saturday, August 15, a 29-year-old man was arrested for his second O W I offence following a report of a reckless driver.",
+    "mainText": "In a noteworthy update from last Thursday, August 13, a 14-year-old boy was stopped by police for riding an electric dirt bike on the street, resulting in an educational conversation between officers and his father.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-18",
-    "updateDate": "2026-08-18T12:07:32.760Z",
+    "updateDate": "2026-08-18T13:17:51.302Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Caramel Chocolate Pecan. Culver's is currently closed, but they will open their doors at 10 AM. If you miss out, tomorrow's flavor of the day is Double Strawberry.",
+    "mainText": "Today's flavor of the day is Caramel Chocolate Pecan. The store is currently closed but will open its doors at 10 AM. If you miss it, tomorrow's flavor is Double Strawberry.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
