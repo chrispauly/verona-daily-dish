@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-18",
-    "updateDate": "2026-08-18T17:07:45.796Z",
+    "updateDate": "2026-08-18T18:07:02.419Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we are looking at overcast skies with a temperature of 79 degrees around the Verona Public Library, while the moon phase is currently a Waxing Crescent.",
+    "mainText": "Hello, Verona! At 1 PM, we are seeing overcast skies with a temperature of 80 degrees down by Harriet Park, and we have a Waxing Crescent moon tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-18",
-    "updateDate": "2026-08-18T17:07:45.796Z",
+    "updateDate": "2026-08-18T18:07:02.419Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Common Council has approved new sewer and stormwater utility rates to prevent deficits and fund necessary infrastructure maintenance, as these utilities are self-supporting.",
+    "mainText": "The City of Verona Common Council recently approved new sewer and stormwater utility rates to ensure our infrastructure remains self-supporting, and the Planning Department is reminding everyone to watch for scam emails requesting online payments for fees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-18",
-    "updateDate": "2026-08-18T17:07:45.796Z",
+    "updateDate": "2026-08-18T18:07:02.419Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a full schedule today starting with the User Group Meeting at Epic Systems, followed by trivia tonight at Hop Haus and the Wisconsin Brewing Company.",
+    "mainText": "We have a lot going on with the Epic Systems User Group Meeting today, plus trivia events at Hop Haus and Wisconsin Brewing Company. Tomorrow, check out the downtown Farmer's Market at Hometown Junction Park or join the fun at The Bogey Factory for trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-18",
-    "updateDate": "2026-08-18T17:07:45.796Z",
+    "updateDate": "2026-08-18T18:07:02.419Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 15, an officer stopped a driver for erratic behavior who was subsequently arrested for a second offence O W I, along with charges for driving after revocation.",
+    "mainText": "In a noteworthy call from Friday, August 15, officers arrested a woman for an O W I after she was found asleep at the wheel and subsequently began driving.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-18",
-    "updateDate": "2026-08-18T17:07:45.796Z",
+    "updateDate": "2026-08-18T18:07:02.419Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can treat yourself to the Caramel Chocolate Pecan flavor of the day at Culver's, which is open until 10 PM tonight.",
+    "mainText": "Today is the perfect day to enjoy our flavor of the day, Caramel Chocolate Pecan. The store is open until 10 PM, so come by and grab a treat while you can.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
