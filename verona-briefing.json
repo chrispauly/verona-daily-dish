@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-18",
-    "updateDate": "2026-08-18T03:17:27.485Z",
+    "updateDate": "2026-08-18T04:12:54.435Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: it is 68 degrees with overcast skies at Badger Ridge Middle School. Under a waxing crescent moon, look out for an ISS pass tomorrow at 5:35 AM, rising over Mount Horeb and heading toward Fitchburg and Madison, passing almost directly overhead. The overnight low is 63 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: skies are partly cloudy at Harriet Park, and we are under a Waxing Crescent moon. You can catch the ISS overhead tomorrow morning starting at 5:35 AM as it travels from the Mount Horeb direction toward Fitchburg and Madison. The overnight low will reach 63 degrees, with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-18",
-    "updateDate": "2026-08-18T03:17:27.485Z",
+    "updateDate": "2026-08-18T04:12:54.435Z",
     "titleText": "Verona City News",
-    "mainText": "The city announced the winners of the I Voted sticker contest and the council is finalizing updates to sewer and stormwater utility rates to keep our city systems running smoothly.",
+    "mainText": "The Common Council has approved new sewer and stormwater utility rates to ensure our systems remain self-supporting and prevent future infrastructure failures. Also, four local students have been selected as winners of the I Voted sticker contest, and their designs will be featured at the polls this November.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-18",
-    "updateDate": "2026-08-18T03:17:27.485Z",
+    "updateDate": "2026-08-18T04:12:54.435Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule including the User Group Meeting today at Epic Systems, plus tomorrow features trivia at both Hop Haus and Wisconsin Brewing Company.",
+    "mainText": "Tomorrow is a big day for local events, including the User Group Meeting at Epic Systems, trivia nights at Hop Haus Brewing and Wisconsin Brewing Company, and several more activities happening on Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-18",
-    "updateDate": "2026-08-18T03:17:27.485Z",
+    "updateDate": "2026-08-18T04:12:54.435Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 15, a 44-year-old woman was arrested for a first offence O W I after being found passed out behind the wheel near North Main Street.",
+    "mainText": "In a report covering August 10 to August 17, a notable incident occurred on August 15 when a 44-year-old woman was arrested for her first O W I after officers found her passed out behind the wheel near North Main Street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-18",
-    "updateDate": "2026-08-18T03:17:27.485Z",
+    "updateDate": "2026-08-18T04:12:54.435Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Caramel Peanut Buttercup. Since the store is currently closed, come by tomorrow when they open at 10 AM, and look forward to tomorrow's flavor, Caramel Chocolate Pecan.",
+    "mainText": "Today's featured flavor is Caramel Peanut Buttercup. Since the restaurant is currently closed, make sure to stop by when they open at 10:00 AM tomorrow to grab your treat. Tomorrow's flavor will be Caramel Chocolate Pecan.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
