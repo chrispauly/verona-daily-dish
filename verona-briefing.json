@@ -1,42 +1,42 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-08-18",
-    "updateDate": "2026-08-18T23:05:38.464Z",
+    "uid": "verona-balanced-weather-2026-08-19",
+    "updateDate": "2026-08-19T00:10:17.173Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: we have mainly clear skies over Fireman's Park. The first quarter moon is out, and if you are up at 4:55 AM, look to the southwest toward Mount Horeb to see the space station cruising high in the sky toward Fitchburg. Temperatures will dip to 61 degrees overnight, and you should prepare for rain.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. Currently, we are seeing a light drizzle and 70 degrees at Verona Area High School. Expect an overnight low of 61 degrees with rain predicted. If you look up early tomorrow morning at 4:55 AM, you can spot the Space Station rising in the southwest over Mount Horeb and traveling high in the sky toward Fitchburg and Madison.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
-    "uid": "verona-balanced-news-2026-08-18",
-    "updateDate": "2026-08-18T23:05:38.464Z",
+    "uid": "verona-balanced-news-2026-08-19",
+    "updateDate": "2026-08-19T00:10:17.173Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is moving ahead with phase two of the Mark Drive reconstruction project, focusing on underground utilities like water and sewer mains. Additionally, the city continues to emphasize its long-term commitment to a connected network of sidewalks to improve safety and accessibility for all residents.",
+    "mainText": "The City of Verona has provided updates on the Mark Drive reconstruction project, with Phase One nearly complete and Phase Two utility work underway. The city is also planning 2026 road rehabilitation projects on Gateway Pass and Enterprise Drive, and notes that its sidewalk policy ensures the city covers the full cost of new sidewalks with no special assessments to homeowners.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
-    "uid": "verona-balanced-events-2026-08-18",
-    "updateDate": "2026-08-18T23:05:38.464Z",
+    "uid": "verona-balanced-events-2026-08-19",
+    "updateDate": "2026-08-19T00:10:17.173Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of activity in town today, including the Epic Systems User Group Meeting. Looking toward tomorrow, you can catch the Verona Downtown Farmer's Market at Hometown Junction Park or enjoy Wednesday pizza and a pitcher at Wisconsin Brewing Company.",
+    "mainText": "Local events are in full swing, including the Epic Systems User Group Meeting and trivia nights at Hop Haus and Lake Lou-ee all happening today. Tomorrow, you can visit the Verona Downtown Farmer's Market at Hometown Junction Park, or plan ahead for the final Concert in the Park on Thursday, August 20th at Century School Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
-    "uid": "verona-balanced-police-2026-08-18",
-    "updateDate": "2026-08-18T23:05:38.464Z",
+    "uid": "verona-balanced-police-2026-08-19",
+    "updateDate": "2026-08-19T00:10:17.173Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from August 15, officers responded to a situation where a driver was found unconscious at a stop. After being woken by authorities, the driver attempted to continue operating the vehicle and was subsequently arrested for a first offence O W I.",
+    "mainText": "For our weekly police recap, on Thursday, August 13th, officers stopped and warned a 14-year-old boy for riding an eMoto electronic dirt bike on the roadway, and educated his father about the local prohibitions.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
-    "uid": "verona-balanced-culvers-2026-08-18",
-    "updateDate": "2026-08-18T23:05:38.464Z",
+    "uid": "verona-balanced-culvers-2026-08-19",
+    "updateDate": "2026-08-19T00:10:17.173Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect time to enjoy the Caramel Chocolate Pecan flavor at Culver's. They are open until 10 PM tonight, so you still have plenty of time to stop by for a sweet treat.",
+    "mainText": "Tonight's flavor of the day at Culver's is the delicious Caramel Chocolate Pecan, and they are open until 10 PM. Tomorrow, you can look forward to Double Strawberry.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
