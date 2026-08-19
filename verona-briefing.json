@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-19",
-    "updateDate": "2026-08-19T12:07:01.237Z",
+    "updateDate": "2026-08-19T13:18:09.156Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have foggy conditions across the city, including right here at Verona Area High School, with temperatures sitting at 58 degrees.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we have clear skies today with a temperature of 65 degrees at Verona City Hall, and a first quarter moon is visible.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-19",
-    "updateDate": "2026-08-19T12:07:01.237Z",
+    "updateDate": "2026-08-19T13:18:09.156Z",
     "titleText": "Verona City News",
-    "mainText": "The city is moving forward with two major infrastructure projects. Mark Drive is currently in Phase 2 of reconstruction, focusing on utility work and road improvements. Additionally, the city is reviewing rehabilitation projects for streets like Gateway Pass and Enterprise Drive to ensure our roadways remain in safe, functional condition.",
+    "mainText": "City officials are moving forward with the Mark Drive reconstruction project. Phase two is underway, which includes underground utility work between Nine Mound Road and Todd Street. Residents should expect occasional lane closures and flaggers in the area.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-19",
-    "updateDate": "2026-08-19T12:07:01.237Z",
+    "updateDate": "2026-08-19T13:18:09.156Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy day ahead in Verona! Today, you can visit the downtown Farmer's Market at Hometown Junction Park, attend the UGM event at Epic Systems, enjoy yoga at Insight Wellness, grab pizza and a pitcher at Lake Lou-ee, or participate in trivia night at The Bogey Factory. Looking ahead to tomorrow, check out the free Concerts in the Park at Century School Park or Hop Haus trivia.",
+    "mainText": "There is plenty to do in our community today, including live music at Paddy Mac's, the UGM event at Epic Systems, yoga at Insight Wellness, the Downtown Farmers Market at Hometown Junction Park, pizza at Lake Lou-ee, and trivia at The Bogey Factory. Looking ahead to tomorrow, you can catch the free Concerts in the Park series at Century School Park or join the fun at Hop Haus trivia night.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-19",
-    "updateDate": "2026-08-19T12:07:01.237Z",
+    "updateDate": "2026-08-19T13:18:09.156Z",
     "titleText": "Verona Police Report",
-    "mainText": "For our weekly report, on Friday, officers stopped a vehicle near North Main Street and Cross Country Road and arrested the driver for an O W I after she was found passed out behind the wheel.",
+    "mainText": "In terms of public safety, the police department reported that on Friday, officers arrested a driver for an O W I after they were found unresponsive in their vehicle near North Main Street and Cross Country Road.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-19",
-    "updateDate": "2026-08-19T12:07:01.237Z",
+    "updateDate": "2026-08-19T13:18:09.156Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Double Strawberry. Culver's is currently closed, but they will be ready to serve you starting at 10 AM. If you miss out, tomorrow's flavor is Chocolate Heath Crunch.",
+    "mainText": "Culver's is currently closed, but they will open their doors at 10 AM to serve the delicious Double Strawberry flavor of the day. If you are looking for other treats today, keep an eye out for any local Kona Ice stops in the area.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
