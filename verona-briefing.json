@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-19",
-    "updateDate": "2026-08-19T01:29:45.912Z",
+    "updateDate": "2026-08-19T02:25:25.432Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: we have overcast skies at Verona Area High School with a current temperature of 66 degrees. The moon is in its first quarter phase. If you are an early riser, the International Space Station will be visible tomorrow morning starting at 4:55 AM, rising over Mount Horeb and moving toward the East Northeast over Fitchburg and Madison, appearing high in the sky. Tonight will drop to an overnight low of 59 degrees, and keep your umbrella handy as rain is predicted overnight.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. It is 64 degrees out with clear skies at Fireman's Park. We are seeing a first quarter moon, and the space station will be visible tomorrow morning at 4:55 AM, moving high across the sky from Mount Horeb toward the Madison area. Tonight's low will reach 59 degrees with rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-19",
-    "updateDate": "2026-08-19T01:29:45.912Z",
+    "updateDate": "2026-08-19T02:25:25.432Z",
     "titleText": "Verona City News",
-    "mainText": "The city is busy with infrastructure updates. Phase two of the Mark Drive project is underway between Nine Mound Road and Todd Street, featuring utility work and future sidewalk installations. Additionally, the city is prioritizing a connected transportation network with new sidewalk and multi-use path policies to ensure safe pedestrian access throughout our neighborhoods.",
+    "mainText": "The city has shared updates on the Mark Drive reconstruction, which includes new water and sewer lines, as well as general pavement rehabilitation projects planned for 2026 to keep our infrastructure safe and efficient.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-19",
-    "updateDate": "2026-08-19T01:29:45.912Z",
+    "updateDate": "2026-08-19T02:25:25.432Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona. Today, you can attend the Epic Systems User Group Meeting, or head out for trivia at Hop Haus Brewing or Lake Lou-ee. Tomorrow, the fun continues with the Verona Downtown Farmer's Market, trivia at The Bogey Factory, pizza at Lake Lou-ee, and yoga at Insight Wellness. Plus, join us at Century School Park on Thursday for the final Concerts in the Park performance.",
+    "mainText": "Today, Epic Systems is hosting its User Group Meeting. Tomorrow, there is plenty to do including the Verona Downtown Farmer's Market, yoga at Insight Wellness, and trivia nights at both The Bogey Factory and Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-19",
-    "updateDate": "2026-08-19T01:29:45.912Z",
+    "updateDate": "2026-08-19T02:25:25.432Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department has been busy keeping our streets safe. On August 15, officers responded to a call regarding a 44-year-old woman who was found passed out behind the wheel near North Main Street and Cross Country Road, resulting in an arrest for an O W I, first offence.",
+    "mainText": "In a report regarding incidents from last week, a driver was arrested for an O W I on Friday after being found unresponsive in their vehicle near North Main Street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-19",
-    "updateDate": "2026-08-19T01:29:45.912Z",
+    "updateDate": "2026-08-19T02:25:25.432Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is serving up the Caramel Chocolate Pecan flavor of the day! They are open until 10 PM tonight, so there is plenty of time to stop by for a treat.",
+    "mainText": "Today's delicious flavor is Caramel Chocolate Pecan. Please note that the store is closing in less than 60 minutes, so make sure to get there soon if you want a treat tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
