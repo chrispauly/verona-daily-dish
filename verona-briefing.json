@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-19",
-    "updateDate": "2026-08-19T17:07:19.999Z",
+    "updateDate": "2026-08-19T18:06:42.890Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, it is a mild 73 degrees with overcast conditions near Harriet Park, and we have a lovely first quarter moon visible this evening.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we have overcast skies at Harriet Park with a temperature of 74 degrees feeling like 78, and the moon is currently in its first quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-19",
-    "updateDate": "2026-08-19T17:07:19.999Z",
+    "updateDate": "2026-08-19T18:06:42.890Z",
     "titleText": "Verona City News",
-    "mainText": "The city is moving forward with the Mark Drive reconstruction project involving new utility and pavement work, while public works continues to prioritize our connected sidewalk network.",
+    "mainText": "City news highlights ongoing infrastructure improvements, specifically the Mark Drive reconstruction project which includes new water mains and sidewalks, alongside general street rehabilitation projects planned for 2026.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-19",
-    "updateDate": "2026-08-19T17:07:19.999Z",
+    "updateDate": "2026-08-19T18:06:42.890Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today, including the Verona Downtown Farmer's Market at Hometown Junction Park, and tomorrow you can catch Concerts in the Park at Century School Park.",
+    "mainText": "We have a busy schedule with the Downtown Farmer's Market today at Hometown Junction Park, and tomorrow you can catch Concerts in the Park at Century School Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-19",
-    "updateDate": "2026-08-19T17:07:19.999Z",
+    "updateDate": "2026-08-19T18:06:42.890Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident from Friday, August 15, officers responded to a reckless driver report that resulted in a 29-year-old man being arrested for a second offence O W I.",
+    "mainText": "Regarding recent activity, on August 15, officers conducted a traffic stop where they arrested a 44-year-old woman for O W I after she was found asleep in her vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-19",
-    "updateDate": "2026-08-19T17:07:19.999Z",
+    "updateDate": "2026-08-19T18:06:42.890Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's today to enjoy the delicious Double Strawberry flavor of the day before they close at 10 PM tonight.",
+    "mainText": "Today's delicious flavor of the day is Double Strawberry. Culver's is open until 10 PM, so there is plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
