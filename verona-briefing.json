@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-19",
-    "updateDate": "2026-08-19T15:08:30.558Z",
+    "updateDate": "2026-08-19T16:06:51.634Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, it is a comfortable 69 degrees with overcast skies near the Verona Public Library, while the moon is currently in its first quarter phase.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we have a temperature of 71 degrees with overcast skies near Badger Ridge Middle School, and we are currently seeing a first quarter moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-19",
-    "updateDate": "2026-08-19T15:08:30.558Z",
+    "updateDate": "2026-08-19T16:06:51.634Z",
     "titleText": "Verona City News",
-    "mainText": "The city is currently working on the Mark Drive reconstruction project, which is upgrading water, sewer, and stormwater infrastructure. Phase two is underway with tree removal and upcoming utility work, and the city is also continuing its long-term policy of installing sidewalks to improve neighborhood connectivity.",
+    "mainText": "The City of Verona is working on several major projects, including the Mark Drive reconstruction which is in its second phase, and ongoing pavement rehabilitation efforts across the city to keep our streets safe and functional.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-19",
-    "updateDate": "2026-08-19T15:08:30.558Z",
+    "updateDate": "2026-08-19T16:06:51.634Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with activities, including live music at Paddy Mac's, the Epic UGM event, yoga at Insight Wellness, the Downtown Farmer's Market, and trivia night at The Bogey Factory. Looking ahead, tomorrow features Concerts in the Park at Century School Park and trivia at Hop Haus.",
+    "mainText": "We have a busy schedule for the next couple of days. Today, you can enjoy live music at Paddy Mac's, the Farmer's Market at Hometown Junction Park, or pizza and a pitcher at Wisconsin Brewing Company. Tomorrow, check out the free concert at Century School Park or trivia night at Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-19",
-    "updateDate": "2026-08-19T15:08:30.558Z",
+    "updateDate": "2026-08-19T16:06:51.634Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from August 15, Verona officers responded to a reckless driver report and arrested a 29-year-old local man for his second O W I offence, among other traffic charges.",
+    "mainText": "Regarding the weekly report, on Friday, August 15, officers responded to an incident where a 44-year-old driver was found unresponsive behind the wheel; she was subsequently arrested for a first offence O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-19",
-    "updateDate": "2026-08-19T15:08:30.558Z",
+    "updateDate": "2026-08-19T16:06:51.634Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's flavor of the day, which is Double Strawberry, at your local Culver's, which is open today until 10 PM.",
+    "mainText": "Today's flavor of the day is the refreshing Double Strawberry. Culver's is open until 10 PM tonight, giving you plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
