@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-19",
-    "updateDate": "2026-08-19T22:05:26.202Z",
+    "updateDate": "2026-08-19T23:06:09.341Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish on the weather. Conditions are clear at Harriet Park, and we have a first quarter moon gracing the sky. If you are awake early tomorrow, the space station will be visible from 4:09 AM, tracking from Belleville toward the Fitchburg area. Expect an overnight low of 58 degrees with dry conditions.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. We have pleasant conditions with partly cloudy skies at Harriet Park and a temperature of 75 degrees. The First Quarter moon is out, and tonight we are expecting a low of 58 degrees with no rain in the forecast. If you are up early, look for the International Space Station at 4:09 AM tomorrow as it travels from the south southwest over Belleville toward Fitchburg and Madison.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-19",
-    "updateDate": "2026-08-19T22:05:26.202Z",
+    "updateDate": "2026-08-19T23:06:09.341Z",
     "titleText": "Verona City News",
-    "mainText": "The city has released updated engineering reports for public review, and work continues on the Mark Drive reconstruction, which involves utility upgrades and new sidewalk installations to improve community connectivity.",
+    "mainText": "In city news, the reconstruction of Mark Drive is currently in Phase 2, which involves underground utility work and future sidewalk installations, while rehabilitation projects for Gateway Pass and other areas are slated for 2026.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-19",
-    "updateDate": "2026-08-19T22:05:26.202Z",
+    "updateDate": "2026-08-19T23:06:09.341Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with local options including the Verona Downtown Farmer's Market and trivia at The Bogey Factory, followed by a concert in the park tomorrow at Century School Park.",
+    "mainText": "Today you can visit the Verona Downtown Farmer's Market at Hometown Junction Park or join the fun at Trivia Night at The Bogey Factory; looking ahead, tomorrow features Concerts in the Park at Century School Park and trivia at Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-19",
-    "updateDate": "2026-08-19T22:05:26.202Z",
+    "updateDate": "2026-08-19T23:06:09.341Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from last Friday, officers arrested a 44-year-old woman for her first offence O W I after responding to a vehicle that had come to a stop on the road.",
+    "mainText": "Regarding the weekly police report, on Friday, August 15, a 44-year-old driver was arrested for an O W I after an officer observed her vehicle swerving and ultimately stopped to find her unresponsive behind the wheel.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-19",
-    "updateDate": "2026-08-19T22:05:26.202Z",
+    "updateDate": "2026-08-19T23:06:09.341Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Double Strawberry is the flavor of the day, and you have until 10 PM to pick up a scoop before they close for the evening.",
+    "mainText": "Today is the perfect day to head to Culver's for the Double Strawberry flavor of the day; they are open until 10 PM, so you still have plenty of time to stop by.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
