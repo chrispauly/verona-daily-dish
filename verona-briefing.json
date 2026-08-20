@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-20",
-    "updateDate": "2026-08-20T08:12:03.107Z",
+    "updateDate": "2026-08-20T09:11:09.414Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish. We are looking at a comfortable 58 degrees with clear skies at Reddan Soccer Park. We are currently under a first quarter moon, and you can catch the International Space Station crossing our skies at 4:09 AM. It will rise over Belleville in the south-southwest and travel toward the east-northeast, passing near Fitchburg and Madison while reaching halfway up the sky.",
+    "mainText": "Hello, Verona! At 4 AM, it is a clear night with a temperature of 58 degrees outside City Hall, and we are currently seeing a first quarter moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-20",
-    "updateDate": "2026-08-20T08:12:03.107Z",
+    "updateDate": "2026-08-20T09:11:09.414Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Verona is making progress on the Mark Drive reconstruction project between North Nine Mound Road and Westlawn Avenue. This extensive upgrade includes new water mains, storm sewers, and asphalt paving. Additionally, the city is conducting routine street rehabilitation projects to keep our roads in great shape, with work planned for areas like Monte Cristo Circle and Gateway Pass.",
+    "mainText": "The city is currently managing significant infrastructure updates, including phase two of the Mark Drive reconstruction project and various pavement rehabilitation efforts scheduled for this summer to maintain safe roads.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-20",
-    "updateDate": "2026-08-20T08:12:03.107Z",
+    "updateDate": "2026-08-20T09:11:09.414Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town. Today, Epic Systems is holding its UGM, and you can catch live music at the Century School Park Concerts in the Park or head to Hop Haus for trivia. Tomorrow, check out the live music at Bailey's Run Vineyard or Wisconsin Brewing Company.",
+    "mainText": "It is a busy week for our community. Today, residents can attend the User Group Meeting at Epic Systems, take a yoga class at Insight Wellness, catch a performance at Concerts in the Park, or play trivia at Hop Haus Brewing. Looking ahead, we have live music at Bailey's Run and Wisconsin Brewing Company tomorrow, followed by the Dane County Farmer's Market on Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-20",
-    "updateDate": "2026-08-20T08:12:03.107Z",
+    "updateDate": "2026-08-20T09:11:09.414Z",
     "titleText": "Verona Police Report",
-    "mainText": "In terms of public safety, police reported an incident from last Friday where a 29-year-old local man was arrested for his second O W I offence after being stopped for reckless driving.",
+    "mainText": "In our weekly report, on August 15, officers responded to a call regarding a driver found passed out behind the wheel near North Main Street and Cross Country Road, which resulted in an O W I arrest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-20",
-    "updateDate": "2026-08-20T08:12:03.107Z",
+    "updateDate": "2026-08-20T09:11:09.414Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Chocolate Heath Crunch. Please note that the store is currently closed, but they will open at 10:00 AM. If you are planning ahead, tomorrow's flavor will be Peanut Butter Fudge Brownie.",
+    "mainText": "Today's flavor is Chocolate Heath Crunch, but since the shop is currently closed, please note they open at 10 AM. If you are looking for tomorrow's treat, it will be Peanut Butter Fudge Brownie.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
