@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-20",
-    "updateDate": "2026-08-20T19:13:33.784Z",
+    "updateDate": "2026-08-20T20:06:27.596Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: skies are clear near the Verona Public Library with a comfortable temperature of 77 degrees.",
+    "mainText": "Hello, Verona! At 3 PM, we are seeing clear skies across the area, particularly beautiful over at Verona Community Park, with a comfortable temperature of 78 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-20",
-    "updateDate": "2026-08-20T19:13:33.784Z",
+    "updateDate": "2026-08-20T20:06:27.596Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has approved new sewer and stormwater utility rates to ensure our infrastructure remains self-supporting and well-maintained. Additionally, residents can now apply for the rain barrel rebate program to receive credits on their utility bills for installing qualifying rain barrels.",
+    "mainText": "The City of Verona has announced that sewer and stormwater utility rates have been adjusted to keep services self-supporting, and the city is also actively seeking an Engineering Technician to oversee municipal construction projects.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-20",
-    "updateDate": "2026-08-20T19:13:33.784Z",
+    "updateDate": "2026-08-20T20:06:27.596Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty happening today, including the UGM at Epic, yoga sessions, Concerts in the Park, and trivia at Hop Haus. Tomorrow, catch live music at Bailey's Run and Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do today, including Concerts in the Park at Century School Park and Hop Haus Trivia, with live music continuing tomorrow at Bailey's Run and Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-20",
-    "updateDate": "2026-08-20T19:13:33.784Z",
+    "updateDate": "2026-08-20T20:06:27.596Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident from Friday, August 15, Verona police officers arrested a 44-year-old woman for a first offence O W I after she was found unresponsive in her vehicle.",
+    "mainText": "Looking at the weekly report, a notable incident occurred on Friday, August 15, when officers arrested a driver for an O W I offence after they were found unresponsive in their vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-20",
-    "updateDate": "2026-08-20T19:13:33.784Z",
+    "updateDate": "2026-08-20T20:06:27.596Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor is the delightful Chocolate Heath Crunch, and you can pick up a treat from Culver's until 10 PM tonight. You also have the chance to grab a refreshing treat from Kona Ice at the Verona Farmers Market today between 3 PM and 6:30 PM.",
+    "mainText": "The Culver's Flavor of the Day is the mouth-watering Chocolate Heath Crunch. The restaurant is open until 10 PM tonight, so there is plenty of time to grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
