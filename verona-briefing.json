@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-20",
-    "updateDate": "2026-08-20T10:08:20.185Z",
+    "updateDate": "2026-08-20T11:06:54.285Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we have clear skies at Verona Community Park, a current temperature of 57 degrees, and the moon is currently in its first quarter phase.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: we are looking at a clear morning with temperatures at 56 degrees near Badger Prairie County Park and a first quarter moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-20",
-    "updateDate": "2026-08-20T10:08:20.185Z",
+    "updateDate": "2026-08-20T11:06:54.285Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is moving forward with the Mark Drive reconstruction project, which includes utility and roadway improvements. Additionally, the city is reviewing pavement rehabilitation projects for 2026 to ensure our roads remain safe and functional.",
+    "mainText": "The City of Verona is moving forward with the Mark Drive reconstruction project, which includes water, sewer, and asphalt upgrades, alongside ongoing pavement rehabilitation work across the city to maintain safe streets.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-20",
-    "updateDate": "2026-08-20T10:08:20.185Z",
+    "updateDate": "2026-08-20T11:06:54.285Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty happening today, including the User Group Meeting at Epic Systems and Trivia night at Hop Haus. Looking ahead, we have live music tomorrow at Bailey's Run and Wisconsin Brewing Company.",
+    "mainText": "There is a lot happening today, including the Epic Systems User Group Meeting, yoga at Insight Wellness, Concerts in the Park at Century School Park, and trivia tonight at Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-20",
-    "updateDate": "2026-08-20T10:08:20.185Z",
+    "updateDate": "2026-08-20T11:06:54.285Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on Friday, August 15, a 29-year-old Verona man was arrested for operating while intoxicated, his second offence, after a concerned citizen reported a reckless driver.",
+    "mainText": "Regarding the weekly police report, on August 15, officers arrested a 44-year-old woman for her first O W I offence after she was found unresponsive behind the wheel.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-20",
-    "updateDate": "2026-08-20T10:08:20.185Z",
+    "updateDate": "2026-08-20T11:06:54.285Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delightful Chocolate Heath Crunch. Since the shop is currently closed, you can stop by when they open at 10 AM. If you are looking for something new tomorrow, the flavor will be Peanut Butter Fudge Brownie.",
+    "mainText": "The flavor of the day is Chocolate Heath Crunch. Please note that the store is currently closed, but they will open their doors at 10 AM today to serve you.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
