@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-20",
-    "updateDate": "2026-08-20T09:11:09.414Z",
+    "updateDate": "2026-08-20T10:08:20.185Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, it is a clear night with a temperature of 58 degrees outside City Hall, and we are currently seeing a first quarter moon phase.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we have clear skies at Verona Community Park, a current temperature of 57 degrees, and the moon is currently in its first quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-20",
-    "updateDate": "2026-08-20T09:11:09.414Z",
+    "updateDate": "2026-08-20T10:08:20.185Z",
     "titleText": "Verona City News",
-    "mainText": "The city is currently managing significant infrastructure updates, including phase two of the Mark Drive reconstruction project and various pavement rehabilitation efforts scheduled for this summer to maintain safe roads.",
+    "mainText": "The City of Verona is moving forward with the Mark Drive reconstruction project, which includes utility and roadway improvements. Additionally, the city is reviewing pavement rehabilitation projects for 2026 to ensure our roads remain safe and functional.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-20",
-    "updateDate": "2026-08-20T09:11:09.414Z",
+    "updateDate": "2026-08-20T10:08:20.185Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy week for our community. Today, residents can attend the User Group Meeting at Epic Systems, take a yoga class at Insight Wellness, catch a performance at Concerts in the Park, or play trivia at Hop Haus Brewing. Looking ahead, we have live music at Bailey's Run and Wisconsin Brewing Company tomorrow, followed by the Dane County Farmer's Market on Saturday.",
+    "mainText": "There is plenty happening today, including the User Group Meeting at Epic Systems and Trivia night at Hop Haus. Looking ahead, we have live music tomorrow at Bailey's Run and Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-20",
-    "updateDate": "2026-08-20T09:11:09.414Z",
+    "updateDate": "2026-08-20T10:08:20.185Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, on August 15, officers responded to a call regarding a driver found passed out behind the wheel near North Main Street and Cross Country Road, which resulted in an O W I arrest.",
+    "mainText": "In our weekly police report, on Friday, August 15, a 29-year-old Verona man was arrested for operating while intoxicated, his second offence, after a concerned citizen reported a reckless driver.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-20",
-    "updateDate": "2026-08-20T09:11:09.414Z",
+    "updateDate": "2026-08-20T10:08:20.185Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Chocolate Heath Crunch, but since the shop is currently closed, please note they open at 10 AM. If you are looking for tomorrow's treat, it will be Peanut Butter Fudge Brownie.",
+    "mainText": "Today's flavor is the delightful Chocolate Heath Crunch. Since the shop is currently closed, you can stop by when they open at 10 AM. If you are looking for something new tomorrow, the flavor will be Peanut Butter Fudge Brownie.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
