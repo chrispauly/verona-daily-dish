@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-20",
-    "updateDate": "2026-08-20T00:08:56.282Z",
+    "updateDate": "2026-08-20T01:30:08.895Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, it is 72 degrees with overcast skies near Badger Ridge Middle School. The moon is in its first quarter phase. Tonight, temperatures will drop to a low of 58 degrees with no rain expected, and the ISS will be visible for three minutes starting at 4:09 AM, traveling from the south southwest near Belleville toward the east northeast over Fitchburg and Madison.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have clear skies by the Verona Public Library with the moon in its first quarter. If you are up early, look for the ISS rising from the direction of Belleville toward Fitchburg and Madison for three minutes starting at 4:09 AM. We are looking at an overnight low of 59 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-20",
-    "updateDate": "2026-08-20T00:08:56.282Z",
+    "updateDate": "2026-08-20T01:30:08.895Z",
     "titleText": "Verona City News",
-    "mainText": "The city is managing several infrastructure updates, including the Mark Drive reconstruction project which involves new water mains and asphalt, and ongoing pavement rehabilitation efforts across town.",
+    "mainText": "The city continues to manage the Mark Drive and surrounding street reconstruction project. Phase two is underway with utility work following the recent removal of old pavement and trees. Additionally, the city is committed to expanding our active transportation network by adding sidewalks to create safer, more connected neighborhoods.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-20",
-    "updateDate": "2026-08-20T00:08:56.282Z",
+    "updateDate": "2026-08-20T01:30:08.895Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a busy schedule today, including the Verona Downtown Farmer's Market and trivia at the Bogey Factory. Looking ahead, you can enjoy Concerts in the Park tomorrow at Century School Park.",
+    "mainText": "There is plenty to do in Verona today, including live music at Paddy Mac's, Yoga at Insight Wellness, and the Downtown Farmer's Market. Tomorrow, you can catch the Concerts in the Park series at Century School Park or join the trivia competition at Hop Haus Brewing.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-20",
-    "updateDate": "2026-08-20T00:08:56.282Z",
+    "updateDate": "2026-08-20T01:30:08.895Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local reports, on Friday, a 44-year-old woman was arrested for an O W I after being found unresponsive in her vehicle near North Main Street and Cross Country Road.",
+    "mainText": "In our weekly police update, officers reported that this past Friday, a 29-year-old local man was arrested for a second offence O W I after a report of a reckless driver was called in by a citizen.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-20",
-    "updateDate": "2026-08-20T00:08:56.282Z",
+    "updateDate": "2026-08-20T01:30:08.895Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Double Strawberry, and Culver's is open until 10 PM tonight for you to grab a scoop.",
+    "mainText": "Make sure to stop by Culver's to grab the Double Strawberry flavor of the day. They are open until 10 PM tonight, giving you plenty of time to satisfy that sweet tooth.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
