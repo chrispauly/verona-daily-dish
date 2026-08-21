@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-21",
-    "updateDate": "2026-08-21T15:09:18.632Z",
+    "updateDate": "2026-08-21T16:07:42.968Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: it is 73 degrees with overcast skies at Firemans Park and a first quarter moon phase.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. We are enjoying partly cloudy skies near the Military Ridge State Trail with a temperature of 76 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-21",
-    "updateDate": "2026-08-21T15:09:18.632Z",
+    "updateDate": "2026-08-21T16:07:42.968Z",
     "titleText": "Verona City News",
-    "mainText": "The city is currently recruiting an Engineering Technician to manage municipal projects, and residents are reminded that sewer and stormwater utility rates were recently adjusted to ensure our systems remain self-supporting.",
+    "mainText": "The city has two major updates. First, the Department of Public Works is seeking an Engineering Technician to oversee construction projects through September 20. Second, the Common Council recently approved new sewer and stormwater utility rates to cover essential system maintenance and prevent service failures.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-21",
-    "updateDate": "2026-08-21T15:09:18.632Z",
+    "updateDate": "2026-08-21T16:07:42.968Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Enjoy live music today at Baileys Run, visit the Dane County Farmers Market tomorrow at the Capitol, or check out the Verona Downtown Farmers Market on August 26.",
+    "mainText": "We have a busy couple of days ahead. Today, you can catch live music at Bailey's Run or the Wisconsin Brewing Company. Tomorrow, head downtown for the Dane County Farmers Market or enjoy the music series at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-21",
-    "updateDate": "2026-08-21T15:09:18.632Z",
+    "updateDate": "2026-08-21T16:07:42.968Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable report from August 15, Verona police officers conducted a traffic stop and arrested a driver for an O W I after she was found unresponsive behind the wheel.",
+    "mainText": "On August 15, officers responded to a call regarding a driver swerving on the road. The operator was found unresponsive behind the wheel and was subsequently arrested for a first offence O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-21",
-    "updateDate": "2026-08-21T15:09:18.632Z",
+    "updateDate": "2026-08-21T16:07:42.968Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Cool off today with the Peanut Butter Fudge Brownie flavor of the day at Culver's, which is open until 10:30 PM.",
+    "mainText": "Today's delicious flavor is Peanut Butter Fudge Brownie. The shop is open until 10:30 PM, so there is still plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
