@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-21",
-    "updateDate": "2026-08-21T19:11:03.940Z",
+    "updateDate": "2026-08-21T20:04:58.433Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we are seeing temperatures of 76 degrees with an overcast sky out by Badger Prairie County Park, and we are currently in the first quarter moon phase.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. We have overcast skies and a temperature of 76 degrees near the Verona Public Library, with a first quarter moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-21",
-    "updateDate": "2026-08-21T19:11:03.940Z",
+    "updateDate": "2026-08-21T20:04:58.433Z",
     "titleText": "Verona City News",
-    "mainText": "The city is currently recruiting an Engineering Technician to manage municipal construction projects, and remember that our sewer and stormwater utilities are self-supporting, requiring a rate increase to maintain infrastructure.",
+    "mainText": "The city council recently approved new sewer and stormwater rates to cover infrastructure costs, and we are also hiring for an Engineering Technician role at the Department of Public Works.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-21",
-    "updateDate": "2026-08-21T19:11:03.940Z",
+    "updateDate": "2026-08-21T20:04:58.433Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to enjoy today with live music at Bailey's Run Vineyard and the Wisconsin Brewing Company, plus the Dane County Farmer's Market is happening tomorrow.",
+    "mainText": "We have plenty to look forward to with live music at Bailey's Run and Wisconsin Brewing Company today, and the Dane County Farmers Market taking over the square tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-21",
-    "updateDate": "2026-08-21T19:11:03.940Z",
+    "updateDate": "2026-08-21T20:04:58.433Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, on August 15, officers responded to a call regarding a reckless driver who was subsequently arrested for a second O W I offence.",
+    "mainText": "In a notable call from Friday, August 15, police arrested a 44-year-old woman for an O W I after finding her behind the wheel of a vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-21",
-    "updateDate": "2026-08-21T19:11:03.940Z",
+    "updateDate": "2026-08-21T20:04:58.433Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy the delicious Peanut Butter Fudge Brownie flavor today at Culver's, which remains open for you until 10:30 PM tonight.",
+    "mainText": "Enjoy the delicious Chocolate Caramel Twist today, and if you are heading to the high school football game at 6 PM, keep an eye out for the Kona Ice truck!",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
