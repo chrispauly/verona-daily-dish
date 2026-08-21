@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-21",
-    "updateDate": "2026-08-21T11:06:37.671Z",
+    "updateDate": "2026-08-21T12:07:09.880Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: we have clear skies at Badger Prairie County Park and a temperature of 63 degrees, but please note the moderate air quality index of 52.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have clear skies at Reddan Soccer Park with a temperature of 64 degrees, but be aware of the elevated air quality index of 52.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-21",
-    "updateDate": "2026-08-21T11:06:37.671Z",
+    "updateDate": "2026-08-21T12:07:09.880Z",
     "titleText": "Verona City News",
-    "mainText": "The city is hiring an engineering technician to oversee municipal construction projects, and don't forget that you can also apply for a 30 dollar rebate through the city's rain barrel program for your home.",
+    "mainText": "The city is currently recruiting for an Engineering Technician to oversee public works projects, and don't forget that utility rates for sewer and stormwater have recently increased to keep our systems self-supporting.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-21",
-    "updateDate": "2026-08-21T11:06:37.671Z",
+    "updateDate": "2026-08-21T12:07:09.880Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with live music taking place today at Bailey's Run Vineyard and Wisconsin Brewing Company, followed by the Dane County Farmer's Market tomorrow at the Capitol Square.",
+    "mainText": "There is plenty to do in our community, with live music at Bailey's Run Vineyard and the Wisconsin Brewing Company taking place today, followed by the Dane County Farmer's Market and music at Paddy Mac's happening tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-21",
-    "updateDate": "2026-08-21T11:06:37.671Z",
+    "updateDate": "2026-08-21T12:07:09.880Z",
     "titleText": "Verona Police Report",
-    "mainText": "During the week, the Verona Police Department responded to several calls, including an incident on Friday, August 15, where a woman was arrested for her first O W I offence.",
+    "mainText": "Regarding local safety, the police department reported that last Friday, an officer arrested a driver for an O W I after finding them unresponsive in their vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-21",
-    "updateDate": "2026-08-21T11:06:37.671Z",
+    "updateDate": "2026-08-21T12:07:09.880Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is the delightful Peanut Butter Fudge Brownie. The store is currently closed but will open its doors at 10 AM, so get ready to stop by for a treat.",
+    "mainText": "Culver's is currently closed, but they will open at 10 AM today serving the Peanut Butter Fudge Brownie flavor. If you miss that, tomorrow features the Raspberry Cheesecake flavor.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
