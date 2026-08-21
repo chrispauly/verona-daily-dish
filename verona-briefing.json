@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-21",
-    "updateDate": "2026-08-21T02:29:01.264Z",
+    "updateDate": "2026-08-21T03:20:55.123Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: we have 68 degree temperatures, partly cloudy skies at City Hall, and an air quality index of 52. We are in a first quarter moon phase, and you can spot the ISS tonight starting at 3:23 AM as it travels from Belleville toward Fitchburg. Tonight's low will be 63 degrees with rain expected.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. We have clear skies near the Military Ridge State Trail with a temperature of 67 degrees and an air quality index of 52. We are in a First Quarter Moon phase, and you can spot the space station rising over Belleville at 3:23 AM as it heads toward Fitchburg. Tonight will drop to a low of 63 degrees with rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-21",
-    "updateDate": "2026-08-21T02:29:01.264Z",
+    "updateDate": "2026-08-21T03:20:55.123Z",
     "titleText": "Verona City News",
-    "mainText": "The city is currently recruiting for an Engineering Technician to oversee municipal construction projects through September 20. Additionally, the Council recently approved new sewer and stormwater utility rates to cover essential system maintenance and prevent future service failures.",
+    "mainText": "The city is currently recruiting an Engineering Technician to oversee construction projects and also reminds residents that our sewer and stormwater utilities are self-supporting, requiring recent rate adjustments to maintain our infrastructure.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-21",
-    "updateDate": "2026-08-21T02:29:01.264Z",
+    "updateDate": "2026-08-21T03:20:55.123Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a great lineup for you. Today, we have the User Group Meeting at Epic, Yoga at Insight Wellness, Concerts in the Park, and Hop Haus Trivia. Looking ahead, enjoy live music at Bailey's Run and Wisconsin Brewing Company tomorrow, followed by the Farmers Market this Saturday.",
+    "mainText": "Today, we have the Epic Systems UGM, yoga at Insight Wellness, Concerts in the Park, and trivia at Hop Haus. Tomorrow, look out for live music at Bailey's Run and Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-21",
-    "updateDate": "2026-08-21T02:29:01.264Z",
+    "updateDate": "2026-08-21T03:20:55.123Z",
     "titleText": "Verona Police Report",
-    "mainText": "During the week, officers responded to a noteworthy incident on Friday, August 15, involving a 44-year-old woman who was arrested for a first offence O W I after being found unresponsive behind the wheel.",
+    "mainText": "In a noteworthy call from Friday, August 15, a 44-year-old driver was arrested for a first offence O W I after officers found her passed out behind the wheel.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-21",
-    "updateDate": "2026-08-21T02:29:01.264Z",
+    "updateDate": "2026-08-21T03:20:55.123Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Chocolate Heath Crunch. Please note that the store is closing in less than one hour, so you have just enough time to head over for a scoop before they lock up for the night.",
+    "mainText": "Today's flavor is the delightful Chocolate Heath Crunch. The store is currently closed, but they will open their doors tomorrow at 10 AM, when the flavor will be Peanut Butter Fudge Brownie.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
