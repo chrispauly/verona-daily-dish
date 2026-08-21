@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-21",
-    "updateDate": "2026-08-21T20:04:58.433Z",
+    "updateDate": "2026-08-21T21:05:39.805Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. We have overcast skies and a temperature of 76 degrees near the Verona Public Library, with a first quarter moon overhead.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: it is 78 degrees with overcast skies across the Military Ridge State Trail, and we currently have a First Quarter moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-21",
-    "updateDate": "2026-08-21T20:04:58.433Z",
+    "updateDate": "2026-08-21T21:05:39.805Z",
     "titleText": "Verona City News",
-    "mainText": "The city council recently approved new sewer and stormwater rates to cover infrastructure costs, and we are also hiring for an Engineering Technician role at the Department of Public Works.",
+    "mainText": "The City of Verona is hiring an Engineering Technician to oversee transportation and utility projects through September 20. Additionally, the city has updated its sewer and stormwater utility rates to cover rising maintenance costs, and you can apply for a 30 dollar rain barrel rebate for your property.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-21",
-    "updateDate": "2026-08-21T20:04:58.433Z",
+    "updateDate": "2026-08-21T21:05:39.805Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty to look forward to with live music at Bailey's Run and Wisconsin Brewing Company today, and the Dane County Farmers Market taking over the square tomorrow.",
+    "mainText": "We have a packed schedule with Live Music at Bailey's Run and Lake Lou-ee happening today. Tomorrow, you can check out the Dane County Farmer's Market or catch more live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-21",
-    "updateDate": "2026-08-21T20:04:58.433Z",
+    "updateDate": "2026-08-21T21:05:39.805Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable call from Friday, August 15, police arrested a 44-year-old woman for an O W I after finding her behind the wheel of a vehicle.",
+    "mainText": "In a noteworthy update, on August 15, Verona police officers performed a welfare check on a driver who was found passed out behind the wheel, resulting in an arrest for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-21",
-    "updateDate": "2026-08-21T20:04:58.433Z",
+    "updateDate": "2026-08-21T21:05:39.805Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Enjoy the delicious Chocolate Caramel Twist today, and if you are heading to the high school football game at 6 PM, keep an eye out for the Kona Ice truck!",
+    "mainText": "The delicious Flavor of the Day is Peanut Butter Fudge Brownie, and the shop is open until 10:30 PM. For an extra treat today, you can also catch the Kona Ice truck at the high school football game starting at 6 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
