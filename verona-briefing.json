@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-21",
-    "updateDate": "2026-08-21T09:12:42.844Z",
+    "updateDate": "2026-08-21T10:08:20.169Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish. We have clear skies over Badger Prairie County Park with a temperature of 63 degrees and a moderate air quality index of 51. The moon is currently in its first quarter phase, and you can catch the International Space Station passing high in the sky for five minutes starting at 4:56 AM, moving from the west southwest over Mount Horeb toward the northeast near the local Home Depot.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we have partly cloudy skies and a temperature of 64 degrees at Reddan Soccer Park, though the air quality index is currently at a moderate 53.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-21",
-    "updateDate": "2026-08-21T09:12:42.844Z",
+    "updateDate": "2026-08-21T10:08:20.169Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has two important updates. First, the Public Works department is recruiting an engineering technician to manage various construction and utility projects, with applications due by September 20. Additionally, the city has clarified that utility rates are self-supporting to cover infrastructure maintenance, meaning residents may see rate adjustments to prevent system failures like sewer backups or stormwater flooding.",
+    "mainText": "The City of Verona is currently recruiting for an Engineering Technician to manage municipal construction projects, and residents are reminded that sewer and stormwater utility rates were recently adjusted to ensure our infrastructure remains self-supporting and reliable.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-21",
-    "updateDate": "2026-08-21T09:12:42.844Z",
+    "updateDate": "2026-08-21T10:08:20.169Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, starting with live music today at both Bailey's Run Vineyard and the Wisconsin Brewing Company. Looking ahead, you can enjoy the Dane County Farmers' Market tomorrow at the Capitol Square, and check out live music at Paddy Mac's also happening tomorrow.",
+    "mainText": "There is plenty to do around town with live music at Bailey's Run and Wisconsin Brewing Company both happening today, while tomorrow you can check out the Dane County Farmer's Market or enjoy the music series at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-21",
-    "updateDate": "2026-08-21T09:12:42.844Z",
+    "updateDate": "2026-08-21T10:08:20.169Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on Friday, August 15, officers responded to a situation where a driver was found passed out in her vehicle; she was later arrested for an O W I offence.",
+    "mainText": "On Friday, August 15, Verona police officers performed a welfare check on a driver near North Main Street and Cross Country Road, ultimately arresting the individual for an O W I after she was found passed out in her vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-21",
-    "updateDate": "2026-08-21T09:12:42.844Z",
+    "updateDate": "2026-08-21T10:08:20.169Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is peanut butter fudge brownie. Culver's is currently closed, but they will open their doors for you today at 10 AM.",
+    "mainText": "Today is the perfect day to stop by for the Peanut Butter Fudge Brownie flavor of the day. Culver's is currently closed, but they will open at 10:00 AM, and you can look forward to Raspberry Cheesecake tomorrow.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
