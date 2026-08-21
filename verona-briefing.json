@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-21",
-    "updateDate": "2026-08-21T04:13:58.695Z",
+    "updateDate": "2026-08-21T05:11:06.562Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we have overcast skies at Verona City Hall with an air quality index of 52. We are under a First Quarter moon, and the space station will be visible low on the horizon as it travels from Belleville toward Fitchburg at 3:23 AM. The temperature will dip to an overnight low of 62 degrees, and rain is in the forecast.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we are seeing 65 degrees with overcast skies at the Verona Public Library and a moderate air quality index of 52. We are in a first quarter moon phase, and you can catch the I S S crossing the sky tonight starting at 3:23 AM for one minute, traveling from the south over Belleville toward the east near Fitchburg.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-21",
-    "updateDate": "2026-08-21T04:13:58.695Z",
+    "updateDate": "2026-08-21T05:11:06.562Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is hiring an Engineering Technician for public works projects through September 20th, and residents should note that new sewer and stormwater utility rates were recently approved to keep our essential infrastructure self-supporting.",
+    "mainText": "The city has two major updates: the Department of Public Works is hiring an Engineering Technician through September 20, and residents are reminded that sewer and stormwater utility rates have been adjusted to keep our infrastructure self-supporting and prevent system failures.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-21",
-    "updateDate": "2026-08-21T04:13:58.695Z",
+    "updateDate": "2026-08-21T05:11:06.562Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You have plenty of local options this week, starting with live music at Bailey's Run Vineyard and Wisconsin Brewing Company tomorrow, followed by the Dane County Farmer's Market this Friday.",
+    "mainText": "We have a packed schedule with live music at Bailey's Run happening today, followed by the Dane County Farmer's Market tomorrow and the Girls Try Hockey event at the Verona Ice Arena on August 23.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-21",
-    "updateDate": "2026-08-21T04:13:58.695Z",
+    "updateDate": "2026-08-21T05:11:06.562Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident from Friday, August 15th, Verona police arrested a 44-year-old woman for a first offence O W I after she was discovered unresponsive in her vehicle.",
+    "mainText": "In our weekly report, on Friday, August 15, officers responded to a call where a 44-year-old woman was found passed out behind the wheel of her vehicle, leading to an arrest for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-21",
-    "updateDate": "2026-08-21T04:13:58.695Z",
+    "updateDate": "2026-08-21T05:11:06.562Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Chocolate Heath Crunch. Please note that the store is currently closed and will reopen at 10:00 AM tomorrow.",
+    "mainText": "Today's delicious flavor is Peanut Butter Fudge Brownie. Culver's is currently closed but will open its doors at 10 AM, so make sure to stop by then for your treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
