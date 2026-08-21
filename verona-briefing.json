@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-21",
-    "updateDate": "2026-08-21T05:11:06.562Z",
+    "updateDate": "2026-08-21T06:08:50.846Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we are seeing 65 degrees with overcast skies at the Verona Public Library and a moderate air quality index of 52. We are in a first quarter moon phase, and you can catch the I S S crossing the sky tonight starting at 3:23 AM for one minute, traveling from the south over Belleville toward the east near Fitchburg.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish. We have clear skies at 65 degrees at Verona Community Park with an air quality index of 52. The moon is in its first quarter phase, and the International Space Station will make a brief appearance tonight at 3:23 AM, rising in the south over Belleville and traveling east toward Fitchburg, remaining low near the horizon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-21",
-    "updateDate": "2026-08-21T05:11:06.562Z",
+    "updateDate": "2026-08-21T06:08:50.846Z",
     "titleText": "Verona City News",
-    "mainText": "The city has two major updates: the Department of Public Works is hiring an Engineering Technician through September 20, and residents are reminded that sewer and stormwater utility rates have been adjusted to keep our infrastructure self-supporting and prevent system failures.",
+    "mainText": "The city is hiring an Engineering Technician to help manage municipal construction projects, and the common council has approved new sewer and stormwater utility rates to keep our systems self-supporting.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-21",
-    "updateDate": "2026-08-21T05:11:06.562Z",
+    "updateDate": "2026-08-21T06:08:50.846Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule with live music at Bailey's Run happening today, followed by the Dane County Farmer's Market tomorrow and the Girls Try Hockey event at the Verona Ice Arena on August 23.",
+    "mainText": "We have plenty of local excitement including live music at Bailey's Run Vineyard and Wisconsin Brewing Company today, followed by the Dane County Farmer's Market and live music at Paddy Mac's tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-21",
-    "updateDate": "2026-08-21T05:11:06.562Z",
+    "updateDate": "2026-08-21T06:08:50.846Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, on Friday, August 15, officers responded to a call where a 44-year-old woman was found passed out behind the wheel of her vehicle, leading to an arrest for O W I.",
+    "mainText": "In a noteworthy call for service on Friday, August 15, officers responded to a report of a missing 7-year-old in the Westridge Estates neighborhood, who was fortunately found and safely reunited with their parents.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-21",
-    "updateDate": "2026-08-21T05:11:06.562Z",
+    "updateDate": "2026-08-21T06:08:50.846Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Peanut Butter Fudge Brownie. Culver's is currently closed but will open its doors at 10 AM, so make sure to stop by then for your treat.",
+    "mainText": "Today's flavor of the day is the rich Peanut Butter Fudge Brownie. The store is currently closed, but they will be ready to serve you when they open tomorrow at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
