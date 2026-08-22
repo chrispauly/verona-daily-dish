@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-22",
-    "updateDate": "2026-08-22T13:12:57.287Z",
+    "updateDate": "2026-08-22T14:05:17.263Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we have clear skies at Reddan Soccer Park with a temperature of 64 degrees and a First Quarter moon in the sky.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish. We have clear skies near the Verona Public Library with a comfortable temperature of 67 degrees and a lovely Waxing Gibbous moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-22",
-    "updateDate": "2026-08-22T13:12:57.287Z",
+    "updateDate": "2026-08-22T14:05:17.263Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is hiring an Engineering Technician to manage municipal construction projects, with a deadline to apply on September 20. Also, the city has updated sewer and stormwater utility rates to cover necessary infrastructure maintenance and operations.",
+    "mainText": "The city is currently accepting applications for an Engineering Technician to help manage municipal construction projects, and residents are reminded that sewer and stormwater utilities are self-supporting, with recent rate increases designed to maintain essential infrastructure.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-22",
-    "updateDate": "2026-08-22T13:12:57.287Z",
+    "updateDate": "2026-08-22T14:05:17.263Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today with the Dane County Farmers Market and live music at Baileys Run and Paddy Macs, while tomorrow you can check out the free Girls Try Hockey event at the Verona Ice Arena.",
+    "mainText": "You have plenty to do today with the Dane County Farmers Market or live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company, plus the Girls Try Hockey event takes place tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-22",
-    "updateDate": "2026-08-22T13:12:57.287Z",
+    "updateDate": "2026-08-22T14:05:17.263Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Friday, August 15, a resident called in a reckless driver which led to an arrest for an O W I, second offence, along with citations for failing to use an ignition interlock device.",
+    "mainText": "In a noteworthy call from last Friday, local police arrested a driver for an O W I after finding her unresponsive at the intersection of North Main Street and Cross Country Road.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-22",
-    "updateDate": "2026-08-22T13:12:57.287Z",
+    "updateDate": "2026-08-22T14:05:17.263Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Raspberry Cheesecake. The store is currently closed, but they will open at 10:00 AM today for you to grab a scoop.",
+    "mainText": "Today's flavor of the day is Raspberry Cheesecake. The store is currently closed, but they will open their doors at 10 AM to serve you.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
