@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-22",
-    "updateDate": "2026-08-22T12:04:23.324Z",
+    "updateDate": "2026-08-22T13:12:57.287Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we are seeing clear skies at Verona City Hall with a comfortable temperature of 61 degrees.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we have clear skies at Reddan Soccer Park with a temperature of 64 degrees and a First Quarter moon in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-22",
-    "updateDate": "2026-08-22T12:04:23.324Z",
+    "updateDate": "2026-08-22T13:12:57.287Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is accepting applications for an Engineering Technician until September 20, and residents can also look into the rain barrel rebate program which offers a 30 dollar credit for eligible properties.",
+    "mainText": "The City of Verona is hiring an Engineering Technician to manage municipal construction projects, with a deadline to apply on September 20. Also, the city has updated sewer and stormwater utility rates to cover necessary infrastructure maintenance and operations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-22",
-    "updateDate": "2026-08-22T12:04:23.324Z",
+    "updateDate": "2026-08-22T13:12:57.287Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can visit the Dane County Farmer's Market or enjoy live music at local venues like Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company, while tomorrow features a free Girls Try Hockey event at the Verona Ice Arena.",
+    "mainText": "There is plenty to do today with the Dane County Farmers Market and live music at Baileys Run and Paddy Macs, while tomorrow you can check out the free Girls Try Hockey event at the Verona Ice Arena.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-22",
-    "updateDate": "2026-08-22T12:04:23.324Z",
+    "updateDate": "2026-08-22T13:12:57.287Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Friday, August 15, officers responded to a call regarding a 44-year-old woman who was found passed out in her vehicle, resulting in an arrest for an O W I.",
+    "mainText": "On Friday, August 15, a resident called in a reckless driver which led to an arrest for an O W I, second offence, along with citations for failing to use an ignition interlock device.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-22",
-    "updateDate": "2026-08-22T12:04:23.324Z",
+    "updateDate": "2026-08-22T13:12:57.287Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Raspberry Cheesecake. The store is currently closed but will open at 10:00 AM, so stop by later today for a scoop.",
+    "mainText": "Today's flavor is Raspberry Cheesecake. The store is currently closed, but they will open at 10:00 AM today for you to grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
