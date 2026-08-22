@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-22",
-    "updateDate": "2026-08-22T21:05:01.469Z",
+    "updateDate": "2026-08-22T22:03:33.177Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. We have clear skies and a temperature of 77 degrees near Badger Prairie County Park, with a Waxing Gibbous moon rising tonight.",
+    "mainText": "Hello, Verona! At 5 PM, it is 76 degrees out at Badger Prairie County Park. We are looking at a clear night with a Waxing Gibbous moon, and the ISS will be visible at 3:24 AM, rising over Mount Horeb and traveling toward Fitchburg while reaching halfway up the sky. Overnight, temperatures will dip to 55 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-22",
-    "updateDate": "2026-08-22T21:05:01.469Z",
+    "updateDate": "2026-08-22T22:03:33.177Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is hiring an Engineering Technician to oversee construction and utility projects, with a deadline of September 20. Also, remember that the Council recently approved new sewer and stormwater rates to ensure our utilities remain self-supporting.",
+    "mainText": "The City of Verona is currently hiring an Engineering Technician to manage municipal construction and utility projects, with a deadline to apply on September 20, 2026. Also, remember that the city offers a rain barrel rebate program to help manage stormwater, providing a 30 dollar credit for qualifying barrel installations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-22",
-    "updateDate": "2026-08-22T21:05:01.469Z",
+    "updateDate": "2026-08-22T22:03:33.177Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with the Dane County Farmers Market today and live music at Bailey's Run. Tomorrow, the Verona Ice Arena is hosting a free Girls Try Hockey event for local youth.",
+    "mainText": "There is plenty to do, starting with the Dane County Farmer's Market today. You can also catch live music at Bailey's Run and Paddy Mac's today, Girls Try Hockey tomorrow at the Verona Ice Arena, and yoga at Insight Wellness this Sunday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-22",
-    "updateDate": "2026-08-22T21:05:01.469Z",
+    "updateDate": "2026-08-22T22:03:33.177Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Friday, Verona police arrested a 44-year-old woman for an O W I after officers found her unresponsive behind the wheel near North Main Street and Cross Country Road.",
+    "mainText": "In a report covering last week, officers arrested a 44-year-old woman for her first O W I on Friday, August 15, after she was found asleep in her vehicle at an intersection.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-22",
-    "updateDate": "2026-08-22T21:05:01.469Z",
+    "updateDate": "2026-08-22T22:03:33.177Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Raspberry Cheesecake, and Culver's is open until 10:30 PM. You can also catch Kona Ice at Fireman's Park until 5 PM or at the high school stadium until 7:30 PM today.",
+    "mainText": "Today's flavor of the day at Culver's is Raspberry Cheesecake and they are open until 10:30 PM tonight. You can also enjoy a treat at the Kona Ice truck located at Fireman's Park today between 11 AM and 5 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
