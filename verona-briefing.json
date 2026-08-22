@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-22",
-    "updateDate": "2026-08-22T00:09:01.361Z",
+    "updateDate": "2026-08-22T01:29:34.822Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: the temperature is 72 degrees at City Hall under clear skies. We are in a first quarter moon phase, and if you are up early, look for the space station to pass overhead starting at 4:10 AM, rising over Mount Horeb and heading toward Fitchburg and Madison. Tonight, the temperature will drop to 61 degrees, and please prepare for rain.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. Over at Badger Prairie County Park, it is currently 71 degrees with mainly clear skies. The overnight low will be around 60 degrees, with rain unlikely. Tonight we have a First Quarter. The ISS will be visible tonight starting at 4:10 AM for 3 minutes. Look for it rising in the Southwest (over Mount Horeb) and traveling toward the East Northeast (heading toward Fitchburg / Madison), reaching almost directly overhead.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-08-22",
-    "updateDate": "2026-08-22T00:09:01.361Z",
+    "updateDate": "2026-08-22T01:29:34.822Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is hiring an Engineering Technician to oversee construction and utility projects, with applications due by September 20. Additionally, the Council recently updated sewer and stormwater rates to ensure our self-supporting utilities can continue funding necessary infrastructure maintenance and improvements.",
+    "mainText": "In city affairs, the latest update is: Now Hiring Engineering Technician.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-08-22",
-    "updateDate": "2026-08-22T00:09:01.361Z",
+    "updateDate": "2026-08-22T01:29:34.822Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy week for entertainment. Today, enjoy live music at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, the Dane County Farmer's Market takes place in Madison, and Paddy Mac's hosts live music. Looking ahead, Verona Ice Arena is hosting a free Girls Try Hockey event on August 23.",
+    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Bailey's Run Today at Bailey's Run Vineyard.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-08-22",
-    "updateDate": "2026-08-22T00:09:01.361Z",
+    "updateDate": "2026-08-22T01:29:34.822Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on Friday, August 15, officers responded to a call regarding a driver who had fallen asleep at the wheel near North Main Street and Cross Country Road, resulting in an arrest for a first O W I offence.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-22",
-    "updateDate": "2026-08-22T00:09:01.361Z",
+    "updateDate": "2026-08-22T01:29:34.822Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can cool off with today's flavor, Peanut Butter Fudge Brownie, and the shop is open until 10:30 PM. Also, catch the Kona Ice truck at the Verona Area High School football game starting at 6 PM today.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: Peanut Butter Fudge Brownie. The restaurant status is Open Until 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
