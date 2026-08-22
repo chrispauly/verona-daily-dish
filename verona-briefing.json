@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-22",
-    "updateDate": "2026-08-22T18:04:09.244Z",
+    "updateDate": "2026-08-22T19:07:07.832Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we are seeing clear skies and a comfortable 76 degrees out by the Verona Area High School, with a beautiful waxing gibbous moon expected to be visible tonight.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we have beautiful clear skies with a temperature of 76 degrees, providing a perfect backdrop for a visit to the Military Ridge State Trail while the moon is in a Waxing Gibbous phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-22",
-    "updateDate": "2026-08-22T18:04:09.244Z",
+    "updateDate": "2026-08-22T19:07:07.832Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has two major updates: the Department of Public Works is seeking an Engineering Technician for municipal projects by September 20, and the Common Council has approved new sewer and stormwater utility rates to ensure our systems remain self-supporting and fully maintained.",
+    "mainText": "In city news, the Public Works department is hiring an Engineering Technician to oversee transportation and utility projects, and remember that our utility rates have been adjusted to ensure our essential sewer and stormwater systems remain self-supporting.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-22",
-    "updateDate": "2026-08-22T18:04:09.244Z",
+    "updateDate": "2026-08-22T19:07:07.832Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead with the Dane County Farmers Market and live music at various venues happening today, followed by a free girls try hockey event at the Verona Ice Arena tomorrow.",
+    "mainText": "There is plenty to do, starting with the Dane County Farmer's Market today, live music at various local venues like Bailey's Run and Paddy Mac's, and tomorrow you can check out the free Girls Try Hockey event at the Verona Ice Arena.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-22",
-    "updateDate": "2026-08-22T18:04:09.244Z",
+    "updateDate": "2026-08-22T19:07:07.832Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, we noted an incident on August 15 where a driver was arrested for a first offence O W I after officers found the vehicle stopped near North Main Street and Cross Country Road.",
+    "mainText": "In a report on noteworthy calls from last week, on Friday, officers responded to a situation where a driver was found passed out behind the wheel, resulting in an O W I arrest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-22",
-    "updateDate": "2026-08-22T18:04:09.244Z",
+    "updateDate": "2026-08-22T19:07:07.832Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Raspberry Cheesecake, and you can pick it up at Culver's until they close at 10:30 PM. Also, for those looking for a frozen treat at the game, the Kona Ice truck will be at the Verona Area High School football kickoff at 6 PM today.",
+    "mainText": "Today is the perfect day to enjoy some Raspberry Cheesecake, which is the flavor of the day at Culver's, and remember they are open until 10:30 PM. Also, you can find the Kona Ice truck at the high school football game starting at 6 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
