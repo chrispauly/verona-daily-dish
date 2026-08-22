@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-22",
-    "updateDate": "2026-08-22T07:13:02.558Z",
+    "updateDate": "2026-08-22T08:06:10.816Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: we have clear skies with a temperature of 63 degrees near Badger Ridge Middle School. It is a great night for stargazing under the first quarter moon, and if you are up early, the space station will be visible starting at 4:10 AM, moving from over Mount Horeb toward the Fitchburg area.",
+    "mainText": "Hello, Verona! At 3 AM, we are seeing clear skies and 63 degrees near Badger Ridge Middle School. It is a great night to spot the space station at 4:10 AM, as it travels from Mount Horeb towards Fitchburg and Madison, passing nearly overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-22",
-    "updateDate": "2026-08-22T07:13:02.558Z",
+    "updateDate": "2026-08-22T08:06:10.816Z",
     "titleText": "Verona City News",
-    "mainText": "Verona has two important updates. First, the city is hiring an Engineering Technician to oversee construction and utility projects, with applications due September 20. Second, the city has a rain barrel rebate program offering credits to help manage stormwater, and they recently adjusted utility rates to cover rising maintenance costs for sewer and stormwater systems.",
+    "mainText": "The city is hiring an Engineering Technician to manage municipal projects, with applications due September 20th. Also, residents should note that recent sewer and stormwater utility rates were updated to keep our local systems self-supporting and prevent future infrastructure failures.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-22",
-    "updateDate": "2026-08-22T07:13:02.558Z",
+    "updateDate": "2026-08-22T08:06:10.816Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, starting today with the Dane County Farmer's Market and live music at several local venues. Tomorrow, check out the Girls Try Hockey event at the Verona Ice Arena. Looking ahead, you can enjoy trivia at Hop Haus on Tuesday or the downtown Farmer's Market on Tuesday as well.",
+    "mainText": "Today is packed with local fun including the Dane County Farmers Market and live music at various venues, while tomorrow you can check out the Girls Try Hockey event at the Verona Ice Arena.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-22",
-    "updateDate": "2026-08-22T07:13:02.558Z",
+    "updateDate": "2026-08-22T08:06:10.816Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly look at local reports, on August 15, a 44-year-old woman was arrested for an O W I after officers found her vehicle stopped and the driver unresponsive near North Main Street.",
+    "mainText": "In a notable incident from August 15, a woman was arrested for a first offence O W I after officers found her unresponsive behind the wheel near North Main Street and Cross Country Road.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-22",
-    "updateDate": "2026-08-22T07:13:02.558Z",
+    "updateDate": "2026-08-22T08:06:10.816Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Raspberry Cheesecake. The shop is currently closed, but they will be ready to serve you starting at 10:00 AM.",
+    "mainText": "You are in for a treat today with Raspberry Cheesecake! If you miss them, tomorrow's flavor is Caramel Cashew, and you can visit the shop starting at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
