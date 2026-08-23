@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-23",
-    "updateDate": "2026-08-23T14:05:33.701Z",
+    "updateDate": "2026-08-23T15:05:30.434Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: it is 63 degrees with clear skies near Badger Ridge Middle School and a Waxing Gibbous moon visible.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. We are experiencing beautiful, clear skies over Fireman's Park with a temperature of 66 degrees, feeling like 65.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-08-23",
-    "updateDate": "2026-08-23T14:05:33.701Z",
+    "updateDate": "2026-08-23T15:05:30.434Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is recruiting an Engineering Technician to oversee infrastructure projects through September 20. Additionally, the city has updated sewer and stormwater utility rates to ensure these systems remain self-supporting.",
+    "mainText": "The City of Verona is hiring an Engineering Technician, with applications open through September 20th. Also, the Common Council recently approved self-supporting sewer and stormwater rate increases to fund critical system maintenance and prevent deficits, raising the average residential bill by about 26 dollars per quarter.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-08-23",
-    "updateDate": "2026-08-23T14:05:33.701Z",
+    "updateDate": "2026-08-23T15:05:30.434Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can enjoy live music at Bailey's Run or catch the Girls Try Hockey event at the Verona Ice Arena. Tomorrow, look out for yoga sessions at Insight Wellness.",
+    "mainText": "There are great activities today, including live music at Bailey's Run Vineyard and Lake Lou-ee, plus a free Girls Try Hockey event at the Verona Ice Arena. Tomorrow, you can drop in for yoga at Insight Wellness, and look forward to trivia nights at Hop Haus this Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-08-23",
-    "updateDate": "2026-08-23T14:05:33.701Z",
+    "updateDate": "2026-08-23T15:05:30.434Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local safety, an incident occurred on Friday where a driver was arrested for an O W I after officers found her unresponsive behind the wheel near North Main Street.",
+    "mainText": "According to the weekly police report, last Saturday, officers responded to a report of a missing seven-year-old child in the Westridge Estates neighborhood. Thankfully, the juvenile was quickly found and safely reunited with his parents.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-23",
-    "updateDate": "2026-08-23T14:05:33.701Z",
+    "updateDate": "2026-08-23T15:05:30.434Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Caramel Cashew. If you are looking for other treats today, Kona Ice will be at Fireman's Park from 11 AM to 5 PM and the Verona Area High School Stadium from 1 PM to 7:30 PM. Since Culver's is currently closed, note that they open at 10 AM, and tomorrow you can look forward to the Dark Chocolate PB Crunch flavor.",
+    "mainText": "To wrap things up, the Culver's of Verona is open until 10 PM tonight. Today's delicious flavor of the day is Caramel Cashew, and tomorrow's flavor will be Dark Chocolate PB Crunch.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
