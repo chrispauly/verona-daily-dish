@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-23",
-    "updateDate": "2026-08-23T21:04:53.255Z",
+    "updateDate": "2026-08-23T22:03:22.193Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, conditions are clear at Badger Ridge Middle School, and the moon is currently in a Waxing Gibbous phase.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. It is a clear 73 degrees at Reddan Soccer Park. Tonight, the temperature drops to 55 degrees with no rain in the forecast. We are under a Waxing Gibbous moon, and the ISS will be visible at 4:11 AM, rising in the west over Mount Horeb and heading toward Madison near the Home Depot, reaching halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-23",
-    "updateDate": "2026-08-23T21:04:53.255Z",
+    "updateDate": "2026-08-23T22:03:22.193Z",
     "titleText": "Verona City News",
-    "mainText": "The Department of Public Works is currently recruiting an Engineering Technician to oversee municipal and utility construction projects, with applications due by 11:59 PM this Sunday.",
+    "mainText": "The City of Verona is currently seeking an Engineering Technician to manage municipal projects, with applications accepted until September 20. Additionally, the city is offering a 30 dollar rebate for residents who install rain barrels to help with stormwater management.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-23",
-    "updateDate": "2026-08-23T21:04:53.255Z",
+    "updateDate": "2026-08-23T22:03:22.193Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy weekend ahead with live music at Bailey's Run and Wisconsin Brewing Company happening today, along with the Girls Try Hockey event at the Verona Ice Arena. Tomorrow, you can catch a yoga class at Insight Wellness.",
+    "mainText": "Today, you can check out live music at Bailey's Run or Wisconsin Brewing Company, and youth can participate in a free Girls Try Hockey event at the Verona Ice Arena. Tomorrow, look for yoga sessions at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-23",
-    "updateDate": "2026-08-23T21:04:53.255Z",
+    "updateDate": "2026-08-23T22:03:22.193Z",
     "titleText": "Verona Police Report",
-    "mainText": "During the week of August 10 through August 17, there was a notable incident on Friday, August 15, where a 29-year-old Verona man was arrested for a second offence O W I after a traffic stop.",
+    "mainText": "On Friday, August 15, officers were dispatched to the Westridge Estates neighborhood after receiving a report of a missing 7-year-old child, who was safely located and reunited with their parents shortly after.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-23",
-    "updateDate": "2026-08-23T21:04:53.255Z",
+    "updateDate": "2026-08-23T22:03:22.193Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Devil's Food Cake, and the store is open until 11:00 PM tonight. You can also catch Kona Ice today at Fireman's Park until 5 PM and at the Verona Youth Football stadium until 7:30 PM.",
+    "mainText": "Stop by Culver's today to enjoy the Caramel Cashew flavor of the day; they are open until 10 PM. You can also catch Kona Ice at Fireman's Park today between 11 AM and 5 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
