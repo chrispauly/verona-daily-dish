@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-23",
-    "updateDate": "2026-08-23T15:05:30.434Z",
+    "updateDate": "2026-08-23T16:04:17.843Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. We are experiencing beautiful, clear skies over Fireman's Park with a temperature of 66 degrees, feeling like 65.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish on the weather. It is a beautiful clear day reaching 69 degrees near the Verona Public Library with the moon currently in a waxing gibbous phase.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-23",
-    "updateDate": "2026-08-23T15:05:30.434Z",
+    "updateDate": "2026-08-23T16:04:17.843Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is hiring an Engineering Technician, with applications open through September 20th. Also, the Common Council recently approved self-supporting sewer and stormwater rate increases to fund critical system maintenance and prevent deficits, raising the average residential bill by about 26 dollars per quarter.",
+    "mainText": "The City of Verona is currently accepting applications for an Engineering Technician to oversee municipal construction projects until September 20. Additionally, residents can now apply for a 30 dollar rebate through the city's rain barrel program by submitting a claim form for their new 35-gallon barrels.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-23",
-    "updateDate": "2026-08-23T15:05:30.434Z",
+    "updateDate": "2026-08-23T16:04:17.843Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There are great activities today, including live music at Bailey's Run Vineyard and Lake Lou-ee, plus a free Girls Try Hockey event at the Verona Ice Arena. Tomorrow, you can drop in for yoga at Insight Wellness, and look forward to trivia nights at Hop Haus this Tuesday.",
+    "mainText": "There is plenty to do this weekend, including live music at Bailey's Run and Lake Lou-ee today, plus a Girls Try Hockey event at the Verona Ice Arena today. Tomorrow, you can enjoy yoga at Insight Wellness, and starting Monday, we have trivia nights at Hop Haus and Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-23",
-    "updateDate": "2026-08-23T15:05:30.434Z",
+    "updateDate": "2026-08-23T16:04:17.843Z",
     "titleText": "Verona Police Report",
-    "mainText": "According to the weekly police report, last Saturday, officers responded to a report of a missing seven-year-old child in the Westridge Estates neighborhood. Thankfully, the juvenile was quickly found and safely reunited with his parents.",
+    "mainText": "In our weekly police report, on Friday, August 15, an officer conducted a traffic stop where the driver was found to be impaired, resulting in an O W I arrest after the operator struggled to stay awake behind the wheel.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-23",
-    "updateDate": "2026-08-23T15:05:30.434Z",
+    "updateDate": "2026-08-23T16:04:17.843Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "To wrap things up, the Culver's of Verona is open until 10 PM tonight. Today's delicious flavor of the day is Caramel Cashew, and tomorrow's flavor will be Dark Chocolate PB Crunch.",
+    "mainText": "Today's Culver's flavor is the decadent Caramel Cashew, and the store is open until 10 PM. For other chilly treats today, Kona Ice will be at Fireman's Park from 11 AM to 5 PM and at the Verona Area High School Stadium for youth football from 1 PM to 7:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
