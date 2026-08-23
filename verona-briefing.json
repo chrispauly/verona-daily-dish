@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-23",
-    "updateDate": "2026-08-23T03:20:43.545Z",
+    "updateDate": "2026-08-23T04:13:25.835Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. We have clear skies at Fireman's Park and a Waxing Gibbous moon. The overnight low will reach 56 degrees with no rain predicted. For space fans, the International Space Station will be visible at 3:24 AM, rising over Mount Horeb and traveling toward the Fitchburg area while reaching halfway up the sky.",
+    "mainText": "Hello, Verona! At 11 PM, conditions are clear at 63 degrees near City Hall. We expect an overnight low of 56 degrees with no rain predicted. If you are a night owl, you can spot the International Space Station at 3:24 AM; it will rise in the southwest over Mount Horeb and drift toward the east northeast in the direction of Fitchburg and Madison, reaching about halfway up the sky. It is currently a Waxing Gibbous moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-23",
-    "updateDate": "2026-08-23T03:20:43.545Z",
+    "updateDate": "2026-08-23T04:13:25.835Z",
     "titleText": "Verona City News",
-    "mainText": "The city is currently accepting applications for an Engineering Technician to manage municipal infrastructure projects until September 20. Additionally, the city has implemented a new rain barrel rebate program offering 30 dollars back for property owners, and common council has approved new sewer and stormwater utility rates to cover rising maintenance costs.",
+    "mainText": "The City of Verona is accepting applications for an Engineering Technician to manage municipal projects until September 20. Additionally, the City Council has approved new sewer and stormwater utility rates to cover essential maintenance costs and prevent infrastructure failure, meaning the average household will see an increase of about 26 dollars per quarter.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-23",
-    "updateDate": "2026-08-23T03:20:43.545Z",
+    "updateDate": "2026-08-23T04:13:25.835Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule. Today, the Dane County Farmer's Market is open along with live music performances at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking ahead, you can enjoy a free Girls Try Hockey event tomorrow at the Verona Ice Arena.",
+    "mainText": "Tomorrow is a big day for local activities with live music at Bailey's Run Vineyard and the Wisconsin Brewing Company, plus the Girls Try Hockey event at the Verona Ice Arena. Looking further ahead, Tuesday brings downtown farmer's market fun at Hometown Junction Park alongside various trivia nights at local spots like Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-23",
-    "updateDate": "2026-08-23T03:20:43.545Z",
+    "updateDate": "2026-08-23T04:13:25.835Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly police report, on Friday, August 15, officers responded to a concerned citizen's call about a reckless driver and arrested a 29-year-old man for his second O W I offence, among other citations.",
+    "mainText": "In our weekly police report, we want to highlight an incident from Friday, August 15, where a 44-year-old woman was arrested for an O W I after officers found her passed out behind the wheel near North Main Street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-23",
-    "updateDate": "2026-08-23T03:20:43.545Z",
+    "updateDate": "2026-08-23T04:13:25.835Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The delicious flavor of the day is Raspberry Cheesecake. Culver's is open until 10:30 PM, so you have just enough time to grab a scoop before they close in less than an hour.",
+    "mainText": "Today's delicious flavor is Raspberry Cheesecake. Culver's is currently closed, but they will reopen tomorrow morning at 10:00 AM for you to get your fix.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
