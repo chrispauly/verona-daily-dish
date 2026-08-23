@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-23",
-    "updateDate": "2026-08-23T11:05:03.529Z",
+    "updateDate": "2026-08-23T12:04:56.386Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: skies are clear over Verona Community Park with a temperature of 55 degrees and a beautiful Waxing Gibbous moon in the sky.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we are seeing clear skies near Verona City Hall with a temperature of 55 degrees and a Waxing Gibbous moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-23",
-    "updateDate": "2026-08-23T11:05:03.529Z",
+    "updateDate": "2026-08-23T12:04:56.386Z",
     "titleText": "Verona City News",
-    "mainText": "The city has two big updates. First, the Department of Public Works is hiring an Engineering Technician to manage municipal projects, with a deadline of September 20th. Additionally, the city is offering a rain barrel rebate program to help residents collect rainwater and manage stormwater utilities.",
+    "mainText": "The city is hiring an Engineering Technician to oversee infrastructure projects through September 20, and residents can now apply for a 30 dollar rebate on new 35-gallon rain barrels.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-23",
-    "updateDate": "2026-08-23T11:05:03.529Z",
+    "updateDate": "2026-08-23T12:04:56.386Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend! Today, catch live music at Bailey's Run and Wisconsin Brewing Company, or head to the Verona Ice Arena for the Girls Try Hockey event. Tomorrow, consider checking out yoga at Insight Wellness.",
+    "mainText": "Today, you can enjoy live music at Bailey's Run and Wisconsin Brewing Company, or head to the Verona Ice Arena for the Girls Try Hockey event. Tomorrow, look out for yoga at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-23",
-    "updateDate": "2026-08-23T11:05:03.529Z",
+    "updateDate": "2026-08-23T12:04:56.386Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy incident this past Friday, a 44-year-old woman was arrested for an O W I after officers found her passed out behind the wheel near North Main Street and Cross Country Road.",
+    "mainText": "On Friday, August 15, Verona police officers stopped a driver near North Main Street and Cross Country Road who was eventually arrested for a first offence O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-23",
-    "updateDate": "2026-08-23T11:05:03.529Z",
+    "updateDate": "2026-08-23T12:04:56.386Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Caramel Cashew. The shop is currently closed, but they open their doors at 10 AM. If you are planning ahead, tomorrow's flavor will be Dark Chocolate P B Crunch.",
+    "mainText": "Today's flavor of the day is Caramel Cashew. Culver's is currently closed, but they will open their doors at 10 AM. If you are looking for tomorrow's treat, it will be Dark Chocolate PB Crunch.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
