@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-23",
-    "updateDate": "2026-08-23T22:03:22.193Z",
+    "updateDate": "2026-08-23T23:04:24.768Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. It is a clear 73 degrees at Reddan Soccer Park. Tonight, the temperature drops to 55 degrees with no rain in the forecast. We are under a Waxing Gibbous moon, and the ISS will be visible at 4:11 AM, rising in the west over Mount Horeb and heading toward Madison near the Home Depot, reaching halfway up the sky.",
+    "mainText": "Hello, Verona! At 6 PM, the temperature is 72 degrees with clear skies and a Waxing Gibbous moon overhead. The overnight low will be 55 degrees, and there is no rain predicted for the overnight hours. Plus, look up at 4:11 AM to see the ISS traveling from over Mount Horeb toward Madison, reaching about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-23",
-    "updateDate": "2026-08-23T22:03:22.193Z",
+    "updateDate": "2026-08-23T23:04:24.768Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is currently seeking an Engineering Technician to manage municipal projects, with applications accepted until September 20. Additionally, the city is offering a 30 dollar rebate for residents who install rain barrels to help with stormwater management.",
+    "mainText": "The city is hiring an Engineering Technician to oversee infrastructure projects, with applications due September 20. Additionally, residents can apply for a 30 dollar rain barrel rebate to help with stormwater management.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-23",
-    "updateDate": "2026-08-23T22:03:22.193Z",
+    "updateDate": "2026-08-23T23:04:24.768Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can check out live music at Bailey's Run or Wisconsin Brewing Company, and youth can participate in a free Girls Try Hockey event at the Verona Ice Arena. Tomorrow, look for yoga sessions at Insight Wellness.",
+    "mainText": "There is plenty to do, including Live Music at Bailey's Run and Girls Try Hockey happening today, followed by Yoga at Insight Wellness tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-23",
-    "updateDate": "2026-08-23T22:03:22.193Z",
+    "updateDate": "2026-08-23T23:04:24.768Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Friday, August 15, officers were dispatched to the Westridge Estates neighborhood after receiving a report of a missing 7-year-old child, who was safely located and reunited with their parents shortly after.",
+    "mainText": "In a report from Friday, an officer performed a welfare check on a driver near North Main Street and Cross Country Road, which resulted in an arrest for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-23",
-    "updateDate": "2026-08-23T22:03:22.193Z",
+    "updateDate": "2026-08-23T23:04:24.768Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's today to enjoy the Caramel Cashew flavor of the day; they are open until 10 PM. You can also catch Kona Ice at Fireman's Park today between 11 AM and 5 PM.",
+    "mainText": "Today's delicious flavor is Caramel Cashew and the shop is open until 10 PM. You can also visit the Kona Ice truck at Fireman's Park today from 11 AM to 5 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
