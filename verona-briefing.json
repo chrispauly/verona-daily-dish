@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-24",
-    "updateDate": "2026-08-24T15:14:03.114Z",
+    "updateDate": "2026-08-24T16:10:21.971Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. We have clear skies and a pleasant 65 degrees near City Hall, with a waxing gibbous moon overhead.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: it is a pleasant 69 degrees with clear skies by the Verona Area High School, and we have a Waxing Gibbous moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-24",
-    "updateDate": "2026-08-24T15:14:03.114Z",
+    "updateDate": "2026-08-24T16:10:21.971Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department has released their weekly recap covering service calls from August 17 to August 24, which includes various reports of traffic accidents, arrests, and general assistance calls.",
+    "mainText": "The Verona Police Department has published its latest report on calls for service from August 17 to August 24, including incidents ranging from traffic citations to arrests.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-24",
-    "updateDate": "2026-08-24T15:14:03.114Z",
+    "updateDate": "2026-08-24T16:10:21.971Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You can find yoga classes at Insight Wellness today, followed by plenty of trivia events and live music options starting tomorrow and continuing through Thursday.",
+    "mainText": "There is a lot to look forward to in Verona, starting with Yoga at Insight Wellness today, followed by trivia nights tomorrow and throughout the week, plus the downtown farmer's market this coming Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-24",
-    "updateDate": "2026-08-24T15:14:03.114Z",
+    "updateDate": "2026-08-24T16:10:21.971Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 19, officers responded to a motor vehicle crash at North Main Street and Bering Drive, where citations were issued for a suspended license and failure to yield.",
+    "mainText": "Reviewing the weekly reports, on August 21, an officer conducted a traffic stop where they discovered marijuana and cited a 28-year-old driver for possession.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-24",
-    "updateDate": "2026-08-24T15:14:03.114Z",
+    "updateDate": "2026-08-24T16:10:21.971Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You should definitely swing by Culver's to enjoy today's flavor, Dark Chocolate PB Crunch, before they close at 10 PM this evening.",
+    "mainText": "Make sure to stop by for today's flavor, Dark Chocolate PB Crunch, before they close their doors at 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
