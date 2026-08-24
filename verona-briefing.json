@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-24",
-    "updateDate": "2026-08-24T10:14:33.019Z",
+    "updateDate": "2026-08-24T11:08:31.348Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, the temperature is 51 degrees under clear skies by the Verona Area High School, with a waxing gibbous moon visible.",
+    "mainText": "Hello, Verona! At 6 AM, we are seeing clear skies and a temperature of 50 degrees near Badger Ridge Middle School, under the glow of a waxing gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-24",
-    "updateDate": "2026-08-24T10:14:33.019Z",
+    "updateDate": "2026-08-24T11:08:31.348Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is hiring an Engineering Technician to oversee municipal construction projects through September 20. Additionally, the city has updated sewer and stormwater rates to ensure our utilities remain self-supporting.",
+    "mainText": "The City of Verona is currently seeking an Engineering Technician to manage municipal construction projects, and the council has recently updated sewer and stormwater utility rates to ensure our city infrastructure remains self-supporting.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-24",
-    "updateDate": "2026-08-24T10:14:33.019Z",
+    "updateDate": "2026-08-24T11:08:31.348Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Enjoy Yoga at Insight Wellness today, followed by plenty of trivia options at Hop Haus, Lake Lou-ee, and Paddy Mac's tomorrow.",
+    "mainText": "You can join Yoga at Insight Wellness today, followed by a busy week ahead featuring Hop Haus trivia, Quizmasters trivia at Lake Lou-ee, and the Verona Downtown Farmer's Market all happening tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-24",
-    "updateDate": "2026-08-24T10:14:33.019Z",
+    "updateDate": "2026-08-24T11:08:31.348Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from August 15, Verona police arrested a 29-year-old man for his second O W I after a traffic stop for reckless driving.",
+    "mainText": "In our weekly report, on Friday, August 15, a driver was arrested for a first offence O W I after officers found the vehicle stopped near North Main Street and Cross Country Road.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-24",
-    "updateDate": "2026-08-24T10:14:33.019Z",
+    "updateDate": "2026-08-24T11:08:31.348Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Dark Chocolate PB Crunch. Culver's is currently closed, but they open at 10 AM. If you miss it, tomorrow's flavor is OREO Cookie Cheesecake.",
+    "mainText": "The flavor of the day is the delightful Dark Chocolate PB Crunch. Please note that the store is currently closed but will be ready to serve you starting at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
