@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-24",
-    "updateDate": "2026-08-24T16:10:21.971Z",
+    "updateDate": "2026-08-24T17:10:59.481Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: it is a pleasant 69 degrees with clear skies by the Verona Area High School, and we have a Waxing Gibbous moon phase.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish on the weather. We are seeing clear skies and a temperature of 72 degrees, which feels like 75 near City Hall. We are currently under a waxing gibbous moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-24",
-    "updateDate": "2026-08-24T16:10:21.971Z",
+    "updateDate": "2026-08-24T17:10:59.481Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department has published its latest report on calls for service from August 17 to August 24, including incidents ranging from traffic citations to arrests.",
+    "mainText": "In city news, the Verona Police Department has compiled a summary of notable calls for service from August 17 through August 24. These ranged from probation violation arrests to various traffic citations throughout the city.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-24",
-    "updateDate": "2026-08-24T16:10:21.971Z",
+    "updateDate": "2026-08-24T17:10:59.481Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot to look forward to in Verona, starting with Yoga at Insight Wellness today, followed by trivia nights tomorrow and throughout the week, plus the downtown farmer's market this coming Tuesday.",
+    "mainText": "Looking at our calendar, Yoga at Insight Wellness is happening today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, and check out the downtown farmer's market or live music at Paddy Mac's on August 26.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-24",
-    "updateDate": "2026-08-24T16:10:21.971Z",
+    "updateDate": "2026-08-24T17:10:59.481Z",
     "titleText": "Verona Police Report",
-    "mainText": "Reviewing the weekly reports, on August 21, an officer conducted a traffic stop where they discovered marijuana and cited a 28-year-old driver for possession.",
+    "mainText": "Looking at the weekly police report, on August 21, an officer conducted a traffic stop for expired registration and ultimately cited the driver for possession of marijuana after smelling it in the vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-24",
-    "updateDate": "2026-08-24T16:10:21.971Z",
+    "updateDate": "2026-08-24T17:10:59.481Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Make sure to stop by for today's flavor, Dark Chocolate PB Crunch, before they close their doors at 10 PM tonight.",
+    "mainText": "The Culver's flavor of the day is Dark Chocolate PB Crunch. They are open until 10 PM tonight, so there is plenty of time to stop by for a frozen custard. Tomorrow's flavor will be OREO Cookie Cheesecake.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
