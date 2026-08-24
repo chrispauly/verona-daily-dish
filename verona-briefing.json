@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-24",
-    "updateDate": "2026-08-24T03:21:49.558Z",
+    "updateDate": "2026-08-24T04:18:43.759Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, we are looking at clear skies over Badger Prairie County Park with a current temperature of 62 degrees. The moon is in a waxing gibbous phase, and as we look toward morning, the temperature will drop to an overnight low of 55 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we have clear skies at Verona Community Park under a Waxing Gibbous moon, with temperatures holding at 59 degrees and an overnight low of 53 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-24",
-    "updateDate": "2026-08-24T03:21:49.558Z",
+    "updateDate": "2026-08-24T04:18:43.759Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is accepting applications for an Engineering Technician position to oversee construction projects through September 20. Additionally, the city has implemented a rain barrel rebate program offering up to 30 dollars back for property owners, and the council recently adjusted sewer and stormwater rates to ensure our utilities remain self-supporting.",
+    "mainText": "The City of Verona is currently hiring an Engineering Technician to oversee municipal construction projects through September 20. Additionally, residents are reminded that sewer and stormwater utilities are self-supporting, and new rates have been approved to cover rising maintenance costs.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-24",
-    "updateDate": "2026-08-24T03:21:49.558Z",
+    "updateDate": "2026-08-24T04:18:43.759Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot happening today, including live music at Bailey's Run, the Verona Ice Arena, and the Wisconsin Brewing Company. Looking ahead, you can enjoy yoga tomorrow at Insight Wellness, followed by trivia nights and the downtown farmer's market next week.",
+    "mainText": "Tomorrow, you can join Yoga at Insight Wellness. Looking further ahead, we have a packed schedule starting Tuesday with trivia at Hop Haus and Lake Lou-ee, followed by more trivia and live music at Paddy Mac's, plus the downtown farmer's market on Wednesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-24",
-    "updateDate": "2026-08-24T03:21:49.558Z",
+    "updateDate": "2026-08-24T04:18:43.759Z",
     "titleText": "Verona Police Report",
-    "mainText": "A notable incident occurred on August 15 when officers responded to a vehicle stopped in the road; the driver was arrested for an O W I after she was found asleep behind the wheel.",
+    "mainText": "On August 15, Verona police officers arrested a 44-year-old Fitchburg woman for a first offence O W I after she was found unresponsive in her vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-24",
-    "updateDate": "2026-08-24T03:21:49.558Z",
+    "updateDate": "2026-08-24T04:18:43.759Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Caramel Cashew. The store is currently closed, but they will be ready to serve you starting at 10 AM tomorrow, when the flavor will be Dark Chocolate PB Crunch.",
+    "mainText": "Today's flavor of the day is the delightful Caramel Cashew. Culver's is currently closed, but they will reopen tomorrow at 10:00 AM, when you can try the Dark Chocolate PB Crunch.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
