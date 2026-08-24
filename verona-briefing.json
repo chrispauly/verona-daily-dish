@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-24",
-    "updateDate": "2026-08-24T17:10:59.481Z",
+    "updateDate": "2026-08-24T18:07:44.896Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish on the weather. We are seeing clear skies and a temperature of 72 degrees, which feels like 75 near City Hall. We are currently under a waxing gibbous moon phase.",
+    "mainText": "Hello, Verona! At 1 PM, we have clear skies with a pleasant temperature of 73 degrees near the Verona Public Library and a waxing gibbous moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-24",
-    "updateDate": "2026-08-24T17:10:59.481Z",
+    "updateDate": "2026-08-24T18:07:44.896Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Police Department has compiled a summary of notable calls for service from August 17 through August 24. These ranged from probation violation arrests to various traffic citations throughout the city.",
+    "mainText": "In city news, the Verona Police Department has published their weekly activity report for the period of August 17 through August 24, detailing various community safety incidents and service calls.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-24",
-    "updateDate": "2026-08-24T17:10:59.481Z",
+    "updateDate": "2026-08-24T18:07:44.896Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at our calendar, Yoga at Insight Wellness is happening today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, and check out the downtown farmer's market or live music at Paddy Mac's on August 26.",
+    "mainText": "We have plenty happening in town. Yoga at Insight Wellness is taking place today. Looking ahead to tomorrow, residents can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-24",
-    "updateDate": "2026-08-24T17:10:59.481Z",
+    "updateDate": "2026-08-24T18:07:44.896Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly police report, on August 21, an officer conducted a traffic stop for expired registration and ultimately cited the driver for possession of marijuana after smelling it in the vehicle.",
+    "mainText": "Among the incidents reported this week, officers responded to a motor vehicle crash on August 19 at North Main Street and Bering Drive, resulting in minor injuries.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-24",
-    "updateDate": "2026-08-24T17:10:59.481Z",
+    "updateDate": "2026-08-24T18:07:44.896Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is Dark Chocolate PB Crunch. They are open until 10 PM tonight, so there is plenty of time to stop by for a frozen custard. Tomorrow's flavor will be OREO Cookie Cheesecake.",
+    "mainText": "Today's delicious flavor of the day is Dark Chocolate PB Crunch, and you have plenty of time to enjoy a scoop since the store is open until 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
