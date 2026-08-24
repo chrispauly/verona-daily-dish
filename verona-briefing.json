@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-24",
-    "updateDate": "2026-08-24T02:29:00.965Z",
+    "updateDate": "2026-08-24T03:21:49.558Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: skies are clear over Reddan Soccer Park with a temperature of 63 degrees. We are currently under a Waxing Gibbous moon, and tonight we can expect a low of 55 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 10 PM, we are looking at clear skies over Badger Prairie County Park with a current temperature of 62 degrees. The moon is in a waxing gibbous phase, and as we look toward morning, the temperature will drop to an overnight low of 55 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-24",
-    "updateDate": "2026-08-24T02:29:00.965Z",
+    "updateDate": "2026-08-24T03:21:49.558Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is accepting applications for an Engineering Technician until September 20. Also, please note that sewer and stormwater utility rates were recently adjusted to ensure these self-supporting systems can cover necessary maintenance, equipment, and infrastructure costs.",
+    "mainText": "The City of Verona is accepting applications for an Engineering Technician position to oversee construction projects through September 20. Additionally, the city has implemented a rain barrel rebate program offering up to 30 dollars back for property owners, and the council recently adjusted sewer and stormwater rates to ensure our utilities remain self-supporting.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-24",
-    "updateDate": "2026-08-24T02:29:00.965Z",
+    "updateDate": "2026-08-24T03:21:49.558Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend! Today, catch live music at Bailey's Run and Wisconsin Brewing Company or check out the Girls Try Hockey event. Tomorrow, consider stopping by for yoga at Insight Wellness.",
+    "mainText": "There is a lot happening today, including live music at Bailey's Run, the Verona Ice Arena, and the Wisconsin Brewing Company. Looking ahead, you can enjoy yoga tomorrow at Insight Wellness, followed by trivia nights and the downtown farmer's market next week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-24",
-    "updateDate": "2026-08-24T02:29:00.965Z",
+    "updateDate": "2026-08-24T03:21:49.558Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering the week of August 10 to August 17, officers handled a notable incident on Friday involving a 44-year-old driver who was arrested for an O W I after being found unconscious in her vehicle.",
+    "mainText": "A notable incident occurred on August 15 when officers responded to a vehicle stopped in the road; the driver was arrested for an O W I after she was found asleep behind the wheel.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-24",
-    "updateDate": "2026-08-24T02:29:00.965Z",
+    "updateDate": "2026-08-24T03:21:49.558Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Caramel Cashew. Culver's is currently open, but they will be closing in less than 60 minutes, so make sure to head over soon to get your scoop.",
+    "mainText": "Today's flavor of the day is Caramel Cashew. The store is currently closed, but they will be ready to serve you starting at 10 AM tomorrow, when the flavor will be Dark Chocolate PB Crunch.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
