@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-24",
-    "updateDate": "2026-08-24T20:07:10.715Z",
+    "updateDate": "2026-08-24T21:07:44.003Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we have clear skies with temperatures sitting at 74 degrees near Badger Ridge Middle School, and the moon is currently in a waxing gibbous phase.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. We have clear skies and 74 degrees at the Verona Area High School. We are currently under a Waxing Gibbous moon, and keep an eye on the sky early tomorrow morning at 3:25 AM, when the International Space Station will be visible rising over Mount Horeb and traveling toward Madison near Home Depot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-24",
-    "updateDate": "2026-08-24T20:07:10.715Z",
+    "updateDate": "2026-08-24T21:07:44.003Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Police Department released their weekly recap covering incidents from August 17 through August 24, noting a variety of service calls ranging from traffic citations to a probation arrest.",
+    "mainText": "City Hall reports that there are no new important emails in the system today, so we are clear on that front.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-24",
-    "updateDate": "2026-08-24T20:07:10.715Z",
+    "updateDate": "2026-08-24T21:07:44.003Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at the calendar, you can catch Yoga at Insight Wellness today, while tomorrow features several trivia nights at Hop Haus, Lake Lou-ee, and Paddy Mac's.",
+    "mainText": "You have plenty to look forward to, including Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, and check out the Farmer's Market at Hometown Junction Park on Wednesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-24",
-    "updateDate": "2026-08-24T20:07:10.715Z",
+    "updateDate": "2026-08-24T21:07:44.003Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 22, officers responded to a vehicle crash on Enterprise Drive where a driver was cited for several violations including inattentive driving and failure to install an ignition interlock device.",
+    "mainText": "Looking at the weekly police report, on August 19, officers responded to North Main Street at Bering Drive for a motor vehicle accident where injuries were thankfully minor.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-24",
-    "updateDate": "2026-08-24T20:07:10.715Z",
+    "updateDate": "2026-08-24T21:07:44.003Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Make sure to satisfy your sweet tooth with the Dark Chocolate PB Crunch flavor of the day at Culver's, which is open until 10 PM this evening.",
+    "mainText": "Stop by for the Dark Chocolate PB Crunch flavor of the day. The store is open until 10 PM tonight, giving you plenty of time to grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
