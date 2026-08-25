@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-25",
-    "updateDate": "2026-08-25T07:17:59.608Z",
+    "updateDate": "2026-08-25T08:17:24.079Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish. It is a clear 57 degrees outside near Verona City Hall. We have a Waxing Gibbous moon tonight, and if you are still up at 3:25 AM, you can catch the International Space Station moving from the direction of Mount Horeb toward Madison, passing high overhead.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: it is 57 degrees with clear skies near the Military Ridge State Trail. The moon is in a Waxing Gibbous phase, and if you are up early, look to the west southwest near Mount Horeb at 3:25 AM to see the ISS travel high in the sky toward Madison near Home Depot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-25",
-    "updateDate": "2026-08-25T07:17:59.608Z",
+    "updateDate": "2026-08-25T08:17:24.079Z",
     "titleText": "Verona City News",
-    "mainText": "Regarding city business, we have no new important emails, but the police department has released their weekly recap of calls for service from August 17 through August 24.",
+    "mainText": "There are no new emails to report, but you can head to the city website to review the latest police and civic updates covering recent service calls and general city operations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-25",
-    "updateDate": "2026-08-25T07:17:59.608Z",
+    "updateDate": "2026-08-25T08:17:24.079Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a great time to be out in Verona! Today, you have your pick of trivia at Hop Haus or Wisconsin Brewing Company. Tomorrow, the town really picks up with the Farmers Market at Hometown Junction Park, yoga at Insight Wellness, pizza at Lake Lou-ee, and Trivia Night at The Bogey Factory.",
+    "mainText": "There is plenty to do in Verona. Today, enjoy trivia at Hop Haus Brewing or Lake Lou-ee at the Wisconsin Brewing Company. Tomorrow, check out the Verona Downtown Farmer's Market, yoga at Insight Wellness, or more trivia at Paddy Mac's and The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-25",
-    "updateDate": "2026-08-25T07:17:59.608Z",
+    "updateDate": "2026-08-25T08:17:24.079Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly police report, officers responded to a motor vehicle crash on August 19 at North Main Street and Bering Drive, where two drivers were cited for various traffic violations.",
+    "mainText": "In a summary of service calls from this past week, the Verona Police Department responded to incidents including a Department of Corrections warrant and a motor vehicle crash.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-25",
-    "updateDate": "2026-08-25T07:17:59.608Z",
+    "updateDate": "2026-08-25T08:17:24.079Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is OREO Cookie Cheesecake. The store is currently closed, but you can head over when they open at 10 AM to get your fix.",
+    "mainText": "Today's flavor is the fan favorite OREO Cookie Cheesecake. Since we are currently closed, stop by when the doors open at 10 AM to grab your scoop. If you miss out today, tomorrow's flavor will be Chocolate Caramel Twist.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
