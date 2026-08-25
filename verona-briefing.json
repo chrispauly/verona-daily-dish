@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-25",
-    "updateDate": "2026-08-25T05:10:59.551Z",
+    "updateDate": "2026-08-25T06:08:48.304Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. We have clear skies at Harriet Park with a temperature of 59 degrees. The moon is in its Waxing Gibbous phase, and if you look up at 3:25 AM, you can catch the International Space Station crossing from the west southwest over Mount Horeb toward Madison near the Home Depot.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we are looking at 58 degrees with clear skies near the Military Ridge State Trail. The moon is in a waxing gibbous phase, and you can spot the International Space Station at 3:25 AM as it travels from over Mount Horeb in the west-southwest toward Madison in the northeast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-25",
-    "updateDate": "2026-08-25T05:10:59.551Z",
+    "updateDate": "2026-08-25T06:08:48.304Z",
     "titleText": "Verona City News",
-    "mainText": "Checking in on the latest from city hall, there are no new emails or major news stories reported, meaning it has been a fairly quiet start to the week.",
+    "mainText": "We have no new important emails or major city news stories to report for Verona this morning, so it looks like a peaceful start to the day.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-25",
-    "updateDate": "2026-08-25T05:10:59.551Z",
+    "updateDate": "2026-08-25T06:08:48.304Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule of fun today and tomorrow. Today, join us for Hop Haus Trivia or Quizmasters Trivia at Lake Lou-ee. Tomorrow, there is plenty to do including the Verona Downtown Farmer's Market, yoga at Insight Wellness, and more trivia at The Bogey Factory.",
+    "mainText": "There is plenty to do in town today, including trivia at Hop Haus and Lake Lou-ee. Tomorrow, look forward to the farmer's market at Hometown Junction Park, yoga at Insight Wellness, and more trivia and live music around town.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-25",
-    "updateDate": "2026-08-25T05:10:59.551Z",
+    "updateDate": "2026-08-25T06:08:48.304Z",
     "titleText": "Verona Police Report",
-    "mainText": "Reviewing the weekly police report from August 17 to August 24, we saw several traffic-related incidents. Notably, on August 19, there was a vehicle crash on North Main Street that resulted in minor injuries and citations for both drivers.",
+    "mainText": "In our weekly look at police service, we noted that on August 17, officers assisted the Department of Corrections by arresting a man in the 500 block of Cross Country Road for a probation violation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-25",
-    "updateDate": "2026-08-25T05:10:59.551Z",
+    "updateDate": "2026-08-25T06:08:48.304Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is OREO Cookie Cheesecake. Since the restaurant is currently closed, you will have to wait until they open at 10:00 AM to get your fix.",
+    "mainText": "Today's Flavor of the Day is OREO Cookie Cheesecake. If you are craving a scoop, the shop opens at 10 AM today.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
