@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-25",
-    "updateDate": "2026-08-25T13:19:09.479Z",
+    "updateDate": "2026-08-25T14:15:39.291Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we are looking at clear skies and 62 degrees over Reddan Soccer Park with a Waxing Gibbous moon currently in the sky.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we are seeing a pleasant 67 degrees under clear skies at Reddan Soccer Park, with the moon currently in its waxing gibbous phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-25",
-    "updateDate": "2026-08-25T13:19:09.479Z",
+    "updateDate": "2026-08-25T14:15:39.291Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department has released their summary of notable calls for service from August 17 through August 24, including reports of traffic violations and an arrest on Cross Country Road.",
+    "mainText": "The City of Verona has announced open positions within the police department. They are seeking lateral transfer officers to assist with field operations and a part-time records clerk to manage administrative tasks and support public safety efforts.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-25",
-    "updateDate": "2026-08-25T13:19:09.479Z",
+    "updateDate": "2026-08-25T14:15:39.291Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this week, starting with trivia today at Hop Haus and Wisconsin Brewing Company, followed by a full schedule tomorrow including the downtown farmer's market and trivia at The Bogey Factory.",
+    "mainText": "We have a busy schedule ahead with trivia at Hop Haus and Lake Lou-ee happening today. Tomorrow brings the downtown farmer's market, yoga at Insight Wellness, and pizza at Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-25",
-    "updateDate": "2026-08-25T13:19:09.479Z",
+    "updateDate": "2026-08-25T14:15:39.291Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident from August 19, officers responded to a motor vehicle crash on North Main Street that resulted in minor injuries and citations for both drivers involved.",
+    "mainText": "Regarding the weekly report, on August 21, an officer conducted a traffic stop that led to a citation for possession of marijuana.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-25",
-    "updateDate": "2026-08-25T13:19:09.479Z",
+    "updateDate": "2026-08-25T14:15:39.291Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious Flavor of the Day is OREO Cookie Cheesecake. If you miss out, tomorrow's flavor is Chocolate Caramel Twist. The shop opens at 10 AM.",
+    "mainText": "Today's flavor of the day is OREO Cookie Cheesecake. If you miss out today, tomorrow's flavor will be Chocolate Caramel Twist. The store is currently closed but will open at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
