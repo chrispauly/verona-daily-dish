@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-25",
-    "updateDate": "2026-08-25T21:07:21.169Z",
+    "updateDate": "2026-08-25T22:05:36.448Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. It is a clear 79 degrees at Fireman's Park under a beautiful waxing gibbous moon.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: it is a clear 78 degrees at Harriet Park. We are looking at a Waxing Gibbous moon tonight, and the ISS will be visible tomorrow morning starting at 4:11 AM, rising over Cross Plains and heading toward Madison. Tonight, the temperature will drop to an overnight low of 65 degrees with rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-25",
-    "updateDate": "2026-08-25T21:07:21.169Z",
+    "updateDate": "2026-08-25T22:05:36.448Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is beginning an eighteen-month initiative to update its Comprehensive Plan, which serves as a long-term guide for housing, transportation, and economic development, with a final draft expected by this September. Additionally, the City Hall office is located at 111 Lincoln Street for any official business.",
+    "mainText": "The City of Verona is beginning an eighteen-month process to update the 2026 Comprehensive Plan, which serves as a long-term guide for city growth and land use. The city is using a task force to oversee the project and has launched the Envision Verona website for public participation, with a final draft expected for review this September.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-25",
-    "updateDate": "2026-08-25T21:07:21.169Z",
+    "updateDate": "2026-08-25T22:05:36.448Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community. Today, you can catch trivia at Hop Haus or Wisconsin Brewing Company. Tomorrow, the Verona Downtown Farmer's Market takes place at Hometown Junction Park, alongside yoga at Insight Wellness and trivia at The Bogey Factory.",
+    "mainText": "There is plenty to do in town, starting with trivia today at Hop Haus and the Wisconsin Brewing Company. Tomorrow, check out the Verona Downtown Farmer's Market at Hometown Junction Park or join the trivia fun at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-25",
-    "updateDate": "2026-08-25T21:07:21.169Z",
+    "updateDate": "2026-08-25T22:05:36.448Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from August 19, officers responded to a motor vehicle crash on North Main Street where minor injuries were reported and citations were issued for a suspended license and failure to yield.",
+    "mainText": "In our weekly police report, on August 19, officers responded to a motor vehicle crash at North Main Street and Bering Drive, where two drivers were cited for various traffic violations following the collision.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-25",
-    "updateDate": "2026-08-25T21:07:21.169Z",
+    "updateDate": "2026-08-25T22:05:36.448Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy the OREO Cookie Cheesecake flavor of the day at Culver's, which remains open until 10 PM tonight.",
+    "mainText": "Treat yourself to the Culver's flavor of the day, OREO Cookie Cheesecake, which is available until the store closes at 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
