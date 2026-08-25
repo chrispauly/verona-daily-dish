@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-25",
-    "updateDate": "2026-08-25T19:12:24.606Z",
+    "updateDate": "2026-08-25T20:05:56.620Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, we are enjoying a pleasant 79 degrees with clear skies around the Verona Public Library, and the moon is currently in a waxing gibbous phase.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. We have pleasant, partly cloudy skies over Badger Prairie County Park with a temperature of 79 degrees and a Waxing Gibbous moon rising.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-25",
-    "updateDate": "2026-08-25T19:12:24.606Z",
+    "updateDate": "2026-08-25T20:05:56.620Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is updating its Comprehensive Plan to guide future growth, and you can get involved by visiting the Envision Verona project website to participate in upcoming meetings.",
+    "mainText": "The city has launched an eighteen month effort to update our 2026 Comprehensive Plan, which serves as a long term guide for housing, transportation, and economic development. Residents are encouraged to visit the Envision Verona project website to participate in the planning process.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-25",
-    "updateDate": "2026-08-25T19:12:24.606Z",
+    "updateDate": "2026-08-25T20:05:56.620Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with Hop Haus Trivia and Lake Lou-ee Trivia both happening today, followed by tomorrow's downtown farmers market and live music at Paddy Mac's.",
+    "mainText": "There is plenty to do this week. Today, you can join trivia at Hop Haus or Wisconsin Brewing Company. Tomorrow, check out the Verona Downtown Farmer's Market at Hometown Junction Park, followed by trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-25",
-    "updateDate": "2026-08-25T19:12:24.606Z",
+    "updateDate": "2026-08-25T20:05:56.620Z",
     "titleText": "Verona Police Report",
-    "mainText": "In terms of public safety, on August 21, an officer conducted a traffic stop for expired registration and cited the driver for possession of marijuana.",
+    "mainText": "For this week's update, on August 21, an officer conducted a traffic stop and subsequently cited the driver for possession of marijuana after detecting the odor of the substance in the vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-25",
-    "updateDate": "2026-08-25T19:12:24.606Z",
+    "updateDate": "2026-08-25T20:05:56.620Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's delicious Oreo Cookie Cheesecake flavor at Culver's, open until 10 PM tonight.",
+    "mainText": "The Culver's flavor of the day is OREO Cookie Cheesecake. It is a delicious choice, and the store is open until 10 PM tonight, so there is plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
