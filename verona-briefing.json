@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-25",
-    "updateDate": "2026-08-25T11:07:20.695Z",
+    "updateDate": "2026-08-25T12:07:56.205Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: skies are clear over Verona Community Park, and we have a lovely Waxing Gibbous moon overhead as we start the morning at 56 degrees.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we are seeing clear skies and 56 degrees at Fireman's Park, with a Waxing Gibbous moon currently in view.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-25",
-    "updateDate": "2026-08-25T11:07:20.695Z",
+    "updateDate": "2026-08-25T12:07:56.205Z",
     "titleText": "Verona City News",
-    "mainText": "Looking at city news, the Verona Police Department released their weekly recap of service calls from August 17th to August 24th, covering everything from traffic stops to welfare checks.",
+    "mainText": "The Verona Police Department has released their summary of calls for service from August 17 through August 24, noting a variety of traffic stops, welfare checks, and safety hazard reports handled by our local officers.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-25",
-    "updateDate": "2026-08-25T11:07:20.695Z",
+    "updateDate": "2026-08-25T12:07:56.205Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, with Hop Haus Trivia and Quizmasters Trivia both taking place today, followed by a busy Wednesday that includes the Farmer's Market and trivia at The Bogey Factory.",
+    "mainText": "We have a great lineup of local fun with Hop Haus Trivia and Quizmasters Trivia both taking place today, plus a busy Wednesday featuring the Downtown Farmer's Market and music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-25",
-    "updateDate": "2026-08-25T11:07:20.695Z",
+    "updateDate": "2026-08-25T12:07:56.205Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident from August 21st, an officer conducted a traffic stop for expired registration and cited the driver for possession of marijuana after detecting the odor of the substance in the vehicle.",
+    "mainText": "Looking at the weekly report, one notable incident occurred on August 21, when a driver was cited for possession of marijuana during a traffic stop for expired registration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-25",
-    "updateDate": "2026-08-25T11:07:20.695Z",
+    "updateDate": "2026-08-25T12:07:56.205Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is OREO Cookie Cheesecake. Please note the store is currently closed but will open its doors to serve you at 10 AM tomorrow.",
+    "mainText": "The Culver's flavor of the day is OREO Cookie Cheesecake. If you miss out today, tomorrow's flavor will be Chocolate Caramel Twist, and the restaurant opens today at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
