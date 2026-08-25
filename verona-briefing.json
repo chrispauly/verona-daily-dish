@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-25",
-    "updateDate": "2026-08-25T04:13:51.965Z",
+    "updateDate": "2026-08-25T05:10:59.551Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. It is a clear 61 degrees at Badger Prairie County Park under a waxing gibbous moon, with an overnight low of 57 degrees and no rain in the forecast. If you are a night owl, you can catch the International Space Station passing high in the sky tomorrow morning at 3:25 AM, traveling from Mount Horeb toward the Madison area.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. We have clear skies at Harriet Park with a temperature of 59 degrees. The moon is in its Waxing Gibbous phase, and if you look up at 3:25 AM, you can catch the International Space Station crossing from the west southwest over Mount Horeb toward Madison near the Home Depot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-25",
-    "updateDate": "2026-08-25T04:13:51.965Z",
+    "updateDate": "2026-08-25T05:10:59.551Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department released its weekly recap covering August 17 through August 24, highlighting various incidents including arrests, traffic crashes, and drug investigations, though no new important city emails were received today.",
+    "mainText": "Checking in on the latest from city hall, there are no new emails or major news stories reported, meaning it has been a fairly quiet start to the week.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-25",
-    "updateDate": "2026-08-25T04:13:51.965Z",
+    "updateDate": "2026-08-25T05:10:59.551Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule starting tomorrow with trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music and yoga. On Tuesday, the Verona Downtown Farmer's Market will be held at Hometown Junction Park.",
+    "mainText": "We have a packed schedule of fun today and tomorrow. Today, join us for Hop Haus Trivia or Quizmasters Trivia at Lake Lou-ee. Tomorrow, there is plenty to do including the Verona Downtown Farmer's Market, yoga at Insight Wellness, and more trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-25",
-    "updateDate": "2026-08-25T04:13:51.965Z",
+    "updateDate": "2026-08-25T05:10:59.551Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 22, officers were called to Enterprise Drive regarding a vehicle versus parked vehicle crash, which resulted in several citations including inattentive driving and failure to install an ignition interlock device.",
+    "mainText": "Reviewing the weekly police report from August 17 to August 24, we saw several traffic-related incidents. Notably, on August 19, there was a vehicle crash on North Main Street that resulted in minor injuries and citations for both drivers.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-25",
-    "updateDate": "2026-08-25T04:13:51.965Z",
+    "updateDate": "2026-08-25T05:10:59.551Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Dark Chocolate PB Crunch, but since the shop is currently closed, you can stop by when they open tomorrow at 10 AM to grab a scoop or try the OREO Cookie Cheesecake flavor.",
+    "mainText": "Today's delicious flavor of the day is OREO Cookie Cheesecake. Since the restaurant is currently closed, you will have to wait until they open at 10:00 AM to get your fix.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
