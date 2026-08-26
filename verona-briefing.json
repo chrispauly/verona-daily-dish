@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-26",
-    "updateDate": "2026-08-26T09:14:56.391Z",
+    "updateDate": "2026-08-26T10:12:03.537Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: it is 69 degrees with overcast skies near Verona City Hall under a beautiful Full Moon.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we are looking at 68 degrees with partly cloudy skies at Harriet Park under a beautiful full moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-26",
-    "updateDate": "2026-08-26T09:14:56.391Z",
+    "updateDate": "2026-08-26T10:12:03.537Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has launched an effort to update its Comprehensive Plan, which serves as a long-term guide for growth. This eighteen-month project, overseen by a special task force, will shape everything from housing to economic development through 2026.",
+    "mainText": "The City of Verona is updating its Comprehensive Plan to guide long-term growth through 2026, and you are invited to visit the Envision Verona website to participate in the process.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-26",
-    "updateDate": "2026-08-26T09:14:56.391Z",
+    "updateDate": "2026-08-26T10:12:03.537Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona! Today, you can visit the Downtown Farmer's Market, enjoy Yoga at Insight Wellness, grab pizza at Lake Lou-ee, or head to The Bogey Factory for Trivia Night. Tomorrow, make sure to stop by Hop Haus for their weekly trivia session.",
+    "mainText": "Today is packed with local activities, including the farmer's market at Hometown Junction Park, yoga sessions, live music, and trivia night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-26",
-    "updateDate": "2026-08-26T09:14:56.391Z",
+    "updateDate": "2026-08-26T10:12:03.537Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 19, officers responded to a motor vehicle crash at North Main Street and Bering Drive where two drivers were cited for traffic violations following minor injuries.",
+    "mainText": "In our weekly police report, on August 19, officers investigated a motor vehicle accident on North Main Street at Bering Drive where drivers were cited for license and right of way violations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-26",
-    "updateDate": "2026-08-26T09:14:56.391Z",
+    "updateDate": "2026-08-26T10:12:03.537Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Chocolate Caramel Twist. Our local Culver's is currently closed but will open today at 10:00 AM and remain open until 10:00 PM.",
+    "mainText": "While Culver's is currently closed, they will be ready for you when they open today at 10:00 AM to serve up today's flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
