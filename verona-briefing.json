@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-26",
-    "updateDate": "2026-08-26T11:08:40.055Z",
+    "updateDate": "2026-08-26T12:08:03.779Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish. It is 67 degrees with partly cloudy skies at Fireman's Park, plus we have a Full Moon shining bright.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have clear skies and a temperature of 66 degrees near Badger Ridge Middle School, under the glow of the Full Moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-26",
-    "updateDate": "2026-08-26T11:08:40.055Z",
+    "updateDate": "2026-08-26T12:08:03.779Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is launching an eighteen-month project to update the Comprehensive Plan, which serves as a long-term guide for growth and development. You can find more details and participate in the process by visiting the Envision Verona project website.",
+    "mainText": "The City of Verona has begun an eighteen-month project to update the 2026 Comprehensive Plan, which will serve as a long-term guide for local growth and land use, with a dedicated task force now overseeing the public participation process.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-26",
-    "updateDate": "2026-08-26T11:08:40.055Z",
+    "updateDate": "2026-08-26T12:08:03.779Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is so much happening today! You can enjoy live music at Paddy Mac's, visit the downtown Farmer's Market at Hometown Junction Park, attend a yoga session at Insight Wellness, grab pizza at Lake Lou-ee, or participate in Trivia Night at The Bogey Factory.",
+    "mainText": "There is a busy schedule today with the Verona Downtown Farmer's Market, yoga at Insight Wellness, live music at Paddy Mac's, pizza at Lake Lou-ee, and trivia night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-26",
-    "updateDate": "2026-08-26T11:08:40.055Z",
+    "updateDate": "2026-08-26T12:08:03.779Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our police report for the week, on August 17, officers successfully located and arrested a 21-year-old man in the 500 block of Cross Country Road regarding a probation violation.",
+    "mainText": "Regarding local safety, on August 19, officers responded to a motor vehicle crash on North Main Street involving minor injuries where drivers were cited for operating without insurance and failing to yield.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-26",
-    "updateDate": "2026-08-26T11:08:40.055Z",
+    "updateDate": "2026-08-26T12:08:03.779Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Chocolate Caramel Twist. The restaurant opens today at 10:00 AM and will remain open until 10:00 PM.",
+    "mainText": "Today's delicious flavor is Chocolate Caramel Twist, and you can stop by when the doors open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
