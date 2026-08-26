@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-entertainment-weather-2026-07-28",
-    "updateDate": "2026-07-28T03:16:06.288Z",
+    "uid": "verona-entertainment-weather-2026-08-26",
+    "updateDate": "2026-08-26T04:14:35.612Z",
     "titleText": "Verona Weather",
-    "mainText": "<speak><voice name=\"Joanna\">Hey Verona, let&apos;s get into the dish! At 10 PM, the sky is crystal clear by the Military Ridge State Trail under a beautiful full moon. The overnight low will hit 69 degrees with no rain, though there are no visible ISS passes tonight.</voice></speak>",
+    "mainText": "Hey Verona, let's get into the dish! At 11 PM, it is 68 degrees under a Waxing Gibbous moon at City Hall. The overnight low will hit 66 degrees with rain on the way, and if you are a night owl, keep your eyes peeled for the International Space Station passing over at 4:11 AM, rising from the northwest near Cross Plains and heading northeast toward Madison.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-entertainment-news-2026-07-28",
-    "updateDate": "2026-07-28T03:16:06.288Z",
+    "uid": "verona-entertainment-news-2026-08-26",
+    "updateDate": "2026-08-26T04:14:35.612Z",
     "titleText": "Verona City News",
-    "mainText": "<speak><voice name=\"Salli\">We are getting creative in the city as the Clerk&apos;s office launches a fun contest for students to design our very own I Voted stickers for the upcoming November election.</voice></speak>",
+    "mainText": "The City is gearing up for a major 2026 update to the Comprehensive Plan, so head to the Envision Verona website to have your voice heard.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-entertainment-events-2026-07-28",
-    "updateDate": "2026-07-28T03:16:06.288Z",
+    "uid": "verona-entertainment-events-2026-08-26",
+    "updateDate": "2026-08-26T04:14:35.612Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "<speak><voice name=\"Justin\">Get moving today with Yoga at Insight Wellness, then gear up for a trivia-packed tomorrow with options at Hop Haus, Lake Lou-ee, and Paddy Mac&apos;s.</voice></speak>",
+    "mainText": "Get ready for a busy week, Verona! Tomorrow brings everything from yoga at Insight Wellness and the downtown farmer's market to brain-teasing trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-entertainment-police-2026-07-28",
-    "updateDate": "2026-07-28T03:16:06.288Z",
+    "uid": "verona-entertainment-police-2026-08-26",
+    "updateDate": "2026-08-26T04:14:35.612Z",
     "titleText": "Verona Police Report",
-    "mainText": "<speak><voice name=\"Kimberly\">In a rather wild turn of events last Thursday, officers had to handle a domestic disturbance on Lucerne Drive that resulted in an arrest.</voice></speak>",
+    "mainText": "On August 23, a 17-year-old was cited for absolute sobriety, showing that safety is always in style here.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-entertainment-culvers-2026-07-28",
-    "updateDate": "2026-07-28T03:16:06.288Z",
+    "uid": "verona-entertainment-culvers-2026-08-26",
+    "updateDate": "2026-08-26T04:14:35.612Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "<speak><voice name=\"Joey\">Treat yourself to the incredible Snickers Swirl flavor today, it is the perfect way to satisfy your sweet tooth.</voice></speak>",
+    "mainText": "We are saying goodbye to today's OREO Cookie Cheesecake flavor tonight, but get your sweet tooth ready for tomorrow's Chocolate Caramel Twist when doors open at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }

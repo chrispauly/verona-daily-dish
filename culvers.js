@@ -83,6 +83,10 @@ export async function fetchCulversDetails() {
             timeZone: tz,
             weekday: 'long'
           });
+          const tomorrowDayName = tomorrow.toLocaleDateString('en-US', {
+            timeZone: tz,
+            weekday: 'long'
+          });
 
           // Extract flavors
           const cleanFlavor = (str) => str ? str.replace(/®/g, '').replace(/™/g, '').trim() : 'unknown flavor';
@@ -91,45 +95,73 @@ export async function fetchCulversDetails() {
           const todayFlavor = cleanFlavor(todayFlavorObj?.name);
           const tomorrowFlavor = cleanFlavor(tomorrowFlavorObj?.name);
 
-          // Extract and evaluate hours for today
+          // Extract and evaluate hours for today and tomorrow
           const dayTimes = details.currentTimes?.driveThruTimes?.find(
+            t => t.day?.toLowerCase() === localDayName.toLowerCase()
+          ) || details.currentTimes?.dineInTimes?.find(
             t => t.day?.toLowerCase() === localDayName.toLowerCase()
           );
 
-          let statusText = 'Closed - Opens 10:00 AM';
+          const tomorrowDayTimes = details.currentTimes?.driveThruTimes?.find(
+            t => t.day?.toLowerCase() === tomorrowDayName.toLowerCase()
+          ) || details.currentTimes?.dineInTimes?.find(
+            t => t.day?.toLowerCase() === tomorrowDayName.toLowerCase()
+          );
+
+          const opens = dayTimes?.opens || '10:00 AM';
+          const closes = dayTimes?.closes || '10:00 PM';
+          const tomorrowOpens = tomorrowDayTimes?.opens || '10:00 AM';
+
+          const parseLocalTime = (timeStr) => {
+            const match = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+            if (!match) return null;
+            const hrs = parseInt(match[1], 10);
+            const mins = parseInt(match[2], 10);
+            const ampm = match[3].toUpperCase();
+            
+            let hr24 = hrs;
+            if (ampm === 'PM' && hrs < 12) hr24 += 12;
+            if (ampm === 'AM' && hrs === 12) hr24 = 0;
+            
+            const dt = new Date(new Date().toLocaleString("en-US", { timeZone: tz }));
+            dt.setHours(hr24, mins, 0, 0);
+            return dt;
+          };
+
+          const openDate = parseLocalTime(opens);
+          const closeDate = parseLocalTime(closes);
+          const nowLocalDate = new Date(new Date().toLocaleString("en-US", { timeZone: tz }));
+
+          let isOpen = false;
+          let isBeforeOpen = false;
+          let isClosedForNight = false;
           let closingSoon = false;
+          let statusText = '';
 
-          if (dayTimes) {
-            const opens = dayTimes.opens; // e.g. "10:00 AM"
-            const closes = dayTimes.closes; // e.g. "10:30 PM"
-
-            const parseLocalTime = (timeStr) => {
-              const match = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
-              if (!match) return null;
-              const hrs = parseInt(match[1], 10);
-              const mins = parseInt(match[2], 10);
-              const ampm = match[3].toUpperCase();
-              
-              let hr24 = hrs;
-              if (ampm === 'PM' && hrs < 12) hr24 += 12;
-              if (ampm === 'AM' && hrs === 12) hr24 = 0;
-              
-              const dt = new Date(new Date().toLocaleString("en-US", { timeZone: tz }));
-              dt.setHours(hr24, mins, 0, 0);
-              return dt;
-            };
-
-            const openDate = parseLocalTime(opens);
-            const closeDate = parseLocalTime(closes);
-            const nowLocalDate = new Date(new Date().toLocaleString("en-US", { timeZone: tz }));
-
-            if (nowLocalDate >= openDate && nowLocalDate < closeDate) {
-              statusText = `Open Until ${closes}`;
-              const diffMin = (closeDate.getTime() - nowLocalDate.getTime()) / (1000 * 60);
-              closingSoon = diffMin > 0 && diffMin <= 60;
+          if (nowLocalDate < openDate) {
+            isBeforeOpen = true;
+            isOpen = false;
+            isClosedForNight = false;
+            closingSoon = false;
+            statusText = `Closed - Opens today at ${opens}`;
+          } else if (nowLocalDate >= openDate && nowLocalDate < closeDate) {
+            isOpen = true;
+            isBeforeOpen = false;
+            isClosedForNight = false;
+            const diffMin = (closeDate.getTime() - nowLocalDate.getTime()) / (1000 * 60);
+            closingSoon = diffMin > 0 && diffMin <= 60;
+            if (closingSoon) {
+              const minsRounded = Math.round(diffMin);
+              statusText = `Open Until ${closes} (Closing soon in ${minsRounded} ${minsRounded === 1 ? 'minute' : 'minutes'})`;
             } else {
-              statusText = `Closed - Opens ${opens}`;
+              statusText = `Open Until ${closes}`;
             }
+          } else {
+            isOpen = false;
+            isBeforeOpen = false;
+            isClosedForNight = true;
+            closingSoon = false;
+            statusText = `Closed for the night - Opens tomorrow at ${tomorrowOpens}`;
           }
 
           return {
@@ -137,6 +169,12 @@ export async function fetchCulversDetails() {
             todayFlavor,
             tomorrowFlavor,
             statusText,
+            isOpen,
+            isBeforeOpen,
+            isClosedForNight,
+            openTimeToday: opens,
+            closeTimeToday: closes,
+            openTimeTomorrow: tomorrowOpens,
             closingSoon
           };
         }
@@ -171,28 +209,70 @@ export async function fetchCulversDetails() {
     todayFlavor = cleanFlavor(todayFlavor);
     tomorrowFlavor = cleanFlavor(tomorrowFlavor);
 
-    let statusText = $('button.Accordion_headingButton__5kHDW').first().text().trim();
-    if (!statusText) {
-      statusText = $('[class*="headingButton"]').first().text().trim();
-    }
-    statusText = statusText || 'Closed - Opens 10:00 AM';
+    const tz = process.env.TIMEZONE || 'America/Chicago';
+    const nowLocalDate = new Date(new Date().toLocaleString("en-US", { timeZone: tz }));
+    const currentHour24 = nowLocalDate.getHours();
+    const currentMin = nowLocalDate.getMinutes();
 
-    const closingSoon = checkClosingSoon(statusText);
+    let isOpen = false;
+    let isBeforeOpen = false;
+    let isClosedForNight = false;
+    let closingSoon = false;
+    let statusText = '';
+    const openTimeToday = '10:00 AM';
+    const closeTimeToday = '10:00 PM';
+    const openTimeTomorrow = '10:00 AM';
+
+    if (currentHour24 < 10) {
+      isBeforeOpen = true;
+      statusText = `Closed - Opens today at ${openTimeToday}`;
+    } else if (currentHour24 < 22) {
+      isOpen = true;
+      if (currentHour24 === 21) {
+        closingSoon = true;
+        const minsLeft = 60 - currentMin;
+        statusText = `Open Until ${closeTimeToday} (Closing soon in ${minsLeft} ${minsLeft === 1 ? 'minute' : 'minutes'})`;
+      } else {
+        statusText = `Open Until ${closeTimeToday}`;
+      }
+    } else {
+      isClosedForNight = true;
+      statusText = `Closed for the night - Opens tomorrow at ${openTimeTomorrow}`;
+    }
 
     return {
       success: true,
       todayFlavor,
       tomorrowFlavor,
       statusText,
+      isOpen,
+      isBeforeOpen,
+      isClosedForNight,
+      openTimeToday,
+      closeTimeToday,
+      openTimeTomorrow,
       closingSoon
     };
   } catch (error) {
     console.error("Error scraping Culver's details:", error.message);
+    const tz = process.env.TIMEZONE || 'America/Chicago';
+    const nowLocalDate = new Date(new Date().toLocaleString("en-US", { timeZone: tz }));
+    const currentHour24 = nowLocalDate.getHours();
+    const isBeforeOpen = currentHour24 < 10;
+    const isClosedForNight = currentHour24 >= 22;
+    const isOpen = currentHour24 >= 10 && currentHour24 < 22;
+
     return {
       success: false,
       todayFlavor: 'unknown flavor',
       tomorrowFlavor: 'unknown flavor',
-      statusText: 'Closed - Opens 10:00 AM',
+      statusText: isBeforeOpen ? 'Closed - Opens today at 10:00 AM' : (isOpen ? 'Open Until 10:00 PM' : 'Closed for the night - Opens tomorrow at 10:00 AM'),
+      isOpen,
+      isBeforeOpen,
+      isClosedForNight,
+      openTimeToday: '10:00 AM',
+      closeTimeToday: '10:00 PM',
+      openTimeTomorrow: '10:00 AM',
       closingSoon: false
     };
   }

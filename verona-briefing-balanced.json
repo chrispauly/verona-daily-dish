@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-07-28",
-    "updateDate": "2026-07-28T03:16:06.288Z",
+    "uid": "verona-balanced-weather-2026-08-26",
+    "updateDate": "2026-08-26T04:14:35.612Z",
     "titleText": "Verona Weather",
-    "mainText": "<speak><voice name=\"Salli\">Hello, Verona! At 10 PM, it is a clear night out by the Military Ridge State Trail with a temperature of 80 degrees. We have a full moon out tonight, but unfortunately no visible ISS passes. The overnight low will be 69 degrees, and we are not expecting any rain.</voice></speak>",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we have 68-degree partly cloudy skies at City Hall. The overnight low will be 66 degrees with rain expected. Also, catch the International Space Station tonight starting at 4:11 AM, moving from the northwest over Cross Plains toward the northeast near Madison.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-07-28",
-    "updateDate": "2026-07-28T03:16:06.288Z",
+    "uid": "verona-balanced-news-2026-08-26",
+    "updateDate": "2026-08-26T04:14:35.612Z",
     "titleText": "Verona City News",
-    "mainText": "<speak><voice name=\"Ivy\">The city is busy with new initiatives, including a community contest for students to design I Voted stickers for the November election and a new waiver process for those wishing to participate in the Senior Center&apos;s popular tri-shaw program.</voice></speak>",
+    "mainText": "Verona is currently working on an eighteen-month update to its Comprehensive Plan to guide city growth through 2026. A task force is currently overseeing the process, and residents are encouraged to visit the Envision Verona website to participate in public feedback opportunities.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-07-28",
-    "updateDate": "2026-07-28T03:16:06.288Z",
+    "uid": "verona-balanced-events-2026-08-26",
+    "updateDate": "2026-08-26T04:14:35.612Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "<speak><voice name=\"Kendra\">We have plenty going on, starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac&apos;s, followed by the Downtown Farmer&apos;s Market on Wednesday.</voice></speak>",
+    "mainText": "There is plenty happening tomorrow, including the downtown farmer's market at Hometown Junction Park, yoga at Insight Wellness, and pizza and a pitcher at Lake Lou-ee. Looking further ahead, the Verona Area Kids Triathlon takes place on August 30 at the high school.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-07-28",
-    "updateDate": "2026-07-28T03:16:06.288Z",
+    "uid": "verona-balanced-police-2026-08-26",
+    "updateDate": "2026-08-26T04:14:35.612Z",
     "titleText": "Verona Police Report",
-    "mainText": "<speak><voice name=\"Justin\">Looking at the weekly report, on July 23, officers responded to a domestic disturbance on Lucerne Drive where a 23-year-old man was arrested for disorderly conduct and intimidation of a victim.</voice></speak>",
+    "mainText": "In a report covering August 17 to August 24, officers responded to a motor vehicle crash on August 19 at North Main Street and Bering Drive, where two drivers were cited for various traffic violations following a collision that fortunately only resulted in minor injuries.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-07-28",
-    "updateDate": "2026-07-28T03:16:06.288Z",
+    "uid": "verona-balanced-culvers-2026-08-26",
+    "updateDate": "2026-08-26T04:14:35.612Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "<speak><voice name=\"Joey\">Today&apos;s flavor is Snickers Swirl, but since the restaurant is currently closed, you can look forward to stopping by when they open tomorrow at 10:00 AM to try the Georgia Peach flavor.</voice></speak>",
+    "mainText": "Culver's is currently closed for the evening. We hope you enjoyed the OREO Cookie Cheesecake today, and you can pick up a Chocolate Caramel Twist when they reopen tomorrow at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }

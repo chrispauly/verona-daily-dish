@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-quick-weather-2026-07-28",
-    "updateDate": "2026-07-28T03:16:06.288Z",
+    "uid": "verona-quick-weather-2026-08-26",
+    "updateDate": "2026-08-26T04:14:35.612Z",
     "titleText": "Verona Weather",
-    "mainText": "<speak><voice name=\"Salli\">Quick update: At 10 PM, it is a clear night near the Military Ridge State Trail with a temperature of 80 degrees, an overnight low of 69 degrees, and no rain in the forecast.</voice></speak>",
+    "mainText": "Quick update: At 11 PM, it is 68 degrees with partly cloudy skies at Verona City Hall, an overnight low of 66 degrees, and rain is predicted overnight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-quick-news-2026-07-28",
-    "updateDate": "2026-07-28T03:16:06.288Z",
+    "uid": "verona-quick-news-2026-08-26",
+    "updateDate": "2026-08-26T04:14:35.612Z",
     "titleText": "Verona City News",
-    "mainText": "<speak><voice name=\"Joey\">Verona students are invited to design an I Voted sticker for the November election by submitting entries to the City Clerk.</voice></speak>",
+    "mainText": "The City of Verona is updating its Comprehensive Plan and seeking public involvement for the 2026 vision.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-quick-events-2026-07-28",
-    "updateDate": "2026-07-28T03:16:06.288Z",
+    "uid": "verona-quick-events-2026-08-26",
+    "updateDate": "2026-08-26T04:14:35.612Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "<speak><voice name=\"Joanna\">Yoga at Insight Wellness is happening today.</voice></speak>",
+    "mainText": "Live Music at Paddy Mac's is happening tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-quick-police-2026-07-28",
-    "updateDate": "2026-07-28T03:16:06.288Z",
+    "uid": "verona-quick-police-2026-08-26",
+    "updateDate": "2026-08-26T04:14:35.612Z",
     "titleText": "Verona Police Report",
-    "mainText": "<speak><voice name=\"Justin\">On July 23, a 23-year-old man was arrested for disorderly conduct and intimidation of a victim.</voice></speak>",
+    "mainText": "On August 17, an officer arrested a man on Cross Country Road for a probation violation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-quick-culvers-2026-07-28",
-    "updateDate": "2026-07-28T03:16:06.288Z",
+    "uid": "verona-quick-culvers-2026-08-26",
+    "updateDate": "2026-08-26T04:14:35.612Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "<speak><voice name=\"Kendra\">Enjoy the delicious Snickers Swirl flavor of the day.</voice></speak>",
+    "mainText": "Culver's is closed for the night, but you can look forward to tomorrow's flavor, Chocolate Caramel Twist, when they open tomorrow at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }

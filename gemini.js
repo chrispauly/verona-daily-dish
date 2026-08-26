@@ -109,7 +109,13 @@ ${konaContext}
   * Today's Flavor of the Day: ${culvers.todayFlavor}
   * Tomorrow's Flavor of the Day: ${culvers.tomorrowFlavor}
   * Store Hours/Open Status: ${culvers.statusText}
+  * Is Store Currently Open? ${culvers.isOpen}
+  * Is Store Closed Before Opening Today (Morning)? ${culvers.isBeforeOpen}
+  * Is Store Closed For The Night? ${culvers.isClosedForNight}
   * Is Store Closing Soon (within 60 minutes)? ${culvers.closingSoon}
+  * Today's Opening Time: ${culvers.openTimeToday || '10:00 AM'}
+  * Today's Closing Time: ${culvers.closeTimeToday || '10:00 PM'}
+  * Tomorrow's Opening Time: ${culvers.openTimeTomorrow || '10:00 AM'}
 
 You must return a JSON object containing three properties: "quick", "entertainment", and "balanced".
 Each of these properties must be an object containing exactly five keys: "weather", "news", "events", "police", and "culvers".
@@ -148,7 +154,7 @@ Tone Descriptions & Instructions:
    - "news": Direct summary of the top news item or email.
    - "events": Mention the top upcoming event title and date.
    - "police": Mention one incident, specifying the day of the week or date it occurred (extracted from the recap).
-   - "culvers": Make today's flavor sound delicious! Encourage running out to grab it, especially if closing soon.
+   - "culvers": Highlight today's flavor and current store status. If closed before opening this morning, state that it opens today at ${culvers.openTimeToday || '10:00 AM'}. If closed for the night, preview tomorrow's flavor. If closing soon, urge grabbing it quickly.
 
 2. "entertainment" (A lively, enthusiastic, and fun briefing):
    - Highlight the local events, Culver's flavor, and weather with high energy, playful details, and local references.
@@ -156,7 +162,7 @@ Tone Descriptions & Instructions:
    - "news": Briefly touch on city news in a conversational, lighthearted way.
    - "events": Show off the upcoming local events in a fun, inviting way. Promote going out and enjoying them!
    - "police": Briefly summarize a police call in a lighthearted or curious way, making sure to explicitly mention the day it happened.
-   - "culvers": Make today's flavor sound delicious! Encourage running out to grab it, especially if closing soon.
+   - "culvers": Make today's flavor sound irresistible! If closed before opening this morning, hype today's flavor and mention doors open today at ${culvers.openTimeToday || '10:00 AM'}. If open, encourage them to head over (especially if closing soon!). If closed for the night, preview tomorrow's flavor opening tomorrow.
 
 3. "balanced" (A friendly, informative news anchor style):
    - A balanced and fun style that gives equal weight and detail to all five categories.
@@ -164,7 +170,7 @@ Tone Descriptions & Instructions:
    - "news": Include a couple city news stories or important email updates, prioritizing neighborhood-relevant details.  Make sure to summarize the full webpage content, not just the title and link.
    - "events": Informative summary of all events coming up in the next couple days. And highlight any big event in the near future in ${cityName}.
    - "police": A conversational reciting of exactly one noteworthy weekly incident, making sure to identify the day of the week or date it occurred.
-   - "culvers": Make today's flavor sound delicious! Encourage running out to grab it, especially if closing soon.  Let us know how soon that could be.  If they are closed, let us know the flavor for tomorrow and what time they open.
+   - "culvers": Make today's flavor sound delicious. If closed before opening this morning, state that the store opens today at ${culvers.openTimeToday || '10:00 AM'} with today's flavor. If currently open, encourage running out to grab it, noting if it closes soon. Only if the store is already closed for the night should you say it is closed for the day and preview tomorrow's flavor and opening time.
 
 Rules:
 - Start the first section of every tone ("weather") with a catchy intro, and immediately mention the current hour (e.g. "At 9 AM...", "At 8 PM...") using the provided Current Hour. Tailor the intro as follows:
@@ -182,6 +188,10 @@ Rules:
   * For all other events, refer to their dates normally (using their weekday name or date).
 - Police Pronunciation Rule: If a police report contains "OWI" (Operating While Intoxicated), always write it as "O W I" so Alexa pronounces it as the individual letters "O", "W", "I" without pauses.
 - Kona Ice Rule: If the Kona Ice schedule updates contain scheduled stops in Verona for **today** (the same day: ${todayStrOnly}), you MUST mention the Kona Ice locations and times **exclusively** in the "culvers" section of each tone, alongside the Culver's flavor (e.g. telling listeners they can also grab a Kona Ice at Fireman's Park today from 11 AM to 4 PM). Do NOT mention Kona Ice in the weather, news, events, or police sections. If there are no Verona stops today, or if the data is empty/unavailable, do NOT mention Kona Ice at all in the briefing.
+- Culver's Timing Rule: Pay strict attention to the store's open status:
+  * Morning before open (when "Is Store Closed Before Opening Today (Morning)?" is true or status mentions opens today): Always focus on **today's flavor** and explicitly say the store opens **today at ${culvers.openTimeToday || '10:00 AM'}** (e.g. "Culver's opens today at 10 AM with today's flavor of the day..."). DO NOT say it opens tomorrow.
+  * Currently open (when "Is Store Currently Open?" is true): Focus on **today's flavor** and mention closing time or if closing soon.
+  * Night after close (when "Is Store Closed For The Night?" is true): Mention that today's flavor is wrapped up and preview **tomorrow's flavor** and that the store opens **tomorrow at ${culvers.openTimeTomorrow || '10:00 AM'}**.
 - Keep them interesting and readable by text-to-speech.
 `;
 
@@ -314,27 +324,46 @@ function generateFallbackScript({ weather, rssItems, policeRecap, culvers, email
     }
   }
 
+  let culversQuick = '';
+  let culversEnt = '';
+  let culversBalanced = '';
+
+  if (culvers.isBeforeOpen) {
+    culversQuick = `Culver's flavor today is ${culvers.todayFlavor}, opening today at ${culvers.openTimeToday || '10:00 AM'}.${konaNotice}`;
+    culversEnt = `Time for a treat! Today's Culver's flavor of the day is a delicious scoop of ${culvers.todayFlavor}, opening today at ${culvers.openTimeToday || '10:00 AM'}!${konaNotice}`;
+    culversBalanced = `Today's Culver's Flavor of the Day is ${culvers.todayFlavor}. The restaurant opens today at ${culvers.openTimeToday || '10:00 AM'}.${konaNotice}`;
+  } else if (culvers.isOpen) {
+    const closingText = culvers.closingSoon ? ' (closing soon!)' : '';
+    culversQuick = `Culver's today is ${culvers.todayFlavor}, open until ${culvers.closeTimeToday || '10:00 PM'}${closingText}.${konaNotice}`;
+    culversEnt = `Time for a treat! Today's Culver's flavor of the day is a delicious scoop of ${culvers.todayFlavor}! Grab a scoop before they close at ${culvers.closeTimeToday || '10:00 PM'}.${konaNotice}`;
+    culversBalanced = `We sign off with today's Culver's Flavor of the Day: ${culvers.todayFlavor}. The restaurant is open until ${culvers.closeTimeToday || '10:00 PM'}.${konaNotice}`;
+  } else {
+    culversQuick = `Culver's is closed for the night. Tomorrow's flavor will be ${culvers.tomorrowFlavor}, opening tomorrow at ${culvers.openTimeTomorrow || '10:00 AM'}.${konaNotice}`;
+    culversEnt = `Time for a treat! Today's flavor was ${culvers.todayFlavor}, and tomorrow we get ${culvers.tomorrowFlavor}, opening tomorrow at ${culvers.openTimeTomorrow || '10:00 AM'}!${konaNotice}`;
+    culversBalanced = `Today's Culver's flavor was ${culvers.todayFlavor}. The restaurant is closed for the night and will open tomorrow at ${culvers.openTimeTomorrow || '10:00 AM'} featuring ${culvers.tomorrowFlavor}.${konaNotice}`;
+  }
+
   return {
     quick: {
       weather: `Quick update: At ${weather.currentHour || '9 AM'}, it is ${weather.temp} degrees and ${weather.condition} at ${weather.landmark}.${aqiNotice}${overnightNotice}`,
       news: `City update: ${cleanNews}.`,
       events: `Upcoming: ${cleanEvent}.`,
       police: `In police news: ${policeDay}, officers noted ${cleanPolice}.`,
-      culvers: `Culver's today is ${culvers.todayFlavor}. Store is ${culvers.statusText.includes('Closed') ? 'closed' : 'open'}.${konaNotice}`
+      culvers: culversQuick
     },
     entertainment: {
       weather: `Hey ${cityName}, let's get into the dish! At ${weather.currentHour || '9 AM'}, we've got ${weather.temp} degrees and ${weather.condition} over at ${weather.landmark}.${aqiNotice}${overnightNotice} ${weather.isDay ? 'Get out and enjoy the sunshine!' : `Look up to see that lovely ${weather.moonPhase}!`} ${iss.hasPass ? 'Keep your eyes on the skies!' : ''}`,
       news: `A quick note from city hall: ${cleanNews}.`,
       events: `Looking for fun? Check out ${cleanEvent}!`,
       police: `A bit of neighborhood drama: ${policeDay}, ${cleanPolice}.`,
-      culvers: `Time for a treat! Today's Culver's flavor of the day is a delicious scoop of ${culvers.todayFlavor}! Tomorrow we get ${culvers.tomorrowFlavor}.${konaNotice}`
+      culvers: culversEnt
     },
     balanced: {
       weather: `Hello, ${cityName}! At ${weather.currentHour || '9 AM'}, here is today's balanced dish. Over at ${weather.landmark}, it is currently ${weather.temp} degrees with ${weather.condition}.${aqiNotice}${overnightNotice} ${!weather.isDay ? `Tonight we have a ${weather.moonPhase}.` : ''} ${iss.hasPass ? iss.text : ''}`,
       news: `In city affairs, the latest update is: ${cleanNews}.`,
       events: `If you are planning your week, we have local events coming up, including ${cleanEvent}.`,
       police: `From the police department weekly log: ${policeDay}, ${cleanPolice}.`,
-      culvers: `We sign off with today's Culver's Flavor of the Day: ${culvers.todayFlavor}. The restaurant status is ${culvers.statusText}.${konaNotice}`
+      culvers: culversBalanced
     }
   };
 }
