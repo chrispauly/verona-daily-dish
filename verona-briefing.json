@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-26",
-    "updateDate": "2026-08-26T10:12:03.537Z",
+    "updateDate": "2026-08-26T11:08:40.055Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we are looking at 68 degrees with partly cloudy skies at Harriet Park under a beautiful full moon.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish. It is 67 degrees with partly cloudy skies at Fireman's Park, plus we have a Full Moon shining bright.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-26",
-    "updateDate": "2026-08-26T10:12:03.537Z",
+    "updateDate": "2026-08-26T11:08:40.055Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is updating its Comprehensive Plan to guide long-term growth through 2026, and you are invited to visit the Envision Verona website to participate in the process.",
+    "mainText": "The City of Verona is launching an eighteen-month project to update the Comprehensive Plan, which serves as a long-term guide for growth and development. You can find more details and participate in the process by visiting the Envision Verona project website.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-26",
-    "updateDate": "2026-08-26T10:12:03.537Z",
+    "updateDate": "2026-08-26T11:08:40.055Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with local activities, including the farmer's market at Hometown Junction Park, yoga sessions, live music, and trivia night at The Bogey Factory.",
+    "mainText": "There is so much happening today! You can enjoy live music at Paddy Mac's, visit the downtown Farmer's Market at Hometown Junction Park, attend a yoga session at Insight Wellness, grab pizza at Lake Lou-ee, or participate in Trivia Night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-26",
-    "updateDate": "2026-08-26T10:12:03.537Z",
+    "updateDate": "2026-08-26T11:08:40.055Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on August 19, officers investigated a motor vehicle accident on North Main Street at Bering Drive where drivers were cited for license and right of way violations.",
+    "mainText": "In our police report for the week, on August 17, officers successfully located and arrested a 21-year-old man in the 500 block of Cross Country Road regarding a probation violation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-26",
-    "updateDate": "2026-08-26T10:12:03.537Z",
+    "updateDate": "2026-08-26T11:08:40.055Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "While Culver's is currently closed, they will be ready for you when they open today at 10:00 AM to serve up today's flavor of the day.",
+    "mainText": "Today's delicious flavor of the day is Chocolate Caramel Twist. The restaurant opens today at 10:00 AM and will remain open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
