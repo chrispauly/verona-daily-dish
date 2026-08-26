@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-26",
-    "updateDate": "2026-08-26T14:15:11.767Z",
+    "updateDate": "2026-08-26T15:50:19.896Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish. We have beautiful clear skies at Badger Prairie County Park and a pleasant temperature of 73 degrees under a full moon.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. We have clear skies and a temperature of 76 degrees at the Verona Area High School, with a beautiful full moon tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-26",
-    "updateDate": "2026-08-26T14:15:11.767Z",
+    "updateDate": "2026-08-26T15:50:19.896Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Mayor Diaz has proclaimed September as National Senior Center Month to celebrate the vital role our senior center plays in community well-being. Also, the Plan Commission is meeting on September 8th to review several development projects including new daycare zoning and the final draft of the Envision Verona Comprehensive Plan.",
+    "mainText": "The city is preparing for the November election, with early voting available at City Hall, and the Plan Commission will review several development proposals on September 8.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-26",
-    "updateDate": "2026-08-26T14:15:11.767Z",
+    "updateDate": "2026-08-26T15:50:19.896Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule for the next few days. Today you can enjoy live music at Paddy Mac's, yoga at Insight Wellness, the Farmer's Market at Hometown Junction Park, pizza at Wisconsin Brewing Company, or trivia at The Bogey Factory. Tomorrow brings trivia at Hop Haus, and looking ahead to the weekend, we have live music at Bailey's Run and Wisconsin Brewing Company, the Dane County Farmer's Market on Friday, and the Verona Area Kids Triathlon this Sunday.",
+    "mainText": "Today, enjoy live music at Paddy Mac's, yoga at Insight Wellness, a visit to the downtown Farmer's Market, pizza at Lake Lou-ee, or trivia at The Bogey Factory. Tomorrow, catch more trivia at Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-26",
-    "updateDate": "2026-08-26T14:15:11.767Z",
+    "updateDate": "2026-08-26T15:50:19.896Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from our weekly report, on August 19, officers responded to North Main Street and Bering Drive for a motor vehicle accident where two drivers were cited for various traffic violations following the collision.",
+    "mainText": "On August 17, the Verona Police Department successfully located and arrested a 21-year-old man on Cross Country Road for a probation violation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-26",
-    "updateDate": "2026-08-26T14:15:11.767Z",
+    "updateDate": "2026-08-26T15:50:19.896Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor at Culver's is the delicious Chocolate Caramel Twist. Please note the store is currently closed but will open today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is Chocolate Caramel Twist. The store is currently open until 10:00 PM, so stop by and enjoy a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
