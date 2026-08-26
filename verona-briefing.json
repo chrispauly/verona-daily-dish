@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-26",
-    "updateDate": "2026-08-26T05:16:51.755Z",
+    "updateDate": "2026-08-26T06:16:23.550Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. Expect temperatures around 69 degrees with partly cloudy skies near Reddan Soccer Park. We have a Waxing Gibbous moon, and the ISS will be visible tonight starting at 4:11 AM for three minutes, traveling from the Northwest over Cross Plains toward the Northeast near Madison.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: expect a temperature of 67 degrees with overcast skies at Reddan Soccer Park. Under the Full Moon tonight, you can also catch a glimpse of the International Space Station at 4:11 AM as it moves from the direction of Cross Plains toward Madison near Home Depot for about three minutes.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-26",
-    "updateDate": "2026-08-26T05:16:51.755Z",
+    "updateDate": "2026-08-26T06:16:23.550Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is working on a new Comprehensive Plan to guide future growth and development through 2026. They have established a task force and a project website called Envision Verona to keep residents informed and involved in the planning process.",
+    "mainText": "The City of Verona has begun the eighteen-month process of updating its Comprehensive Plan to guide future growth and land use, with a final draft expected for review in September. Citizens are encouraged to visit the Envision Verona website to participate in the planning process.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-26",
-    "updateDate": "2026-08-26T05:16:51.755Z",
+    "updateDate": "2026-08-26T06:16:23.550Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a busy lineup in Verona today, featuring Live Music at Paddy Mac's, Yoga at Insight Wellness, the Verona Downtown Farmer's Market, and Trivia Night at The Bogey Factory.",
+    "mainText": "There is plenty to do in Verona today, including the Downtown Farmer's Market at Hometown Junction Park, yoga at Insight Wellness, and trivia at The Bogey Factory. Looking ahead, you can catch trivia at Hop Haus Brewing tomorrow, plus live music at Bailey's Run and Wisconsin Brewing Company this Thursday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-26",
-    "updateDate": "2026-08-26T05:16:51.755Z",
+    "updateDate": "2026-08-26T06:16:23.550Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department released their weekly report for the period of August 17 to August 24, noting a specific incident involving a DOC warrant.",
+    "mainText": "The Verona Police Department released their weekly recap, noting that officers responded to a motor vehicle crash this past Monday.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-26",
-    "updateDate": "2026-08-26T05:16:51.755Z",
+    "updateDate": "2026-08-26T06:16:23.550Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can look forward to the delicious Chocolate Caramel Twist as your flavor of the day. The store opens today at 10:00 AM, so plan your visit to enjoy a treat.",
+    "mainText": "You can enjoy today's flavor of the day, which is Chocolate Caramel Twist, when the restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
