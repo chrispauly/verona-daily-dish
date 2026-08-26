@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-26",
-    "updateDate": "2026-08-26T17:55:47.622Z",
+    "updateDate": "2026-08-26T18:36:43.641Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish. It is a pleasant 78 degrees at Harriet Park with clear skies and a full moon.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. We have clear skies today near the Verona Public Library with a pleasant temperature of 79 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-26",
-    "updateDate": "2026-08-26T17:55:47.622Z",
+    "updateDate": "2026-08-26T18:36:43.641Z",
     "titleText": "Verona City News",
-    "mainText": "The city is preparing for the November election, with early voting available at City Hall, and the Plan Commission is meeting on September 8 to discuss new daycare and rental zoning rules.",
+    "mainText": "The city has a lot going on. Mayor Diaz has proclaimed September as National Senior Center Month to honor our seniors. Also, the Senior Center is currently managing meal orders and offering a wide variety of fitness classes, from chair yoga to bicycle rides, to keep everyone active and healthy.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-26",
-    "updateDate": "2026-08-26T17:55:47.622Z",
+    "updateDate": "2026-08-26T18:36:43.641Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today, from the Verona Downtown Farmer's Market at Hometown Junction Park to Trivia Night at The Bogey Factory, followed by Hop Haus Trivia tomorrow.",
+    "mainText": "There is plenty to do in town. Today features the Verona Downtown Farmer's Market, Yoga at Insight Wellness, and live music at Paddy Mac's, plus pizza at Lake Lou-ee and trivia at The Bogey Factory. Looking ahead, you can catch Hop Haus Trivia tomorrow, live music at Bailey's Run and Lake Lou-ee on August 28, the Dane County Farmer's Market on August 29, and the Kids Triathlon on August 30.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-26",
-    "updateDate": "2026-08-26T17:55:47.622Z",
+    "updateDate": "2026-08-26T18:36:43.641Z",
     "titleText": "Verona Police Report",
-    "mainText": "During a traffic stop on August 21, an officer cited a 28-year-old man for possession of marijuana after smelling the substance inside the vehicle.",
+    "mainText": "Regarding local activity, on August 21, a police officer conducted a traffic stop for an expired registration and subsequently cited the driver for possession of marijuana after smelling the substance in the vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-26",
-    "updateDate": "2026-08-26T17:55:47.622Z",
+    "updateDate": "2026-08-26T18:36:43.641Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Chocolate Caramel Twist, and you can stop by Culver's anytime before they close at 10 PM.",
+    "mainText": "Today's delicious flavor of the day is Mint Cookie. The restaurant is currently open and serving guests until 11 PM, so make sure to stop by soon.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
