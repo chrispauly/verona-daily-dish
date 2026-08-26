@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-26",
-    "updateDate": "2026-08-26T15:50:19.896Z",
+    "updateDate": "2026-08-26T16:27:57.711Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. We have clear skies and a temperature of 76 degrees at the Verona Area High School, with a beautiful full moon tonight.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. We have clear skies and a pleasant 77 degrees by the Verona Public Library, all under the glow of a full moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-26",
-    "updateDate": "2026-08-26T15:50:19.896Z",
+    "updateDate": "2026-08-26T16:27:57.711Z",
     "titleText": "Verona City News",
-    "mainText": "The city is preparing for the November election, with early voting available at City Hall, and the Plan Commission will review several development proposals on September 8.",
+    "mainText": "The city is currently preparing for elections, with early voting available at City Hall through the next few weeks. Also, the Plan Commission is meeting on September 8 to discuss new development projects including daycares and short-term rentals.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-26",
-    "updateDate": "2026-08-26T15:50:19.896Z",
+    "updateDate": "2026-08-26T16:27:57.711Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, enjoy live music at Paddy Mac's, yoga at Insight Wellness, a visit to the downtown Farmer's Market, pizza at Lake Lou-ee, or trivia at The Bogey Factory. Tomorrow, catch more trivia at Hop Haus.",
+    "mainText": "There is plenty to do in our city today, including the farmer's market at Hometown Junction Park, trivia at The Bogey Factory, and live music at Paddy Mac's. Looking ahead, the Verona Area Kids Triathlon is taking place on August 30.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-26",
-    "updateDate": "2026-08-26T15:50:19.896Z",
+    "updateDate": "2026-08-26T16:27:57.711Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 17, the Verona Police Department successfully located and arrested a 21-year-old man on Cross Country Road for a probation violation.",
+    "mainText": "In our weekly report, on August 19, officers responded to a motor vehicle accident on North Main Street where a 19-year-old was cited for driving with a suspended license and a 20-year-old was cited for failing to yield.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-26",
-    "updateDate": "2026-08-26T15:50:19.896Z",
+    "updateDate": "2026-08-26T16:27:57.711Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Chocolate Caramel Twist. The store is currently open until 10:00 PM, so stop by and enjoy a scoop.",
+    "mainText": "Today's delicious flavor is Chocolate Caramel Twist. Our local Culver's is currently open, so stop by anytime before 10 PM to grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
