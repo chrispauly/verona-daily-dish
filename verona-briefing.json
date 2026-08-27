@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-08-26",
-    "updateDate": "2026-08-26T23:01:19.404Z",
+    "uid": "verona-balanced-weather-2026-08-27",
+    "updateDate": "2026-08-27T01:19:44.144Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: we have clear skies and a comfortable 77 degrees near the Verona Public Library. The full moon is out tonight, and the ISS will be visible rising in the west over Mount Horeb at 3:25 AM, heading toward the northeast. The overnight low will be 61 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have clear skies at Firemans Park with a temperature of 71 degrees. The full moon is out, and we have a special treat tonight as the International Space Station will be visible at 3:25 AM. Look for it rising in the west over Mount Horeb, moving northeast toward the Madison area near the Home Depot, and reaching about halfway up the sky. Overnight, temperatures will drop to a low of 61 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-08-26",
-    "updateDate": "2026-08-26T23:01:19.404Z",
+    "uid": "verona-balanced-news-2026-08-27",
+    "updateDate": "2026-08-27T01:19:44.144Z",
     "titleText": "Verona City News",
-    "mainText": "The city has a few updates to share. September is now recognized as National Senior Center Month, honoring our older residents. Additionally, the Senior Center is rolling out a new tri-shaw bike program where you can take a free ride on the Military Ridge State Trail, and they continue to offer a variety of daily meal options and exercise classes to keep our community active.",
+    "mainText": "Mayor Diaz has officially proclaimed September as National Senior Center Month, celebrating the center's role in our community. Additionally, the Senior Center is hosting a new tri-shaw bike program that offers free 30-minute rides for seniors along the Military Ridge State Trail, with volunteers piloting these electric-assist machines.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-08-26",
-    "updateDate": "2026-08-26T23:01:19.404Z",
+    "uid": "verona-balanced-events-2026-08-27",
+    "updateDate": "2026-08-27T01:19:44.144Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town over the next few days. Today you can enjoy music at Paddy Mac's, trivia at the Bogey Factory, or the farmer's market at Hometown Junction Park. Tomorrow, check out trivia at Hop Haus, and later this week we have live music at Bailey's Run and Lake Lou-ee, followed by the kids triathlon this Saturday.",
+    "mainText": "There is plenty to do in town, starting with the Verona Downtown Farmers Market today at Hometown Junction Park. Also happening today is Wednesday Pizza and a Pitcher at Lake Lou-ee and trivia night at The Bogey Factory. Looking ahead, you can enjoy live music at Hop Haus tomorrow, or head to Bailey's Run Vineyard and Wisconsin Brewing Company this Thursday for more live music.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-08-26",
-    "updateDate": "2026-08-26T23:01:19.404Z",
+    "uid": "verona-balanced-police-2026-08-27",
+    "updateDate": "2026-08-27T01:19:44.144Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local public safety, on Thursday, August 20, officers handled several routine calls, and specifically on August 22, a driver was cited in the 1200 block of Enterprise Drive for multiple violations including inattentive driving and operating after revocation.",
+    "mainText": "Regarding local activity, on August 17, officers responded to a request from the Department of Corrections and successfully located and arrested a 21-year-old man in the 500 block of Cross Country Road for a probation violation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-08-26",
-    "updateDate": "2026-08-26T23:01:19.404Z",
+    "uid": "verona-balanced-culvers-2026-08-27",
+    "updateDate": "2026-08-27T01:19:44.144Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor at Culver's is the crowd-pleasing Chocolate Caramel Twist. The restaurant is currently open, so make sure to stop by before they close their doors at 10:00 PM.",
+    "mainText": "Today's delicious flavor of the day is Chocolate Caramel Twist. The restaurant is currently open and serving until 10:00 PM, so there is still plenty of time to stop in and enjoy a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
