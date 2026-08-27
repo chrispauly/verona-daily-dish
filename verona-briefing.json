@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-27",
-    "updateDate": "2026-08-27T18:32:25.591Z",
+    "updateDate": "2026-08-27T22:20:16.590Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. We have clear skies and a comfortable temperature of 78 degrees at Reddan Soccer Park, and we are under a full moon tonight.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: skies are clear near Verona City Hall. Tonight features a full moon, and the International Space Station will be visible at 4:12 AM, traveling from the direction of Verona High School in the northwest toward the northeast. Expect an overnight low of 60 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-27",
-    "updateDate": "2026-08-27T18:32:25.591Z",
+    "updateDate": "2026-08-27T22:20:16.590Z",
     "titleText": "Verona City News",
-    "mainText": "Verona has officially proclaimed September as Suicide Prevention Month, emphasizing that mental health is a public health priority. Additionally, we are honoring our local code officials today for their work in maintaining public safety throughout our community.",
+    "mainText": "In city news, Highway M will have lane flagging for utility work starting August 31 through September 1. Additionally, September is designated as Suicide Prevention Month, and September 1 is Building Inspector and Code Staff Appreciation Day to honor our local safety guardians.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-27",
-    "updateDate": "2026-08-27T18:32:25.591Z",
+    "updateDate": "2026-08-27T22:20:16.590Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona. Yoga at Insight Wellness is happening today, and you can join Hop Haus for trivia tonight. Tomorrow, look forward to live music at both Bailey's Run Vineyard and the Wisconsin Brewing Company.",
+    "mainText": "We have a busy schedule ahead. Today you can attend Yoga at Insight Wellness or catch Hop Haus Trivia. Tomorrow, look for live music at Bailey's Run Vineyard and the Wisconsin Brewing Company. Also, mark your calendars for the Verona Area Kids Triathlon on August 30.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-27",
-    "updateDate": "2026-08-27T18:32:25.591Z",
+    "updateDate": "2026-08-27T22:20:16.590Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on August 17, officers were called to the 500 block of Cross Country Road where they located and arrested a 21-year-old man from Blue Mounds for a probation violation.",
+    "mainText": "On August 21, an officer conducted a traffic stop for expired registration and subsequently cited the driver for possession of marijuana after detecting an odor.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-27",
-    "updateDate": "2026-08-27T18:32:25.591Z",
+    "updateDate": "2026-08-27T22:20:16.590Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's today to enjoy the flavor of the day, Caramel Fudge Cookie Dough. The restaurant is currently open and will remain open for you until 10 PM tonight.",
+    "mainText": "The Culver's flavor of the day is Caramel Fudge Cookie Dough. The restaurant is currently open and will remain so until 10 PM tonight, so there is plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
