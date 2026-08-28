@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-28",
-    "updateDate": "2026-08-28T11:46:37.254Z",
+    "updateDate": "2026-08-28T16:03:13.974Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: we have clear skies at Badger Prairie County Park, 56 degrees, and an air quality index of 52. The full moon is currently overhead.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we have clear skies with a temperature of 75 degrees near the Verona Area High School and an air quality index of 54.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-28",
-    "updateDate": "2026-08-28T11:46:37.254Z",
+    "updateDate": "2026-08-28T16:03:13.974Z",
     "titleText": "Verona City News",
-    "mainText": "Construction alert for Hwy M, where flaggers will manage traffic on Monday and Tuesday for utility work. Also, September is Suicide Prevention Month in Verona, bringing awareness to this critical public health issue.",
+    "mainText": "September is set to be a busy month for our community. Mayor Diaz has proclaimed September as both Hunger Action Month and Suicide Prevention Month to raise awareness for these critical local and national issues.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-28",
-    "updateDate": "2026-08-28T11:46:37.254Z",
+    "updateDate": "2026-08-28T16:03:13.974Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot happening, including live music today at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, check out the Farmers Market at the Capitol or music at Paddy Mac's, followed by the Kids Triathlon on August 30.",
+    "mainText": "We have a packed schedule! Live music is playing today at Bailey's Run and Wisconsin Brewing Company. Tomorrow, check out the Dane County Farmers' Market or enjoy music at Paddy Mac's. Looking ahead, the Kids Triathlon and Girls Try Hockey events are both happening this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-28",
-    "updateDate": "2026-08-28T11:46:37.254Z",
+    "updateDate": "2026-08-28T16:03:13.974Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 19, there was a motor vehicle crash with injuries on North Main Street, where two drivers were cited for various traffic violations.",
+    "mainText": "During the week of August 17 to August 24, the department handled various calls. Notably, on August 22, officers responded to a vehicle crash where a driver was cited for multiple offences including operating after revocation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-28",
-    "updateDate": "2026-08-28T11:46:37.254Z",
+    "updateDate": "2026-08-28T16:03:13.974Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is OREO Cookie Overload, and the store opens today at 10:00 AM for you to enjoy your treat.",
+    "mainText": "Today's delicious flavor is OREO Cookie Overload. The store is currently open and will remain open until 10:30 PM, so stop by and enjoy a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
