@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-28",
-    "updateDate": "2026-08-28T04:37:55.465Z",
+    "updateDate": "2026-08-28T07:33:19.543Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. We have clear skies and 61 degrees at Harriet Park. A full moon is out, and you can spot the International Space Station at 4:12 AM as it crosses from the Northwest over Verona High School toward Madison. The temperature will drop to an overnight low of 57 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: the temperature is 58 degrees with clear skies at Badger Prairie County Park. We have a full moon tonight and the International Space Station will be visible for three minutes starting at 4:12 AM, rising in the northwest near Verona High School and heading northeast toward Home Depot, staying low on the horizon. Please note that the air quality index is 51.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-28",
-    "updateDate": "2026-08-28T04:37:55.465Z",
+    "updateDate": "2026-08-28T07:33:19.543Z",
     "titleText": "Verona City News",
-    "mainText": "Regarding city news, road work is planned on Highway M for utility connections on Monday and Tuesday, which will include traffic flagging. Also, September is designated as Suicide Prevention Month to raise awareness, and September 1 marks Building Inspector and Code Staff Appreciation Day to thank those who keep our infrastructure safe.",
+    "mainText": "In city news, Highway M will see lane flagging for utility work this coming Monday and Tuesday, so please plan for extra travel time. Additionally, Mayor Diaz has proclaimed September as Suicide Prevention Month and today as Building Inspector and Code Staff Appreciation Day to honor those who keep our infrastructure safe.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-28",
-    "updateDate": "2026-08-28T04:37:55.465Z",
+    "updateDate": "2026-08-28T07:33:19.543Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "For upcoming plans, enjoy live music tomorrow at Bailey's Run and Wisconsin Brewing Company. Looking further ahead, the Dane County Farmers Market is Friday, followed by the Verona Area Kids Triathlon this Sunday.",
+    "mainText": "We have a lively lineup ahead with live music today at both Bailey's Run Vineyard and Lake Lou-ee, followed by the Dane County Farmer's Market tomorrow, the Verona Area Kids Triathlon on Sunday, and trivia nights starting at various venues next week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-28",
-    "updateDate": "2026-08-28T04:37:55.465Z",
+    "updateDate": "2026-08-28T07:33:19.543Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police recap, on August 19, officers responded to a motor vehicle crash on North Main Street where a 19-year-old driver was cited for operating with a suspended license.",
+    "mainText": "Regarding local safety, on August 19, officers responded to a motor vehicle crash at North Main Street and Bering Drive. Two drivers were cited, one for driving with a suspended license and another for failing to yield at a stop sign, though injuries were minor.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-28",
-    "updateDate": "2026-08-28T04:37:55.465Z",
+    "updateDate": "2026-08-28T07:33:19.543Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is closed for the evening. Tomorrow, the store opens at 10:00 AM and will be serving the OREO Cookie Overload flavor of the day.",
+    "mainText": "The flavor of the day is OREO Cookie Overload. The store opens today at 10:00 AM, so stop in anytime until they close at 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
