@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-29",
-    "updateDate": "2026-08-29T19:05:03.721Z",
+    "updateDate": "2026-08-29T20:05:11.735Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We are seeing 73 degrees with overcast skies down at Fireman's Park, all under a full moon.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we have overcast skies and 72-degree temperatures around Harriet Park. We have a full moon gracing us tonight as well.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-29",
-    "updateDate": "2026-08-29T19:05:03.721Z",
+    "updateDate": "2026-08-29T20:05:11.735Z",
     "titleText": "Verona City News",
-    "mainText": "September 2026 is officially Hunger Action Month in Verona, a proclamation by Mayor Diaz to support nutrition security, alongside roadwork on Highway M which will require flaggers this Monday and Tuesday to assist with utility connections.",
+    "mainText": "September is officially Hunger Action Month in Verona, focusing on nutrition security for our residents, and September 1 is designated as Building Inspector and Code Staff Appreciation Day to recognize our local safety guardians.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-29",
-    "updateDate": "2026-08-29T19:05:03.721Z",
+    "updateDate": "2026-08-29T20:05:11.735Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Enjoy the Dane County Farmers Market today, get ready for the Kids Triathlon tomorrow, or look forward to Yoga at Insight Wellness on August 31.",
+    "mainText": "The Dane County Farmers Market is happening today at the Capitol, and tomorrow features the Verona Area Kids Triathlon at the high school alongside a free Girls Try Hockey event at the Ice Arena.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-29",
-    "updateDate": "2026-08-29T19:05:03.721Z",
+    "updateDate": "2026-08-29T20:05:11.735Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly look back, officers conducted a traffic stop on August 21 and cited a 28-year-old Madison man for possession of marijuana.",
+    "mainText": "On August 19, the Verona Police Department responded to a two-vehicle collision at North Main Street and Bering Drive, resulting in citations for both drivers involved.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-29",
-    "updateDate": "2026-08-29T19:05:03.721Z",
+    "updateDate": "2026-08-29T20:05:11.735Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by today to enjoy the delicious Mint Explosion flavor of the day. The store is currently open and will be serving up treats until 10:30 PM.",
+    "mainText": "The flavor of the day is Mint Explosion, and you can stop by anytime before the store closes at 10:30 PM to enjoy a serving.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
