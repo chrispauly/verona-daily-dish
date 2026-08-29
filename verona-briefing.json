@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-29",
-    "updateDate": "2026-08-29T15:04:53.821Z",
+    "updateDate": "2026-08-29T16:05:26.519Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: expect a temperature of 72 degrees with overcast skies near Fireman's Park and an air quality index of 51.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: expect 71 degrees with overcast skies near the Verona Public Library and an air quality index of 51 during this full moon period.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-29",
-    "updateDate": "2026-08-29T15:04:53.821Z",
+    "updateDate": "2026-08-29T16:05:26.519Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Mayor Luke Diaz has proclaimed September as Hunger Action Month and Suicide Prevention Month to support community health and equity. Additionally, expect some traffic delays on Highway M on Monday and Tuesday as crews perform necessary utility work.",
+    "mainText": "September is upon us, and the city has proclaimed it both Hunger Action and Suicide Prevention Month to support those in need. Additionally, please plan for extra travel time on Highway M due to construction flagging, and join the city in celebrating our local building and code staff today.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-29",
-    "updateDate": "2026-08-29T15:04:53.821Z",
+    "updateDate": "2026-08-29T16:05:26.519Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with action, starting with the Dane County Farmer's Market and local live music spots like Bailey's Run and Paddy Mac's. Looking ahead to tomorrow, check out the Verona Area Kids Triathlon at the high school or the Girls Try Hockey event at the ice arena.",
+    "mainText": "There is plenty to do, starting with the Dane County Farmers Market today and live music performances at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company. Tomorrow, the Verona Area Kids Triathlon takes place at the high school, followed by the Girls Try Hockey event at the Verona Ice Arena.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-29",
-    "updateDate": "2026-08-29T15:04:53.821Z",
+    "updateDate": "2026-08-29T16:05:26.519Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly look at local reports, on August 21, an officer conducted a traffic stop for expired registration and cited the driver for possession of marijuana after detecting an odor inside the vehicle.",
+    "mainText": "In our weekly look at local reports, on August 17, officers successfully located and arrested a 21 year old man in the 500 block of Cross Country Road regarding a probation violation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-29",
-    "updateDate": "2026-08-29T15:04:53.821Z",
+    "updateDate": "2026-08-29T16:05:26.519Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's today to enjoy their flavorful Mint Explosion! The restaurant is currently open and will be serving guests until 10:30 PM tonight.",
+    "mainText": "Today is the perfect day to stop by for our flavor of the day, Mint Explosion. The store is currently open and will be serving until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
