@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-29",
-    "updateDate": "2026-08-29T20:05:11.735Z",
+    "updateDate": "2026-08-29T21:04:48.739Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we have overcast skies and 72-degree temperatures around Harriet Park. We have a full moon gracing us tonight as well.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. We have clear skies and a comfortable temperature of 74 degrees out by the Military Ridge State Trail, perfect for enjoying the view of the Full Moon this evening.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-29",
-    "updateDate": "2026-08-29T20:05:11.735Z",
+    "updateDate": "2026-08-29T21:04:48.739Z",
     "titleText": "Verona City News",
-    "mainText": "September is officially Hunger Action Month in Verona, focusing on nutrition security for our residents, and September 1 is designated as Building Inspector and Code Staff Appreciation Day to recognize our local safety guardians.",
+    "mainText": "City Hall is busy with important updates. Mayor Diaz has proclaimed September as both Hunger Action Month and Suicide Prevention Month, while also designating today as Building Inspector and Code Staff Appreciation Day to thank our local safety guardians.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-29",
-    "updateDate": "2026-08-29T20:05:11.735Z",
+    "updateDate": "2026-08-29T21:04:48.739Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "The Dane County Farmers Market is happening today at the Capitol, and tomorrow features the Verona Area Kids Triathlon at the high school alongside a free Girls Try Hockey event at the Ice Arena.",
+    "mainText": "We have a packed schedule starting with the Dane County Farmers Market today. Looking ahead, the Verona Area Kids Triathlon and the Girls Try Hockey event are both set for tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-29",
-    "updateDate": "2026-08-29T20:05:11.735Z",
+    "updateDate": "2026-08-29T21:04:48.739Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 19, the Verona Police Department responded to a two-vehicle collision at North Main Street and Bering Drive, resulting in citations for both drivers involved.",
+    "mainText": "In our weekly police report, on August 17, officers responded to the 500 block of Cross Country Road where they arrested a 21-year-old man for a probation violation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-29",
-    "updateDate": "2026-08-29T20:05:11.735Z",
+    "updateDate": "2026-08-29T21:04:48.739Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Mint Explosion, and you can stop by anytime before the store closes at 10:30 PM to enjoy a serving.",
+    "mainText": "Stop by for a treat because today's flavor is Mint Explosion, and the store remains open until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
