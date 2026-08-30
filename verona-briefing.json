@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-30",
-    "updateDate": "2026-08-30T12:08:04.187Z",
+    "updateDate": "2026-08-30T13:05:00.973Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. We have clear skies and a pleasant 70 degrees at Badger Prairie County Park.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish. We are enjoying 72-degree temperatures with clear skies at the Reddan Soccer Park under a waning gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-30",
-    "updateDate": "2026-08-30T12:08:04.187Z",
+    "updateDate": "2026-08-30T13:05:00.973Z",
     "titleText": "Verona City News",
-    "mainText": "Verona is focusing on community well-being this September. Mayor Luke Diaz has proclaimed September as Hunger Action Month to address food insecurity affecting many families, and also as Suicide Prevention Month to raise awareness and provide resources for those in need.",
+    "mainText": "In city news, Mayor Diaz has proclaimed September 2026 as Hunger Action Month, highlighting that 1 in 8 residents face food insecurity. Additionally, traffic on Highway M will see flagging for utility work starting Monday and Tuesday.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-30",
-    "updateDate": "2026-08-30T12:08:04.187Z",
+    "updateDate": "2026-08-30T13:05:00.973Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot to do in town today, including the Verona Area Kids Triathlon, the Girls Try Hockey event at the Verona Ice Arena, and live music at Bailey's Run and Wisconsin Brewing Company.",
+    "mainText": "There is a lot happening today, including the Kids Triathlon at the high school, live music at Bailey's Run, and tunes at the Wisconsin Brewing Company. Tomorrow, consider catching a yoga class at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-30",
-    "updateDate": "2026-08-30T12:08:04.187Z",
+    "updateDate": "2026-08-30T13:05:00.973Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on August 19, officers responded to a motor vehicle crash on North Main Street at Bering Drive where drivers were cited for licensing and right of way violations.",
+    "mainText": "In a noteworthy update from last week, on August 21, a driver was stopped for expired registration and subsequently cited for possession of marijuana.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-30",
-    "updateDate": "2026-08-30T12:08:04.187Z",
+    "updateDate": "2026-08-30T13:05:00.973Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Crazy for Cookie Dough. The store opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is Crazy for Cookie Dough. Culver's opens today at 10:00 AM, so plan your visit to enjoy a scoop of this local favorite.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
