@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-30",
-    "updateDate": "2026-08-30T19:04:22.551Z",
+    "updateDate": "2026-08-30T20:05:09.711Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we have overcast skies and a temperature of 79 degrees near the Verona Public Library, with a Waning Gibbous moon appearing overhead tonight.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we have temperatures near 74 degrees with some slight rain expected near Harriet Park and a Waning Gibbous moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-30",
-    "updateDate": "2026-08-30T19:04:22.551Z",
+    "updateDate": "2026-08-30T20:05:09.711Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Mayor Diaz has proclaimed September 2026 as Hunger Action Month to address food insecurity for our neighbors, and please be aware that flagging on Highway M will cause traffic delays this Monday and Tuesday due to utility work.",
+    "mainText": "In city news, September has been proclaimed Hunger Action Month to address food insecurity facing many local residents, plus heads up that flagging on Highway M continues on Monday and Tuesday for utility work which may cause travel delays.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-30",
-    "updateDate": "2026-08-30T19:04:22.551Z",
+    "updateDate": "2026-08-30T20:05:09.711Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot happening today, including the Verona Area Kids Triathlon, live music at Bailey's Run and the Wisconsin Brewing Company, plus the Girls Try Hockey event at the arena, with yoga classes available tomorrow at Insight Wellness.",
+    "mainText": "There is plenty to do today, including the Verona Area Kids Triathlon, live music at Bailey's Run and the Wisconsin Brewing Company, and a free Girls Try Hockey event at the Verona Ice Arena.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-30",
-    "updateDate": "2026-08-30T19:04:22.551Z",
+    "updateDate": "2026-08-30T20:05:09.711Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, on August 21, an officer conducted a traffic stop for expired registration and subsequently cited the driver for possession of marijuana.",
+    "mainText": "In a look at the weekly report, on August 19, officers handled a motor vehicle crash at North Main Street and Bering Drive where drivers were cited for issues including a suspended license and failure to yield.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-30",
-    "updateDate": "2026-08-30T19:04:22.551Z",
+    "updateDate": "2026-08-30T20:05:09.711Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor at Culver's is the delicious Crazy for Cookie Dough, and since the store is currently open until 10 PM, there is still plenty of time to stop by for a treat.",
+    "mainText": "Stop by Culver's today to enjoy their flavor of the day, Crazy for Cookie Dough, before they close at 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
