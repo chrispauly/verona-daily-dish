@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-30",
-    "updateDate": "2026-08-30T08:07:06.386Z",
+    "updateDate": "2026-08-30T09:05:45.589Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: we have overcast skies at Reddan Soccer Park with a temperature of 71 degrees. The moon is in its Waning Gibbous phase, and if you are up early, you can spot the space station at 4:14 AM as it travels from the northwest near the high school toward the northeast near Home Depot.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: we have overcast skies near the library, a Waning Gibbous moon, and a special treat for space fans as the ISS will be visible for four minutes starting at 4:14 AM, moving from the northwest near Verona High School toward the northeast near Home Depot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-30",
-    "updateDate": "2026-08-30T08:07:06.386Z",
+    "updateDate": "2026-08-30T09:05:45.589Z",
     "titleText": "Verona City News",
-    "mainText": "Mayor Diaz has issued two important proclamations for the month of September. September is officially Hunger Action Month to raise awareness about local food insecurity, and September 1 is dedicated as Building Inspector and Code Staff Appreciation Day to honor our local safety guardians.",
+    "mainText": "September is here, and the City of Verona has proclaimed this Hunger Action Month to address food insecurity and Suicide Prevention Month to provide resources for mental health, while also honoring our building and code staff for their dedication to public safety.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-30",
-    "updateDate": "2026-08-30T08:07:06.386Z",
+    "updateDate": "2026-08-30T09:05:45.589Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town. Today, the Verona Area Kids Triathlon is taking place at the high school. Tomorrow, you can enjoy yoga at Insight Wellness, and look forward to trivia nights starting Tuesday at Hop Haus and Wisconsin Brewing Company.",
+    "mainText": "There is a lot to do this weekend, including the Verona Area Kids Triathlon, a Girls Try Hockey event, and live music at Bailey's Run and the Wisconsin Brewing Company today, with yoga sessions starting tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-30",
-    "updateDate": "2026-08-30T08:07:06.386Z",
+    "updateDate": "2026-08-30T09:05:45.589Z",
     "titleText": "Verona Police Report",
-    "mainText": "During the week of August 17 to August 24, the police department handled several calls. On August 17, officers located and arrested a 21-year-old man on Cross Country Road regarding a probation violation.",
+    "mainText": "In our weekly look at police activity, on August 21, an officer conducted a traffic stop for expired registration that resulted in a citation for possession of marijuana.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-30",
-    "updateDate": "2026-08-30T08:07:06.386Z",
+    "updateDate": "2026-08-30T09:05:45.589Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delightful Crazy for Cookie Dough. Since the store is currently closed, please note that it opens today at 10:00 AM and will remain open until 10:00 PM.",
+    "mainText": "For those looking for a sweet snack, today's flavor of the day is Crazy for Cookie Dough. Please note that the store is currently closed, but will open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
