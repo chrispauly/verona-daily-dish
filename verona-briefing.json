@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-30",
-    "updateDate": "2026-08-30T10:05:14.977Z",
+    "updateDate": "2026-08-30T11:12:37.833Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we are seeing 71 degrees with partly cloudy skies near Badger Ridge Middle School. Under a waning gibbous moon, keep an eye on the sky at 5:50 AM to spot the International Space Station rising in the northwest over Verona High School and traveling east toward Fitchburg, peaking about halfway up the sky.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish. We have clear skies over Verona Community Park and it feels like 68 degrees with a current temperature of 70 degrees, under a waning gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-30",
-    "updateDate": "2026-08-30T10:05:14.977Z",
+    "updateDate": "2026-08-30T11:12:37.833Z",
     "titleText": "Verona City News",
-    "mainText": "September 2026 is designated as Hunger Action Month in Verona to combat food insecurity affecting 1 in 8 residents in Southwest Wisconsin. Additionally, be aware that flagging will occur on Highway M this Monday and Tuesday for utility work, so please plan for potential travel delays.",
+    "mainText": "City news includes Mayor Diaz proclaiming September as Hunger Action Month and Suicide Prevention Month. Additionally, please be aware of flagging on Highway M this Monday and Tuesday for utility work, and the Mayor has declared today Building Inspector and Code Staff Appreciation Day.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-30",
-    "updateDate": "2026-08-30T10:05:14.977Z",
+    "updateDate": "2026-08-30T11:12:37.833Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today, including the Verona Area Kids Triathlon, free girls try hockey at the Verona Ice Arena, and live music at both Bailey's Run and the Wisconsin Brewing Company. Looking ahead, you can enjoy yoga tomorrow at Insight Wellness and trivia at local favorites like Hop Haus and Paddy Mac's early next week.",
+    "mainText": "Today features several local activities including the Verona Area Kids Triathlon, the Girls Try Hockey event, and live music at Bailey's Run and the Wisconsin Brewing Company. Looking ahead, we have yoga at Insight Wellness tomorrow and various trivia nights starting Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-30",
-    "updateDate": "2026-08-30T10:05:14.977Z",
+    "updateDate": "2026-08-30T11:12:37.833Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, on August 17, the department arrested a 21-year-old man in the 500 block of Cross Country Road for a probation violation.",
+    "mainText": "The Verona Police Department released a weekly recap showing they responded to several calls, including a motor vehicle crash that occurred last Monday.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-30",
-    "updateDate": "2026-08-30T10:05:14.977Z",
+    "updateDate": "2026-08-30T11:12:37.833Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Crazy for Cookie Dough. The store will open today at 10:00 AM, so be sure to stop by and grab a scoop.",
+    "mainText": "Today's flavor of the day is the delicious Crazy for Cookie Dough. The store opens today at 10:00 AM and will remain open until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
