@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-30",
-    "updateDate": "2026-08-30T13:05:00.973Z",
+    "updateDate": "2026-08-30T14:05:28.323Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish. We are enjoying 72-degree temperatures with clear skies at the Reddan Soccer Park under a waning gibbous moon.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish on the weather, which is clear and 77 degrees at Fireman's Park, with a Waning Gibbous moon appearing overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-30",
-    "updateDate": "2026-08-30T13:05:00.973Z",
+    "updateDate": "2026-08-30T14:05:28.323Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Mayor Diaz has proclaimed September 2026 as Hunger Action Month, highlighting that 1 in 8 residents face food insecurity. Additionally, traffic on Highway M will see flagging for utility work starting Monday and Tuesday.",
+    "mainText": "The city has proclaimed September as Hunger Action Month to help combat food insecurity affecting 1 in 8 residents, while crews are also reminding drivers to prepare for flagging delays on Highway M this Monday and Tuesday for utility work.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-30",
-    "updateDate": "2026-08-30T13:05:00.973Z",
+    "updateDate": "2026-08-30T14:05:28.323Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot happening today, including the Kids Triathlon at the high school, live music at Bailey's Run, and tunes at the Wisconsin Brewing Company. Tomorrow, consider catching a yoga class at Insight Wellness.",
+    "mainText": "There is a lot going on today with the Verona Area Kids Triathlon at the high school, plus live music performances at both Bailey's Run Vineyard and the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-30",
-    "updateDate": "2026-08-30T13:05:00.973Z",
+    "updateDate": "2026-08-30T14:05:28.323Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy update from last week, on August 21, a driver was stopped for expired registration and subsequently cited for possession of marijuana.",
+    "mainText": "In a report on police activity, officers responded to a motor vehicle crash on August 19 at North Main Street and Bering Drive, where two drivers were cited for various traffic violations following a collision that caused minor injuries.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-30",
-    "updateDate": "2026-08-30T13:05:00.973Z",
+    "updateDate": "2026-08-30T14:05:28.323Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Crazy for Cookie Dough. Culver's opens today at 10:00 AM, so plan your visit to enjoy a scoop of this local favorite.",
+    "mainText": "The Culver's flavor of the day is Crazy for Cookie Dough and the restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
