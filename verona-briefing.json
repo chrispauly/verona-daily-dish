@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-31",
-    "updateDate": "2026-08-31T18:08:02.498Z",
+    "updateDate": "2026-08-31T19:04:39.764Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: skies are clear near Badger Ridge Middle School with a temperature of 88 degrees.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we are seeing mainly clear skies at Verona City Hall with a temperature of 88 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-31",
-    "updateDate": "2026-08-31T18:08:02.498Z",
+    "updateDate": "2026-08-31T19:04:39.764Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the beach at Fireman's Park is now closed for the season, though the splash pad stays open daily until 7 PM. Additionally, crews are currently working to fix a water main break near 212 Todd Street, so please be aware of potential service disruptions.",
+    "mainText": "In city news, the City of Verona has updated their regulations, requiring annual licenses for all short-term rentals. Additionally, please note that the Fireman's Park Beach is now closed for the season, though the splash pad remains open daily.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-31",
-    "updateDate": "2026-08-31T18:08:02.498Z",
+    "updateDate": "2026-08-31T19:04:39.764Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule ahead, including Yoga at Insight Wellness today, followed by trivia nights at Hop Haus, Lake Lou-ee, and Paddy Mac's tomorrow.",
+    "mainText": "There is plenty to do in our community. Join us for Yoga at Insight Wellness today, followed by a full schedule of activities tomorrow including trivia nights at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-31",
-    "updateDate": "2026-08-31T18:08:02.498Z",
+    "updateDate": "2026-08-31T19:04:39.764Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a look at the weekly report, on August 17, officers arrested a man in the 500 block of Cross Country Road for a probation violation.",
+    "mainText": "Looking at the police report, on August 17, officers responded to the 500 block of Cross Country Road where they successfully took a 21-year-old man into custody for a probation violation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-31",
-    "updateDate": "2026-08-31T18:08:02.498Z",
+    "updateDate": "2026-08-31T19:04:39.764Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's to enjoy today's delicious flavor, Turtle Dove, before they close for the evening at 10:00 PM.",
+    "mainText": "You can enjoy today's delicious flavor of the day, Turtle Dove, while the store is open until 10:00 PM this evening.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
