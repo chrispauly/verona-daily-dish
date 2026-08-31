@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-31",
-    "updateDate": "2026-08-31T15:06:03.382Z",
+    "updateDate": "2026-08-31T16:06:29.285Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we are seeing overcast skies at Verona Community Park with a temperature of 82 degrees.",
+    "mainText": "Hello, Verona! At 11 AM, we are looking at clear skies with a temperature of 84 degrees, making it a beautiful day out at Reddan Soccer Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-31",
-    "updateDate": "2026-08-31T15:06:03.382Z",
+    "updateDate": "2026-08-31T16:06:29.285Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Fireman's Park Beach has officially closed for the 2026 season, and public works crews are currently responding to a water main break near 212 Todd Street that has temporarily affected local water service.",
+    "mainText": "We have two city updates for you. First, the Fireman's Park beach is closed for the season. Second, Public Works crews are currently on the scene at 212 Todd Street to repair a water main break.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-31",
-    "updateDate": "2026-08-31T15:06:03.382Z",
+    "updateDate": "2026-08-31T16:06:29.285Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule ahead with Yoga at Insight Wellness taking place today. Looking toward tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, and the downtown Farmer's Market kicks off on Tuesday.",
+    "mainText": "There is plenty to do in town. Yoga at Insight Wellness is today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-31",
-    "updateDate": "2026-08-31T15:06:03.382Z",
+    "updateDate": "2026-08-31T16:06:29.285Z",
     "titleText": "Verona Police Report",
-    "mainText": "Reviewing the police department report, on August 19, officers responded to a motor vehicle crash at North Main Street and Bering Drive, where two drivers were cited for various traffic violations.",
+    "mainText": "For our weekly report, on August 17, police arrested a 21-year-old man in the 500 block of Cross Country Road for a probation violation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-31",
-    "updateDate": "2026-08-31T15:06:03.382Z",
+    "updateDate": "2026-08-31T16:06:29.285Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "If you are looking for a sweet treat, Culver's is serving up Turtle Dove as the flavor of the day. The restaurant is open and welcoming guests until 10:00 PM tonight.",
+    "mainText": "Today's featured flavor is Turtle Dove. The store is currently open and serving until 10 PM, so stop by and grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
