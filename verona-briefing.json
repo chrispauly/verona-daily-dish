@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-31",
-    "updateDate": "2026-08-31T22:05:26.769Z",
+    "updateDate": "2026-08-31T23:05:24.383Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: expect 86 degrees at Verona Community Park under partly cloudy skies. Tonight the moon is a Waning Gibbous, and you can catch the space station passing from the Northwest over Verona High School towards the East Northeast at 4:17 AM. Overnight, the temperature will drop to 71 degrees with no rain expected.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: we are seeing overcast skies at Reddan Soccer Park with an actual temperature of 84 degrees. Tonight, the low will reach 71 degrees with no rain predicted. If you are a night owl, the ISS will be visible tomorrow morning at 4:17 AM for 4 minutes, rising in the northwest near Verona High School and heading toward Fitchburg.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-31",
-    "updateDate": "2026-08-31T22:05:26.769Z",
+    "updateDate": "2026-08-31T23:05:24.383Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is updating their flooring starting September 1, which will cause limited access and closures through September 11, and crews are currently working to repair a water main break near Todd Street.",
+    "mainText": "In city news, the Verona Senior Center is beginning a flooring replacement project on September 1, which will impact availability with closures through September 11, including a Labor Day closure. Also, public works crews are currently addressing a water main break near 212 Todd Street, so expect service interruptions in that immediate area.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-31",
-    "updateDate": "2026-08-31T22:05:26.769Z",
+    "updateDate": "2026-08-31T23:05:24.383Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Yoga at Insight Wellness is available today, followed by a busy Tuesday schedule featuring trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music and the downtown farmer's market.",
+    "mainText": "For your calendar, Yoga at Insight Wellness is today. Tomorrow is packed with trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music and the downtown Farmer's Market are happening Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-31",
-    "updateDate": "2026-08-31T22:05:26.769Z",
+    "updateDate": "2026-08-31T23:05:24.383Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 27, a traffic stop led to the arrest of a 56-year-old passenger who had several outstanding arrest warrants while the driver was cited for registration issues.",
+    "mainText": "In a noteworthy call from August 25, officers and EMS successfully saved a 68-year-old man who was not breathing by using an AED during a medical emergency on Enterprise Drive.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-31",
-    "updateDate": "2026-08-31T22:05:26.769Z",
+    "updateDate": "2026-08-31T23:05:24.383Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Turtle Dove, and you have until 10:00 PM tonight to head over to the store and enjoy it.",
+    "mainText": "Today's flavor of the day is the delightful Turtle Dove. The store is currently open until 10 PM, so there is plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
