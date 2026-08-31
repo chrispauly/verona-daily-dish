@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-08-31",
-    "updateDate": "2026-08-31T12:09:27.671Z",
+    "updateDate": "2026-08-31T13:06:21.667Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have clear skies with a pleasant temperature of 71 degrees at the Military Ridge State Trail and a waning gibbous moon above.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish. We are seeing a pleasant 73 degrees with clear skies near Harriet Park, and we have a Waning Gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-08-31",
-    "updateDate": "2026-08-31T12:09:27.671Z",
+    "updateDate": "2026-08-31T13:06:21.667Z",
     "titleText": "Verona City News",
-    "mainText": "Mayor Luke Diaz has officially proclaimed September 2026 as Hunger Action Month in Verona. This initiative aims to combat food insecurity in our area, where 1 in 8 residents struggle to access enough nutritious food, and encourages community volunteering and advocacy.",
+    "mainText": "Mayor Luke Diaz has officially proclaimed September 2026 as Hunger Action Month. This initiative highlights that food insecurity affects one in eight residents in Southwest Wisconsin, and the city is encouraging everyone to support efforts like the Second Harvest Foodbank to ensure all our neighbors have access to the nutrition they need.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-08-31",
-    "updateDate": "2026-08-31T12:09:27.671Z",
+    "updateDate": "2026-08-31T13:06:21.667Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty happening around town starting with yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus or Lake Lou-ee, followed by a busy Tuesday featuring the downtown Farmer's Market, trivia at Paddy Mac's and the Bogey Factory, and live music at Paddy Mac's.",
+    "mainText": "We have plenty going on in town. Today, you can join Yoga at Insight Wellness. Tomorrow features a busy lineup including Hop Haus Trivia, Quizmasters Trivia at Lake Lou-ee, Dream Day Trivia at Paddy Mac's, and the Verona Downtown Farmer's Market.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-08-31",
-    "updateDate": "2026-08-31T12:09:27.671Z",
+    "updateDate": "2026-08-31T13:06:21.667Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on August 17, officers successfully located and arrested a 21-year-old man in the 500 block of Cross Country Road on a request from the Department of Corrections for a probation violation.",
+    "mainText": "In our weekly report, on August 21, officers stopped a vehicle for expired registration and subsequently cited the driver for possession of marijuana after smelling the substance in the car.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-08-31",
-    "updateDate": "2026-08-31T12:09:27.671Z",
+    "updateDate": "2026-08-31T13:06:21.667Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Turtle Dove. The store is currently closed, but it opens today at 10:00 AM so you can swing by and grab a scoop.",
+    "mainText": "For your dessert fix, today's flavor of the day is Turtle Dove. The store is currently closed, but will open today at 10:00 AM for you to enjoy a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
