@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-01",
-    "updateDate": "2026-09-01T17:05:18.832Z",
+    "updateDate": "2026-09-01T18:07:30.248Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we have clear skies and a high of 86 degrees near Badger Ridge Middle School, with a Waning Gibbous moon phase.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we are seeing clear skies with a temperature of 88 degrees, though the heat index makes it feel like 99 degrees near the Verona Public Library.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-01",
-    "updateDate": "2026-09-01T17:05:18.832Z",
+    "updateDate": "2026-09-01T18:07:30.248Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is replacing flooring throughout the building starting September 1, so please note that wellness, outdoor, and exercise programs are the only services available through September 4, with a closure for Labor Day on September 7.",
+    "mainText": "In city news, the Senior Center is undergoing flooring upgrades starting September 1, leading to modified hours, and residents should note that all city facilities will be closed for Labor Day on September 7.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-01",
-    "updateDate": "2026-09-01T17:05:18.832Z",
+    "updateDate": "2026-09-01T18:07:30.248Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule today, starting with Hop Haus Trivia at Hop Haus Brewing Co. and Quizmasters Trivia at Wisconsin Brewing Company happening today.",
+    "mainText": "We have a busy couple of days ahead. Today you can catch trivia at Hop Haus or Wisconsin Brewing Company. Tomorrow, check out the Farmer's Market at Hometown Junction Park or enjoy live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-01",
-    "updateDate": "2026-09-01T17:05:18.832Z",
+    "updateDate": "2026-09-01T18:07:30.248Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local safety, on August 25, officers responded to a medical emergency on Enterprise Drive where they successfully used an automated external defibrillator to save a man's life.",
+    "mainText": "In our weekly police recap, we noted that on August 25, officers successfully used an AED to save a man experiencing a medical emergency in the 1100 block of Enterprise Drive.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-01",
-    "updateDate": "2026-09-01T17:05:18.832Z",
+    "updateDate": "2026-09-01T18:07:30.248Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Chocolate Heath Crunch, and you have plenty of time to enjoy a treat as the store remains open until 10 PM tonight.",
+    "mainText": "Today at Culver's, enjoy the delicious Chocolate Heath Crunch. The store is currently open and will be serving up scoops until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
