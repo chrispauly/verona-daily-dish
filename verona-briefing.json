@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-01",
-    "updateDate": "2026-09-01T13:06:01.921Z",
+    "updateDate": "2026-09-01T14:06:54.840Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish on the weather, which features 73 degree temperatures and foggy conditions at Verona City Hall, with a waning gibbous moon overhead.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: expect a temperature of 77 degrees under overcast skies at Reddan Soccer Park, with the moon currently in a waning gibbous phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-01",
-    "updateDate": "2026-09-01T13:06:01.921Z",
+    "updateDate": "2026-09-01T14:06:54.840Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is updating their flooring starting September 1, which will limit some services until the open house on September 10.",
+    "mainText": "Important city updates include the Labor Day holiday schedule, where city facilities and the drop-off site will be closed on Monday, September 7, though the brush site remains open. Additionally, the Verona Senior Center is updating its flooring, resulting in limited programming through September 9.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-01",
-    "updateDate": "2026-09-01T13:06:01.921Z",
+    "updateDate": "2026-09-01T14:06:54.840Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of fun ahead with Hop Haus Trivia and Quizmasters Trivia both taking place today, followed by the Downtown Farmer's Market tomorrow.",
+    "mainText": "There is plenty to do around town, with trivia happening today at both Hop Haus and Lake Lou-ee. Looking toward tomorrow, you can enjoy yoga at Insight Wellness, the Downtown Farmer's Market, or Wednesday night trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-01",
-    "updateDate": "2026-09-01T13:06:01.921Z",
+    "updateDate": "2026-09-01T14:06:54.840Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 30, officers responded to a report of a vehicle window being smashed in the 800 block of North Edge Trail, and they are currently seeking the suspect.",
+    "mainText": "In a noteworthy call from August 25, Verona police officers successfully utilized an AED to revive a 68-year-old man who was pulseless and not breathing during a medical emergency.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-01",
-    "updateDate": "2026-09-01T13:06:01.921Z",
+    "updateDate": "2026-09-01T14:06:54.840Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's flavor, Chocolate Heath Crunch, as you plan your day, noting that the restaurant opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is Chocolate Heath Crunch. Please note that the store opens today at 10:00 AM to serve you.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
