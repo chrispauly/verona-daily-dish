@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-01",
-    "updateDate": "2026-09-01T10:06:36.912Z",
+    "updateDate": "2026-09-01T11:05:48.307Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish. We are seeing temperatures around 70 degrees with fog along the Military Ridge State Trail. It is a Waning Gibbous moon phase tonight, and if you are up early, look for the International Space Station passing over at 5:52 AM, rising in the west-northwest over Cross Plains and traveling toward the east-southeast near Festival Foods, where it will be visible almost directly overhead.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: current temperatures are at 70 degrees with foggy conditions near the Verona Public Library, though it feels more like 76 degrees. We are currently under a Waning Gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-01",
-    "updateDate": "2026-09-01T10:06:36.912Z",
+    "updateDate": "2026-09-01T11:05:48.307Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Senior Center is undergoing a major flooring renovation starting September 1. Residents should note that the center will have limited programming from September 1 through 9, with a full closure on Labor Day. Also, public works crews are currently addressing a water main break near 212 Todd Street, which has caused a temporary water shutoff for local properties.",
+    "mainText": "City officials have announced that the Verona Senior Center will undergo a flooring replacement project starting September 1, resulting in limited services and closures through September 11. Also, crews are currently managing a water main break near 212 Todd Street, which has caused a temporary loss of water service for some neighborhood properties.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-01",
-    "updateDate": "2026-09-01T10:06:36.912Z",
+    "updateDate": "2026-09-01T11:05:48.307Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of activity to look forward to. Today, Hop Haus Trivia is at Hop Haus Brewing Co. and Quizmasters Trivia is held at the Wisconsin Brewing Company. Tomorrow, you can look forward to the Downtown Farmer's Market at Hometown Junction Park, trivia at The Bogey Factory, and more live music and pizza specials around town.",
+    "mainText": "Today, you can join the fun at Hop Haus Trivia or Quizmasters Trivia at Wisconsin Brewing Company. Looking toward tomorrow, the schedule includes the Verona Downtown Farmer's Market, yoga at Insight Wellness, Wednesday Pizza and a Pitcher at Lake Lou-ee, and Trivia Night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-01",
-    "updateDate": "2026-09-01T10:06:36.912Z",
+    "updateDate": "2026-09-01T11:05:48.307Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly police report, on August 30, officers were called to the 800 block of North Edge Trail for a vehicle window that was smashed intentionally. The suspect fled the scene, but officers have identified the individual and have an arrest warrant pending.",
+    "mainText": "In a notable call from August 25, officers responded to a medical emergency on Enterprise Drive where they successfully used an AED to assist a patient, who then regained a pulse.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-01",
-    "updateDate": "2026-09-01T10:06:36.912Z",
+    "updateDate": "2026-09-01T11:05:48.307Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Chocolate Heath Crunch. The store is currently closed, but it will open today at 10:00 AM to serve you.",
+    "mainText": "The Culver's flavor of the day is Chocolate Heath Crunch. Please note that the store opens today at 10:00 AM, so you have plenty of time to head out and enjoy a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
