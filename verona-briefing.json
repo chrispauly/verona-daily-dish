@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-01",
-    "updateDate": "2026-09-01T20:08:43.633Z",
+    "updateDate": "2026-09-01T21:05:30.780Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: it is 90 degrees with overcast skies at Verona City Hall, and the moon is currently in a Waning Gibbous phase.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: it is 90 degrees with clear skies at the Verona Community Park. The moon is in its waning gibbous phase, and although it is too early to see it, the International Space Station will be visible tonight starting at 3:31 AM, rising near Verona High School in the northwest and traveling toward the east northeast near Fitchburg.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-01",
-    "updateDate": "2026-09-01T20:08:43.633Z",
+    "updateDate": "2026-09-01T21:05:30.780Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Tai Chi Animal Frolics sculpture has officially been installed at Century School. Also, residents are reminded to check the city website for information regarding the upcoming November general election and sample ballots.",
+    "mainText": "The City of Verona has installed a new piece of public art titled Tai Chi Animal Frolics in Century School Park. Carved from a reclaimed ash tree by artists Gene Delcourt and Christian Felland, this seven foot sculpture depicts animals in traditional Tai Chi poses and was donated by local resident Gerri Gurman.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-01",
-    "updateDate": "2026-09-01T20:08:43.633Z",
+    "updateDate": "2026-09-01T21:05:30.780Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, with Hop Haus Trivia and Quizmasters Trivia both happening today. Tomorrow, you can look forward to the farmer's market at Hometown Junction Park, yoga at Insight Wellness, and more trivia fun at The Bogey Factory.",
+    "mainText": "You have plenty to do with trivia happening today at both Hop Haus and Wisconsin Brewing Company. Tomorrow, check out the Yoga session at Insight Wellness, the Downtown Farmer's Market at Hometown Junction Park, or Wednesday trivia nights at Lake Lou-ee and The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-01",
-    "updateDate": "2026-09-01T20:08:43.633Z",
+    "updateDate": "2026-09-01T21:05:30.780Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Friday, August 28, officers responded to a motor vehicle accident on South Nine Mound Road where a driver was cited for inattentive driving after striking a parked vehicle.",
+    "mainText": "In a noteworthy call from August 30, officers were dispatched to the 800 block of North Edge Trail after a man intentionally smashed a vehicle window and fled the scene; the department has since issued an arrest warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-01",
-    "updateDate": "2026-09-01T20:08:43.633Z",
+    "updateDate": "2026-09-01T21:05:30.780Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Chocolate Heath Crunch. The store is currently open and will be serving up scoops until 10 PM tonight, so stop by and enjoy a sweet treat.",
+    "mainText": "Today's flavor of the day is Chocolate Heath Crunch. The store is currently open and will remain so until 10:00 PM tonight, so there is still plenty of time to stop by for a delicious treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
