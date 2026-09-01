@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-01",
-    "updateDate": "2026-09-01T08:09:00.772Z",
+    "updateDate": "2026-09-01T09:07:15.621Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: it is 71 degrees with clear skies near the Verona Area High School. We also have a Waning Gibbous moon visible tonight, and for space enthusiasts, the International Space Station will be visible at 4:17 AM as it travels from the northwest toward the east northeast.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish. Temperatures are a pleasant 70 degrees under clear skies at Badger Ridge Middle School. If you are an early riser, the space station will be visible tonight starting at 4:17 AM for four minutes, rising over the area near Verona High School in the northwest and traveling toward the east northeast in the direction of Fitchburg.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-01",
-    "updateDate": "2026-09-01T08:09:00.772Z",
+    "updateDate": "2026-09-01T09:07:15.621Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is updating their flooring starting September 1, which will limit services to wellness appointments and outdoor programming until regular operations resume on September 10.",
+    "mainText": "The Verona Senior Center has announced that they will be replacing flooring throughout their building beginning September 1. Please be aware that from September 1 to September 4, they will only be holding wellness appointments and outdoor programming, and the center will be closed entirely on September 7 for Labor Day.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-01",
-    "updateDate": "2026-09-01T08:09:00.772Z",
+    "updateDate": "2026-09-01T09:07:15.621Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty happening in Verona, starting with Hop Haus Trivia today. Tomorrow is packed with activities including Yoga at Insight Wellness, the Verona Downtown Farmer's Market, and trivia night at The Bogey Factory.",
+    "mainText": "Today, you can participate in Hop Haus Trivia or check out the Quizmasters Trivia at Wisconsin Brewing Company. Tomorrow, the activities continue with yoga at Insight Wellness, the Downtown Farmer's Market at Hometown Junction Park, and pizza and a pitcher at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-01",
-    "updateDate": "2026-09-01T08:09:00.772Z",
+    "updateDate": "2026-09-01T09:07:15.621Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 25, Verona police officers performed life-saving measures on a 68-year-old man experiencing a medical emergency on Enterprise Drive by using an AED to successfully restore his pulse.",
+    "mainText": "In a noteworthy call from this past week, on August 25, officers were dispatched to a home on Enterprise Drive for a medical emergency where they successfully used an AED to help a patient regain a pulse.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-01",
-    "updateDate": "2026-09-01T08:09:00.772Z",
+    "updateDate": "2026-09-01T09:07:15.621Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delicious Chocolate Heath Crunch. The store is currently closed, but it will open today at 10:00 AM.",
+    "mainText": "Today's featured flavor is the decadent Chocolate Heath Crunch. Please note that the store opens today at 10:00 AM, so you can stop by any time after that to enjoy a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
