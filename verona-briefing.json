@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-01",
-    "updateDate": "2026-09-01T15:05:56.810Z",
+    "updateDate": "2026-09-01T16:27:21.735Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have overcast skies at Verona Area High School with a temperature of 81 degrees, though it feels a bit warmer at 88 degrees.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we have clear skies at the Verona Public Library with a temperature of 83 degrees that feels closer to 93, and the moon is currently in a waning gibbous phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-01",
-    "updateDate": "2026-09-01T15:05:56.810Z",
+    "updateDate": "2026-09-01T16:27:21.735Z",
     "titleText": "Verona City News",
-    "mainText": "A few updates from City Hall: all city facilities will be closed this Monday for Labor Day, and the Senior Center is undergoing a flooring project that will result in various programming changes and closures through September 11.",
+    "mainText": "The City of Verona has released important notices for the upcoming November 3 general election, including type A, B, and C notices. Additionally, residents are encouraged to visit the city website to view sample ballots for all wards to prepare for election day.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-01",
-    "updateDate": "2026-09-01T15:05:56.810Z",
+    "updateDate": "2026-09-01T16:27:21.735Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy start to the week with Hop Haus Trivia and Quizmasters Trivia at Lake Lou-ee both happening today. Tomorrow, you can look forward to the Downtown Farmer's Market and a variety of evening trivia and live music events.",
+    "mainText": "There is plenty to do in our community today, starting with trivia at Hop Haus and Lake Lou-ee. Tomorrow, look forward to the Downtown Farmer's Market at Hometown Junction Park, yoga at Insight Wellness, and even more trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-01",
-    "updateDate": "2026-09-01T15:05:56.810Z",
+    "updateDate": "2026-09-01T16:27:21.735Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly report, on August 30, an officer witnessed a vehicle versus bicyclist crash at East Verona Avenue and Lincoln Street, resulting in a citation for the driver.",
+    "mainText": "Looking at the weekly police report, on August 30, officers responded to a call regarding a vehicle versus bicyclist crash on East Verona Avenue. Fortunately, the 15 year old cyclist was not injured, and the driver was cited for failure to yield.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-01",
-    "updateDate": "2026-09-01T15:05:56.810Z",
+    "updateDate": "2026-09-01T16:27:21.735Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "It is a great day to stop by Culver's for the Chocolate Heath Crunch, which is today's flavor of the day. The restaurant is currently open and will remain so until their 10 PM closing time.",
+    "mainText": "You can enjoy today's fantastic flavor, Chocolate Heath Crunch, any time today as the restaurant is currently open. Make sure to head over before they close their doors at 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
