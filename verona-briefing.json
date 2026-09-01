@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-01",
-    "updateDate": "2026-09-01T14:06:54.840Z",
+    "updateDate": "2026-09-01T15:05:56.810Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: expect a temperature of 77 degrees under overcast skies at Reddan Soccer Park, with the moon currently in a waning gibbous phase.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have overcast skies at Verona Area High School with a temperature of 81 degrees, though it feels a bit warmer at 88 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-01",
-    "updateDate": "2026-09-01T14:06:54.840Z",
+    "updateDate": "2026-09-01T15:05:56.810Z",
     "titleText": "Verona City News",
-    "mainText": "Important city updates include the Labor Day holiday schedule, where city facilities and the drop-off site will be closed on Monday, September 7, though the brush site remains open. Additionally, the Verona Senior Center is updating its flooring, resulting in limited programming through September 9.",
+    "mainText": "A few updates from City Hall: all city facilities will be closed this Monday for Labor Day, and the Senior Center is undergoing a flooring project that will result in various programming changes and closures through September 11.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-01",
-    "updateDate": "2026-09-01T14:06:54.840Z",
+    "updateDate": "2026-09-01T15:05:56.810Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town, with trivia happening today at both Hop Haus and Lake Lou-ee. Looking toward tomorrow, you can enjoy yoga at Insight Wellness, the Downtown Farmer's Market, or Wednesday night trivia.",
+    "mainText": "We have a busy start to the week with Hop Haus Trivia and Quizmasters Trivia at Lake Lou-ee both happening today. Tomorrow, you can look forward to the Downtown Farmer's Market and a variety of evening trivia and live music events.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-01",
-    "updateDate": "2026-09-01T14:06:54.840Z",
+    "updateDate": "2026-09-01T15:05:56.810Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from August 25, Verona police officers successfully utilized an AED to revive a 68-year-old man who was pulseless and not breathing during a medical emergency.",
+    "mainText": "Looking at the weekly report, on August 30, an officer witnessed a vehicle versus bicyclist crash at East Verona Avenue and Lincoln Street, resulting in a citation for the driver.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-01",
-    "updateDate": "2026-09-01T14:06:54.840Z",
+    "updateDate": "2026-09-01T15:05:56.810Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Chocolate Heath Crunch. Please note that the store opens today at 10:00 AM to serve you.",
+    "mainText": "It is a great day to stop by Culver's for the Chocolate Heath Crunch, which is today's flavor of the day. The restaurant is currently open and will remain so until their 10 PM closing time.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
