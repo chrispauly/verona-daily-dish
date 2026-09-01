@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-01",
-    "updateDate": "2026-09-01T11:05:48.307Z",
+    "updateDate": "2026-09-01T12:09:04.633Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: current temperatures are at 70 degrees with foggy conditions near the Verona Public Library, though it feels more like 76 degrees. We are currently under a Waning Gibbous moon.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. We are seeing foggy conditions and a temperature of 72 degrees at Verona Community Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-01",
-    "updateDate": "2026-09-01T11:05:48.307Z",
+    "updateDate": "2026-09-01T12:09:04.633Z",
     "titleText": "Verona City News",
-    "mainText": "City officials have announced that the Verona Senior Center will undergo a flooring replacement project starting September 1, resulting in limited services and closures through September 11. Also, crews are currently managing a water main break near 212 Todd Street, which has caused a temporary loss of water service for some neighborhood properties.",
+    "mainText": "The Verona Senior Center has announced that they will be closed for flooring updates starting September 1, with limited services available on certain dates before a reopening on September 10. Additionally, crews are currently repairing a water main break near Todd Street that is affecting local service.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-01",
-    "updateDate": "2026-09-01T11:05:48.307Z",
+    "updateDate": "2026-09-01T12:09:04.633Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can join the fun at Hop Haus Trivia or Quizmasters Trivia at Wisconsin Brewing Company. Looking toward tomorrow, the schedule includes the Verona Downtown Farmer's Market, yoga at Insight Wellness, Wednesday Pizza and a Pitcher at Lake Lou-ee, and Trivia Night at The Bogey Factory.",
+    "mainText": "There is plenty to do with Hop Haus Trivia and Quizmasters Trivia at Lake Lou-ee both taking place today. Looking forward to tomorrow, you can enjoy the downtown farmer's market, yoga at Insight Wellness, or evening trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-01",
-    "updateDate": "2026-09-01T11:05:48.307Z",
+    "updateDate": "2026-09-01T12:09:04.633Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable call from August 25, officers responded to a medical emergency on Enterprise Drive where they successfully used an AED to assist a patient, who then regained a pulse.",
+    "mainText": "On August 25, officers were dispatched to a medical emergency on Enterprise Drive where they successfully used an AED to restore a pulse to a local resident.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-01",
-    "updateDate": "2026-09-01T11:05:48.307Z",
+    "updateDate": "2026-09-01T12:09:04.633Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is Chocolate Heath Crunch. Please note that the store opens today at 10:00 AM, so you have plenty of time to head out and enjoy a treat.",
+    "mainText": "Today's flavor is Chocolate Heath Crunch. The store opens today at 10:00 AM, so be sure to stop by later to enjoy a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
