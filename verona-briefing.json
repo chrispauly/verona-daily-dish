@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-01",
-    "updateDate": "2026-09-01T03:08:04.243Z",
+    "updateDate": "2026-09-01T04:07:07.543Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: it is 77 degrees at Verona Area High School under clear skies. Expect an overnight low of 71 degrees with no rain. Also, the ISS will be visible for four minutes at 4:17 AM, traveling from the northwest to the east-northeast.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. It is 76 degrees under clear skies at Harriet Park. We have a Waning Gibbous moon and the ISS will be visible for 4 minutes starting at 4:17 AM, rising near Verona High School and heading toward Fitchburg. Tonight will drop to a low of 70 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-01",
-    "updateDate": "2026-09-01T03:08:04.243Z",
+    "updateDate": "2026-09-01T04:07:07.543Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is upgrading its flooring starting September 1. Please note that wellness appointments will continue, but the center will be closed for Labor Day on September 7, with a grand reopen house scheduled for September 10.",
+    "mainText": "City updates include floor replacements at the Verona Senior Center starting September 1 with various program closures, and a reminder that water service was temporarily affected near Todd Street due to a water main break.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-01",
-    "updateDate": "2026-09-01T03:08:04.243Z",
+    "updateDate": "2026-09-01T04:07:07.543Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed week ahead! Enjoy Yoga at Insight Wellness today. Tomorrow, you can catch trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's. Plus, don't miss the Farmer's Market at Hometown Junction Park this Tuesday.",
+    "mainText": "There is plenty to do tomorrow including trivia at Hop Haus, Wisconsin Brewing Company, and The Bogey Factory, plus the Farmer's Market at Hometown Junction Park and yoga at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-01",
-    "updateDate": "2026-09-01T03:08:04.243Z",
+    "updateDate": "2026-09-01T04:07:07.543Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on August 25, officers responded to a medical emergency where they successfully used an A E D to assist a resident, highlighting the vital equipment carried in all our patrol cars.",
+    "mainText": "In a report from August 30, officers responded to a window smashing incident on North Edge Trail where an arrest warrant was issued for the suspect.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-01",
-    "updateDate": "2026-09-01T03:08:04.243Z",
+    "updateDate": "2026-09-01T04:07:07.543Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor was Turtle Dove. Since we are closed for the evening, please join us tomorrow starting at 10:00 AM for the delicious Chocolate Heath Crunch.",
+    "mainText": "The Culver's flavor of the day was Turtle Dove. The restaurant is now closed for the night, but you can head back tomorrow for Chocolate Heath Crunch when they open at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
