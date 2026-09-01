@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-01",
-    "updateDate": "2026-09-01T18:07:30.248Z",
+    "updateDate": "2026-09-01T19:05:21.180Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we are seeing clear skies with a temperature of 88 degrees, though the heat index makes it feel like 99 degrees near the Verona Public Library.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we have clear skies over Fireman's Park with a high of 89 degrees, feeling like 98 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-01",
-    "updateDate": "2026-09-01T18:07:30.248Z",
+    "updateDate": "2026-09-01T19:05:21.180Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Senior Center is undergoing flooring upgrades starting September 1, leading to modified hours, and residents should note that all city facilities will be closed for Labor Day on September 7.",
+    "mainText": "Starting today, the Verona Senior Center is updating their flooring, which means wellness and outdoor programming will be the focus until September 10. Also, please note that all City facilities will be closed on Monday, September 7, for the Labor Day holiday.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-01",
-    "updateDate": "2026-09-01T18:07:30.248Z",
+    "updateDate": "2026-09-01T19:05:21.180Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Today you can catch trivia at Hop Haus or Wisconsin Brewing Company. Tomorrow, check out the Farmer's Market at Hometown Junction Park or enjoy live music at Paddy Mac's.",
+    "mainText": "There is plenty to do in town today, including trivia at Hop Haus and Lake Lou-ee. Tomorrow, you can visit the Verona Downtown Farmer's Market at Hometown Junction Park or join the trivia night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-01",
-    "updateDate": "2026-09-01T18:07:30.248Z",
+    "updateDate": "2026-09-01T19:05:21.180Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police recap, we noted that on August 25, officers successfully used an AED to save a man experiencing a medical emergency in the 1100 block of Enterprise Drive.",
+    "mainText": "A noteworthy call occurred on August 30 when an officer encountered a vehicle versus bicyclist crash at East Verona Avenue and Lincoln Street, resulting in a citation for failure to yield.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-01",
-    "updateDate": "2026-09-01T18:07:30.248Z",
+    "updateDate": "2026-09-01T19:05:21.180Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today at Culver's, enjoy the delicious Chocolate Heath Crunch. The store is currently open and will be serving up scoops until 10:00 PM tonight.",
+    "mainText": "Today's delicious flavor is Chocolate Heath Crunch. The store is currently open and will remain open until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
