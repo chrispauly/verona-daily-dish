@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-01",
-    "updateDate": "2026-09-01T07:06:50.045Z",
+    "updateDate": "2026-09-01T08:09:00.772Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish. We have clear skies near the Verona Area High School with a temperature of 71 degrees. The moon is in a Waning Gibbous phase, and you can catch the International Space Station crossing the sky at 4:17 AM. It will rise in the northwest, pass over the high school area, and head toward the east northeast in the direction of Fitchburg, remaining low on the horizon for four minutes.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: it is 71 degrees with clear skies near the Verona Area High School. We also have a Waning Gibbous moon visible tonight, and for space enthusiasts, the International Space Station will be visible at 4:17 AM as it travels from the northwest toward the east northeast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-01",
-    "updateDate": "2026-09-01T07:06:50.045Z",
+    "updateDate": "2026-09-01T08:09:00.772Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is updating its flooring starting September 1. Expect limited services from September 1 to 4 and September 8 to 9, with a closure for Labor Day on September 7. You can see the full schedule at their open house on September 10. Also, crews are currently working on a water main break near 212 Todd Street, which has caused temporary water service shutoffs in that immediate area.",
+    "mainText": "The Verona Senior Center is updating their flooring starting September 1, which will limit services to wellness appointments and outdoor programming until regular operations resume on September 10.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-01",
-    "updateDate": "2026-09-01T07:06:50.045Z",
+    "updateDate": "2026-09-01T08:09:00.772Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona! Today, you can catch trivia at Hop Haus or join the fun at Wisconsin Brewing Company for Quizmasters Trivia. Tomorrow, look forward to the Downtown Farmer's Market at Hometown Junction Park, trivia at The Bogey Factory and Paddy Mac's, plus yoga at Insight Wellness and live music at Wisconsin Brewing Company.",
+    "mainText": "There is plenty happening in Verona, starting with Hop Haus Trivia today. Tomorrow is packed with activities including Yoga at Insight Wellness, the Verona Downtown Farmer's Market, and trivia night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-01",
-    "updateDate": "2026-09-01T07:06:50.045Z",
+    "updateDate": "2026-09-01T08:09:00.772Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly recap, on August 30, officers responded to a vehicle versus bicyclist crash on East Verona Avenue at Lincoln Street. The 15-year-old bicyclist was not injured, but the driver was cited for failing to yield the right of way.",
+    "mainText": "On August 25, Verona police officers performed life-saving measures on a 68-year-old man experiencing a medical emergency on Enterprise Drive by using an AED to successfully restore his pulse.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-01",
-    "updateDate": "2026-09-01T07:06:50.045Z",
+    "updateDate": "2026-09-01T08:09:00.772Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Chocolate Heath Crunch. Please note that the store is currently closed, but it opens today at 10:00 AM.",
+    "mainText": "Today's flavor is the delicious Chocolate Heath Crunch. The store is currently closed, but it will open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
