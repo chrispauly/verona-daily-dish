@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-02",
-    "updateDate": "2026-09-02T19:05:25.737Z",
+    "updateDate": "2026-09-02T20:05:59.060Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We are seeing overcast skies with a temperature of 89 degrees, feeling like 94, near the Verona Area High School.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. We are looking at overcast skies with a warm temperature of 90 degrees, feeling like 92 degrees, near the Verona Public Library.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-09-02",
-    "updateDate": "2026-09-02T19:05:25.737Z",
+    "updateDate": "2026-09-02T20:05:59.060Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has officially installed a new seven foot tall public art sculpture titled Tai Chi Animal Frolics at Century School Park. This piece was created by local artists Gene Delcourt and Christian Felland and reflects traditional Tai Chi movements.",
+    "mainText": "The City of Verona has welcomed a new public art piece to Century School Park, located at the corner of Art House 360. Named Tai Chi Animal Frolics, the seven-foot-tall sculpture was carved from a reclaimed ash tree by local artists Gene Delcourt and Christian Felland. The project was donated by resident Gerri Gurman, and future plans include native landscaping and multilingual educational signs.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-09-02",
-    "updateDate": "2026-09-02T19:05:25.737Z",
+    "updateDate": "2026-09-02T20:05:59.060Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today, including live music at Paddy Mac's, the Verona Downtown Farmer's Market at Hometown Junction Park, and trivia night at The Bogey Factory. Looking ahead, you can catch trivia at Hop Haus Brewing Co. tomorrow.",
+    "mainText": "There is plenty happening in the area! Today, you can check out the Verona Downtown Farmer's Market at Hometown Junction Park, join Pizza and a Pitcher night at Lake Lou-ee, or play trivia at The Bogey Factory. Looking ahead, Hop Haus is hosting trivia tomorrow, and you can catch live music at Bailey's Run Vineyard this Friday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-09-02",
-    "updateDate": "2026-09-02T19:05:25.737Z",
+    "updateDate": "2026-09-02T20:05:59.060Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Saturday, August 30, officers were dispatched to the 800 block of North Edge Trail for a witnessed and intentional smashing of a vehicle window.",
+    "mainText": "In the latest police weekly recap, on Sunday, August 30th, officers responded to a collision between a vehicle and a fifteen-year-old bicyclist on East Verona Avenue. Thankfully, the young cyclist was not injured, though his bicycle was damaged, and the driver was cited for failing to yield.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-02",
-    "updateDate": "2026-09-02T19:05:25.737Z",
+    "updateDate": "2026-09-02T20:05:59.060Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is OREO REESE'S Cheesecake. The restaurant is currently open for business and will remain open until 10:00 PM tonight.",
+    "mainText": "To wrap things up, the Culver's of Verona is currently open until 10 PM. You can stop by to grab a scoop of today's delicious flavor, OREO REESE'S Cheesecake, or look forward to tomorrow's flavor, Snickers Swirl, starting at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
