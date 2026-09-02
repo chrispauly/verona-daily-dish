@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-02",
-    "updateDate": "2026-09-02T17:05:28.428Z",
+    "updateDate": "2026-09-02T18:07:53.672Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish. We have overcast skies and a temperature of 85 degrees at Harriet Park, although it feels like 93 degrees with the current humidity.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we are seeing overcast skies at Verona City Hall with a temperature of 89 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-02",
-    "updateDate": "2026-09-02T17:05:28.428Z",
+    "updateDate": "2026-09-02T18:07:53.672Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has officially installed the Tai Chi Animal Frolics sculpture at Century School Park. This artwork, created by Gene Delcourt and Christian Felland, was carved from a reclaimed ash tree and highlights the community's commitment to public art.",
+    "mainText": "The City of Verona is excited to debut the Tai Chi Animal Frolics sculpture at Century School Park, a carved ash wood installation by artists Gene Delcourt and Christian Felland that aims to inspire future artists. Additionally, the city is preparing for the November general election with sample ballots already available for voters to review online.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-02",
-    "updateDate": "2026-09-02T17:05:28.428Z",
+    "updateDate": "2026-09-02T18:07:53.672Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona. The Downtown Farmer's Market is taking place today at Hometown Junction Park. Looking ahead, you can enjoy trivia at Hop Haus Brewing Co. tomorrow, and live music at Bailey's Run Vineyard this Thursday.",
+    "mainText": "Today is packed with local activity including live music at Paddy Mac, yoga sessions at Insight Wellness, the farmer's market at Hometown Junction Park, pizza and pitchers at Lake Lou-ee, and trivia at The Bogey Factory. Looking ahead, tomorrow features trivia at Hop Haus, followed by more live music on Thursday at Bailey's Run and Lake Lou-ee, and the Dane County Farmer's Market this Friday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-02",
-    "updateDate": "2026-09-02T17:05:28.428Z",
+    "updateDate": "2026-09-02T18:07:53.672Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 30, officers responded to a collision on East Verona Avenue involving a 77-year-old driver and a 15-year-old bicyclist. Thankfully, the bicyclist was not injured in the incident.",
+    "mainText": "Looking at the weekly report, on Monday, August 25, officers responded to a medical emergency where they successfully used an AED to assist a man who had lost his pulse.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-02",
-    "updateDate": "2026-09-02T17:05:28.428Z",
+    "updateDate": "2026-09-02T18:07:53.672Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is OREO REESE'S Cheesecake. Culver's is currently open and will be serving this treat until 10:00 PM tonight.",
+    "mainText": "Today's delicious flavor of the day is OREO REESE'S Cheesecake. The store is currently open and will remain so until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
