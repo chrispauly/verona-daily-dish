@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-03",
-    "updateDate": "2026-09-03T16:10:24.698Z",
+    "updateDate": "2026-09-03T17:10:37.181Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we are seeing partly cloudy skies near the Verona Public Library with temperatures at 74 degrees, plus an air quality index of 52.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish on the weather, featuring 78 degree temperatures and partly cloudy skies over Fireman's Park, with an air quality index of 52.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-03",
-    "updateDate": "2026-09-03T16:10:24.698Z",
+    "updateDate": "2026-09-03T17:10:37.181Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has officially unveiled the Tai Chi Animal Frolics sculpture at Century School, a new public art piece created by Gene Delcourt and Christian Felland.",
+    "mainText": "In city news, Verona is proud to showcase a new public art installation titled Tai Chi Animal Frolics by local artists at Century School, and residents are reminded to check their voter status at MyVote.wi.gov for the upcoming general election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-03",
-    "updateDate": "2026-09-03T16:10:24.698Z",
+    "updateDate": "2026-09-03T17:10:37.181Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty going on, starting with Yoga at Insight Wellness and Hop Haus Trivia today, followed by live music at Bailey's Run and Wisconsin Brewing Company tomorrow.",
+    "mainText": "There is plenty to do around town starting today with Yoga at Insight Wellness and Hop Haus Trivia, followed by live music at Bailey's Run and Wisconsin Brewing Company tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-03",
-    "updateDate": "2026-09-03T16:10:24.698Z",
+    "updateDate": "2026-09-03T17:10:37.181Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering calls from August 24th through August 31st, the Verona Police Department noted they successfully caught individuals involved in a ding-dong-ditch incident on a day during that period.",
+    "mainText": "In a review of calls from August 24 through August 31, the Verona Police Department noted that they successfully handled a report involving ding-dong-ditchers who were caught by officers.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-03",
-    "updateDate": "2026-09-03T16:10:24.698Z",
+    "updateDate": "2026-09-03T17:10:37.181Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by for today's delicious flavor of the day, Snickers Swirl. The Verona location is currently open and will remain open until 10:00 PM tonight.",
+    "mainText": "Today's flavor of the day is the delightful Snickers Swirl, and since Culver's is open until 10 PM, there is still plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
