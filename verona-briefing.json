@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-03",
-    "updateDate": "2026-09-03T14:06:52.061Z",
+    "updateDate": "2026-09-03T15:05:58.349Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish on the weather, which shows overcast skies near Reddan Soccer Park with a current temperature of 78 degrees, feeling like 85, and a moderate air quality index of 53.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have a temperature of 74 degrees with light drizzle by the Military Ridge State Trail and a moderate air quality index of 53.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-03",
-    "updateDate": "2026-09-03T14:06:52.061Z",
+    "updateDate": "2026-09-03T15:05:58.349Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is celebrating public art with the installation of a new Tai Chi Animal Frolics sculpture at Century School Park, which was carved from a reclaimed ash tree by local artists Gene Delcourt and Christian Felland.",
+    "mainText": "The city recently unveiled the Tai Chi Animal Frolics sculpture at Century School Park, a project featuring wood carvings by local artists Gene Delcourt and Christian Felland. Additionally, the Senior Center is encouraging residents to stay active with their various exercise programs, including pickleball and treadmill sessions overlooking the trail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-03",
-    "updateDate": "2026-09-03T14:06:52.061Z",
+    "updateDate": "2026-09-03T15:05:58.349Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at your calendar, you can enjoy Yoga at Insight Wellness today and Hop Haus Trivia today, while tomorrow you have live music options at both Bailey's Run Vineyard and the Wisconsin Brewing Company.",
+    "mainText": "We have a busy schedule with Yoga at Insight Wellness today, followed by Hop Haus Trivia tonight. Looking ahead, you can catch live music at Bailey's Run Vineyard tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-03",
-    "updateDate": "2026-09-03T14:06:52.061Z",
+    "updateDate": "2026-09-03T15:05:58.349Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding recent activity, on August 30, a vehicle versus bicyclist crash occurred on East Verona Avenue, where the driver was cited for failing to yield to the bicyclist, though fortunately the cyclist was not injured.",
+    "mainText": "On August 30, officers responded to a call on North Edge Trail where a vehicle window was intentionally smashed. The suspect, who was on probation, fled the scene and remains the subject of an active warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-03",
-    "updateDate": "2026-09-03T14:06:52.061Z",
+    "updateDate": "2026-09-03T15:05:58.349Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "It is a great day to grab a treat, with Snickers Swirl being the flavor of the day, and you can visit the store when it opens today at 10:00 AM.",
+    "mainText": "It is a great day to stop by Culver's for the Snickers Swirl flavor of the day. The restaurant is open and serving guests until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
