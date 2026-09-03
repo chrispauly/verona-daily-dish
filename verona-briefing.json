@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-03",
-    "updateDate": "2026-09-03T02:14:15.203Z",
+    "updateDate": "2026-09-03T04:23:51.904Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. We have fair conditions at 70 degrees near Badger Ridge Middle School. If you are a night owl, keep an eye out for the International Space Station at 4:19 AM as it passes from the northwest near Verona High School toward the east, reaching halfway up the sky.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. We have clear skies at Harriet Park with a temperature of 73 degrees. The moon is in its Third Quarter phase, and if you are up early, the ISS will be visible for 4 minutes starting at 4:19 AM as it travels from the northwest near Verona High School toward Fitchburg in the east, reaching about halfway up the sky. Tonight, we will drop to an overnight low of 71 degrees, and rain is in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-03",
-    "updateDate": "2026-09-03T02:14:15.203Z",
+    "updateDate": "2026-09-03T04:23:51.904Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has installed a public art piece called Tai Chi Animal Frolics at Century School Park. This sculpture was created by local artists Gene Delcourt and Christian Felland and reflects traditional Tai Chi movements.",
+    "mainText": "In city news, Verona has officially installed the Tai Chi Animal Frolics sculpture at Century School Park near Art House 360. This seven-foot-tall wooden piece, carved from a fallen ash tree by Gene Delcourt and Christian Felland, celebrates traditional Tai Chi movements and was donated by Gerri Gurman.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-03",
-    "updateDate": "2026-09-03T02:14:15.203Z",
+    "updateDate": "2026-09-03T04:23:51.904Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can enjoy the downtown Farmer's Market, drop-in yoga, live music at Paddy Macs, pizza at Lake Lou-ee, or trivia at The Bogey Factory. Looking ahead, check out trivia tomorrow at Hop Haus and live music this Thursday at Bailey's Run and Lake Lou-ee.",
+    "mainText": "There is plenty to do this week. Tomorrow, you can catch Yoga at Insight Wellness or head to Hop Haus Brewing for trivia. Looking further ahead, Live Music returns to Bailey's Run and Wisconsin Brewing Company on September 4, and the Verona Downtown Farmer's Market kicks off at Hometown Junction Park on September 9.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-03",
-    "updateDate": "2026-09-03T02:14:15.203Z",
+    "updateDate": "2026-09-03T04:23:51.904Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident on August 30, officers responded to a collision between a vehicle and a bicyclist on East Verona Avenue. Thankfully, the cyclist was not injured and the driver was cited.",
+    "mainText": "In a noteworthy call from this past week, on Friday, August 30, officers were dispatched to North Edge Trail regarding a vehicle window being smashed; an arrest warrant has since been issued for a suspect identified in the case.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-03",
-    "updateDate": "2026-09-03T02:14:15.203Z",
+    "updateDate": "2026-09-03T04:23:51.904Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Oreo Reese's Cheesecake. The store is currently open but will be closing soon in 46 minutes, so be sure to head over before they shut their doors for the night.",
+    "mainText": "Culver's is currently closed for the night. We look forward to seeing what the flavor of the day is when they reopen tomorrow morning at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
