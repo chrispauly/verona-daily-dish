@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-03",
-    "updateDate": "2026-09-03T12:09:28.174Z",
+    "updateDate": "2026-09-03T13:06:15.098Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we are seeing 72 degrees with overcast skies at the Verona Public Library and an air quality index of 53, which is in the moderate range.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish. It is 76 degrees with overcast skies near the Reddan Soccer Park, and the air quality is currently moderate with an index of 53.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-03",
-    "updateDate": "2026-09-03T12:09:28.174Z",
+    "updateDate": "2026-09-03T13:06:15.098Z",
     "titleText": "Verona City News",
-    "mainText": "The city recently unveiled a seven-foot-tall public art sculpture titled Tai Chi Animal Frolics at Century School Park. This piece was carved from a reclaimed ash tree by artists Gene Delcourt and Christian Felland and celebrates traditional Tai Chi movements.",
+    "mainText": "In city news, the new Tai Chi Animal Frolics sculpture has been installed at Century School Park. This seven-foot tall carving of animals was created by local artists Gene Delcourt and Christian Felland and donated by Gerri Gurman to be a welcoming piece of art for the entire community.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-03",
-    "updateDate": "2026-09-03T12:09:28.174Z",
+    "updateDate": "2026-09-03T13:06:15.098Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this week, starting with Yoga at Insight Wellness today and Hop Haus Trivia this evening. Tomorrow, you can catch live music at Bailey's Run Vineyard or the Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do, including Yoga at Insight Wellness today and Hop Haus Trivia today. Looking ahead, you can enjoy live music at Bailey's Run and Wisconsin Brewing Company tomorrow, followed by the Dane County Farmers' Market this Friday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-03",
-    "updateDate": "2026-09-03T12:09:28.174Z",
+    "updateDate": "2026-09-03T13:06:15.098Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report regarding noteworthy calls from August 24 to August 31, police responded to an incident on August 28 where a vehicle collided with a parked car on South Nine Mound Road.",
+    "mainText": "In a report from August 30, officers were dispatched to the 800 block of North Edge Trail following reports of a vehicle window being intentionally smashed; the suspect fled the scene and has an active arrest warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-03",
-    "updateDate": "2026-09-03T12:09:28.174Z",
+    "updateDate": "2026-09-03T13:06:15.098Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Snickers Swirl. The store is currently closed, but it opens today at 10:00 AM and will remain open until 10:00 PM.",
+    "mainText": "If you are craving something sweet, today's flavor is Snickers Swirl. Please note that the store opens today at 10:00 AM so you can stop by and grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
