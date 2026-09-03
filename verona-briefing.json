@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-03",
-    "updateDate": "2026-09-03T00:16:14.806Z",
+    "updateDate": "2026-09-03T01:22:50.752Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. It is a clear 81 degrees at Fireman's Park. Tonight, the moon is in its third quarter phase. If you are an early bird, the space station will be visible starting at 4:19 AM, rising near Verona High School and traveling toward Fitchburg. Tonight's low will be 72 degrees, and there is no rain expected.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We are experiencing clear skies and 80 degrees at Fireman's Park, though it feels closer to 88. Expect an overnight low of 72 degrees with no rain in the forecast. Under the third quarter moon, early risers can catch a glimpse of the Space Station at 4:19 AM, which will travel from Middleton and Verona High School in the northwest toward Fitchburg in the east, about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-09-03",
-    "updateDate": "2026-09-03T00:16:14.806Z",
+    "updateDate": "2026-09-03T01:22:50.752Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has officially installed a new public art piece called Tai Chi Animal Frolics in Century School Park. This seven-foot sculpture, created by local artists Gene Delcourt and Christian Felland, was carved from a reclaimed ash tree and honors traditional Tai Chi movements.",
+    "mainText": "The City of Verona has welcomed a new public art piece, the Tai Chi Animal Frolics tree sculpture, now on display at Century School Park. Carved from a reclaimed ash tree by local artists Gene Delcourt and Christian Felland, and donated by Gerri Gurman, the seven-foot sculpture depicts animals from traditional Tai Chi. City staff plan to seek grants for native landscaping and multilingual signage in English, Ojibwemowin, and Mandarin to explain the movements and artists.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-09-03",
-    "updateDate": "2026-09-03T00:16:14.806Z",
+    "updateDate": "2026-09-03T01:22:50.752Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You have plenty of local options to enjoy today. You can visit the Verona Downtown Farmer's Market at Hometown Junction Park, catch live music at Paddy Mac's, or participate in trivia at The Bogey Factory. Tomorrow, you can also join the fun with trivia at Hop Haus Brewing.",
+    "mainText": "There are great activities happening today, including the Verona Downtown Farmer's Market at Hometown Junction Park, trivia at The Bogey Factory, and yoga at Insight Wellness. Looking ahead, Hop Haus is hosting trivia tomorrow, and you can catch live music this weekend at Bailey's Run Vineyard starting September 4th.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-09-03",
-    "updateDate": "2026-09-03T00:16:14.806Z",
+    "updateDate": "2026-09-03T01:22:50.752Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 28, the Verona Police Department responded to an incident on South Nine Mound Road where a vehicle collided with a parked car. The driver was cited for inattentive driving, and thankfully, no injuries were reported.",
+    "mainText": "In police news, early Friday morning, a vehicle collided with a parked car on South Nine Mound Road, and the driver was cited for inattentive driving.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-03",
-    "updateDate": "2026-09-03T00:16:14.806Z",
+    "updateDate": "2026-09-03T01:22:50.752Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today at Culver's, the flavor of the day is OREO REESE'S Cheesecake. The restaurant is currently open and will remain so until 10 PM tonight, giving you plenty of time to stop by for a scoop.",
+    "mainText": "End your day on a sweet note! Culver's of Verona is currently open until 10 PM, serving up their delicious Oreo Reese's Cheesecake as the flavor of the day. Stop by before they close tonight to enjoy a scoop!",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
