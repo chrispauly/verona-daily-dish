@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-04",
-    "updateDate": "2026-09-04T20:05:41.636Z",
+    "updateDate": "2026-09-04T21:04:57.252Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: it is 88 degrees under clear skies at Badger Ridge Middle School, with the current moon phase being the third quarter.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we have overcast skies at Verona City Hall with a temperature of 85 degrees that feels like 90, and the moon is currently in its third quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-04",
-    "updateDate": "2026-09-04T20:05:41.636Z",
+    "updateDate": "2026-09-04T21:04:57.252Z",
     "titleText": "Verona City News",
-    "mainText": "Construction on highway M is moving into phase two the week of September 7, which will shift traffic into the eastbound lanes for two to three weeks. Also, the Military Ridge State Trail is undergoing a major paving project to improve accessibility, with bridge work starting this month.",
+    "mainText": "Regarding city news, the Highway M road construction is entering phase two during the week of September 7, which will shift traffic to maintain one lane in each direction while utility work finishes. Additionally, the Military Ridge State Trail is undergoing a major paving project to improve accessibility, with bridge construction near Lincoln Street causing a trail closure from mid-September through mid-November.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-04",
-    "updateDate": "2026-09-04T20:05:41.636Z",
+    "updateDate": "2026-09-04T21:04:57.252Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You can catch live music today at Bailey's Run Vineyard and Wisconsin Brewing Company, or visit the farmer's market tomorrow at the Wisconsin State Capitol.",
+    "mainText": "It is a busy time for local entertainment! We have live music performances happening today at both Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, you can enjoy the Dane County Farmers' Market downtown or catch the music series at Paddy Mac's. Looking ahead, you can enjoy yoga at Insight Wellness on September 7, or join in for trivia at Hop Haus on September 8.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-04",
-    "updateDate": "2026-09-04T20:05:41.636Z",
+    "updateDate": "2026-09-04T21:04:57.252Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 30, officers responded to a collision involving a bicyclist at East Verona Avenue and Lincoln Street, resulting in a citation for the vehicle driver.",
+    "mainText": "Regarding local public safety, officers responded to a call on August 25 involving a medical emergency on Enterprise Drive, where an officer successfully used an Automated External Defibrillator to assist a patient.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-04",
-    "updateDate": "2026-09-04T20:05:41.636Z",
+    "updateDate": "2026-09-04T21:04:57.252Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by for a scoop of the Chocolate Volcano flavor of the day; the store is currently open and will be serving guests until 10:30 PM.",
+    "mainText": "Today's flavor at Culver's is the rich Chocolate Volcano. The store is currently open and will remain serving guests until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
