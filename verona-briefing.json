@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-04",
-    "updateDate": "2026-09-04T04:10:05.003Z",
+    "updateDate": "2026-09-04T05:12:02.474Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. We have clear skies at City Hall and the moon is in its third quarter phase. If you are a night owl, the space station will be visible at 3:35 AM, rising near Verona High School and moving toward Fitchburg, reaching about halfway up the sky. Tonight's low will be 72 degrees with rain expected overnight.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. It is a clear night here at Verona City Hall, with temperatures at 75 degrees feeling more like 81. Under the third quarter moon, night owls can spot the International Space Station at 3:35 AM for about a minute. Look northwest over Middleton near the high school as it travels halfway up the sky toward Fitchburg.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-09-04",
-    "updateDate": "2026-09-04T04:10:05.003Z",
+    "updateDate": "2026-09-04T05:12:02.474Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is working on the Military Ridge State Trail paving project to ensure year-round access for all. Additionally, we are thrilled to welcome the new Tai Chi Animal Frolics sculpture to Century School Park, a gift representing community art and wellness.",
+    "mainText": "In city news, the Tai Chi Animal Frolics tree sculpture has been officially installed at Century School Park. Carved from a reclaimed ash tree by local artists, this beautiful addition was generously donated to the city. Also, the Military Ridge State Trail paving project is moving forward, with bridge replacements scheduled to close the trail between Lincoln and South Franklin Streets from mid-September to mid-November.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-09-04",
-    "updateDate": "2026-09-04T04:10:05.003Z",
+    "updateDate": "2026-09-04T05:12:02.474Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our area. Live music is taking place at Bailey's Run and Wisconsin Brewing Company tomorrow. On Friday, the Dane County Farmer's Market returns to the Capitol Square, and we have local trivia and markets coming up throughout early next week.",
+    "mainText": "Looking at local events, we have live music happening today at Bailey's Run Vineyard and Lake Lou-ee. Tomorrow, you can head downtown for the Dane County Farmer's Market or check out live music at Paddy Mac's. On Tuesday, September 8th, look forward to trivia nights at Hop Haus and Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-09-04",
-    "updateDate": "2026-09-04T04:10:05.003Z",
+    "updateDate": "2026-09-04T05:12:02.474Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from August 30, officers responded to a bicycle crash on East Verona Avenue. A 77-year-old driver was cited for failing to yield to a 15-year-old cyclist, who thankfully avoided injury.",
+    "mainText": "In the weekly police recap, officers responded to a medical emergency on Enterprise Drive last Tuesday. A 68-year-old man was found pulseless, but officers successfully utilized an onboard patrol vehicle AED to administer a shock and restore his pulse.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-04",
-    "updateDate": "2026-09-04T04:10:05.003Z",
+    "updateDate": "2026-09-04T05:12:02.474Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor was Snickers Swirl, but the store is now closed for the evening. We look forward to seeing you tomorrow morning at 10 AM when we will feature Chocolate Volcano as our flavor of the day.",
+    "mainText": "If you are planning your sweet treats, Culver's is currently closed but will open today at 10:00 AM. Today's delicious flavor of the day is Chocolate Volcano.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
