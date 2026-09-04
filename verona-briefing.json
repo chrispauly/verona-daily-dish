@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-04",
-    "updateDate": "2026-09-04T15:05:46.276Z",
+    "updateDate": "2026-09-04T16:06:17.730Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have overcast skies with a temperature of 81 degrees at the Verona Area High School, and the moon is currently in its third quarter phase.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: it is 80 degrees with a feels-like temperature of 86 and clear skies near the Verona Public Library.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-04",
-    "updateDate": "2026-09-04T15:05:46.276Z",
+    "updateDate": "2026-09-04T16:06:17.730Z",
     "titleText": "Verona City News",
-    "mainText": "The city is moving ahead with phase two of the Highway M road construction starting the week of September 7, which will shift traffic patterns. Meanwhile, the Military Ridge State Trail paving project continues with bridge replacements scheduled through November.",
+    "mainText": "The city has two major updates: road construction on Highway M is moving into phase two the week of September 7, and a new public art sculpture, the Tai Chi Animal Frolics, has been installed at Century School Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-04",
-    "updateDate": "2026-09-04T15:05:46.276Z",
+    "updateDate": "2026-09-04T16:06:17.730Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead with live music at Bailey's Run and Wisconsin Brewing Company taking place today, plus the Dane County Farmers Market and live music at Paddy Mac's happening tomorrow.",
+    "mainText": "We have a full lineup of entertainment with live music happening today at Bailey's Run Vineyard and Lake Lou-ee, followed by the Dane County Farmers Market tomorrow at the Capitol Square.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-04",
-    "updateDate": "2026-09-04T15:05:46.276Z",
+    "updateDate": "2026-09-04T16:06:17.730Z",
     "titleText": "Verona Police Report",
-    "mainText": "On August 30, a vehicle versus bicyclist crash occurred at East Verona Avenue and Lincoln Street, resulting in a citation for the driver.",
+    "mainText": "On August 30, officers responded to the 800 block of North Edge Trail for a report of a vehicle window that had been intentionally smashed, and the investigation remains ongoing.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-04",
-    "updateDate": "2026-09-04T15:05:46.276Z",
+    "updateDate": "2026-09-04T16:06:17.730Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Chocolate Volcano. Culver's is currently open and serving until 10:30 PM tonight, so stop by and enjoy a treat.",
+    "mainText": "Today's delicious flavor of the day is Chocolate Volcano. The store is currently open for your enjoyment until 10:30 PM this evening.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
