@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-04",
-    "updateDate": "2026-09-04T09:10:34.704Z",
+    "updateDate": "2026-09-04T10:13:17.682Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish. It is a clear 77 degrees at Reddan Soccer Park, perfect for stargazing with a third quarter moon. If you are up early, look to the west-northwest over Cross Plains around 5:08 AM to see the International Space Station traveling high across the sky toward Oregon.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we have clear skies and a temperature of 76 degrees at the Verona Area High School, with the moon currently in its third quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-04",
-    "updateDate": "2026-09-04T09:10:34.704Z",
+    "updateDate": "2026-09-04T10:13:17.682Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is moving forward with the Military Ridge State Trail paving project to ensure year-round accessibility, with bridge replacements expected to start this summer. Also, make sure to visit Century School Park to see the newly installed Tai Chi Animal Frolics public art sculpture.",
+    "mainText": "The city is moving forward with the Military Ridge State Trail project to pave the trail and replace bridges. Also, a new public art piece called Tai Chi Animal Frolics has been installed in Century School Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-04",
-    "updateDate": "2026-09-04T09:10:34.704Z",
+    "updateDate": "2026-09-04T10:13:17.682Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a full slate of activities starting with live music today at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, check out the Dane County Farmer's Market at the Capitol Square or catch some tunes at Paddy Mac's.",
+    "mainText": "For events, catch live music at Bailey's Run Vineyard and Lake Lou-ee today. Tomorrow, you can visit the Dane County Farmer's Market or catch more live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-04",
-    "updateDate": "2026-09-04T09:10:34.704Z",
+    "updateDate": "2026-09-04T10:13:17.682Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported a variety of incidents last week, including a specific case involving medical emergencies that occurred last Monday.",
+    "mainText": "In a notable incident from August 25, officers utilized an A E D to assist a man experiencing a medical emergency, successfully restoring his pulse before EMS arrival.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-04",
-    "updateDate": "2026-09-04T09:10:34.704Z",
+    "updateDate": "2026-09-04T10:13:17.682Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is serving up the delicious Chocolate Volcano as today's flavor. The restaurant opens today at 10:00 AM, so be sure to stop by before they close at 10:30 PM.",
+    "mainText": "Today's flavor of the day is Chocolate Volcano. Culver's opens today at 10:00 AM, so head on over to enjoy a scoop once they are open for business.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
