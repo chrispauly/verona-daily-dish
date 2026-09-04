@@ -1,42 +1,42 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-09-03",
-    "updateDate": "2026-09-03T23:05:54.170Z",
+    "uid": "verona-balanced-weather-2026-09-04",
+    "updateDate": "2026-09-04T00:18:20.996Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. We have overcast skies and a temperature of 82 degrees at Verona Community Park, feeling closer to 90. Expect rain tonight with an overnight low of 73 degrees. Also, under our third-quarter moon tonight, the International Space Station will be visible at 3:35 AM, rising over Middleton near Verona High School and traveling east toward Fitchburg about halfway up the sky.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish on the weather. It is 80 degrees with clear skies at Reddan Soccer Park. We are in a third quarter moon phase tonight, and early tomorrow at 3:35 AM, you can spot the ISS rising in the Northwest over Verona High School and traveling toward the East over Fitchburg, reaching about halfway up the sky. The low tonight will be 73 degrees with rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-09-03",
-    "updateDate": "2026-09-03T23:05:54.170Z",
+    "uid": "verona-balanced-news-2026-09-04",
+    "updateDate": "2026-09-04T00:18:20.996Z",
     "titleText": "Verona City News",
-    "mainText": "In local news, the Military Ridge State Trail paving project is moving forward to improve year-round accessibility, requiring a trail closure between Lincoln and South Franklin Street from mid-September to mid-November for bridge work. Additionally, a new sculpture titled Tai Chi Animal Frolics is now on display at Century School Park. Carved from a fallen ash tree by local artists, this beautiful piece depicts traditional Tai Chi movements.",
+    "mainText": "There are two major updates for our city. First, the City is moving forward with the Military Ridge State Trail paving project to ensure year-round accessibility, including replacing bridges. Second, a new public art installation called Tai Chi Animal Frolics has been unveiled at Century School Park, featuring animal-inspired movements carved from a reclaimed ash tree.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-09-03",
-    "updateDate": "2026-09-03T23:05:54.170Z",
+    "uid": "verona-balanced-events-2026-09-04",
+    "updateDate": "2026-09-04T00:18:20.996Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "For local events, you can enjoy Yoga at Insight Wellness or Hop Haus Trivia today. Tomorrow, get ready for fantastic live music at both Bailey's Run Vineyard and Lake Lou-ee.",
+    "mainText": "We have a busy schedule for our community. Today, you can join Yoga at Insight Wellness or play trivia at Hop Haus. Looking ahead, tomorrow brings live music at both Bailey's Run Vineyard and the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-09-03",
-    "updateDate": "2026-09-03T23:05:54.170Z",
+    "uid": "verona-balanced-police-2026-09-04",
+    "updateDate": "2026-09-04T00:18:20.996Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the police weekly report, officers successfully saved a life on Tuesday, August twenty-fifth. Responding to a medical emergency on Enterprise Drive, an officer used an automated external defibrillator on a pulseless man, successfully restoring his pulse before medical help arrived.",
+    "mainText": "Regarding the weekly safety report, on August 30, officers responded to a witness report of a vehicle window being intentionally smashed on North Edge Trail; the suspect fled the scene and an arrest warrant has been issued.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-09-03",
-    "updateDate": "2026-09-03T23:05:54.170Z",
+    "uid": "verona-balanced-culvers-2026-09-04",
+    "updateDate": "2026-09-04T00:18:20.996Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently open until 10 PM tonight, so stop by to treat yourself to today's delicious flavor of the day, Snickers Swirl.",
+    "mainText": "Today's flavor is Snickers Swirl, and the team at Culver's is ready to serve you until they close at 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
