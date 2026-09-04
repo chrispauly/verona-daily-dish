@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-04",
-    "updateDate": "2026-09-04T05:12:02.474Z",
+    "updateDate": "2026-09-04T06:14:06.181Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. It is a clear night here at Verona City Hall, with temperatures at 75 degrees feeling more like 81. Under the third quarter moon, night owls can spot the International Space Station at 3:35 AM for about a minute. Look northwest over Middleton near the high school as it travels halfway up the sky toward Fitchburg.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we are seeing clear skies near Harriet Park with a third quarter moon, and keep an eye on the northwest sky around 3:35 AM to see the space station transit from the direction of Verona High School toward Fitchburg.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-04",
-    "updateDate": "2026-09-04T05:12:02.474Z",
+    "updateDate": "2026-09-04T06:14:06.181Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Tai Chi Animal Frolics tree sculpture has been officially installed at Century School Park. Carved from a reclaimed ash tree by local artists, this beautiful addition was generously donated to the city. Also, the Military Ridge State Trail paving project is moving forward, with bridge replacements scheduled to close the trail between Lincoln and South Franklin Streets from mid-September to mid-November.",
+    "mainText": "City updates include the Military Ridge State Trail paving project, which aims to provide year-round accessibility, and the installation of a new Tai Chi Animal Frolics wood sculpture at Century School Park.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-04",
-    "updateDate": "2026-09-04T05:12:02.474Z",
+    "updateDate": "2026-09-04T06:14:06.181Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at local events, we have live music happening today at Bailey's Run Vineyard and Lake Lou-ee. Tomorrow, you can head downtown for the Dane County Farmer's Market or check out live music at Paddy Mac's. On Tuesday, September 8th, look forward to trivia nights at Hop Haus and Lake Lou-ee.",
+    "mainText": "We have live music today at Bailey's Run Vineyard, the Dane County Farmer's Market tomorrow, and trivia nights coming up later next week at Hop Haus and Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-04",
-    "updateDate": "2026-09-04T05:12:02.474Z",
+    "updateDate": "2026-09-04T06:14:06.181Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly police recap, officers responded to a medical emergency on Enterprise Drive last Tuesday. A 68-year-old man was found pulseless, but officers successfully utilized an onboard patrol vehicle AED to administer a shock and restore his pulse.",
+    "mainText": "On August 30, a vehicle versus bicyclist crash occurred at East Verona Avenue and Lincoln Street, resulting in a citation for the driver.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-04",
-    "updateDate": "2026-09-04T05:12:02.474Z",
+    "updateDate": "2026-09-04T06:14:06.181Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "If you are planning your sweet treats, Culver's is currently closed but will open today at 10:00 AM. Today's delicious flavor of the day is Chocolate Volcano.",
+    "mainText": "Today's delicious flavor of the day is Chocolate Volcano. The store opens today at 10:00 AM so you can swing by and grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
