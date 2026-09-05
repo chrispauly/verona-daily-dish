@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-05",
-    "updateDate": "2026-09-05T22:04:42.837Z",
+    "updateDate": "2026-09-05T23:04:50.960Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. We have 77-degree weather with partly cloudy skies near Fireman's Park. Please note that the air quality index is at a moderate 54 today. Looking ahead to the night, the temperature will dip to a low of 62 degrees, and no rain is predicted for the overnight hours.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: we have overcast skies at the Military Ridge State Trail and a moderate air quality index of 53. The moon is in its third quarter phase, and our overnight low will be 62 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-05",
-    "updateDate": "2026-09-05T22:04:42.837Z",
+    "updateDate": "2026-09-05T23:04:50.960Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, construction continues on the Hwy M project with traffic shifts starting the week of September 7, and the Military Ridge State Trail paving project is moving forward with an upcoming closure between Lincoln and South Franklin Street from mid-September to mid-November.",
+    "mainText": "City updates today include an arrest by the Verona Police Department involving a school staff member for sexual assault of a child, as well as an update on the Highway M road construction where traffic shifts will continue through the month.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-05",
-    "updateDate": "2026-09-05T22:04:42.837Z",
+    "updateDate": "2026-09-05T23:04:50.960Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our area. Today, we have the Dane County Farmer's Market, plus live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking forward, we have Yoga at Insight Wellness on September 7, and a variety of trivia nights starting on September 8.",
+    "mainText": "There is a lot going on this week, starting with the Dane County Farmer's Market today and live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking ahead, keep an eye out for yoga at Insight Wellness on September 7, and trivia nights starting September 8 at Hop Haus and the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-05",
-    "updateDate": "2026-09-05T22:04:42.837Z",
+    "updateDate": "2026-09-05T23:04:50.960Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department announced on Friday, September 4, 2026, that a 34-year-old Madison resident was arrested for the sexual assault of a child by a school staff member, following an investigation into events that took place in 2019.",
+    "mainText": "The Verona Police Department reported an arrest stemming from an investigation into an inappropriate relationship between a teacher and a student that occurred on Sunday, August 30, 2026.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-05",
-    "updateDate": "2026-09-05T22:04:42.837Z",
+    "updateDate": "2026-09-05T23:04:50.960Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Mint Cookie. The store is currently open and will remain open until 10:30 PM tonight.",
+    "mainText": "You can enjoy today's delicious Mint Cookie flavor of the day at our local Culver's, which is currently open and serving guests until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
