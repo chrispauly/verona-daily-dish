@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-05",
-    "updateDate": "2026-09-05T14:10:20.101Z",
+    "updateDate": "2026-09-05T15:04:54.859Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: it is 70 degrees and fair at City Hall.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. It is 74 degrees with overcast skies over Reddan Soccer Park and the air quality is moderate with an index of 56.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-05",
-    "updateDate": "2026-09-05T14:10:20.101Z",
+    "updateDate": "2026-09-05T15:04:54.859Z",
     "titleText": "Verona City News",
-    "mainText": "City news today includes an update on the Military Ridge State Trail paving project, which aims to improve accessibility and will require trail closures near Lincoln and South Franklin Street starting in mid-September. Also, road construction is ongoing along Highway M for the Aldi development.",
+    "mainText": "City updates include phase two of the Aldi development road work beginning the week of September 7, which will shift traffic into the eastbound lanes on Highway M. Also, the Military Ridge State Trail paving project is moving forward, with a bridge replacement near Lincoln Street closing that section of the trail from mid-September through mid-November.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-05",
-    "updateDate": "2026-09-05T14:10:20.101Z",
+    "updateDate": "2026-09-05T15:04:54.859Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot happening today, including the Dane County Farmers Market and live music at Baileys Run, Paddy Macs, and Wisconsin Brewing Company. Looking ahead, you can enjoy yoga at Insight Wellness on September 7, or catch trivia next week at various local spots.",
+    "mainText": "Today is packed with activities, including the Dane County Farmer's Market and live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking ahead, you can join a yoga session at Insight Wellness on September 7, trivia nights at Hop Haus and Lake Lou-ee on September 8, and the Downtown Farmer's Market along with Wednesday pizza at Lake Lou-ee on September 9.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-05",
-    "updateDate": "2026-09-05T14:10:20.101Z",
+    "updateDate": "2026-09-05T15:04:54.859Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Friday, September 4, the Verona Police Department made an arrest of a 34-year-old Madison woman regarding the sexual assault of a child by a school staff member for incidents reported in 2019.",
+    "mainText": "The Verona Police Department reported the arrest of 34-year-old Halla Nelson of Madison on September 4 regarding an inappropriate relationship with a student. The investigation began after the school district provided information on Sunday, August 30.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-05",
-    "updateDate": "2026-09-05T14:10:20.101Z",
+    "updateDate": "2026-09-05T15:04:54.859Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Mint Cookie, and the store opens today at 10:00 AM so make sure to stop by and grab a scoop.",
+    "mainText": "Culver's is serving up Mint Cookie as today's flavor of the day. The restaurant is currently open and will remain so until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
