@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-05",
-    "updateDate": "2026-09-05T16:05:21.968Z",
+    "updateDate": "2026-09-05T17:04:34.728Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we have 74-degree temperatures under overcast skies near City Hall, with an air quality index of 56 due to current moderate conditions.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we have 76 degrees with partly cloudy skies at Harriet Park, and an air quality index reading of 56, which is in the moderate range.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-05",
-    "updateDate": "2026-09-05T16:05:21.968Z",
+    "updateDate": "2026-09-05T17:04:34.728Z",
     "titleText": "Verona City News",
-    "mainText": "City officials announced that phase two of the Highway M construction project begins the week of September 7, bringing temporary traffic shifts. Additionally, the Military Ridge State Trail will see closures between Lincoln and South Franklin Street starting in mid-September for bridge replacements.",
+    "mainText": "The City of Verona reports that phase two of road construction on Highway M begins the week of September 7, bringing traffic shifts and lane changes. Additionally, an investigation into a 2019 incident led to the arrest of a school staff member this past Friday.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-05",
-    "updateDate": "2026-09-05T16:05:21.968Z",
+    "updateDate": "2026-09-05T17:04:34.728Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot to do this weekend, starting with the Dane County Farmers Market today. You can also catch live music at Baileys Run, Paddys Macs, and the Wisconsin Brewing Company all through today.",
+    "mainText": "There is plenty to do, with the Dane County Farmers Market taking place today, plus live music performances at Bailey's Run, Paddy Mac's, and Wisconsin Brewing Company all happening today.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-05",
-    "updateDate": "2026-09-05T16:05:21.968Z",
+    "updateDate": "2026-09-05T17:04:34.728Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported that on August 30, they received information regarding an inappropriate relationship between a teacher and student from 2019, leading to an arrest on September 4.",
+    "mainText": "The Verona Police Department reported that on Sunday, August 30, they received information regarding an inappropriate relationship from 2019, which led to the arrest of 34-year-old Halla Nelson this past Friday.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-05",
-    "updateDate": "2026-09-05T16:05:21.968Z",
+    "updateDate": "2026-09-05T17:04:34.728Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culvers is serving up the Mint Cookie flavor of the day and is currently open until their 10:30 PM closing time, so feel free to stop by and grab a treat.",
+    "mainText": "Today's flavor of the day is the refreshing Mint Cookie. Culver's is open now and will remain open until 10:30 PM tonight, so there is plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
