@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-05",
-    "updateDate": "2026-09-05T10:05:05.327Z",
+    "updateDate": "2026-09-05T11:04:49.555Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish. It is 73 degrees with foggy conditions at Harriet Park. The moon is in its third quarter phase, and you can catch a quick look at the International Space Station at 5:57 AM as it rises over Mount Horeb and travels toward Belleville while staying low on the horizon.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: it is 72 degrees with partly cloudy skies at Badger Ridge Middle School. Please be aware that the air quality index is 53, and we are currently in the third quarter moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-05",
-    "updateDate": "2026-09-05T10:05:05.327Z",
+    "updateDate": "2026-09-05T11:04:49.555Z",
     "titleText": "Verona City News",
-    "mainText": "City news includes updates on road construction where traffic on Highway M is shifting for utility work. Additionally, the Military Ridge State Trail is undergoing a major paving and bridge replacement project, with a closure between Lincoln and South Franklin Street beginning in mid-September.",
+    "mainText": "In city news, a 34-year-old Madison resident was arrested this past Friday for an incident involving a school staff member reported on August 30. Also, please note that phase two of the road construction on Highway M begins the week of September 7, which will shift traffic into the eastbound lanes for the next few weeks.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-05",
-    "updateDate": "2026-09-05T10:05:05.327Z",
+    "updateDate": "2026-09-05T11:04:49.555Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, starting with the Dane County Farmer's Market today. You can also catch live music today at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company.",
+    "mainText": "There is plenty happening around town today, including the Dane County Farmers Market, as well as live music at Baileys Run, Paddys Macs, and the Wisconsin Brewing Company. Looking ahead, you can enjoy trivia on Monday and Tuesday, or visit the Verona Downtown Farmers Market on Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-05",
-    "updateDate": "2026-09-05T10:05:05.327Z",
+    "updateDate": "2026-09-05T11:04:49.555Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local police activity, on Sunday, August 30, the department received a report regarding an inappropriate relationship between a teacher and a student. An investigation led to the arrest of 34-year-old Halla Nelson, who is currently being held at the Dane County Jail.",
+    "mainText": "The Verona Police Department arrested 34-year-old Halla Nelson this past Friday in connection to a sexual assault case involving a school staff member that was reported on August 30.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-05",
-    "updateDate": "2026-09-05T10:05:05.327Z",
+    "updateDate": "2026-09-05T11:04:49.555Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "For dessert lovers, today's featured flavor is Mint Cookie. The local Culver's opens today at 10:00 AM and will remain open until 10:30 PM.",
+    "mainText": "Today's flavor is Mint Cookie, and you can grab a scoop when the restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
