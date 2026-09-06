@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-06",
-    "updateDate": "2026-09-06T00:17:20.650Z",
+    "updateDate": "2026-09-06T01:20:19.705Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. It is 73 degrees by the Verona Public Library with mainly clear skies, though the air quality index is currently elevated at 53. The temperature will dip to an overnight low of 62 degrees, and there is no rain expected overnight.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have clear skies near Badger Ridge Middle School with a temperature of 72 degrees, though the air quality index is elevated at 52. The temperature will dip to an overnight low of 62 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-06",
-    "updateDate": "2026-09-06T00:17:20.650Z",
+    "updateDate": "2026-09-06T01:20:19.705Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, road construction on highway M is shifting into phase two next week, which will impact traffic patterns for the next few weeks. Also, the Military Ridge State Trail paving project is moving forward with the bridge near Lincoln Street scheduled for closure from mid-September through November.",
+    "mainText": "City officials are moving forward with phase two of the Aldi development road work on Highway M, which will shift traffic patterns starting the week of September 7. Additionally, the Military Ridge State Trail will see closures from mid-September to mid-November to facilitate a bridge replacement project near Lincoln Street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-06",
-    "updateDate": "2026-09-06T00:17:20.650Z",
+    "updateDate": "2026-09-06T01:20:19.705Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with the Dane County Farmers Market happening today, plus live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company taking place today.",
+    "mainText": "There is a busy schedule ahead. Today you can visit the Dane County Farmers Market or catch live music at Baileys Run, Paddy Macs, and Wisconsin Brewing Company. Looking forward, the Verona Downtown Farmers Market is on September 9, and you can enjoy trivia at various spots like Hop Haus and Lake Lou-ee early next week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-06",
-    "updateDate": "2026-09-06T00:17:20.650Z",
+    "updateDate": "2026-09-06T01:20:19.705Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department confirmed the arrest of a 34-year-old Madison resident regarding an incident that took place on Sunday, August 30.",
+    "mainText": "The Verona Police Department is investigating a case involving the sexual assault of a child by a school staff member. The incident was reported on Sunday, August 30, and has resulted in the arrest of a Madison resident.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-06",
-    "updateDate": "2026-09-06T00:17:20.650Z",
+    "updateDate": "2026-09-06T01:20:19.705Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Georgia Peach, and since the restaurant is open, you have plenty of time to stop by before they close at 10:00 PM.",
+    "mainText": "Today's flavor of the day is Mint Cookie. The store is currently open and will remain open until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
