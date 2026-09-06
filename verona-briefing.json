@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-06",
-    "updateDate": "2026-09-06T14:05:06.220Z",
+    "updateDate": "2026-09-06T15:05:23.852Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we have clear skies at Verona City Hall with a pleasant temperature of 67 degrees, feeling like 70, under a waning crescent moon.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: it is 68 degrees with partly cloudy skies at Reddan Soccer Park, and the moon is currently in a waning crescent phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-06",
-    "updateDate": "2026-09-06T14:05:06.220Z",
+    "updateDate": "2026-09-06T15:05:23.852Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced an arrest following an investigation into a 2019 case of sexual assault of a child by a school staff member. Additionally, road construction on Highway M continues with phase two starting the week of September 7, causing traffic shifts near Alliant and Kwik Trip.",
+    "mainText": "The City of Verona reports that a 34-year-old Madison woman was arrested on August 30 for the sexual assault of a child, and road construction on Highway M moves into its second phase next week, requiring traffic shifts.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-06",
-    "updateDate": "2026-09-06T14:05:06.220Z",
+    "updateDate": "2026-09-06T15:05:23.852Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona, including live music today at Bailey's Run and Wisconsin Brewing Company, yoga tomorrow at Insight Wellness, and a variety of trivia nights and the downtown farmer's market starting on September 9.",
+    "mainText": "There is a busy weekend ahead with live music today at Bailey's Run Vineyard and the Wisconsin Brewing Company, followed by yoga tomorrow at Insight Wellness and various trivia nights starting Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-06",
-    "updateDate": "2026-09-06T14:05:06.220Z",
+    "updateDate": "2026-09-06T15:05:23.852Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported that on a Sunday in 2019, an inappropriate relationship occurred between a teacher and a student, leading to an arrest on September 4, 2026.",
+    "mainText": "On Sunday, August 30, the Verona Police Department arrested a former school staff member following an investigation into an incident that occurred in 2019.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-06",
-    "updateDate": "2026-09-06T14:05:06.220Z",
+    "updateDate": "2026-09-06T15:05:23.852Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is Chocolate Covered Strawberry, and the restaurant opens today at 10:00 AM.",
+    "mainText": "Culver's is open until 10 PM today, so be sure to stop by and try today's flavor of the day, which is Chocolate Covered Strawberry.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
