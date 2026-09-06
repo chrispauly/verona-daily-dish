@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-09-05",
-    "updateDate": "2026-09-05T23:04:50.960Z",
+    "uid": "verona-balanced-weather-2026-09-06",
+    "updateDate": "2026-09-06T00:17:20.650Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: we have overcast skies at the Military Ridge State Trail and a moderate air quality index of 53. The moon is in its third quarter phase, and our overnight low will be 62 degrees with no rain expected.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. It is 73 degrees by the Verona Public Library with mainly clear skies, though the air quality index is currently elevated at 53. The temperature will dip to an overnight low of 62 degrees, and there is no rain expected overnight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-09-05",
-    "updateDate": "2026-09-05T23:04:50.960Z",
+    "uid": "verona-balanced-news-2026-09-06",
+    "updateDate": "2026-09-06T00:17:20.650Z",
     "titleText": "Verona City News",
-    "mainText": "City updates today include an arrest by the Verona Police Department involving a school staff member for sexual assault of a child, as well as an update on the Highway M road construction where traffic shifts will continue through the month.",
+    "mainText": "In city news, road construction on highway M is shifting into phase two next week, which will impact traffic patterns for the next few weeks. Also, the Military Ridge State Trail paving project is moving forward with the bridge near Lincoln Street scheduled for closure from mid-September through November.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-09-05",
-    "updateDate": "2026-09-05T23:04:50.960Z",
+    "uid": "verona-balanced-events-2026-09-06",
+    "updateDate": "2026-09-06T00:17:20.650Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot going on this week, starting with the Dane County Farmer's Market today and live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking ahead, keep an eye out for yoga at Insight Wellness on September 7, and trivia nights starting September 8 at Hop Haus and the Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do with the Dane County Farmers Market happening today, plus live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company taking place today.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-09-05",
-    "updateDate": "2026-09-05T23:04:50.960Z",
+    "uid": "verona-balanced-police-2026-09-06",
+    "updateDate": "2026-09-06T00:17:20.650Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported an arrest stemming from an investigation into an inappropriate relationship between a teacher and a student that occurred on Sunday, August 30, 2026.",
+    "mainText": "The Verona Police Department confirmed the arrest of a 34-year-old Madison resident regarding an incident that took place on Sunday, August 30.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-09-05",
-    "updateDate": "2026-09-05T23:04:50.960Z",
+    "uid": "verona-balanced-culvers-2026-09-06",
+    "updateDate": "2026-09-06T00:17:20.650Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy today's delicious Mint Cookie flavor of the day at our local Culver's, which is currently open and serving guests until 10:30 PM tonight.",
+    "mainText": "Today's flavor of the day is Georgia Peach, and since the restaurant is open, you have plenty of time to stop by before they close at 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
