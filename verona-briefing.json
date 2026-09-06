@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-06",
-    "updateDate": "2026-09-06T01:20:19.705Z",
+    "updateDate": "2026-09-06T02:08:14.590Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have clear skies near Badger Ridge Middle School with a temperature of 72 degrees, though the air quality index is elevated at 52. The temperature will dip to an overnight low of 62 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: we are seeing clear skies around the Verona Public Library with an air quality index of 52. We are in a third quarter moon phase, and you might spot the International Space Station rising in the west over Mount Horeb and traveling toward Belleville at 5:13 AM tomorrow. The overnight low will reach 62 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-06",
-    "updateDate": "2026-09-06T01:20:19.705Z",
+    "updateDate": "2026-09-06T02:08:14.590Z",
     "titleText": "Verona City News",
-    "mainText": "City officials are moving forward with phase two of the Aldi development road work on Highway M, which will shift traffic patterns starting the week of September 7. Additionally, the Military Ridge State Trail will see closures from mid-September to mid-November to facilitate a bridge replacement project near Lincoln Street.",
+    "mainText": "The Verona Police Department reported that Halla Nelson, a 34-year-old from Madison, was arrested on September 4 for the sexual assault of a child by a school staff member, stemming from an incident in 2019. Additionally, road construction continues on Highway M with traffic shifting lanes for utility work, and the Military Ridge State Trail paving project is moving forward with bridge replacements scheduled through November.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-06",
-    "updateDate": "2026-09-06T01:20:19.705Z",
+    "updateDate": "2026-09-06T02:08:14.590Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a busy schedule ahead. Today you can visit the Dane County Farmers Market or catch live music at Baileys Run, Paddy Macs, and Wisconsin Brewing Company. Looking forward, the Verona Downtown Farmers Market is on September 9, and you can enjoy trivia at various spots like Hop Haus and Lake Lou-ee early next week.",
+    "mainText": "There is plenty happening around town. Today, you can visit the Dane County Farmers Market or enjoy live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company. Looking ahead, you can join a yoga session on September 7 or participate in trivia nights starting September 8 at Hop Haus and the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-06",
-    "updateDate": "2026-09-06T01:20:19.705Z",
+    "updateDate": "2026-09-06T02:08:14.590Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department is investigating a case involving the sexual assault of a child by a school staff member. The incident was reported on Sunday, August 30, and has resulted in the arrest of a Madison resident.",
+    "mainText": "In our weekly report, the department noted that on Sunday, August 30, they received a report regarding an inappropriate relationship between a teacher and a student that occurred back in 2019, which has now led to an arrest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-06",
-    "updateDate": "2026-09-06T01:20:19.705Z",
+    "updateDate": "2026-09-06T02:08:14.590Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Mint Cookie. The store is currently open and will remain open until 10:30 PM tonight.",
+    "mainText": "Today's flavor was Mint Cookie, but the store is now closed for the evening. We look forward to tomorrow's featured flavor, Chocolate Covered Strawberry, when the store opens at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
