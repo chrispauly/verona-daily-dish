@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-07",
-    "updateDate": "2026-09-07T02:09:29.488Z",
+    "updateDate": "2026-09-07T03:07:37.916Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. It is 70 degrees with overcast skies at Verona Community Park. We expect an overnight low of 60 degrees with no rain predicted, all under a Waning Crescent moon.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. It is currently 68 degrees with overcast skies at Verona Community Park. Under the Waning Crescent moon, we expect a low of 58 degrees tonight with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-07",
-    "updateDate": "2026-09-07T02:09:29.488Z",
+    "updateDate": "2026-09-07T03:07:37.916Z",
     "titleText": "Verona City News",
-    "mainText": "The city has released an update regarding the arrest of a school staff member, Halla Nelson, following an investigation into a 2019 incident. Additionally, the city is moving into phase two of the Highway M construction project starting the week of September 7, which will shift traffic patterns to maintain one lane in each direction.",
+    "mainText": "In city news, a 34-year-old Madison woman was arrested on September 4, 2026, for a sexual assault involving a student that occurred in 2019. Additionally, road construction continues on Highway M with traffic shifts planned to help improve utilities and road conditions.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-07",
-    "updateDate": "2026-09-07T02:09:29.488Z",
+    "updateDate": "2026-09-07T03:07:37.916Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "This weekend is packed with entertainment. Today, enjoy live music at both Bailey's Run Vineyard and the Wisconsin Brewing Company. Tomorrow, you can drop in for a yoga session at Insight Wellness. Looking ahead, next Tuesday features trivia nights at Hop Haus Brewing Company and the Wisconsin Brewing Company, followed by the Downtown Farmer's Market and more live music at Paddy Mac's on Wednesday.",
+    "mainText": "There is plenty to do in Verona. Enjoy live music today at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, you can catch yoga at Insight Wellness, followed by a busy week of trivia nights and the downtown farmer's market on Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-07",
-    "updateDate": "2026-09-07T02:09:29.488Z",
+    "updateDate": "2026-09-07T03:07:37.916Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported that a 34-year-old individual was arrested for sexual assault of a child, stemming from an incident that occurred on Sunday, August 30, 2026.",
+    "mainText": "The Verona Police Department reported that on Sunday, August 30, 2026, they were alerted to a historical incident involving an inappropriate relationship between a teacher and a student, leading to a recent arrest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-07",
-    "updateDate": "2026-09-07T02:09:29.488Z",
+    "updateDate": "2026-09-07T03:07:37.916Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Chocolate Covered Strawberry. The store is currently open, but please note that it is closing in under an hour, so you have just enough time to grab a scoop before they close for the night.",
+    "mainText": "Today's flavor of the day was Chocolate Covered Strawberry. The store is now closed for the night, but you can enjoy tomorrow's flavor, Georgia Peach, when the shop opens tomorrow at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
