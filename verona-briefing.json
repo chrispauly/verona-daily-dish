@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-07",
-    "updateDate": "2026-09-07T06:12:34.590Z",
+    "updateDate": "2026-09-07T07:14:41.698Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: current conditions are 63 degrees under overcast skies with a waning crescent moon visible over Badger Ridge Middle School.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: we are looking at 61 degrees with overcast conditions near Verona Community Park, and the moon is currently a waning crescent.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-07",
-    "updateDate": "2026-09-07T06:12:34.590Z",
+    "updateDate": "2026-09-07T07:14:41.698Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department recently announced the arrest of 34-year-old Halla Nelson regarding an incident from 2019, and the city is continuing road construction on Highway M with traffic patterns shifting starting the week of September 7.",
+    "mainText": "In city news, construction on Highway M enters phase two the week of September 7, bringing traffic shifts and lane changes. Additionally, the Verona Police Department announced the arrest of Halla Nelson for sexual assault of a child involving a school staff member.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-07",
-    "updateDate": "2026-09-07T06:12:34.590Z",
+    "updateDate": "2026-09-07T07:14:41.698Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can attend Yoga at Insight Wellness, and tomorrow features a variety of trivia nights at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus live music and the farmer's market arriving on September 9.",
+    "mainText": "Today you can join a session at Yoga at Insight Wellness. Looking toward tomorrow, there are plenty of options including trivia at Hop Haus and the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-07",
-    "updateDate": "2026-09-07T06:12:34.590Z",
+    "updateDate": "2026-09-07T07:14:41.698Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the police weekly report, on Sunday, August 30, the school district notified officials of an incident, leading to the arrest of a staff member for sexual assault of a child.",
+    "mainText": "Following a report received by the school district, the Verona Police Department investigated and arrested a teacher for an incident that occurred on Sunday, August 30, 2026.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-07",
-    "updateDate": "2026-09-07T06:12:34.590Z",
+    "updateDate": "2026-09-07T07:14:41.698Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Georgia Peach and the store opens today at 10:00 AM so be sure to plan your visit accordingly.",
+    "mainText": "Today's delicious flavor of the day is Georgia Peach. The store opens today at 10:00 AM and will be serving until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
