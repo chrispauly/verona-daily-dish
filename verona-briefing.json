@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-07",
-    "updateDate": "2026-09-07T00:16:57.825Z",
+    "updateDate": "2026-09-07T01:21:04.622Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: the current temperature is 73 degrees with overcast skies near Badger Ridge Middle School. We are currently experiencing a waning crescent moon phase. The overnight low will reach 59 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: we have 71 degrees under overcast skies at Harriet Park. The moon is in a waning crescent phase, and we will see an overnight low of 60 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-07",
-    "updateDate": "2026-09-07T00:16:57.825Z",
+    "updateDate": "2026-09-07T01:21:04.622Z",
     "titleText": "Verona City News",
-    "mainText": "Regarding city news, road construction updates indicate that phase two of the Aldi development project begins the week of September 7th, which will shift traffic patterns on Highway M. Additionally, the Verona Police Department announced the arrest of a Madison woman on September 4th following an investigation into an incident from 2019.",
+    "mainText": "The Verona Police Department arrested a 34-year-old Madison woman on September 4 following reports of an inappropriate relationship with a student in 2019. Additionally, road construction is moving into phase two this week on Highway M, which will shift traffic into the eastbound lanes with one lane maintained in each direction.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-07",
-    "updateDate": "2026-09-07T00:16:57.825Z",
+    "updateDate": "2026-09-07T01:21:04.622Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this week in Verona. Today, enjoy live music at both Bailey's Run and Wisconsin Brewing Company. Tomorrow, you can head to Insight Wellness for yoga. Looking ahead, next week is packed with events including Hop Haus Trivia, Quizmasters Trivia, the Downtown Farmer's Market, and more.",
+    "mainText": "There is plenty to do this week in Verona. Today, enjoy live music at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, you can head to Insight Wellness for yoga. Looking ahead, Tuesday brings trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus the Downtown Farmer's Market.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-07",
-    "updateDate": "2026-09-07T00:16:57.825Z",
+    "updateDate": "2026-09-07T01:21:04.622Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department provided a weekly update regarding an arrest made on Friday, September 4th, related to a sexual assault of a child case that was reported on Sunday, August 30th.",
+    "mainText": "Regarding the weekly police update, an investigation began after the school district reported an incident on Sunday, August 30, which led to the arrest of a teacher for sexual assault.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-07",
-    "updateDate": "2026-09-07T00:16:57.825Z",
+    "updateDate": "2026-09-07T01:21:04.622Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Chocolate Covered Strawberry. The store is currently open and will remain so until 10:00 PM tonight.",
+    "mainText": "Today's flavor of the day is Chocolate Covered Strawberry. The store is currently open and will remain open until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
