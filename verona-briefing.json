@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-07",
-    "updateDate": "2026-09-07T20:08:04.518Z",
+    "updateDate": "2026-09-07T21:05:01.352Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. Clear skies and a comfortable 78 degrees are making for a beautiful afternoon at Harriet Park. Later tonight, expect a waning crescent moon and a visible pass of the Space Station starting at 9:05 PM, passing halfway up the sky from the southwest over Mount Horeb toward the northeast over Fitchburg and Madison.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. We have overcast skies at Verona Community Park with a temperature of 78 degrees. If you are looking up tonight, the International Space Station will be visible at 9:05 PM for two minutes, rising in the southwest over Mount Horeb and heading toward the east northeast over Fitchburg and Madison, reaching about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-07",
-    "updateDate": "2026-09-07T20:08:04.518Z",
+    "updateDate": "2026-09-07T21:05:01.352Z",
     "titleText": "Verona City News",
-    "mainText": "In local news, the Verona Area School District recently shared information with police regarding an inappropriate relationship between a teacher and a student from 2019. Following an investigation, thirty-four-year-old Halla Nelson of Madison was booked into the Dane County Jail on one count of sexual assault of a child by a school staff member.",
+    "mainText": "In local news, the Verona Police Department reported the arrest of 34-year-old Halla Nelson of Madison. She was booked into the Dane County Jail on Friday for sexual assault of a child by a school staff member, with the incident dating back to the summer or fall of 2019.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-07",
-    "updateDate": "2026-09-07T20:08:04.518Z",
+    "updateDate": "2026-09-07T21:05:01.352Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "For upcoming events, look for yoga happening today at Insight Wellness Verona. Tomorrow brings trivia options with Hop Haus Trivia, Quizmasters Trivia at Lake Lou-ee, and Dream Day Trivia at Paddy Mac's. On Wednesday, you can head downtown for the Verona Downtown Farmer's Market.",
+    "mainText": "Looking for things to do? We have Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's. Looking ahead, Wednesday features live music at Paddy Mac's, the Farmer's Market at Hometown Junction Park, and various trivia nights around town.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-07",
-    "updateDate": "2026-09-07T20:08:04.518Z",
+    "updateDate": "2026-09-07T21:05:01.352Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly police report, a Madison resident was arrested last Friday following an investigation into a school staff member relationship that occurred in 2019.",
+    "mainText": "In our weekly police report, authorities arrested a former school staff member on Friday regarding an investigation into an inappropriate relationship that occurred during the summer or fall of 2019.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-07",
-    "updateDate": "2026-09-07T20:08:04.518Z",
+    "updateDate": "2026-09-07T21:05:01.352Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "To wrap up your day, Culver's is currently open and serving Georgia Peach as today's flavor of the day. You have until 10:00 PM tonight to stop by and get a scoop.",
+    "mainText": "Today's flavor of the day is the delicious Georgia Peach. The store is currently open and will be serving customers until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
