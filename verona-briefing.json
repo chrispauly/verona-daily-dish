@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-08",
-    "updateDate": "2026-09-08T17:06:18.066Z",
+    "updateDate": "2026-09-08T18:07:44.541Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we are seeing 73 degrees with overcast skies over at Verona Community Park.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. It is 74 degrees with light drizzle at City Hall. The moon is in a waning crescent phase, and we have a visible pass of the International Space Station tonight starting at 8:17 PM, rising from the direction of Belleville and traveling toward the Fitchburg and Madison area about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-08",
-    "updateDate": "2026-09-08T17:06:18.066Z",
+    "updateDate": "2026-09-08T18:07:44.541Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, a former teacher was arrested for sexual assault of a child following an investigation into events from 2019. Additionally, residents should be aware of shifting traffic patterns near the new Aldi site and the upcoming closure of the Military Ridge State Trail for bridge repairs.",
+    "mainText": "There are two major updates for the city. First, the police arrested a former school staff member following an investigation into an inappropriate relationship. Second, road construction continues on Highway M with traffic shifting south this week, while the Military Ridge State Trail paving project is moving forward with bridge replacements scheduled through mid-November.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-08",
-    "updateDate": "2026-09-08T17:06:18.066Z",
+    "updateDate": "2026-09-08T18:07:44.541Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty to look forward to including trivia at Hop Haus and Lake Lou-ee today. Tomorrow, you can enjoy the Downtown Farmer's Market, Yoga at Insight Wellness, and more trivia options at The Mill or The Bogey Factory.",
+    "mainText": "There is plenty to do in town, starting with trivia at Hop Haus and Lake Lou-ee today. Tomorrow, you can enjoy the Verona Downtown Farmer's Market, yoga, and trivia at The Mill and The Bogey Factory, plus live music continues throughout the week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-08",
-    "updateDate": "2026-09-08T17:06:18.066Z",
+    "updateDate": "2026-09-08T18:07:44.541Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local law enforcement, the department reported that on Sunday, August 30, they began an investigation into an inappropriate relationship involving a school staff member, leading to an arrest last week.",
+    "mainText": "In a report released on September 4, the Verona Police Department confirmed the arrest of 34-year-old Halla Nelson for a sexual assault of a child involving a student, with the incident occurring back on Sunday, August 30.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-08",
-    "updateDate": "2026-09-08T17:06:18.066Z",
+    "updateDate": "2026-09-08T18:07:44.541Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today at Culver's, enjoy the Peanut Butter Fudge Brownie flavor of the day. The restaurant is currently open and will remain so until 10 PM tonight.",
+    "mainText": "Today's flavor of the day is the delightful Peanut Butter Fudge Brownie. The Verona Culver's is currently open and will be serving guests until 10 PM this evening.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
