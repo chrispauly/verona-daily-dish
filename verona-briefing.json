@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-08",
-    "updateDate": "2026-09-08T19:05:14.686Z",
+    "updateDate": "2026-09-08T20:05:40.383Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We are seeing overcast skies at Fireman's Park with a temperature of 74 degrees. Also, tonight you can catch the International Space Station starting at 8:17 PM as it travels from the south southwest toward the east northeast, reaching about halfway up the sky.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. We have clear skies near Verona City Hall. If you are out tonight, look for the International Space Station crossing the sky for 5 minutes starting at 8:17 PM, traveling from the direction of Belleville toward Fitchburg and Madison.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-08",
-    "updateDate": "2026-09-08T19:05:14.686Z",
+    "updateDate": "2026-09-08T20:05:40.383Z",
     "titleText": "Verona City News",
-    "mainText": "In city updates, phase two of the Highway M construction project begins the week of September 7th, requiring traffic shifts and lane closures. Additionally, the city has officially installed the Tai Chi Animal Frolics sculpture at Century School Park, a beautiful wooden piece by local artists.",
+    "mainText": "In city news, a former school staff member was arrested this past Friday for a 2019 incident. Additionally, road construction for the Aldi development enters phase two this week on Highway M, requiring a shift in traffic lanes.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-08",
-    "updateDate": "2026-09-08T19:05:14.686Z",
+    "updateDate": "2026-09-08T20:05:40.383Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy week for activities. Today, you can catch trivia at Hop Haus or Lake Lou-ee. Tomorrow, the Verona Downtown Farmer's Market returns to Hometown Junction Park, and you can also find music at Paddy Mac's, trivia at The Mill and The Bogey Factory, or even a yoga session at Insight Wellness.",
+    "mainText": "There is plenty to do, including Hop Haus Trivia happening today. Tomorrow, you can visit the downtown Farmer's Market at Hometown Junction Park or catch live music and more trivia throughout the area.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-08",
-    "updateDate": "2026-09-08T19:05:14.686Z",
+    "updateDate": "2026-09-08T20:05:40.383Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported that a 34-year-old Madison woman was arrested and booked on Friday, September 4th, on charges related to the sexual assault of a child by a school staff member, stemming from information received by the school district on August 30th.",
+    "mainText": "The Verona Police Department reported that on Friday, September 4th, they arrested a 34-year-old Madison resident following an investigation into an inappropriate relationship between a teacher and a student that occurred in 2019.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-08",
-    "updateDate": "2026-09-08T19:05:14.686Z",
+    "updateDate": "2026-09-08T20:05:40.383Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "It is a great day to stop by Culver's for the Peanut Butter Fudge Brownie flavor of the day. The restaurant is open and serving guests until 10 PM tonight.",
+    "mainText": "Stop by Culver's today to enjoy the Peanut Butter Fudge Brownie flavor of the day. The store is currently open and will remain open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
