@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-08",
-    "updateDate": "2026-09-08T20:05:40.383Z",
+    "updateDate": "2026-09-08T21:05:01.808Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. We have clear skies near Verona City Hall. If you are out tonight, look for the International Space Station crossing the sky for 5 minutes starting at 8:17 PM, traveling from the direction of Belleville toward Fitchburg and Madison.",
+    "mainText": "Hello, Verona! At 4 PM, we are seeing overcast skies and 78 degrees out at Reddan Soccer Park. We are also under a waning crescent moon tonight, and you can spot the international space station in the sky starting at 8:17 PM as it travels from the South Southwest toward the East Northeast, appearing about halfway up the horizon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-08",
-    "updateDate": "2026-09-08T20:05:40.383Z",
+    "updateDate": "2026-09-08T21:05:01.808Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, a former school staff member was arrested this past Friday for a 2019 incident. Additionally, road construction for the Aldi development enters phase two this week on Highway M, requiring a shift in traffic lanes.",
+    "mainText": "In city news, the Verona Fire Department invites you to an open house on September 19 from 10 AM to 2 PM at 101 Lincoln Street. It is a great opportunity to tour the station, meet your local firefighters, and join in on safety demonstrations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-08",
-    "updateDate": "2026-09-08T20:05:40.383Z",
+    "updateDate": "2026-09-08T21:05:01.808Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, including Hop Haus Trivia happening today. Tomorrow, you can visit the downtown Farmer's Market at Hometown Junction Park or catch live music and more trivia throughout the area.",
+    "mainText": "You have plenty of local options for entertainment. Today, you can catch trivia at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's. Tomorrow is also busy with the downtown farmer's market at Hometown Junction Park, yoga at Insight Wellness, live music, and several more trivia events at places like The Mill and The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-08",
-    "updateDate": "2026-09-08T20:05:40.383Z",
+    "updateDate": "2026-09-08T21:05:01.808Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported that on Friday, September 4th, they arrested a 34-year-old Madison resident following an investigation into an inappropriate relationship between a teacher and a student that occurred in 2019.",
+    "mainText": "Regarding local law enforcement, the Verona Police Department announced that on Sunday, August 30, they arrested a 34-year-old individual from Madison following an investigation into an inappropriate relationship between a teacher and a student that occurred in 2019.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-08",
-    "updateDate": "2026-09-08T20:05:40.383Z",
+    "updateDate": "2026-09-08T21:05:01.808Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's today to enjoy the Peanut Butter Fudge Brownie flavor of the day. The store is currently open and will remain open until 10:00 PM.",
+    "mainText": "If you are craving something sweet, today's flavor of the day is Peanut Butter Fudge Brownie. The restaurant is currently open, so feel free to head over before they close their doors at 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
