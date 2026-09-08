@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-08",
-    "updateDate": "2026-09-08T08:08:10.496Z",
+    "updateDate": "2026-09-08T09:07:09.720Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: it is 62 degrees with partly cloudy conditions at Badger Prairie County Park, and we have a Waning Crescent moon in the sky.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: we are seeing overcast skies at Fireman's Park with a temperature of 62 degrees and a waning crescent moon visible.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-08",
-    "updateDate": "2026-09-08T08:08:10.496Z",
+    "updateDate": "2026-09-08T09:07:09.720Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has installed a new Tai Chi Animal Frolics sculpture in Century School Park, and there is an ongoing road construction update regarding lane shifts on Highway M for the Aldi development project.",
+    "mainText": "In city news, a 34-year-old Madison woman was arrested following an investigation into an inappropriate relationship with a student from 2019. Additionally, construction on Highway M enters a new phase this week to accommodate the new Aldi development.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-08",
-    "updateDate": "2026-09-08T08:08:10.496Z",
+    "updateDate": "2026-09-08T09:07:09.720Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can enjoy trivia at Hop Haus or Lake Lou-ee, while tomorrow features the Farmer's Market, Yoga at Insight Wellness, and various trivia nights around town.",
+    "mainText": "There is plenty to do in Verona. Today, you can catch trivia at Hop Haus or Lake Lou-ee. Tomorrow, the Downtown Farmer's Market kicks off, followed by live music and yoga throughout the area.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-08",
-    "updateDate": "2026-09-08T08:08:10.496Z",
+    "updateDate": "2026-09-08T09:07:09.720Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported an arrest on Friday, September 4, involving a former school staff member related to an investigation into an incident from 2019.",
+    "mainText": "The Verona Police Department reported that on Sunday August 30, they received information from the school district that launched an investigation into a sexual assault of a child by a staff member.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-08",
-    "updateDate": "2026-09-08T08:08:10.496Z",
+    "updateDate": "2026-09-08T09:07:09.720Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Peanut Butter Fudge Brownie, and please note the store opens today at 10:00 AM.",
+    "mainText": "For dessert lovers, today's flavor is Peanut Butter Fudge Brownie. The restaurant is currently closed but will open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
