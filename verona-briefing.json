@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-08",
-    "updateDate": "2026-09-08T04:13:41.808Z",
+    "updateDate": "2026-09-08T05:13:47.628Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. We have clear skies over Verona Community Park with a temperature of 65 degrees. The moon is in a Waning Crescent phase, and we expect an overnight low of 61 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. We are seeing temperatures at 64 degrees with clear skies over at Reddan Soccer Park, set under a lovely waning crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-08",
-    "updateDate": "2026-09-08T04:13:41.808Z",
+    "updateDate": "2026-09-08T05:13:47.628Z",
     "titleText": "Verona City News",
-    "mainText": "City updates include ongoing road construction on Highway M near Highway PB for the new Aldi development. Additionally, the Military Ridge State Trail paving project is moving forward, with bridge construction and trail closures planned between Lincoln and South Franklin Street from mid-September through mid-November.",
+    "mainText": "In city news, the Verona Police Department reported the arrest of a 34-year-old Madison woman for sexual assault of a child by a school staff member. Additionally, road construction continues on Highway M for the new Aldi development, and bridge work is set to close a section of the Military Ridge State Trail starting this month.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-08",
-    "updateDate": "2026-09-08T04:13:41.808Z",
+    "updateDate": "2026-09-08T05:13:47.628Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do tomorrow, September 8. You can join Hop Haus Trivia in Verona or head over to Lake Lou-ee for Quizmasters Trivia. If you are looking further ahead, Wednesday offers the Verona Downtown Farmer's Market and even more trivia options at The Mill or The Bogey Factory.",
+    "mainText": "Today, you can catch trivia at Hop Haus or Lake Lou-ee. Tomorrow is a busy one for Verona with the downtown farmers market, yoga at Insight Wellness, and several trivia nights at The Mill, The Bogey Factory, and more.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-08",
-    "updateDate": "2026-09-08T04:13:41.808Z",
+    "updateDate": "2026-09-08T05:13:47.628Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department issued a media release regarding an incident from Friday, September 4. A 34-year-old Madison woman was arrested for the sexual assault of a child by a school staff member for actions reported to have occurred in 2019.",
+    "mainText": "On Friday, the Verona Police Department made an arrest of a 34-year-old woman in connection with an incident involving a school staff member reported in 2019.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-08",
-    "updateDate": "2026-09-08T04:13:41.808Z",
+    "updateDate": "2026-09-08T05:13:47.628Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is now closed for the night. You missed out on today's Georgia Peach, but we will be back tomorrow at 10:00 AM serving up the Peanut Butter Fudge Brownie.",
+    "mainText": "Today's flavor of the day is Peanut Butter Fudge Brownie. The Culver's of Verona location opens today at 10:00 AM, so make sure to stop by and satisfy your sweet tooth.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
