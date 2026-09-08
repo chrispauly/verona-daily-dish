@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-08",
-    "updateDate": "2026-09-08T02:08:20.559Z",
+    "updateDate": "2026-09-08T03:07:04.239Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. It is 68 degrees with overcast skies at Harriet Park under a waning crescent moon. Tonight, the temperature will drop to an overnight low of 62 degrees, and there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. It is a clear night near Badger Ridge Middle School with a current temperature of 66 degrees. We are under a waning crescent moon, and the temperature will drop to an overnight low of 61 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-08",
-    "updateDate": "2026-09-08T02:08:20.559Z",
+    "updateDate": "2026-09-08T03:07:04.239Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, a Madison resident, Halla Nelson, was arrested on September 4 for a 2019 incident involving the sexual assault of a student. Also, expect traffic shifts on Highway M starting the week of September 7 for ongoing construction, and look forward to the upcoming Military Ridge State Trail paving project.",
+    "mainText": "In city updates, construction on Highway M moves into phase two this week, bringing traffic shifts for the next few weeks. Additionally, a new public art piece, the Tai Chi Animal Frolics tree, is now on display at Century School Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-08",
-    "updateDate": "2026-09-08T02:08:20.559Z",
+    "updateDate": "2026-09-08T03:07:04.239Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can head to Yoga at Insight Wellness. Tomorrow, we have plenty of options with Hop Haus Trivia, Quizmasters Trivia at Lake Lou-ee, and more events following throughout the week including the Verona Downtown Farmer's Market on September 9.",
+    "mainText": "There is plenty to do in Verona, starting with Yoga at Insight Wellness today. Tomorrow, you can test your knowledge at trivia nights at Hop Haus and Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-08",
-    "updateDate": "2026-09-08T02:08:20.559Z",
+    "updateDate": "2026-09-08T03:07:04.239Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported that on Sunday, August 30, they received information regarding an inappropriate relationship between a teacher and a student, resulting in an arrest on September 4.",
+    "mainText": "The Verona Police Department reported that a 34-year-old woman was arrested on Friday, September 4, following an investigation into an inappropriate relationship with a student that took place on Sunday, August 30.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-08",
-    "updateDate": "2026-09-08T02:08:20.559Z",
+    "updateDate": "2026-09-08T03:07:04.239Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Georgia Peach. The store is currently open but will be closing in 52 minutes, so there is still time to grab a treat before they close for the night.",
+    "mainText": "The Culver's of Verona is now closed for the evening. Today's featured flavor was Georgia Peach, but be sure to stop by tomorrow starting at 10:00 AM to enjoy the Peanut Butter Fudge Brownie flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
