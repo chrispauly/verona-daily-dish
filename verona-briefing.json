@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-09",
-    "updateDate": "2026-09-09T22:05:08.107Z",
+    "updateDate": "2026-09-09T23:05:23.554Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. We have clear skies and 82 degrees at Verona City Hall. Tonight, we have a Waning Crescent moon, and you can catch the ISS passing overhead at 9:06 PM, rising over Mount Horeb and traveling toward Madison near Home Depot. Expect an overnight low of 59 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. We have clear skies at Harriet Park with a temperature of 79 degrees. Looking up tonight, we have a waning crescent moon and the ISS will be visible for four minutes starting at 9:06 PM, rising in the west southwest over Mount Horeb and heading toward the northeast near the Madison Home Depot. Overnight, we will see a low of 58 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-09",
-    "updateDate": "2026-09-09T22:05:08.107Z",
+    "updateDate": "2026-09-09T23:05:23.554Z",
     "titleText": "Verona City News",
-    "mainText": "City news includes the closure of the Military Ridge State Trail between Lincoln and South Franklin Street from September 14 through mid-November for bridge work, with detours in place. Also, the Plan Commission is reviewing several development projects for their October 5 meeting.",
+    "mainText": "In city news, the Military Ridge State Trail is closed between Lincoln and South Franklin Street for bridge work through mid-November, with detours in place. Also, the Verona Police Department is hosting a free Citizen Academy starting September 23 to provide community members with an inside look at law enforcement operations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-09",
-    "updateDate": "2026-09-09T22:05:08.107Z",
+    "updateDate": "2026-09-09T23:05:23.554Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is busy with Live Music at Paddy Mac's, Yoga at Insight Wellness, the Verona Downtown Farmer's Market, Pizza and a Pitcher at Lake Lou-ee, and Trivia at both The Mill and The Bogey Factory. Looking ahead, you can enjoy Hop Haus Trivia tomorrow.",
+    "mainText": "Today is a busy day in Verona with events including live music at Paddy Mac's, yoga at Insight Wellness, the downtown farmer's market at Hometown Junction Park, and trivia nights at both The Mill and The Bogey Factory. Looking ahead, you can catch trivia at Hop Haus Brewing on Thursday, live music at Bailey's Run and Lake Lou-ee on September 11, and the Dane County Farmer's Market on September 12.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-09",
-    "updateDate": "2026-09-09T22:05:08.107Z",
+    "updateDate": "2026-09-09T23:05:23.554Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported that on Sunday, August 30, they initiated an investigation into a case of sexual assault of a child by a school staff member, which remains an open investigation.",
+    "mainText": "Regarding local police activity, an investigation led to an arrest on Sunday, August 30, involving a staff member of the Verona Area School District accused of sexual assault of a child.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-09",
-    "updateDate": "2026-09-09T22:05:08.107Z",
+    "updateDate": "2026-09-09T23:05:23.554Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the rich Caramel Fudge Cookie Dough. The store is currently open and will remain so until 10 PM this evening.",
+    "mainText": "For dessert, Culver's is serving up Caramel Fudge Cookie Dough as the flavor of the day. The restaurant is currently open and will remain open until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
