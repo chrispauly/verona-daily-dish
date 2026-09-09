@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-09",
-    "updateDate": "2026-09-09T18:07:22.084Z",
+    "updateDate": "2026-09-09T19:04:33.057Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. Over at Badger Prairie County Park, it is currently 80 degrees with overcast skies.  The ISS will be visible tonight starting at 9:06 PM for 4 minutes. Look for it rising in the West Southwest (over Mount Horeb) and traveling toward the Northeast (heading toward Madison near Home Depot), reaching high in the sky.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we have overcast skies and a temperature of 81 degrees at Verona City Hall. The moon phase is a Waning Crescent.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-09",
-    "updateDate": "2026-09-09T18:07:22.084Z",
+    "updateDate": "2026-09-09T19:04:33.057Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Development Projects.",
+    "mainText": "The Military Ridge State Trail will close between Lincoln and South Franklin Street from September 14 through mid-November for bridge work, with detours available. Additionally, the Plan Commission is reviewing new development projects on October 5, and the IRONMAN bike course will bring traffic delays through Verona on September 13.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-09",
-    "updateDate": "2026-09-09T18:07:22.084Z",
+    "updateDate": "2026-09-09T19:04:33.057Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's Today at Paddy Mac's.",
+    "mainText": "Today is a busy day for events, including the downtown farmer's market, trivia nights at The Mill and The Bogey Factory, and live music at Paddy Mac's. Looking ahead, you can enjoy trivia at Hop Haus tomorrow, and live music continues at Bailey's Run and Lake Lou-ee on September 11.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-09",
-    "updateDate": "2026-09-09T18:07:22.084Z",
+    "updateDate": "2026-09-09T19:04:33.057Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: on Sunday, Incident Date SummerFall of 2019Reported Date August 30 2026Release Date Septemb.",
+    "mainText": "The Verona Police Department reported an arrest on Sunday, August 30, involving a school staff member accused of an inappropriate relationship with a student that occurred in 2019.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-09",
-    "updateDate": "2026-09-09T18:07:22.084Z",
+    "updateDate": "2026-09-09T19:04:33.057Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Caramel Fudge Cookie Dough. The restaurant is open until 10:00 PM.",
+    "mainText": "Today's flavor of the day is Caramel Fudge Cookie Dough. The store is currently open and will remain open until 10 PM tonight, so there is plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
