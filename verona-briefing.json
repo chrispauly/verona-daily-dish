@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-09",
-    "updateDate": "2026-09-09T09:06:41.676Z",
+    "updateDate": "2026-09-09T10:06:09.123Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: it is 70 degrees with overcast skies near Verona Area High School, under a Waning Crescent moon.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: it is 71 degrees with overcast skies near Badger Ridge Middle School under a waning crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-09",
-    "updateDate": "2026-09-09T09:06:41.676Z",
+    "updateDate": "2026-09-09T10:06:09.123Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Fire Department is inviting the community to an open house on September 19 from 10 AM until 2 PM. Located at 101 Lincoln Street, the event features tours of the station, meet-and-greets with firefighters, and fire safety activities for everyone to enjoy.",
+    "mainText": "The Verona Fire Department is inviting the community to an open house on September 19 between 10 AM and 2 PM. Located at 101 Lincoln Street, the event features tours of the facility, meetings with firefighters, and various safety activities for everyone to enjoy.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-09",
-    "updateDate": "2026-09-09T09:06:41.676Z",
+    "updateDate": "2026-09-09T10:06:09.123Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona today, including live music at Paddy Mac's, the Verona Downtown Farmer's Market, yoga sessions at Insight Wellness, and Wednesday Pizza and a Pitcher at Lake Lou-ee. You can also test your knowledge at Trivia Night at The Mill or The Bogey Factory, with more trivia coming up tomorrow at Hop Haus Brewing Company.",
+    "mainText": "It is a busy day in Verona today. Events include live music at Paddy Mac's, yoga at Insight Wellness, the Verona Downtown Farmer's Market at Hometown Junction Park, pizza and a pitcher at Wisconsin Brewing Company, plus trivia nights at The Mill and The Bogey Factory. Looking ahead, Hop Haus Brewing hosts trivia tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-09",
-    "updateDate": "2026-09-09T09:06:41.676Z",
+    "updateDate": "2026-09-09T10:06:09.123Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Sunday, August 30, the Verona Police Department began an investigation following a report of an inappropriate relationship between a teacher and a student. A suspect, 34-year-old Halla Nelson, was subsequently arrested.",
+    "mainText": "Regarding the weekly police report, an investigation was opened following a report on Sunday, August 30, concerning an inappropriate relationship between a teacher and a student that occurred in 2019.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-09",
-    "updateDate": "2026-09-09T09:06:41.676Z",
+    "updateDate": "2026-09-09T10:06:09.123Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Caramel Fudge Cookie Dough. The store opens today at 10:00 AM, so be sure to stop by and enjoy your favorite treat.",
+    "mainText": "Today's flavor of the day is Caramel Fudge Cookie Dough. The store is currently closed for the morning but will open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
