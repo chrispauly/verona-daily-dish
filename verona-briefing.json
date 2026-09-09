@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-09",
-    "updateDate": "2026-09-09T19:04:33.057Z",
+    "updateDate": "2026-09-09T20:05:42.136Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we have overcast skies and a temperature of 81 degrees at Verona City Hall. The moon phase is a Waning Crescent.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we have overcast skies and a temperature of 82 degrees at Verona Community Park. The moon is a waning crescent, and tonight at 9:06 PM, you can spot the International Space Station as it passes from over Mount Horeb in the west southwest toward the northeast near Home Depot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-09",
-    "updateDate": "2026-09-09T19:04:33.057Z",
+    "updateDate": "2026-09-09T20:05:42.136Z",
     "titleText": "Verona City News",
-    "mainText": "The Military Ridge State Trail will close between Lincoln and South Franklin Street from September 14 through mid-November for bridge work, with detours available. Additionally, the Plan Commission is reviewing new development projects on October 5, and the IRONMAN bike course will bring traffic delays through Verona on September 13.",
+    "mainText": "In city news, the Military Ridge State Trail will be closed starting September 14 through mid-November for bridge work, and the Plan Commission is meeting on October 5 to review new development projects.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-09",
-    "updateDate": "2026-09-09T19:04:33.057Z",
+    "updateDate": "2026-09-09T20:05:42.136Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is a busy day for events, including the downtown farmer's market, trivia nights at The Mill and The Bogey Factory, and live music at Paddy Mac's. Looking ahead, you can enjoy trivia at Hop Haus tomorrow, and live music continues at Bailey's Run and Lake Lou-ee on September 11.",
+    "mainText": "It is a busy week in Verona. Today, enjoy the Farmer's Market at Hometown Junction Park, Trivia Night at The Mill, or Pizza and a Pitcher at Lake Lou-ee. Tomorrow, make sure to catch Hop Haus Trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-09",
-    "updateDate": "2026-09-09T19:04:33.057Z",
+    "updateDate": "2026-09-09T20:05:42.136Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported an arrest on Sunday, August 30, involving a school staff member accused of an inappropriate relationship with a student that occurred in 2019.",
+    "mainText": "The Verona Police Department reported that a teacher was arrested following an investigation into an incident that occurred on Sunday, August 30.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-09",
-    "updateDate": "2026-09-09T19:04:33.057Z",
+    "updateDate": "2026-09-09T20:05:42.136Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Caramel Fudge Cookie Dough. The store is currently open and will remain open until 10 PM tonight, so there is plenty of time to stop by for a scoop.",
+    "mainText": "Culver's of Verona is serving up Caramel Fudge Cookie Dough today. They are currently open and will remain open until 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
