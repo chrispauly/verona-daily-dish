@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-09",
-    "updateDate": "2026-09-09T04:06:47.904Z",
+    "updateDate": "2026-09-09T05:06:06.075Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. Over at Badger Prairie County Park, it is currently 72 degrees with slight rain. The overnight low will be around 70 degrees, with rain likely. Tonight we have a Waning Crescent. ",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: expect 72 degrees with slight rain near Badger Ridge Middle School and a Waning Crescent moon visible.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-09",
-    "updateDate": "2026-09-09T04:06:47.904Z",
+    "updateDate": "2026-09-09T05:06:06.075Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Verona Fire Department Open House.",
+    "mainText": "The Verona Fire Department is inviting everyone to an open house on September 19 from 10 am to 2 pm at 101 Lincoln Street, featuring tours, fire safety activities, and food.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-09",
-    "updateDate": "2026-09-09T04:06:47.904Z",
+    "updateDate": "2026-09-09T05:06:06.075Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's tomorrow at Paddy Mac's.",
+    "mainText": "Today is packed with activities including the Verona Downtown Farmer's Market, live music at Paddy Mac's, yoga at Insight Wellness, pizza at Lake Lou-ee, and trivia at The Mill and The Bogey Factory, with more trivia coming up tomorrow at Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-09",
-    "updateDate": "2026-09-09T04:06:47.904Z",
+    "updateDate": "2026-09-09T05:06:06.075Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: on Sunday, Incident Date SummerFall of 2019Reported Date August 30 2026Release Date Septemb.",
+    "mainText": "The Verona Police Department announced the arrest of 34-year-old Halla Nelson on Friday, September 4, following a report received on Sunday, August 30, regarding an incident from 2019.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-09",
-    "updateDate": "2026-09-09T04:06:47.904Z",
+    "updateDate": "2026-09-09T05:06:06.075Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Culver's flavor was Peanut Butter Fudge Brownie. The restaurant is closed for the night and will open tomorrow at 10:00 AM featuring Caramel Fudge Cookie Dough.",
+    "mainText": "Today's delicious flavor of the day is Caramel Fudge Cookie Dough, and the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
