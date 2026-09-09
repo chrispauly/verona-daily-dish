@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-09",
-    "updateDate": "2026-09-09T03:07:31.146Z",
+    "updateDate": "2026-09-09T04:06:47.904Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: it is 73 degrees with a dense drizzle near Badger Prairie County Park under a waning crescent moon. Expect the temperature to dip to an overnight low of 69 degrees, with rain expected before morning.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. Over at Badger Prairie County Park, it is currently 72 degrees with slight rain. The overnight low will be around 70 degrees, with rain likely. Tonight we have a Waning Crescent. ",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-09-09",
-    "updateDate": "2026-09-09T03:07:31.146Z",
+    "updateDate": "2026-09-09T04:06:47.904Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Fire Department invites you to an open house on September 19 from 10 AM until 2 PM at 101 Lincoln Street. It is a great chance to tour the station, meet your local firefighters, and participate in fire safety activities with the whole family.",
+    "mainText": "In city affairs, the latest update is: Verona Fire Department Open House.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-09-09",
-    "updateDate": "2026-09-09T03:07:31.146Z",
+    "updateDate": "2026-09-09T04:06:47.904Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You have plenty of local options to choose from. Trivia is available today at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's. Tomorrow, look forward to more trivia at The Mill and The Bogey Factory, live music at Paddy Mac's, yoga at Insight Wellness, and the Downtown Farmer's Market.",
+    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's tomorrow at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-09-09",
-    "updateDate": "2026-09-09T03:07:31.146Z",
+    "updateDate": "2026-09-09T04:06:47.904Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported that on Sunday, August 30, they arrested a 34-year-old Madison resident for a sexual assault of a child by a school staff member, stemming from an incident that occurred in 2019.",
+    "mainText": "From the police department weekly log: on Sunday, Incident Date SummerFall of 2019Reported Date August 30 2026Release Date Septemb.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-09",
-    "updateDate": "2026-09-09T03:07:31.146Z",
+    "updateDate": "2026-09-09T04:06:47.904Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is closed for the night. We hope you enjoyed the Peanut Butter Fudge Brownie today. Be sure to stop by tomorrow starting at 10 AM to try the Caramel Fudge Cookie Dough.",
+    "mainText": "Today's Culver's flavor was Peanut Butter Fudge Brownie. The restaurant is closed for the night and will open tomorrow at 10:00 AM featuring Caramel Fudge Cookie Dough.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
