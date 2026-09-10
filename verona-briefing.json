@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-10",
-    "updateDate": "2026-09-10T14:05:46.190Z",
+    "updateDate": "2026-09-10T15:06:08.485Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish. We have overcast skies with a temperature of 64 degrees near the Military Ridge State Trail. The moon phase is currently a New Moon.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: expect partly cloudy skies with temperatures around 68 degrees near Harriet Park. Since it is a New Moon, the night sky is extra dark, perfect for spotting the International Space Station tonight at 8:19 PM. It will rise over Mount Horeb and travel toward the Madison area, eventually passing almost directly overhead for six minutes.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-10",
-    "updateDate": "2026-09-10T14:05:46.190Z",
+    "updateDate": "2026-09-10T15:06:08.485Z",
     "titleText": "Verona City News",
-    "mainText": "City news features the Verona Police Citizen Academy, offering a free nine-week look into modern policing starting September 23, and construction alerts regarding the Military Ridge State Trail bridge which will be closed between Lincoln and South Franklin Street starting September 14.",
+    "mainText": "City updates include the start of bridge construction on the Military Ridge State Trail, which will be closed between Lincoln and South Franklin Streets until mid-November. Also, the police department is looking for applicants for their upcoming nine-week Citizen Academy, a free program that starts September 23.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-10",
-    "updateDate": "2026-09-10T14:05:46.190Z",
+    "updateDate": "2026-09-10T15:06:08.485Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with Yoga at Insight Wellness today, live music at Bailey's Run Vineyard and Wisconsin Brewing Company tomorrow, and the Dane County Farmers Market this Saturday.",
+    "mainText": "There is plenty to do in town. Yoga at Insight Wellness is happening today, while Hop Haus is hosting trivia this evening. Tomorrow, look forward to live music at Bailey's Run and the Wisconsin Brewing Company, followed by the Dane County Farmers Market on the Square this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-10",
-    "updateDate": "2026-09-10T14:05:46.190Z",
+    "updateDate": "2026-09-10T15:06:08.485Z",
     "titleText": "Verona Police Report",
-    "mainText": "The police department released information regarding an investigation that began on Sunday, August 30, concerning a former school staff member.",
+    "mainText": "Regarding the weekly police report, officers initiated an investigation on Sunday, August 30, into an inappropriate relationship between a teacher and a student that allegedly occurred in 2019.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-10",
-    "updateDate": "2026-09-10T14:05:46.190Z",
+    "updateDate": "2026-09-10T15:06:08.485Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Dark Chocolate Decadence. The store opens today at 10 AM and will remain open until 10 PM.",
+    "mainText": "Culver's of Verona is currently open until 10 PM. Stop by to enjoy today's flavor, which is Dark Chocolate Decadence.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
