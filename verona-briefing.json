@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-10",
-    "updateDate": "2026-09-10T03:07:14.668Z",
+    "updateDate": "2026-09-10T04:07:14.971Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. Over at Fireman's Park, it is currently 69 degrees with clear skies. The overnight low will be around 59 degrees, with rain unlikely. Tonight we have a New Moon. ",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish on the weather. It is a clear night at Badger Prairie County Park with a current temperature of 67 degrees. The overnight low will drop to 59 degrees, and you will be happy to know there is no rain predicted for the rest of the night.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-10",
-    "updateDate": "2026-09-10T03:07:14.668Z",
+    "updateDate": "2026-09-10T04:07:14.971Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Police.",
+    "mainText": "In city news, the Verona Police Department is inviting community members to apply for their upcoming Citizen Academy. This free nine-week program offers an inside look at law enforcement operations, including O W I investigations and K-9 demonstrations. Additionally, please be aware that the Military Ridge State Trail is closed between Lincoln and South Franklin Street for bridge work through mid-November.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-10",
-    "updateDate": "2026-09-10T03:07:14.668Z",
+    "updateDate": "2026-09-10T04:07:14.971Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's Today at Paddy Mac's.",
+    "mainText": "There is plenty to do around town starting tomorrow with Yoga at Insight Wellness and Hop Haus Trivia. Later this week, you can catch live music at Bailey's Run and Wisconsin Brewing Company, followed by the Dane County Farmers' Market on Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-10",
-    "updateDate": "2026-09-10T03:07:14.668Z",
+    "updateDate": "2026-09-10T04:07:14.971Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: on Sunday, Incident Date SummerFall of 2019Reported Date August 30 2026Release Date Septemb.",
+    "mainText": "Regarding local public safety, the department released information confirming that on Sunday, August 30, an arrest was made involving a former school staff member accused of sexual assault of a child.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-10",
-    "updateDate": "2026-09-10T03:07:14.668Z",
+    "updateDate": "2026-09-10T04:07:14.971Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Culver's flavor was Caramel Fudge Cookie Dough. The restaurant is closed for the night and will open tomorrow at 10:00 AM featuring Dark Chocolate Decadence.",
+    "mainText": "Our Culver's location is now closed for the evening. We hope you were able to grab a scoop of the Caramel Fudge Cookie Dough. Make sure to stop by tomorrow when we open at 10:00 AM to try the new flavor of the day, Dark Chocolate Decadence.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
