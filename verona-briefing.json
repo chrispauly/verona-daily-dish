@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-10",
-    "updateDate": "2026-09-10T12:08:34.700Z",
+    "updateDate": "2026-09-10T13:05:45.741Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. Over at Verona City Hall, it is currently 56 degrees with clear skies.  ",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: expect 60 degrees and clear skies at Fireman's Park.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-10",
-    "updateDate": "2026-09-10T12:08:34.700Z",
+    "updateDate": "2026-09-10T13:05:45.741Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Police.",
+    "mainText": "The city is planning for upcoming developments on Davis Hill Road and South Main Street, and construction on the Military Ridge State Trail bridge begins September 14, requiring detours.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-10",
-    "updateDate": "2026-09-10T12:08:34.700Z",
+    "updateDate": "2026-09-10T13:05:45.741Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
+    "mainText": "Enjoy Yoga at Insight Wellness today, join the trivia night at Hop Haus Brewing today, or check out live music at Bailey's Run Vineyard tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-10",
-    "updateDate": "2026-09-10T12:08:34.700Z",
+    "updateDate": "2026-09-10T13:05:45.741Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: on Sunday, Incident Date SummerFall of 2019Reported Date August 30 2026Release Date Septemb.",
+    "mainText": "The police department reported that on Sunday, August 30, they received information leading to an arrest regarding an inappropriate relationship between a teacher and a student from 2019.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-10",
-    "updateDate": "2026-09-10T12:08:34.700Z",
+    "updateDate": "2026-09-10T13:05:45.741Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Culver's Flavor of the Day is Dark Chocolate Decadence. The restaurant opens today at 10:00 AM.",
+    "mainText": "Today's flavor is Dark Chocolate Decadence. The store opens today at 10:00 AM to serve you.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
