@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-10",
-    "updateDate": "2026-09-10T01:16:18.839Z",
+    "updateDate": "2026-09-10T02:08:43.737Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. It is a clear 72 degrees by the Verona Public Library with a New Moon tonight. If you are outside at 9:06 PM, look to the west-southwest over Mount Horeb to catch the International Space Station, which will be visible for four minutes as it travels high in the sky toward the northeast near the Home Depot. The overnight low will reach 59 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. Over at Verona City Hall, it is currently 72 degrees with clear skies. The overnight low will be around 59 degrees, with rain unlikely. Tonight we have a New Moon. ",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-09-10",
-    "updateDate": "2026-09-10T01:16:18.839Z",
+    "updateDate": "2026-09-10T02:08:43.737Z",
     "titleText": "Verona City News",
-    "mainText": "City news includes bridge work on the Military Ridge State Trail between Lincoln and South Franklin Street, which will remain closed through mid-November. Additionally, the Verona Police Department is now accepting applications for its free nine-week Citizen Academy, which runs from September 23 through November 18 and covers topics like firearms education and O W I investigations.",
+    "mainText": "In city affairs, the latest update is: Police.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-09-10",
-    "updateDate": "2026-09-10T01:16:18.839Z",
+    "updateDate": "2026-09-10T02:08:43.737Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy day in Verona. Today, enjoy the Downtown Farmer's Market, trivia nights at The Mill and The Bogey Factory, live music at Paddy Mac's, and pizza at the Wisconsin Brewing Company. Looking ahead, you can catch trivia at Hop Haus Brewing this Thursday, and more live music at Bailey's Run and the Wisconsin Brewing Company this Friday.",
+    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's Today at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-09-10",
-    "updateDate": "2026-09-10T01:16:18.839Z",
+    "updateDate": "2026-09-10T02:08:43.737Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly police report, on Sunday, August 30, the Verona Area School District notified the police of an inappropriate relationship between a teacher and a student that occurred in 2019, leading to the arrest of 34-year-old Halla Nelson.",
+    "mainText": "From the police department weekly log: on Sunday, Incident Date SummerFall of 2019Reported Date August 30 2026Release Date Septemb.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-10",
-    "updateDate": "2026-09-10T01:16:18.839Z",
+    "updateDate": "2026-09-10T02:08:43.737Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Caramel Fudge Cookie Dough. The store is currently open and serving until 10 PM, so stop by soon to grab a treat.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: Caramel Fudge Cookie Dough. The restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
