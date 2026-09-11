@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-11",
-    "updateDate": "2026-09-11T17:04:52.946Z",
+    "updateDate": "2026-09-11T18:06:46.176Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we are seeing clear skies over Badger Prairie County Park with a temperature of 74 degrees, though please be aware that the air quality is currently moderate with an index of 52.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: the weather is a pleasant 76 degrees with clear skies at Reddan Soccer Park, though note the air quality index is at 52. Tonight features a New Moon, and you can catch the space station passing by for four minutes starting at 9:08 PM, rising in the West over Mount Horeb and heading toward the Northeast near the Home Depot, reaching about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-11",
-    "updateDate": "2026-09-11T17:04:52.946Z",
+    "updateDate": "2026-09-11T18:06:46.176Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, local authorities have released information regarding an incident on September 10 at Hunter's Cove Way, where a suspect was apprehended following a report of a burglary and a discharged firearm.",
+    "mainText": "In city news, officers responded to a residential burglary on September 10th at a home in the 600 block of Hunter's Cove Way where a suspect was apprehended after a gunshot was reported.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-11",
-    "updateDate": "2026-09-11T17:04:52.946Z",
+    "updateDate": "2026-09-11T18:06:46.176Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community, including live music today at both Bailey's Run Vineyard and the Wisconsin Brewing Company, plus the Dane County Farmer's Market taking place tomorrow.",
+    "mainText": "We have plenty of local activity with live music at Bailey's Run and the Wisconsin Brewing Company happening today, plus the Dane County Farmers Market and live music at Paddy Mac's tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-11",
-    "updateDate": "2026-09-11T17:04:52.946Z",
+    "updateDate": "2026-09-11T18:06:46.176Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly report, officers were dispatched to the 600 block of Hunter's Cove Way on September 10, where they successfully took a nineteen-year-old suspect into custody for burglary and recklessly endangering safety.",
+    "mainText": "Regarding the police department's report, on September 10th, nineteen year old Luis Aragon-Zaring was arrested for burglary and recklessly endangering safety following an incident involving a firearm.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-11",
-    "updateDate": "2026-09-11T17:04:52.946Z",
+    "updateDate": "2026-09-11T18:06:46.176Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is the popular Raspberry Cheesecake, and with the restaurant currently open until 10:30 PM, it is a perfect time to stop by for a treat.",
+    "mainText": "The Culver's flavor of the day is the delightful Raspberry Cheesecake. The restaurant is currently open for business and will be serving up treats until their closing time of 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
