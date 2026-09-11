@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-11",
-    "updateDate": "2026-09-11T10:06:18.223Z",
+    "updateDate": "2026-09-11T11:05:34.743Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: current temperatures are 56 degrees with clear skies at Verona Community Park, and we are under a New Moon.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: it is 56 degrees under clear skies at Fireman's Park, and we are currently experiencing a New Moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-11",
-    "updateDate": "2026-09-11T10:06:18.223Z",
+    "updateDate": "2026-09-11T11:05:34.743Z",
     "titleText": "Verona City News",
-    "mainText": "The city has published several election notices for November 2026, and the police department is currently accepting applications for the free nine-week Citizen Academy.",
+    "mainText": "City officials have released several notices for the upcoming November general election, and the Verona Police Department is encouraging residents to sign up for their Citizen Academy, a free nine-week program covering topics like O W I investigations and crime scene processing.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-11",
-    "updateDate": "2026-09-11T10:06:18.223Z",
+    "updateDate": "2026-09-11T11:05:34.743Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, including live music at Bailey's Run Vineyard today, the Dane County Farmers Market tomorrow, and the Ironman Wisconsin Loop Festival on September 13.",
+    "mainText": "Today you can enjoy live music at Bailey's Run and the Wisconsin Brewing Company. Looking ahead, tomorrow features the Dane County Farmer's Market and more music at Paddy Mac's, with the big Ironman Wisconsin Loop Festival arriving in town this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-11",
-    "updateDate": "2026-09-11T10:06:18.223Z",
+    "updateDate": "2026-09-11T11:05:34.743Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a recent report, on Sunday, August 30, the Verona Police Department began an investigation involving a school staff member that led to an arrest.",
+    "mainText": "On Sunday, August 30, the Verona Police Department took a 34-year-old Madison resident into custody following an investigation into an inappropriate relationship between a teacher and student dating back to 2019.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-11",
-    "updateDate": "2026-09-11T10:06:18.223Z",
+    "updateDate": "2026-09-11T11:05:34.743Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Raspberry Cheesecake, and the store opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day at Culver's is Raspberry Cheesecake. The store opens today at 10:00 AM and will remain open until 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
