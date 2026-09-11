@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-11",
-    "updateDate": "2026-09-11T03:09:39.263Z",
+    "updateDate": "2026-09-11T04:09:28.507Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. We have clear skies and 64 degree temperatures over the Military Ridge State Trail. The overnight low will be 58 degrees, with no rain expected.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish on the weather: conditions are clear at Verona City Hall with a temperature of 61 degrees. The overnight low will reach 57 degrees, and we are not expecting any rain.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-11",
-    "updateDate": "2026-09-11T03:09:39.263Z",
+    "updateDate": "2026-09-11T04:09:28.507Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Verona is preparing for the November general election with various public notices now available. Additionally, the city continues to contract with AECOM for ongoing engineering services, with detailed reports available on the city website.",
+    "mainText": "City Hall has released several notices regarding the upcoming November 2026 General Election, and the Police Department has officially opened applications for their Citizen Academy, which provides an inside look at law enforcement operations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-11",
-    "updateDate": "2026-09-11T03:09:39.263Z",
+    "updateDate": "2026-09-11T04:09:28.507Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, starting with yoga at Insight Wellness and trivia at Hop Haus occurring today. Tomorrow, you can enjoy live music at Bailey's Run and Wisconsin Brewing Company, leading up to the excitement of the Ironman Wisconsin Loop Festival in Verona this Saturday.",
+    "mainText": "It is a busy week in Verona, with live music at Bailey's Run and Wisconsin Brewing Company happening tomorrow. Looking further ahead, we have the Dane County Farmer's Market on the Square this Saturday, followed by the Ironman Wisconsin Loop Festival in Verona later that day.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-11",
-    "updateDate": "2026-09-11T03:09:39.263Z",
+    "updateDate": "2026-09-11T04:09:28.507Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from the police department, officers arrested a 34-year-old Madison woman on Friday, September 4, for sexual assault of a child by a school staff member for actions reported to have occurred in 2019.",
+    "mainText": "The Verona Police Department reported that on Friday, September 4, 2026, officers arrested a 34-year-old Madison woman for the sexual assault of a child by a school staff member regarding an incident reported from 2019.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-11",
-    "updateDate": "2026-09-11T03:09:39.263Z",
+    "updateDate": "2026-09-11T04:09:28.507Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day was Dark Chocolate Decadence. The Culver's in Verona is currently closed for the night, so please join them tomorrow when they open at 10:00 AM to enjoy the new flavor of the day, Raspberry Cheesecake.",
+    "mainText": "Today's flavor was Dark Chocolate Decadence. The store is now closed for the night, but we look forward to serving up Raspberry Cheesecake when we open tomorrow morning at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
