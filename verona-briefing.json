@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-11",
-    "updateDate": "2026-09-11T00:15:43.985Z",
+    "updateDate": "2026-09-11T01:16:00.954Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: skies are overcast near Badger Ridge Middle School with a temperature of 72 degrees. Tonight, the temperature will drop to 59 degrees with no rain forecast. If you look to the skies at 8:19 PM, you can catch the International Space Station crossing from Mount Horeb toward the Madison area, passing almost directly overhead.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have clear skies at Fireman's Park with a temperature of 68 degrees. Tonight, the ISS will be visible for 6 minutes starting at 8:19 PM, rising in the Southwest over Mount Horeb and heading toward the East Northeast over Fitchburg and Madison. Expect an overnight low of 61 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-11",
-    "updateDate": "2026-09-11T00:15:43.985Z",
+    "updateDate": "2026-09-11T01:16:00.954Z",
     "titleText": "Verona City News",
-    "mainText": "Important updates for residents include the city's ongoing election notices for the upcoming general election and the continued availability of public engineering reports through the City Council.",
+    "mainText": "The city is preparing for the November 2026 general election with several official notices now posted, and the Verona Police Department has officially opened applications for its Citizen Academy, a free nine-week program running from September 23 to November 18.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-11",
-    "updateDate": "2026-09-11T00:15:43.985Z",
+    "updateDate": "2026-09-11T01:16:00.954Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with Yoga at Insight Wellness and Hop Haus Trivia today. Looking ahead, Bailey's Run Vineyard and Wisconsin Brewing Company host live music tomorrow, and don't miss the Ironman Wisconsin Loop Festival on Main Street this Saturday.",
+    "mainText": "There is a busy schedule ahead. Today you can enjoy Yoga at Insight Wellness or Hop Haus Trivia. Tomorrow features live music at both Bailey's Run and the Wisconsin Brewing Company. Looking ahead, the Ironman Wisconsin Loop Festival is coming to town on September 13.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-11",
-    "updateDate": "2026-09-11T00:15:43.985Z",
+    "updateDate": "2026-09-11T01:16:00.954Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Sunday, August 30, the Verona Police Department began an investigation that resulted in an arrest involving a former school staff member.",
+    "mainText": "On Sunday, August 30, the Verona Police Department began an investigation into an inappropriate relationship between a teacher and a student from 2019, which led to an arrest on Friday, September 4.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-11",
-    "updateDate": "2026-09-11T00:15:43.985Z",
+    "updateDate": "2026-09-11T01:16:00.954Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's flavor, Dark Chocolate Decadence. The Verona location is currently open and serving until 10:00 PM tonight.",
+    "mainText": "Today's featured flavor of the day is Turtle. The restaurant is currently open and will be serving until 10 PM tonight, so there is still time to stop in for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
