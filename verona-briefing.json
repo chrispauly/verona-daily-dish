@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-11",
-    "updateDate": "2026-09-11T05:08:09.325Z",
+    "updateDate": "2026-09-11T06:11:45.722Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: it is 60 degrees with clear skies observed near Verona City Hall under the light of a New Moon.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we have clear skies over Fireman's Park and a temperature of 58 degrees during this New Moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-11",
-    "updateDate": "2026-09-11T05:08:09.325Z",
+    "updateDate": "2026-09-11T06:11:45.722Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, residents can now apply for the Verona Police Department Citizen Academy which starts September 23, while various election notices for the November general election have been posted.",
+    "mainText": "City news highlights include important election notices for the November 2026 General Election and ongoing engineering reports provided by AECOM to the City Council.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-11",
-    "updateDate": "2026-09-11T05:08:09.325Z",
+    "updateDate": "2026-09-11T06:11:45.722Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with live music today at Bailey's Run Vineyard and Wisconsin Brewing Company, followed by the Dane County Farmer's Market and music at Paddy Mac's tomorrow, and the Ironman Wisconsin Loop Festival this Saturday.",
+    "mainText": "There is plenty to do in Verona, starting with live music at Bailey's Run today, followed by the Dane County Farmer's Market and live music at Paddy Mac's tomorrow, and don't forget the Ironman Wisconsin Loop Festival this coming Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-11",
-    "updateDate": "2026-09-11T05:08:09.325Z",
+    "updateDate": "2026-09-11T06:11:45.722Z",
     "titleText": "Verona Police Report",
-    "mainText": "The police department reported that on Friday, September 4, 2026, officers arrested a 34-year-old Madison woman for sexual assault of a child by a school staff member.",
+    "mainText": "In a report from the police department, on Friday, September 4, 2026, authorities arrested a 34-year-old Madison woman for the sexual assault of a child by a school staff member for actions reported in 2019.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-11",
-    "updateDate": "2026-09-11T05:08:09.325Z",
+    "updateDate": "2026-09-11T06:11:45.722Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Raspberry Cheesecake and you can head over to enjoy it when the restaurant opens today at 10:00 AM.",
+    "mainText": "The Culver's flavor of the day is Raspberry Cheesecake, and the restaurant will open its doors today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
