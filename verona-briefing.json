@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-11",
-    "updateDate": "2026-09-11T12:09:07.206Z",
+    "updateDate": "2026-09-11T13:05:18.072Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have clear skies and 57 degree temperatures out by Reddan Soccer Park.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we are seeing 60 degree temperatures with clear skies at Fireman Park, but be mindful of the moderate air quality index of 51.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-11",
-    "updateDate": "2026-09-11T12:09:07.206Z",
+    "updateDate": "2026-09-11T13:05:18.072Z",
     "titleText": "Verona City News",
-    "mainText": "City notices are out regarding the November 2026 General Election, and the City Council continues to review regular engineering reports from AECOM.",
+    "mainText": "City Hall has posted multiple election notices regarding the November general election, and the engineering department has updated their list of reports available for public review.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-11",
-    "updateDate": "2026-09-11T12:09:07.206Z",
+    "updateDate": "2026-09-11T13:05:18.072Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today features live music at Bailey's Run Vineyard and Wisconsin Brewing Company, with tomorrow bringing the Dane County Farmer's Market and music at Paddy Mac's, plus the Ironman Wisconsin Loop Festival this Saturday.",
+    "mainText": "Today, enjoy live music at Bailey Run Vineyard and Wisconsin Brewing Company. Tomorrow, check out the Dane County Farmers Market and more live music at Paddy Mac's. Looking ahead, the Ironman Loop Festival comes to town this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-11",
-    "updateDate": "2026-09-11T12:09:07.206Z",
+    "updateDate": "2026-09-11T13:05:18.072Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department recently reported the arrest of a school staff member following an investigation into a relationship with a student that occurred on Sunday, August 30.",
+    "mainText": "On Sunday, August 30, the school district informed the Verona Police Department of an inappropriate relationship involving a staff member, which led to an arrest for sexual assault of a child.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-11",
-    "updateDate": "2026-09-11T12:09:07.206Z",
+    "updateDate": "2026-09-11T13:05:18.072Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's flavor, Raspberry Cheesecake, as the local Culver's opens today at 10:00 AM.",
+    "mainText": "Today is the perfect day to stop by for a scoop of Raspberry Cheesecake, as Culver opens today at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
