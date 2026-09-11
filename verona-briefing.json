@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-11",
-    "updateDate": "2026-09-11T01:16:00.954Z",
+    "updateDate": "2026-09-11T02:08:40.112Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have clear skies at Fireman's Park with a temperature of 68 degrees. Tonight, the ISS will be visible for 6 minutes starting at 8:19 PM, rising in the Southwest over Mount Horeb and heading toward the East Northeast over Fitchburg and Madison. Expect an overnight low of 61 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. We have clear skies around City Hall at 66 degrees. The overnight low will be 59 degrees with no rain predicted. For you star gazers, the space station will be visible tonight starting at 9:56 PM for two minutes, rising in the West Northwest over Cross Plains and heading toward the Northeast near the Madison Home Depot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-11",
-    "updateDate": "2026-09-11T01:16:00.954Z",
+    "updateDate": "2026-09-11T02:08:40.112Z",
     "titleText": "Verona City News",
-    "mainText": "The city is preparing for the November 2026 general election with several official notices now posted, and the Verona Police Department has officially opened applications for its Citizen Academy, a free nine-week program running from September 23 to November 18.",
+    "mainText": "In city news, the Verona Police Department is accepting applications for a free nine-week Citizen Academy, while City Hall has posted various election notices and maintains updated engineering reports from their contracted partners at AECOM.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-11",
-    "updateDate": "2026-09-11T01:16:00.954Z",
+    "updateDate": "2026-09-11T02:08:40.112Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a busy schedule ahead. Today you can enjoy Yoga at Insight Wellness or Hop Haus Trivia. Tomorrow features live music at both Bailey's Run and the Wisconsin Brewing Company. Looking ahead, the Ironman Wisconsin Loop Festival is coming to town on September 13.",
+    "mainText": "There is plenty to do, starting today with Yoga at Insight Wellness and trivia at Hop Haus. Tomorrow features live music at Bailey's Run and Wisconsin Brewing Company. Looking ahead, the Saturday Dane County Farmers Market is on the square, and the Ironman Wisconsin Loop Festival takes over our streets this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-11",
-    "updateDate": "2026-09-11T01:16:00.954Z",
+    "updateDate": "2026-09-11T02:08:40.112Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Sunday, August 30, the Verona Police Department began an investigation into an inappropriate relationship between a teacher and a student from 2019, which led to an arrest on Friday, September 4.",
+    "mainText": "On Sunday, August 30, the Verona Police Department began an investigation that resulted in the arrest of a Madison resident for an inappropriate relationship with a student that occurred in 2019.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-11",
-    "updateDate": "2026-09-11T01:16:00.954Z",
+    "updateDate": "2026-09-11T02:08:40.112Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor of the day is Turtle. The restaurant is currently open and will be serving until 10 PM tonight, so there is still time to stop in for a treat.",
+    "mainText": "Today's flavor is the rich Dark Chocolate Decadence. The store is currently open but will be closing soon in 51 minutes, so make sure to get there before they lock the doors.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
