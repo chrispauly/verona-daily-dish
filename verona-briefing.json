@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-12",
-    "updateDate": "2026-09-12T17:04:43.551Z",
+    "updateDate": "2026-09-12T18:06:49.347Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish on the weather, with temperatures sitting at 78 degrees under clear skies at Fireman's Park.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. We are seeing overcast skies at Fireman's Park with a temperature of 79 degrees. If you are out tonight, catch the International Space Station starting at 8:21 PM as it rises in the west over Mount Horeb and travels toward the northeast near the local Home Depot, reaching about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-12",
-    "updateDate": "2026-09-12T17:04:43.551Z",
+    "updateDate": "2026-09-12T18:06:49.347Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Police Department is accepting applications for their upcoming Citizen Academy starting September 23, and residents should be aware of a recent residential burglary on Hunter's Cove Way occurring on September 10.",
+    "mainText": "In city news, Verona police responded to a burglary on Wednesday evening on the 600 block of Hunter's Cove Way. Officers arrived to find a suspect who had discharged a firearm, though no injuries were reported, and the individual is now in custody at the Dane County Jail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-12",
-    "updateDate": "2026-09-12T17:04:43.551Z",
+    "updateDate": "2026-09-12T18:06:49.347Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend, starting with the Dane County Farmer's Market and live music at various venues today, followed by the exciting Ironman Wisconsin Loop Festival in town tomorrow.",
+    "mainText": "We have plenty happening in the area. Today, you can visit the Dane County Farmers Market or catch live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking ahead, the Ironman Wisconsin Loop Festival is coming to town tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-12",
-    "updateDate": "2026-09-12T17:04:43.551Z",
+    "updateDate": "2026-09-12T18:06:49.347Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local law enforcement activity, officers responded to a burglary in progress on Hunter's Cove Way on September 10, where one individual was arrested and treated for injuries with no harm to residents.",
+    "mainText": "The Verona Police Department reported that on Wednesday, September 10, officers were dispatched for a burglary in progress where they recovered a handgun and arrested a 19-year-old from Madison.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-12",
-    "updateDate": "2026-09-12T17:04:43.551Z",
+    "updateDate": "2026-09-12T18:06:49.347Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy today's flavor of the day, Caramel Cashew, at the Verona Culver's, which is open today until 10:30 PM.",
+    "mainText": "Today is the perfect day for some Caramel Cashew, our current flavor of the day. The store is currently open and will remain open until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
