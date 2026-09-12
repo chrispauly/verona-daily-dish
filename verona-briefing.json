@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-12",
-    "updateDate": "2026-09-12T22:05:17.420Z",
+    "updateDate": "2026-09-12T23:04:48.150Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: skies are overcast with a temperature of 78 degrees near the Military Ridge State Trail. The overnight low will drop to 53 degrees with no rain expected. If you are out tonight, keep an eye out for the space station starting at 8:21 PM, traveling from the west near Mount Horeb toward the northeast near the local Home Depot, reaching halfway up the sky.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: we have clear skies and a temperature of 76 degrees near Badger Ridge Middle School. If you look west over Mount Horeb at 8:21 PM, you can spot the International Space Station heading northeast toward Madison for about six minutes. Tonight will drop to a low of 53 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-12",
-    "updateDate": "2026-09-12T22:05:17.420Z",
+    "updateDate": "2026-09-12T23:04:48.150Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Verona police responded to a burglary on Hunter's Cove Way on September 10th where a suspect was taken into custody following a firearm discharge, though no injuries were reported. Also, remember that applications are currently open for the Verona Police Department Citizen Academy, a free nine-week program covering topics from O W I investigations to K-9 unit demonstrations.",
+    "mainText": "In city news, Verona police responded to a burglary on September 10 at Hunters Cove Way where a suspect was taken into custody with a handgun. Additionally, the city has posted notices for the November general election and has ongoing engineering reports available through City Hall.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-12",
-    "updateDate": "2026-09-12T22:05:17.420Z",
+    "updateDate": "2026-09-12T23:04:48.150Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our area. Today, you can visit the Dane County Farmer's Market or enjoy live music at Bailey's Run, Paddy Mac's, and Lake Lou-ee. Tomorrow, the Ironman Wisconsin Loop Festival takes over Main Street, and later this week you can catch trivia at various local spots.",
+    "mainText": "We have a busy couple of days ahead. Today, you can visit the Dane County Farmers Market or catch live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company. Tomorrow, check out the Ironman Wisconsin Loop Festival on Main Street, and look forward to yoga on September 14 and trivia starting September 15.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-12",
-    "updateDate": "2026-09-12T22:05:17.420Z",
+    "updateDate": "2026-09-12T23:04:48.150Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 10th, officers apprehended a 19-year-old suspect following a residential burglary on Hunter's Cove Way, where a handgun was recovered at the scene.",
+    "mainText": "On September 10, officers were dispatched to a residence on Hunters Cove Way for a burglary in progress where a suspect was located and taken to a Madison hospital for treatment, facing charges of burglary and recklessly endangering safety.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-12",
-    "updateDate": "2026-09-12T22:05:17.420Z",
+    "updateDate": "2026-09-12T23:04:48.150Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is open until 10:30 PM today, serving the flavor of the day, Caramel Cashew. Stop by to enjoy a scoop before they close for the night.",
+    "mainText": "You can grab the delicious Caramel Cashew flavor of the day at Culver's, which is currently open and serving until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
