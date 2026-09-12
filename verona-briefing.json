@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-12",
-    "updateDate": "2026-09-12T15:04:47.360Z",
+    "updateDate": "2026-09-12T16:05:56.832Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. We are experiencing overcast skies near Verona Area High School. Tonight, under the new moon, keep your eyes on the western horizon toward Mount Horeb at 8:21 PM to see the space station pass overhead toward Madison for six minutes.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: expect partly cloudy skies and 77 degrees while you are out at Harriet Park. Additionally, keep your eyes on the night sky tonight. The International Space Station will be visible for 6 minutes starting at 8:21 PM. It will rise in the West over Mount Horeb and travel toward the Northeast near the Home Depot, reaching about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-12",
-    "updateDate": "2026-09-12T15:04:47.360Z",
+    "updateDate": "2026-09-12T16:05:56.832Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Police Department is accepting applications for their upcoming Citizen Academy starting September 23, and residents are also encouraged to review the public notices regarding the upcoming November general election.",
+    "mainText": "The City of Verona reports that on September 10, a 19-year-old from Madison was arrested for burglary and a weapons offence after officers were dispatched to Hunter's Cove Way. In other city business, official notices for the upcoming November general election have been posted to the city website.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-12",
-    "updateDate": "2026-09-12T15:04:47.360Z",
+    "updateDate": "2026-09-12T16:05:56.832Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule today with the Dane County Farmer's Market and live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Tomorrow, the city will host the Ironman Wisconsin Loop Festival on Main Street.",
+    "mainText": "There is plenty to do in our area this week. The Dane County Farmers Market and live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company are all happening today. Looking ahead, the Ironman Wisconsin Loop Festival arrives tomorrow, and we have various yoga and trivia events occurring early next week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-12",
-    "updateDate": "2026-09-12T15:04:47.360Z",
+    "updateDate": "2026-09-12T16:05:56.832Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 10, officers responded to a burglary on Hunter's Cove Way, resulting in the arrest of a 19-year-old suspect on charges of burglary and O W I related reckless endangerment.",
+    "mainText": "On September 10, Verona police responded to a burglary in progress on the 600 block of Hunter's Cove Way. A suspect was taken into custody, and a handgun was recovered from the scene with no reported injuries.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-12",
-    "updateDate": "2026-09-12T15:04:47.360Z",
+    "updateDate": "2026-09-12T16:05:56.832Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day at Culver's is Caramel Cashew. The store is currently open and will remain open until 10:30 PM tonight, so there is plenty of time to head over for a snack.",
+    "mainText": "Culver's is currently open and serving their tasty Caramel Cashew flavor of the day until they close at 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
