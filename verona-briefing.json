@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-13",
-    "updateDate": "2026-09-13T08:07:08.981Z",
+    "updateDate": "2026-09-13T10:12:50.186Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish. We have clear skies near the Verona Public Library with temperatures at 55 degrees and a New Moon overhead.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: it is 53 degrees with clear skies under the New Moon at Verona City Hall.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-13",
-    "updateDate": "2026-09-13T08:07:08.981Z",
+    "updateDate": "2026-09-13T10:12:50.186Z",
     "titleText": "Verona City News",
-    "mainText": "City updates include important notices regarding the November general election, along with ongoing engineering reports and a report from the police department regarding a residential burglary.",
+    "mainText": "City officials are reminding residents that the upcoming General Election is scheduled for November 3rd, and the Citizen Police Academy is now accepting applications for a nine-week program starting September 23rd.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-13",
-    "updateDate": "2026-09-13T08:07:08.981Z",
+    "updateDate": "2026-09-13T10:12:50.186Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, with the Ironman Wisconsin Loop Festival and live music at Bailey's Run Vineyard both taking place today, followed by yoga at Insight Wellness tomorrow.",
+    "mainText": "Today, athletes are racing in the Ironman Wisconsin Loop Festival, and there is live music at Bailey's Run and Wisconsin Brewing Company. Tomorrow, check out yoga at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-13",
-    "updateDate": "2026-09-13T08:07:08.981Z",
+    "updateDate": "2026-09-13T10:12:50.186Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 10, Verona police responded to a burglary call on Hunter's Cove Way where they apprehended a suspect after a reported gunshot, though no injuries were caused by the firearm.",
+    "mainText": "On Wednesday, September 10th, Verona police responded to a burglary in progress on Hunter's Cove Way, leading to the arrest of a 19-year-old suspect.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-13",
-    "updateDate": "2026-09-13T08:07:08.981Z",
+    "updateDate": "2026-09-13T10:12:50.186Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Really Reese's. Culver's is currently closed, but they open today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is Really Reese's. The store is closed right now but will open today at 10:00 AM, and it remains open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
