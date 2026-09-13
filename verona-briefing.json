@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-13",
-    "updateDate": "2026-09-13T03:07:02.217Z",
+    "updateDate": "2026-09-13T04:07:08.176Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. We have clear skies at Fireman's Park with a temperature of 63 degrees. Tonight will see an overnight low of 53 degrees, and we have no rain expected.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: the skies are clear at Verona City Hall under a new moon. The overnight low will drop to 52 degrees, and there is no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-13",
-    "updateDate": "2026-09-13T03:07:02.217Z",
+    "updateDate": "2026-09-13T04:07:08.176Z",
     "titleText": "Verona City News",
-    "mainText": "For our city updates, the Verona Police Department is accepting applications for their upcoming Citizen Academy, a free nine-week program covering everything from O W I investigations to K-9 demonstrations. Additionally, general election notices for November have been posted for the community.",
+    "mainText": "City residents should be aware that police responded to a burglary in progress on Hunter's Cove Way on September 10, resulting in one arrest and the recovery of a handgun. Additionally, election notices for the November general election are now available on the city website.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-13",
-    "updateDate": "2026-09-13T03:07:02.217Z",
+    "updateDate": "2026-09-13T04:07:08.176Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule ahead. Today you can visit the Dane County Farmers Market or catch live music at various local venues. Tomorrow, the Ironman Wisconsin Loop Festival takes over Main Street, and coming up on September 14th, you can enjoy yoga at Insight Wellness, followed by trivia nights at Hop Haus and Wisconsin Brewing Company on September 15th.",
+    "mainText": "There is plenty to do around town. The Ironman Wisconsin Loop Festival is tomorrow, and you can also catch live music at Bailey's Run and the Wisconsin Brewing Company. Looking further ahead, yoga is scheduled for September 14, and trivia nights are set for September 15 and 16 at various local spots.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-13",
-    "updateDate": "2026-09-13T03:07:02.217Z",
+    "updateDate": "2026-09-13T04:07:08.176Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local reports, on September 10th, officers were dispatched to the 600 block of Hunter's Cove Way for a burglary in progress. A 19-year-old suspect was taken into custody after a firearm was discharged, though no injuries were reported.",
+    "mainText": "On September 10, Verona officers responded to a burglary on Hunter's Cove Way. A 19-year-old suspect was taken into custody after a handgun and shell casing were recovered from the scene.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-13",
-    "updateDate": "2026-09-13T03:07:02.217Z",
+    "updateDate": "2026-09-13T04:07:08.176Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Caramel Cashew. The store is currently open, but please note they will be closing in just 23 minutes, so you have just enough time to grab a scoop.",
+    "mainText": "Today's flavor was Caramel Cashew. The store is now closed for the evening, but you can head over when doors open tomorrow at 10:00 AM to try tomorrow's flavor, Really Reese's.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
