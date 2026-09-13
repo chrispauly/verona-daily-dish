@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-13",
-    "updateDate": "2026-09-13T12:07:49.085Z",
+    "updateDate": "2026-09-13T13:05:13.002Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. We are looking at a clear morning at Verona Community Park with a temperature of 52 degrees.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we have a cool 56 degrees with clear skies, providing perfect visibility for a look at the New Moon. If you look up tonight at 7:40 PM, you can catch the International Space Station crossing the sky for one minute, traveling from the west southwest near Mount Horeb toward the northeast near the Home Depot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-13",
-    "updateDate": "2026-09-13T12:07:49.085Z",
+    "updateDate": "2026-09-13T13:05:13.002Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Police Department is currently accepting applications for its free nine-week Citizen Academy program, which kicks off on September 23rd. Additionally, the city has posted official notices for the upcoming November 3rd general election.",
+    "mainText": "In city news, police were called to Hunter's Cove Way on September 10th following a report of a burglary in progress. An officer located the suspect, a 19-year-old from Madison, who was taken into custody after a handgun was recovered. No injuries were reported from the firearm discharge, and the suspect faces charges of burglary and reckless safety endangerment.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-13",
-    "updateDate": "2026-09-13T12:07:49.085Z",
+    "updateDate": "2026-09-13T13:05:13.002Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend, starting with the Ironman Wisconsin Loop Festival taking place today. You can also catch live music at Baileys Run and the Wisconsin Brewing Company throughout the day today. Tomorrow, you can participate in yoga at Insight Wellness.",
+    "mainText": "There is plenty to do this week. Today, the Ironman Wisconsin Loop Festival takes over the town, while live music is featured at both Bailey's Run and the Wisconsin Brewing Company. Looking ahead, yoga is scheduled for tomorrow at Insight Wellness, and next week features trivia at Hop Haus, the Wisconsin Brewing Company, and Paddy Mac's, plus the downtown farmer's market on Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-13",
-    "updateDate": "2026-09-13T12:07:49.085Z",
+    "updateDate": "2026-09-13T13:05:13.002Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local law enforcement, officers were dispatched to the 600 block of Hunters Cove Way on September 10th for a burglary in progress. One suspect, 19 year old Luis Aragon-Zaring, was taken into custody following the incident.",
+    "mainText": "Regarding the local police report, on September 10th, officers successfully apprehended an offender involved in a residential burglary and weapons offence on Hunter's Cove Way.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-13",
-    "updateDate": "2026-09-13T12:07:49.085Z",
+    "updateDate": "2026-09-13T13:05:13.002Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor at the Verona Culver's is Really Reese's. Please note that the store opens today at 10:00 AM, so plan your visit accordingly to enjoy your treat.",
+    "mainText": "Today's delicious flavor of the day is Really Reese's. Culver's is currently closed but will open today at 10:00 AM to serve you.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
