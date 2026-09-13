@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-13",
-    "updateDate": "2026-09-13T00:17:10.617Z",
+    "updateDate": "2026-09-13T01:21:24.213Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish on the local weather. It is a clear 72 degrees outside the Verona Public Library. If you are heading out, the space station will be visible tonight starting at 8:21 PM, rising in the west over Mount Horeb and heading toward the northeast near Home Depot, climbing about halfway up the sky. The overnight low will be 53 degrees, and we are not expecting any rain.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have clear skies at Verona Community Park tonight, and you can spot the International Space Station crossing the sky for one minute starting at 9:59 PM. It will rise in the northwest over Verona High School and travel toward the northeast near the Home Depot, staying low near the horizon. Expect an overnight low of 54 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-13",
-    "updateDate": "2026-09-13T00:17:10.617Z",
+    "updateDate": "2026-09-13T01:21:24.213Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Police Department is currently accepting applications for its Citizen Academy, a free nine-week program running from September 23 to November 18 that offers insights into O W I investigations and other police operations. Additionally, residents should be aware of several election notices regarding the upcoming November general election.",
+    "mainText": "For our city news, the Verona Police Department is currently accepting applications for its Citizen Academy, a free nine-week program covering everything from O W I investigations to use of force. Additionally, general election notices for the November 3rd election have been posted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-13",
-    "updateDate": "2026-09-13T00:17:10.617Z",
+    "updateDate": "2026-09-13T01:21:24.213Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend. Today, you can visit the Dane County Farmers Market or catch live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company. Tomorrow, the town will be buzzing with the Ironman Wisconsin Loop Festival, followed by yoga on September 14 and trivia nights starting September 15.",
+    "mainText": "It is a busy weekend in town. The Dane County Farmers' Market is happening today, with live music throughout the day at Bailey's Run, Paddy Mac's, and Wisconsin Brewing Company. Looking ahead, the Ironman Wisconsin Loop Festival brings 140 miles of excitement to our streets tomorrow, followed by yoga at Insight Wellness on September 14th.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-13",
-    "updateDate": "2026-09-13T00:17:10.617Z",
+    "updateDate": "2026-09-13T01:21:24.213Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 10, officers were dispatched to a residence on Hunters Cove Way for a burglary in progress. A suspect was located and taken into custody, and while a firearm was discharged, there were no injuries.",
+    "mainText": "On Wednesday, September 10th, officers responded to a burglary on Hunter's Cove Way. A 19-year-old suspect was taken into custody after a firearm was discharged, though no injuries were reported.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-13",
-    "updateDate": "2026-09-13T00:17:10.617Z",
+    "updateDate": "2026-09-13T01:21:24.213Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor was Chocolate Caramel Twist. As we are now closed for the night, we invite you back tomorrow morning starting at 10:00 AM to try our next flavor, which is Snickers Swirl.",
+    "mainText": "Today's flavor of the day is the delightful Caramel Cashew. The store is currently open and serving until 10:30 PM tonight, so there is still plenty of time to head out and grab a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
