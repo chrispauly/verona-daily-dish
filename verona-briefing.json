@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-13",
-    "updateDate": "2026-09-13T18:06:43.409Z",
+    "updateDate": "2026-09-13T19:04:23.438Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. We have pleasant partly cloudy skies near the Reddan Soccer Park. If you are heading out tonight, the moon is in a waxing crescent phase. Also, look to the skies at 7:40 PM when the International Space Station will be visible for one minute, rising over Mount Horeb in the west southwest and tracking high in the sky toward Madison near the Home Depot.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. It is currently 65 degrees with overcast skies at Verona City Hall. Under the Waxing Crescent moon tonight, look for the space station pass starting at 7:40 PM as it travels from over Mount Horeb toward Madison near Home Depot, reaching high in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-13",
-    "updateDate": "2026-09-13T18:06:43.409Z",
+    "updateDate": "2026-09-13T19:04:23.438Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, we are tracking a report from September 10 regarding a burglary in progress on the 600 block of Hunter's Cove Way. Officers arrived on the scene, took a suspect into custody, and recovered a handgun. There were no injuries reported.",
+    "mainText": "In city news, police were called to the 600 block of Hunter's Cove Way on September 10th regarding a residential burglary. A 19-year-old suspect from Madison was taken into custody following the incident, and he faces charges for burglary and recklessly endangering safety.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-13",
-    "updateDate": "2026-09-13T18:06:43.409Z",
+    "updateDate": "2026-09-13T19:04:23.438Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy weekend in Verona. Today, we host the Ironman Wisconsin Loop Festival, along with live music at Bailey's Run Vineyard and the Wisconsin Brewing Company. Tomorrow, you can enjoy yoga at Insight Wellness. Looking ahead, we have Hop Haus Trivia and Lake Lou-ee Trivia on September 15, followed by Paddy Mac's trivia, live music, and the Verona Downtown Farmer's Market on September 16.",
+    "mainText": "There is plenty to do in Verona. We have the Ironman Wisconsin Loop Festival happening today, along with live music at Bailey's Run Vineyard today. Looking ahead, you can enjoy yoga tomorrow at Insight Wellness, and trivia events are scheduled for Monday at Hop Haus and Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-13",
-    "updateDate": "2026-09-13T18:06:43.409Z",
+    "updateDate": "2026-09-13T19:04:23.438Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 10, Verona police responded to a burglary incident on Hunter's Cove Way, resulting in the arrest of a 19 year old male suspect on charges of burglary and recklessly endangering safety.",
+    "mainText": "On September 10th, the Verona Police Department responded to a burglary on Hunter's Cove Way involving a firearm. The suspect was treated for an injury before being booked into the Dane County Jail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-13",
-    "updateDate": "2026-09-13T18:06:43.409Z",
+    "updateDate": "2026-09-13T19:04:23.438Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "If you are craving something sweet, head over to Culver's today to enjoy the Really Reese's flavor of the day. They are currently open and will remain open until 10 PM this evening.",
+    "mainText": "Today's flavor of the day is Really Reese's. Culver's is open right now and will remain open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
