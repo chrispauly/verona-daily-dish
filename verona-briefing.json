@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-14",
-    "updateDate": "2026-09-14T19:06:00.239Z",
+    "updateDate": "2026-09-14T20:06:25.749Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We have overcast skies with a temperature of 70 degrees near Verona City Hall. The moon is in a waxing crescent phase, and if you look to the sky tonight at 8:23 PM, you can catch the International Space Station flying from the West Northwest near Cross Plains toward the Northeast near the Madison Home Depot for six minutes.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: skies are overcast at Verona Community Park with a temperature of 68 degrees. If you are out tonight, you might spot the International Space Station, which will pass over our area starting at 8:23 PM for six minutes, traveling from the direction of Cross Plains toward the Madison area and reaching about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-14",
-    "updateDate": "2026-09-14T19:06:00.239Z",
+    "updateDate": "2026-09-14T20:06:25.749Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department reported an incident on September 10th regarding a residential burglary on the 600 block of Hunter's Cove Way. A 19-year-old male was arrested following reports of a gunshot, and he will face charges for burglary and recklessly endangering safety.",
+    "mainText": "Regarding city news, officers were called to the 600 block of Hunter's Cove Way on September 10 for a burglary. A 19-year-old suspect from Madison was taken into custody following reports of a gunshot, and he will face charges of burglary and reckless endangerment. Additionally, the city has posted various election notices for the upcoming November general election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-14",
-    "updateDate": "2026-09-14T19:06:00.239Z",
+    "updateDate": "2026-09-14T20:06:25.749Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community. Yoga is happening today at Insight Wellness. Tomorrow, you can enjoy trivia at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's. Also, tomorrow features live music at Paddy Mac's and the Verona Downtown Farmer's Market at Hometown Junction Park.",
+    "mainText": "There is plenty to do in Verona. Today, you can check out Yoga at Insight Wellness. Tomorrow, we have several trivia options, including at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus live music at Paddy Mac's and the Farmer's Market at Hometown Junction Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-14",
-    "updateDate": "2026-09-14T19:06:00.239Z",
+    "updateDate": "2026-09-14T20:06:25.749Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 10th, officers were dispatched to a residence on Hunter's Cove Way for a burglary in progress where a handgun was recovered, and no injuries were reported.",
+    "mainText": "In a report from September 10, Verona police responded to a burglary in progress on Hunter's Cove Way. An officer located the suspect, who was then transported to a hospital for injuries sustained during the incident. No one else was harmed when a firearm was discharged, and the suspect remains in custody.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-14",
-    "updateDate": "2026-09-14T19:06:00.239Z",
+    "updateDate": "2026-09-14T20:06:25.749Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is open until 10 PM tonight, but please note that the restaurant is currently closed for a remodel, so there is no flavor of the day available today.",
+    "mainText": "Culver's of Verona is currently open until 10:00 PM today. Please be aware that the restaurant is currently closed for a remodel, so there is no flavor of the day available.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
