@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-14",
-    "updateDate": "2026-09-14T02:11:02.454Z",
+    "updateDate": "2026-09-14T03:08:20.159Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. We have clear skies at Reddan Soccer Park with a temperature of 58 degrees and a waxing crescent moon. Tonight, you can spot the ISS rising over Cross Plains toward Madison starting at 9:11 PM. Expect an overnight low of 49 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. We have clear skies over the Verona Area High School with the temperature at 55 degrees. The moon is in a waxing crescent phase, and the overnight low will hit 48 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-14",
-    "updateDate": "2026-09-14T02:11:02.454Z",
+    "updateDate": "2026-09-14T03:08:20.159Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, officers were dispatched to Hunter's Cove Way on September 10th for a burglary in progress. A 19-year-old suspect was apprehended after a gunshot was heard, and a handgun was recovered at the scene.",
+    "mainText": "Regarding city news, officers were dispatched to the 600 block of Hunter's Cove Way on September 10th following reports of a burglary. A 19-year-old suspect from Madison was taken into custody after a brief incident involving a firearm, and he will face charges for burglary and recklessly endangering safety.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-14",
-    "updateDate": "2026-09-14T02:11:02.454Z",
+    "updateDate": "2026-09-14T03:08:20.159Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend, starting with the Ironman Wisconsin Loop Festival happening today. You can also enjoy live music today at Bailey's Run and the Wisconsin Brewing Company, or check out yoga tomorrow at Insight Wellness.",
+    "mainText": "There is plenty to do in Verona! Today, you can catch the Ironman Wisconsin Loop Festival on Main Street. Looking ahead, you can enjoy live music at Bailey's Run and Wisconsin Brewing Company this weekend, join in for yoga tomorrow at Insight Wellness, or test your knowledge at trivia nights starting this Monday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-14",
-    "updateDate": "2026-09-14T02:11:02.454Z",
+    "updateDate": "2026-09-14T03:08:20.159Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the police department's report, on September 10th, officers successfully took a suspect into custody following a residential burglary where a firearm was discharged, though fortunately, no injuries were reported.",
+    "mainText": "On September 10th, the Verona Police Department responded to a burglary in progress at a residence on Hunter's Cove Way where a handgun was recovered, and the suspect was taken to a hospital for treatment.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-14",
-    "updateDate": "2026-09-14T02:11:02.454Z",
+    "updateDate": "2026-09-14T03:08:20.159Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Really Reese's. The store is currently open but will be closing soon in 49 minutes, so be sure to stop by before 10:00 PM.",
+    "mainText": "Today's flavor was Really Reese's. Please note that the store is now closed for the night. We look forward to serving you again tomorrow when we open at 10:00 AM with tomorrow's flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
