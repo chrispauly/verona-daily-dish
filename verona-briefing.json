@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-14",
-    "updateDate": "2026-09-14T16:06:17.392Z",
+    "updateDate": "2026-09-14T17:04:59.914Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we have 62 degree overcast skies at the Verona Area High School, and tonight, you can spot the ISS traveling from the west-northwest toward the northeast starting at 8:23 PM for six minutes.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish on the weather. We are looking at overcast skies with a temperature of 66 degrees out at Reddan Soccer Park. If you are a space enthusiast, look up tonight at 8:23 PM for a six-minute pass of the International Space Station as it travels from the Cross Plains area toward Madison.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-14",
-    "updateDate": "2026-09-14T16:06:17.392Z",
+    "updateDate": "2026-09-14T17:04:59.914Z",
     "titleText": "Verona City News",
-    "mainText": "On September 10, Verona police arrested 19-year-old Luis Aragon-Zaring following a burglary at a home on the 600 block of Hunter's Cove Way. Officers arrived to find the suspect, recovered a handgun and a shell casing, and the individual was transported to a hospital for treatment before facing charges.",
+    "mainText": "In local news, the Verona Police Department responded to a residential burglary on September 10th at Hunter's Cove Way. A suspect was apprehended, and no injuries were reported despite a weapon being discharged during the incident.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-14",
-    "updateDate": "2026-09-14T16:06:17.392Z",
+    "updateDate": "2026-09-14T17:04:59.914Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can attend Yoga at Insight Wellness. Tomorrow is packed with activities including trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, along with live music at Paddy Mac's, the Verona Farmer's Market, and Wednesday night specials at Lake Lou-ee.",
+    "mainText": "There is plenty to do in our community. Yoga is available today at Insight Wellness. Looking ahead, tomorrow features trivia at Hop Haus and Lake Lou-ee, and later this week you can catch live music at Paddy Mac's, Bailey's Run, and Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-14",
-    "updateDate": "2026-09-14T16:06:17.392Z",
+    "updateDate": "2026-09-14T17:04:59.914Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 10, officers were dispatched to Hunter's Cove Way for a burglary in progress where a suspect was apprehended after a gunshot was reported.",
+    "mainText": "On Thursday, September 10, officers were dispatched to a residence on Hunter's Cove Way for a burglary in progress. The suspect was located, taken into custody, and will be charged with burglary and reckless endangerment.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-14",
-    "updateDate": "2026-09-14T16:06:17.392Z",
+    "updateDate": "2026-09-14T17:04:59.914Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Mint Cookie. The restaurant is currently open, so feel free to stop by anytime before they close at 10:00 PM.",
+    "mainText": "For those looking for a treat, please note that the Culver's in Verona is currently closed for a building remodel. We will keep you updated on when you can return to grab your favorite flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
