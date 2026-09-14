@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-14",
-    "updateDate": "2026-09-14T17:04:59.914Z",
+    "updateDate": "2026-09-14T18:06:41.978Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish on the weather. We are looking at overcast skies with a temperature of 66 degrees out at Reddan Soccer Park. If you are a space enthusiast, look up tonight at 8:23 PM for a six-minute pass of the International Space Station as it travels from the Cross Plains area toward Madison.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: expect overcast skies today near the Verona Area High School. Also, keep your eyes on the horizon tonight as the International Space Station will be visible starting at 8:23 PM for six minutes, rising in the west-northwest over Cross Plains and traveling toward the Northeast near Home Depot, reaching about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-14",
-    "updateDate": "2026-09-14T17:04:59.914Z",
+    "updateDate": "2026-09-14T18:06:41.978Z",
     "titleText": "Verona City News",
-    "mainText": "In local news, the Verona Police Department responded to a residential burglary on September 10th at Hunter's Cove Way. A suspect was apprehended, and no injuries were reported despite a weapon being discharged during the incident.",
+    "mainText": "The big news today involves a residential burglary on Hunter's Cove Way that occurred last Wednesday. Officers arrested a 19-year-old from Madison after recovering a handgun at the scene. Additionally, the Verona Police Department is currently accepting applications for its free nine-week Citizen Academy program running through November.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-14",
-    "updateDate": "2026-09-14T17:04:59.914Z",
+    "updateDate": "2026-09-14T18:06:41.978Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community. Yoga is available today at Insight Wellness. Looking ahead, tomorrow features trivia at Hop Haus and Lake Lou-ee, and later this week you can catch live music at Paddy Mac's, Bailey's Run, and Wisconsin Brewing Company.",
+    "mainText": "We have a busy couple of days ahead! You can join a yoga session today at Insight Wellness. Tomorrow, local trivia fans have plenty of options with events at Hop Haus, Lake Lou-ee, and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-14",
-    "updateDate": "2026-09-14T17:04:59.914Z",
+    "updateDate": "2026-09-14T18:06:41.978Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Thursday, September 10, officers were dispatched to a residence on Hunter's Cove Way for a burglary in progress. The suspect was located, taken into custody, and will be charged with burglary and reckless endangerment.",
+    "mainText": "On Wednesday, September 10, Verona officers responded to a burglary in progress at a home on Hunter's Cove Way, where a suspect was taken into custody and a firearm was secured.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-14",
-    "updateDate": "2026-09-14T17:04:59.914Z",
+    "updateDate": "2026-09-14T18:06:41.978Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "For those looking for a treat, please note that the Culver's in Verona is currently closed for a building remodel. We will keep you updated on when you can return to grab your favorite flavor of the day.",
+    "mainText": "Although the Culver's of Verona location is open today until 10:00 PM, the store is currently closed for a remodel, so there is no flavor of the day available.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
