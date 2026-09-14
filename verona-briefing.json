@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-14",
-    "updateDate": "2026-09-14T05:06:50.827Z",
+    "updateDate": "2026-09-14T06:13:06.989Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: it is 51 degrees with clear skies near Badger Ridge Middle School and a waxing crescent moon in the sky.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish. It is a clear night near Reddan Soccer Park with a temperature of 49 degrees and a waxing crescent moon in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-14",
-    "updateDate": "2026-09-14T05:06:50.827Z",
+    "updateDate": "2026-09-14T06:13:06.989Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, police were dispatched to the 600 block of Hunter's Cove Way on September 10th for a burglary in progress where a suspect was apprehended with a weapon.",
+    "mainText": "On September 10th, Verona police were dispatched to the 600 block of Hunter's Cove Way for a burglary in progress. A 19-year-old suspect from Madison was taken into custody after a firearm was discharged, and he was transported for medical treatment before being booked into the Dane County Jail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-14",
-    "updateDate": "2026-09-14T05:06:50.827Z",
+    "updateDate": "2026-09-14T06:13:06.989Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town starting today with Yoga at Insight Wellness, followed by a busy tomorrow featuring trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's.",
+    "mainText": "There is plenty to do in town. Today you can catch Yoga at Insight Wellness. Tomorrow, join the fun with trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, and catch live music at Paddy Mac's or visit the Verona Downtown Farmer's Market.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-14",
-    "updateDate": "2026-09-14T05:06:50.827Z",
+    "updateDate": "2026-09-14T06:13:06.989Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 10th, officers responded to a burglary on Hunter's Cove Way, resulting in the arrest of a 19-year-old Madison man on charges of burglary and recklessly endangering safety.",
+    "mainText": "On September 10th, officers responded to a burglary incident where a handgun and a shell casing were recovered, though fortunately, no one was injured by the gunshot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-14",
-    "updateDate": "2026-09-14T05:06:50.827Z",
+    "updateDate": "2026-09-14T06:13:06.989Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for a remodel, but they are scheduled to open today at 10:00 AM.",
+    "mainText": "Culver's is currently closed, but they will be ready to serve you when they open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
