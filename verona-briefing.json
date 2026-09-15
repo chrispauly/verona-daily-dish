@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-15",
-    "updateDate": "2026-09-15T19:05:06.682Z",
+    "updateDate": "2026-09-15T20:08:03.418Z",
     "titleText": "Verona Weather",
-    "mainText": "",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we have overcast skies and 75 degrees near Badger Ridge Middle School. If you are heading out tonight, keep your eyes on the sky starting at 7:36 PM, as the ISS will be visible for 5 minutes, traveling from the west over Mount Horeb toward the northeast near Home Depot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-15",
-    "updateDate": "2026-09-15T19:05:06.682Z",
+    "updateDate": "2026-09-15T20:08:03.418Z",
     "titleText": "Verona City News",
-    "mainText": "",
+    "mainText": "There are no new emails to report, but police have released a summary of notable calls covering everything from domestic issues to a recent burglary incident on Hunters Cove Way.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-15",
-    "updateDate": "2026-09-15T19:05:06.682Z",
+    "updateDate": "2026-09-15T20:08:03.418Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "",
+    "mainText": "There is plenty to do this week, starting with trivia at Hop Haus Brewing Co. today, followed by the Verona Downtown Farmer's Market and Yoga at Insight Wellness happening tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-15",
-    "updateDate": "2026-09-15T19:05:06.682Z",
+    "updateDate": "2026-09-15T20:08:03.418Z",
     "titleText": "Verona Police Report",
-    "mainText": "",
+    "mainText": "In a report covering the past few weeks, officers noted that on September 5, they discovered multiple vehicles with cheese slices on their windshields due to a viral social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-15",
-    "updateDate": "2026-09-15T19:05:06.682Z",
+    "updateDate": "2026-09-15T20:08:03.418Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "",
+    "mainText": "Culver's is open today, but please be aware that the restaurant is closed for a remodel, so plan your dining accordingly.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
