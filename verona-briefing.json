@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-15",
-    "updateDate": "2026-09-15T09:06:34.630Z",
+    "updateDate": "2026-09-15T10:07:08.371Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: it is 65 degrees with moderate rain near Verona Area High School, and we are under a waxing crescent moon.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish. We are seeing temperatures around 67 degrees, though it feels like 65, under overcast skies near the Verona Area High School. We are currently in a Waxing Crescent moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-15",
-    "updateDate": "2026-09-15T09:06:34.630Z",
+    "updateDate": "2026-09-15T10:07:08.371Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department has compiled a report of noteworthy calls between August 31 and September 14, highlighting various incidents ranging from traffic violations and arrests to a bizarre viral prank involving cheese on windshields.",
+    "mainText": "For city news, we have no new emails or major alerts to share today, so it is a good time to catch up on some of our local highlights.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-15",
-    "updateDate": "2026-09-15T09:06:34.630Z",
+    "updateDate": "2026-09-15T10:07:08.371Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town with trivia happening today at Hop Haus Brewing Company and Lake Lou-ee, followed by tomorrow's lineup featuring yoga at Insight Wellness, the Downtown Farmer's Market, and trivia at The Bogey Factory.",
+    "mainText": "There is plenty to do in town. Today, you can check out Hop Haus Trivia or Quizmasters Trivia at Wisconsin Brewing Company. Tomorrow, the lineup includes the Verona Downtown Farmer's Market, Trivia Night at The Bogey Factory, and yoga at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-15",
-    "updateDate": "2026-09-15T09:06:34.630Z",
+    "updateDate": "2026-09-15T10:07:08.371Z",
     "titleText": "Verona Police Report",
-    "mainText": "One notable event from the police report occurred on September 5, when officers investigated multiple reports of cheese being placed on car windshields as part of a viral social media trend known as the Dairy Dare.",
+    "mainText": "In our weekly police report, officers noted an incident on September 5 involving a social media prank where slices of cheese were placed on windshields, causing no damage to vehicles.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-15",
-    "updateDate": "2026-09-15T09:06:34.630Z",
+    "updateDate": "2026-09-15T10:07:08.371Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Our local Culver's is currently closed, but the staff will be ready to serve you when they open today at 10:00 AM with today's flavor of the day.",
+    "mainText": "Regarding our local Culver's, please note that the store is closed for a remodel. They will open today at 10:00 AM, and we look forward to their return to serving the community.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
