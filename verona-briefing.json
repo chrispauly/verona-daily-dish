@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-15",
-    "updateDate": "2026-09-15T00:16:02.272Z",
+    "updateDate": "2026-09-15T01:20:03.252Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 61 degrees with overcast skies at Verona City Hall. Tonight, we have a waxing crescent moon and an ISS flyover starting at 8:23 PM, rising in the West Northwest toward the Northeast and reaching halfway up the sky. The overnight low will drop to 60 degrees, and rain is in the forecast.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: it is 61 degrees with clear skies near Fireman's Park. The moon is a waxing crescent, and we have an ISS flyover at 8:23 PM, moving from Cross Plains toward Madison. Expect an overnight low of 61 degrees with rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-15",
-    "updateDate": "2026-09-15T00:16:02.272Z",
+    "updateDate": "2026-09-15T01:20:03.252Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, there are no new emails or articles to update you on at this time.",
+    "mainText": "There were no new emails received for the city today, allowing us to focus on our community happenings.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-15",
-    "updateDate": "2026-09-15T00:16:02.272Z",
+    "updateDate": "2026-09-15T01:20:03.252Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule ahead. Yoga at Insight Wellness is happening today. Looking into tomorrow, you can catch trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus the Verona Downtown Farmer's Market and live music at Paddy Mac's.",
+    "mainText": "There is plenty to do, starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, and check out the Verona Downtown Farmer's Market.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-15",
-    "updateDate": "2026-09-15T00:16:02.272Z",
+    "updateDate": "2026-09-15T01:20:03.252Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy update, officers handled a variety of calls over the last two weeks, including an incident on September 5 where they discovered several vehicles with cheese slices placed on their windshields as part of a social media prank.",
+    "mainText": "On September 5th, police responded to a string of reports involving the Dairy Dare prank, where officers found slices of cheese left on car windshields throughout several streets.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-15",
-    "updateDate": "2026-09-15T00:16:02.272Z",
+    "updateDate": "2026-09-15T01:20:03.252Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's of Verona is currently closed for a remodel, so there is no flavor of the day to report. The store typically maintains hours until 10 PM, but please check back for updates on their reopening.",
+    "mainText": "Today's featured flavor is Pumpkin Pecan. The Verona location is currently open and will be serving guests until 11 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
