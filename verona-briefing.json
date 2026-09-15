@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-15",
-    "updateDate": "2026-09-15T22:05:32.107Z",
+    "updateDate": "2026-09-15T23:05:18.959Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: expect 73 degrees with overcast skies along the Military Ridge State Trail. Tonight, we will see a low of 56 degrees with no rain in the forecast. If you look to the skies at 7:36 PM, you can catch the space station rising in the west near Mount Horeb and heading toward the northeast near Madison for 5 minutes.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: we are seeing overcast skies at 72 degrees near Reddan Soccer Park. Keep your eyes on the sky at 7:36 PM to see the space station travel from the west over Mount Horeb toward the northeast near Home Depot, visible for five minutes. The overnight low will hit 56 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-15",
-    "updateDate": "2026-09-15T22:05:32.107Z",
+    "updateDate": "2026-09-15T23:05:18.959Z",
     "titleText": "Verona City News",
-    "mainText": "Verona Police recently released a summary of calls ranging from September 14, including a notable arrest on September 5 where a driver was stopped for speeding and had license restrictions regarding alcohol consumption.",
+    "mainText": "The latest Verona news update summarizes police calls for service from late August through mid-September, including arrests for various infractions and a report on a viral local prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-15",
-    "updateDate": "2026-09-15T22:05:32.107Z",
+    "updateDate": "2026-09-15T23:05:18.959Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona, starting with trivia today at Hop Haus and Lake Lou-ee. Tomorrow, you can enjoy the downtown Farmer's Market, Yoga at Insight Wellness, or a trivia night at The Bogey Factory.",
+    "mainText": "There is plenty to do in town. Hop Haus Trivia and Quizmasters Trivia are both happening today. Tomorrow, you can enjoy the Verona Downtown Farmer's Market at Hometown Junction Park, yoga at Insight Wellness, or trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-15",
-    "updateDate": "2026-09-15T22:05:32.107Z",
+    "updateDate": "2026-09-15T23:05:18.959Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 10, officers responded to a burglary in the 600 block of Hunters Cove Way where a suspect fired a weapon; the individual was quickly detained and is facing multiple charges.",
+    "mainText": "In a notable service call from September 10, officers responded to a burglary in progress in the 600 block of Hunters Cove Way, where a suspect was detained after a firearm was discharged.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-15",
-    "updateDate": "2026-09-15T22:05:32.107Z",
+    "updateDate": "2026-09-15T23:05:18.959Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's in Verona is currently closed for a remodel, so we do not have a flavor of the day to share at this time.",
+    "mainText": "Culver's is currently open until 10 PM; however, please be aware that the restaurant is closed today for a remodel.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
