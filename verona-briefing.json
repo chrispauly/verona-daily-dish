@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-15",
-    "updateDate": "2026-09-15T02:09:14.645Z",
+    "updateDate": "2026-09-15T03:07:14.714Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: current temperatures are 61 degrees under overcast skies at Badger Prairie County Park. Under the waxing crescent moon, keep an eye out for the International Space Station at 10:01 PM, rising in the northwest near Verona High School and moving toward the northeast near Home Depot. The overnight low will be 61 degrees with rain in the forecast.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: we are seeing partly cloudy skies at 62 degrees near Harriet Park. The overnight low will drop to 62 degrees, and we do have rain predicted overnight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-15",
-    "updateDate": "2026-09-15T02:09:14.645Z",
+    "updateDate": "2026-09-15T03:07:14.714Z",
     "titleText": "Verona City News",
-    "mainText": "There are no important emails to report today, but the city continues to keep residents informed through regular police updates and community notices.",
+    "mainText": "We have no new inbound emails to report at this time. Our police department continues to monitor city activities, including a recent, unusual trend of cars being pranked with cheese slices.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-15",
-    "updateDate": "2026-09-15T02:09:14.645Z",
+    "updateDate": "2026-09-15T03:07:14.714Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus Brewing, Lake Lou-ee, or Paddy Mac's, plus live music at Paddy Mac's and the Farmer's Market in Hometown Junction Park.",
+    "mainText": "Today, you can participate in Yoga at Insight Wellness. Looking ahead to tomorrow, there are plenty of events to choose from, including trivia at Hop Haus Brewing, Quizmasters Trivia at Lake Lou-ee, and Dream Day Trivia at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-15",
-    "updateDate": "2026-09-15T02:09:14.645Z",
+    "updateDate": "2026-09-15T03:07:14.714Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5, the Verona Police Department responded to a series of reports involving vehicles having cheese slices left on their windshields, a viral prank identified by the department.",
+    "mainText": "In a noteworthy call from September 5, Verona police officers investigated reports of multiple vehicles featuring a slice of cheese on their windshields, which they identified as a viral social media prank known as the Dairy Dare.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-15",
-    "updateDate": "2026-09-15T02:09:14.645Z",
+    "updateDate": "2026-09-15T03:07:14.714Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's of Verona location is currently closed for a remodel, so enjoy your evening and check back soon for updates on when they will be back to serving their signature flavors.",
+    "mainText": "The Culver's of Verona location is currently closed for the night for a remodel. We look forward to seeing them open again tomorrow at 10 AM, when they will feature a new flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
