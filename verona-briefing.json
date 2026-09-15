@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-15",
-    "updateDate": "2026-09-15T20:08:03.418Z",
+    "updateDate": "2026-09-15T21:05:24.991Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we have overcast skies and 75 degrees near Badger Ridge Middle School. If you are heading out tonight, keep your eyes on the sky starting at 7:36 PM, as the ISS will be visible for 5 minutes, traveling from the west over Mount Horeb toward the northeast near Home Depot.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. We have overcast skies and a temperature of 75 degrees near Badger Ridge Middle School. If you are heading out tonight, look to the West over Mount Horeb starting at 7:36 PM to see the International Space Station as it travels toward the Northeast near the Home Depot for a five minute show.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-15",
-    "updateDate": "2026-09-15T20:08:03.418Z",
+    "updateDate": "2026-09-15T21:05:24.991Z",
     "titleText": "Verona City News",
-    "mainText": "There are no new emails to report, but police have released a summary of notable calls covering everything from domestic issues to a recent burglary incident on Hunters Cove Way.",
+    "mainText": "The Verona Police Department has released a summary of calls from August 31 to September 14. This report includes a variety of incidents, ranging from a domestic battery case on North Main Street to an arrest for a serious burglary on Hunters Cove Way.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-15",
-    "updateDate": "2026-09-15T20:08:03.418Z",
+    "updateDate": "2026-09-15T21:05:24.991Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this week, starting with trivia at Hop Haus Brewing Co. today, followed by the Verona Downtown Farmer's Market and Yoga at Insight Wellness happening tomorrow.",
+    "mainText": "Your local calendar is packed. Today, you can join trivia at Hop Haus or Wisconsin Brewing Company. Tomorrow, the Verona Downtown Farmer's Market returns to Hometown Junction Park, and you can also catch trivia at The Bogey Factory or enjoy pizza and a pitcher at Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-15",
-    "updateDate": "2026-09-15T20:08:03.418Z",
+    "updateDate": "2026-09-15T21:05:24.991Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering the past few weeks, officers noted that on September 5, they discovered multiple vehicles with cheese slices on their windshields due to a viral social media prank.",
+    "mainText": "In a noteworthy incident from the past two weeks, on September 5, an officer responded to a viral prank where vehicles were found with slices of cheese left on their windshields, though thankfully, no damage was reported.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-15",
-    "updateDate": "2026-09-15T20:08:03.418Z",
+    "updateDate": "2026-09-15T21:05:24.991Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is open today, but please be aware that the restaurant is closed for a remodel, so plan your dining accordingly.",
+    "mainText": "Culver's of Verona is currently closed for a remodel. We look forward to their reopening and will keep you posted on when you can grab your next flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
