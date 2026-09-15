@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-15",
-    "updateDate": "2026-09-15T08:12:25.154Z",
+    "updateDate": "2026-09-15T09:06:34.630Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish. Over at Verona City Hall, it is currently 62 degrees with moderate rain. Tonight we have a Waxing Crescent. ",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: it is 65 degrees with moderate rain near Verona Area High School, and we are under a waxing crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-15",
-    "updateDate": "2026-09-15T08:12:25.154Z",
+    "updateDate": "2026-09-15T09:06:34.630Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Weekly Recap  Noteworthy Calls for Service 831  914.",
+    "mainText": "The Verona Police Department has compiled a report of noteworthy calls between August 31 and September 14, highlighting various incidents ranging from traffic violations and arrests to a bizarre viral prank involving cheese on windshields.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-15",
-    "updateDate": "2026-09-15T08:12:25.154Z",
+    "updateDate": "2026-09-15T09:06:34.630Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Hop Haus Trivia Today at Hop Haus Brewing Co..",
+    "mainText": "There is plenty to do in town with trivia happening today at Hop Haus Brewing Company and Lake Lou-ee, followed by tomorrow's lineup featuring yoga at Insight Wellness, the Downtown Farmer's Market, and trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-15",
-    "updateDate": "2026-09-15T08:12:25.154Z",
+    "updateDate": "2026-09-15T09:06:34.630Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "One notable event from the police report occurred on September 5, when officers investigated multiple reports of cheese being placed on car windshields as part of a viral social media trend known as the Dairy Dare.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-15",
-    "updateDate": "2026-09-15T08:12:25.154Z",
+    "updateDate": "2026-09-15T09:06:34.630Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Culver's Flavor of the Day is z *Closed Today for Remodel!. The restaurant opens today at 10:00 AM.",
+    "mainText": "Our local Culver's is currently closed, but the staff will be ready to serve you when they open today at 10:00 AM with today's flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
