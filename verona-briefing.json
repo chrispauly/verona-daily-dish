@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-15",
-    "updateDate": "2026-09-15T03:07:14.714Z",
+    "updateDate": "2026-09-15T04:10:59.014Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: we are seeing partly cloudy skies at 62 degrees near Harriet Park. The overnight low will drop to 62 degrees, and we do have rain predicted overnight.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. Over at Reddan Soccer Park, we have overcast skies with a temperature of 62 degrees. For tonight, we are looking at an overnight low of 61 degrees with rain predicted, all under a waxing crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-09-15",
-    "updateDate": "2026-09-15T03:07:14.714Z",
+    "updateDate": "2026-09-15T04:10:59.014Z",
     "titleText": "Verona City News",
-    "mainText": "We have no new inbound emails to report at this time. Our police department continues to monitor city activities, including a recent, unusual trend of cars being pranked with cheese slices.",
+    "mainText": "The Verona Police Department published their weekly recap detailing several significant incidents between August 31st and September 14th, including a burglary on Hunters Cove Way and an O W I crash on Shooting Star Road.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-09-15",
-    "updateDate": "2026-09-15T03:07:14.714Z",
+    "updateDate": "2026-09-15T04:10:59.014Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can participate in Yoga at Insight Wellness. Looking ahead to tomorrow, there are plenty of events to choose from, including trivia at Hop Haus Brewing, Quizmasters Trivia at Lake Lou-ee, and Dream Day Trivia at Paddy Mac's.",
+    "mainText": "Tomorrow brings several trivia options, including Hop Haus Trivia, Quizmasters Trivia, and Dream Day Trivia. On September 16th, you can enjoy the Verona Downtown Farmer's Market, yoga at Insight Wellness, and live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-09-15",
-    "updateDate": "2026-09-15T03:07:14.714Z",
+    "updateDate": "2026-09-15T04:10:59.014Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from September 5, Verona police officers investigated reports of multiple vehicles featuring a slice of cheese on their windshields, which they identified as a viral social media prank known as the Dairy Dare.",
+    "mainText": "Last Thursday night, officers responded to a burglary in progress on Hunters Cove Way where a gunshot was heard and an officer successfully detained a suspect who was bleeding profusely from a window injury.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-15",
-    "updateDate": "2026-09-15T03:07:14.714Z",
+    "updateDate": "2026-09-15T04:10:59.014Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's of Verona location is currently closed for the night for a remodel. We look forward to seeing them open again tomorrow at 10 AM, when they will feature a new flavor of the day.",
+    "mainText": "Culver's is closed for the day and will remain closed tomorrow for a remodel, so there is no featured flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
