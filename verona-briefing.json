@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-15",
-    "updateDate": "2026-09-15T11:05:36.502Z",
+    "updateDate": "2026-09-15T12:08:14.611Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: it is 65 degrees with overcast skies as we start our morning near Badger Ridge Middle School.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: it is 66 degrees with overcast skies near the Verona Public Library. The moon is currently in a waxing crescent phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-15",
-    "updateDate": "2026-09-15T11:05:36.502Z",
+    "updateDate": "2026-09-15T12:08:14.611Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department recently provided a recap of notable incidents from August 31 to September 14, which included various traffic stops, arrests, and a burglary investigation.",
+    "mainText": "Looking at the latest city updates, there are no new emails or urgent city news items to bring to your attention this morning.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-15",
-    "updateDate": "2026-09-15T11:05:36.502Z",
+    "updateDate": "2026-09-15T12:08:14.611Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this week, starting with trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's occurring today and tomorrow, plus live music and a farmers market downtown tomorrow.",
+    "mainText": "There is plenty to do in Verona, including Hop Haus Trivia and Quizmasters Trivia at Wisconsin Brewing Company, both happening today.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-15",
-    "updateDate": "2026-09-15T11:05:36.502Z",
+    "updateDate": "2026-09-15T12:08:14.611Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the recent police report, officers responded to a burglary on September 10 in the 600 block of Hunters Cove Way, where a suspect was detained after a shot was fired.",
+    "mainText": "In our weekly police report, on September 5, officers were dispatched to check on reports of cheese slices being placed on multiple vehicles around North Main and Jefferson streets as part of a viral social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-15",
-    "updateDate": "2026-09-15T11:05:36.502Z",
+    "updateDate": "2026-09-15T12:08:14.611Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for a remodel but will open today at 10:00 AM.",
+    "mainText": "Culver's of Verona is currently closed for a remodel, but they will be ready to serve you when they open today at 10 AM with today's flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
