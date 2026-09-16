@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-16",
-    "updateDate": "2026-09-16T15:05:41.774Z",
+    "updateDate": "2026-09-16T16:07:57.419Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: expect overcast skies and a comfortable 64 degrees near Badger Ridge Middle School.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. We are seeing overcast skies at Fireman's Park with a current temperature of 66 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-16",
-    "updateDate": "2026-09-16T15:05:41.774Z",
+    "updateDate": "2026-09-16T16:07:57.419Z",
     "titleText": "Verona City News",
-    "mainText": "Local authorities have provided a summary of police activity from August 31 to September 14, including investigations into traffic incidents and other community reports.",
+    "mainText": "Looking at city updates, there are no new emails or breaking city news reports to share with residents at this time.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-16",
-    "updateDate": "2026-09-16T15:05:41.774Z",
+    "updateDate": "2026-09-16T16:07:57.419Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today including the Downtown Farmer's Market, yoga sessions at Insight Wellness, and pizza and pitchers at the Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do today, including live music at Paddy Mac's, yoga at Insight Wellness, the Verona Downtown Farmer's Market, pizza and a pitcher at Lake Lou-ee, and trivia night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-16",
-    "updateDate": "2026-09-16T15:05:41.774Z",
+    "updateDate": "2026-09-16T16:07:57.419Z",
     "titleText": "Verona Police Report",
-    "mainText": "One notable report from the police department occurred on September 5, when officers investigated several reports of a viral prank where vehicles were found with cheese slices on their windshields.",
+    "mainText": "Regarding the weekly police report, officers responded on September 5 to a report of cheese placed on various vehicle windshields around town, which was determined to be a harmless social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-16",
-    "updateDate": "2026-09-16T15:05:41.774Z",
+    "updateDate": "2026-09-16T16:07:57.419Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is unavailable as the Culver's location is currently closed for a remodel. We look forward to their reopening.",
+    "mainText": "Today at Culver's, which is open until 10:00 PM, you can stop by to find out what the flavor of the day is.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
