@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-09-15",
-    "updateDate": "2026-09-15T23:05:18.959Z",
+    "uid": "verona-balanced-weather-2026-09-16",
+    "updateDate": "2026-09-16T00:14:49.985Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: we are seeing overcast skies at 72 degrees near Reddan Soccer Park. Keep your eyes on the sky at 7:36 PM to see the space station travel from the west over Mount Horeb toward the northeast near Home Depot, visible for five minutes. The overnight low will hit 56 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 69 degrees with overcast skies at Verona City Hall. Tonight features a waxing crescent moon, and the space station will be visible from 7:36 PM for five minutes, rising in the west over Mount Horeb and heading northeast toward Madison. The overnight low will be 57 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-09-15",
-    "updateDate": "2026-09-15T23:05:18.959Z",
+    "uid": "verona-balanced-news-2026-09-16",
+    "updateDate": "2026-09-16T00:14:49.985Z",
     "titleText": "Verona City News",
-    "mainText": "The latest Verona news update summarizes police calls for service from late August through mid-September, including arrests for various infractions and a report on a viral local prank.",
+    "mainText": "In city news, the police department recently released their recap of service calls from August 31 to September 14, which included a burglary on Hunters Cove Way and an O W I crash on Shooting Star Road.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-09-15",
-    "updateDate": "2026-09-15T23:05:18.959Z",
+    "uid": "verona-balanced-events-2026-09-16",
+    "updateDate": "2026-09-16T00:14:49.985Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town. Hop Haus Trivia and Quizmasters Trivia are both happening today. Tomorrow, you can enjoy the Verona Downtown Farmer's Market at Hometown Junction Park, yoga at Insight Wellness, or trivia at The Bogey Factory.",
+    "mainText": "There is plenty to do in Verona, with Hop Haus Trivia and Lake Lou-ee Trivia held today, and tomorrow offering the farmer's market, yoga at Insight Wellness, and live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-09-15",
-    "updateDate": "2026-09-15T23:05:18.959Z",
+    "uid": "verona-balanced-police-2026-09-16",
+    "updateDate": "2026-09-16T00:14:49.985Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable service call from September 10, officers responded to a burglary in progress in the 600 block of Hunters Cove Way, where a suspect was detained after a firearm was discharged.",
+    "mainText": "One notable incident occurred on September 5, when officers investigated multiple vehicles that had slices of cheese placed on their windshields as part of a viral social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-09-15",
-    "updateDate": "2026-09-15T23:05:18.959Z",
+    "uid": "verona-balanced-culvers-2026-09-16",
+    "updateDate": "2026-09-16T00:14:49.985Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently open until 10 PM; however, please be aware that the restaurant is closed today for a remodel.",
+    "mainText": "Please note that Culver's is currently closed for a remodel, so there is no flavor of the day available at this time.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
