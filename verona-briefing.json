@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-16",
-    "updateDate": "2026-09-16T08:08:16.354Z",
+    "updateDate": "2026-09-16T09:06:58.992Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish. We are seeing 58 degrees with overcast skies near Verona Community Park, and the night features a beautiful waxing crescent moon.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: we are seeing overcast skies and a temperature of 58 degrees near Verona City Hall under a waxing crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-16",
-    "updateDate": "2026-09-16T08:08:16.354Z",
+    "updateDate": "2026-09-16T09:06:58.992Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department recently released their summary of notable service calls from August 31 through September 14, highlighting various incidents ranging from traffic violations to property crimes.",
+    "mainText": "There are no new emails to report, but looking back at recent city updates, the Verona Police Department has been busy with various calls for service ranging from traffic violations to property crimes.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-16",
-    "updateDate": "2026-09-16T08:08:16.354Z",
+    "updateDate": "2026-09-16T09:06:58.992Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy day in town. Today, you can check out live music at Paddy Mac's, yoga at Insight Wellness, the Verona Downtown Farmer's Market at Hometown Junction Park, pizza and a pitcher at Wisconsin Brewing Company, or trivia at The Bogey Factory. Looking ahead, Hop Haus trivia happens tomorrow, and you can enjoy live music and the Sugar River Fire and Smoke BBQ Festival later this week.",
+    "mainText": "It is a busy day in Verona today. You can find live music at Paddy Macs, yoga at Insight Wellness, the downtown farmer's market at Hometown Junction Park, pizza and pitchers at the Wisconsin Brewing Company, and trivia at The Bogey Factory. Looking ahead, tomorrow brings more trivia at the Hop Haus Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-16",
-    "updateDate": "2026-09-16T08:08:16.354Z",
+    "updateDate": "2026-09-16T09:06:58.992Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5, an officer located multiple vehicles with cheese slices on their windshields in a viral social media prank, though fortunately, no damage was reported.",
+    "mainText": "Regarding the recent police activity, officers handled a notable incident on September 5 involving the Dairy Dare prank, where multiple vehicles across town were found with slices of cheese on their windshields.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-16",
-    "updateDate": "2026-09-16T08:08:16.354Z",
+    "updateDate": "2026-09-16T09:06:58.992Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is preparing for the day and will open today at 10:00 AM for all your cravings.",
+    "mainText": "Culver's is currently closed for a remodel, but they will be opening today at 10:00 AM. While we wait for their return, we hope you have a wonderful day around town.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
