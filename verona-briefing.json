@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-16",
-    "updateDate": "2026-09-16T17:05:21.406Z",
+    "updateDate": "2026-09-16T18:07:05.378Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: expect 68 degrees with overcast skies near Verona City Hall. We have a waxing crescent moon in the sky, and if you are looking up tonight, the International Space Station will be visible starting at 8:25 PM. It will appear in the northwest over Verona High School and track across the sky toward the northeast near Home Depot for five minutes.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: expect 70 degrees with partly cloudy skies near the Military Ridge State Trail. If you are looking up tonight, the International Space Station will be visible starting at 8:25 PM, passing from the northwest near Verona High School toward the northeast near Home Depot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-16",
-    "updateDate": "2026-09-16T17:05:21.406Z",
+    "updateDate": "2026-09-16T18:07:05.378Z",
     "titleText": "Verona City News",
-    "mainText": "For our city news update, we have received no new important emails today. We are continuing to monitor all city channels to keep you informed on what matters to your household.",
+    "mainText": "We have no new important emails to report, and city records remain quiet as we head into the afternoon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-16",
-    "updateDate": "2026-09-16T17:05:21.406Z",
+    "updateDate": "2026-09-16T18:07:05.378Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona! Today you can enjoy live music at Paddy Mac's, yoga at Insight Wellness, the Verona Downtown Farmers Market at Hometown Junction Park, pizza and a pitcher at Wisconsin Brewing Company, or trivia at The Bogey Factory. Looking ahead, we have Hop Haus trivia tomorrow, more music at Bailey's Run and Wisconsin Brewing Company on September 18th, and the Sugar River Fire and Smoke BBQ Festival starting September 19th.",
+    "mainText": "There is plenty to do in town, starting with the Verona Downtown Farmer's Market happening today. You can also catch live music at Paddy Mac's, yoga at Insight Wellness, or grab pizza and a pitcher at Lake Lou-ee, all happening today.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-16",
-    "updateDate": "2026-09-16T17:05:21.406Z",
+    "updateDate": "2026-09-16T18:07:05.378Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on September 5th, officers responded to reports of multiple vehicles having slices of cheese placed on their windshields throughout downtown streets. It was determined to be a viral social media prank, and no damage was reported.",
+    "mainText": "In our weekly police update, on September 5, officers responded to reports of multiple vehicles having cheese slices left on their windshields throughout the city, which was identified as a social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-16",
-    "updateDate": "2026-09-16T17:05:21.406Z",
+    "updateDate": "2026-09-16T18:07:05.378Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Regarding our local dining, please note that Culver of Verona is closed today for a facility remodel.",
+    "mainText": "Culver's remains open until 10 PM today, though please note that the store is currently closed for a remodel.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
