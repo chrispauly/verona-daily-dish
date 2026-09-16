@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-16",
-    "updateDate": "2026-09-16T11:05:50.749Z",
+    "updateDate": "2026-09-16T12:08:51.929Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish on the weather. We have overcast skies with a temperature of 57 degrees at Verona City Hall. Look for a waxing crescent moon in the sky tonight.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have overcast skies and a temperature of 57 degrees, which feels like 54 degrees near Badger Prairie County Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-16",
-    "updateDate": "2026-09-16T11:05:50.749Z",
+    "updateDate": "2026-09-16T12:08:51.929Z",
     "titleText": "Verona City News",
-    "mainText": "There is no new official city news or important correspondence to share with you for this morning's update.",
+    "mainText": "Our city news for today shows no new reports or important email updates, leaving us with a quiet start to the morning.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-16",
-    "updateDate": "2026-09-16T11:05:50.749Z",
+    "updateDate": "2026-09-16T12:08:51.929Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with activities including the downtown farmer's market, live music at Paddy Mac's, yoga at Insight Wellness, trivia at The Bogey Factory, and pizza at the Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do in our city today, including live music at Paddy Mac's, yoga sessions at Insight Wellness, the farmers market at Hometown Junction Park, pizza specials at Lake Lou-ee, and trivia night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-16",
-    "updateDate": "2026-09-16T11:05:50.749Z",
+    "updateDate": "2026-09-16T12:08:51.929Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from September 5, Verona police officers discovered multiple vehicles with slices of cheese on their windshields, noting it appeared to be a social media prank known as the Dairy Dare.",
+    "mainText": "In our weekly police report, officers noted that on September 5, they encountered a local take on a viral social media trend known as the Dairy Dare, where several vehicles were found with slices of cheese left on their windshields.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-16",
-    "updateDate": "2026-09-16T11:05:50.749Z",
+    "updateDate": "2026-09-16T12:08:51.929Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed, but they will be ready to serve you when they open today at 10:00 AM.",
+    "mainText": "Culver's of Verona will be opening its doors today at 10:00 AM, offering today's flavor of the day until they close at 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
