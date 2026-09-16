@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-16",
-    "updateDate": "2026-09-16T14:06:31.291Z",
+    "updateDate": "2026-09-16T15:05:41.774Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish. We have 61-degree temperatures with overcast skies near Harriet Park, and the moon is in a waxing crescent phase. If you look at the sky tonight, the International Space Station will be visible for 5 minutes starting at 8:25 PM, moving from the northwest near Verona High School toward the northeast near Home Depot.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: expect overcast skies and a comfortable 64 degrees near Badger Ridge Middle School.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-16",
-    "updateDate": "2026-09-16T14:06:31.291Z",
+    "updateDate": "2026-09-16T15:05:41.774Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, there are no new important emails to report at this time.",
+    "mainText": "Local authorities have provided a summary of police activity from August 31 to September 14, including investigations into traffic incidents and other community reports.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-16",
-    "updateDate": "2026-09-16T14:06:31.291Z",
+    "updateDate": "2026-09-16T15:05:41.774Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona. Today, you can visit the downtown Farmer's Market, enjoy trivia at The Bogey Factory, or catch pizza and a pitcher at Lake Lou-ee. Looking ahead, tomorrow features trivia at Hop Haus Brewing Company, and on September 18, there is live music at Bailey's Run Vineyard and Lake Lou-ee.",
+    "mainText": "There is plenty to do today including the Downtown Farmer's Market, yoga sessions at Insight Wellness, and pizza and pitchers at the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-16",
-    "updateDate": "2026-09-16T14:06:31.291Z",
+    "updateDate": "2026-09-16T15:05:41.774Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call for service, officers on September 5 discovered several vehicles with slices of cheese on their windshields as part of a viral social media prank.",
+    "mainText": "One notable report from the police department occurred on September 5, when officers investigated several reports of a viral prank where vehicles were found with cheese slices on their windshields.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-16",
-    "updateDate": "2026-09-16T14:06:31.291Z",
+    "updateDate": "2026-09-16T15:05:41.774Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's in Verona opens today at 10:00 AM, so head over to enjoy today's flavor of the day.",
+    "mainText": "Today's flavor is unavailable as the Culver's location is currently closed for a remodel. We look forward to their reopening.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
