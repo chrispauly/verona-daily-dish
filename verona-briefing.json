@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-16",
-    "updateDate": "2026-09-16T03:07:17.984Z",
+    "updateDate": "2026-09-16T04:06:58.504Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: we have 65 degree temperatures with overcast skies at Verona City Hall, a waxing crescent moon, an overnight low of 58 degrees, and no rain predicted.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: current temperatures are 63 degrees with overcast skies near Badger Ridge Middle School. Looking ahead, the overnight low will reach 57 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-16",
-    "updateDate": "2026-09-16T03:07:17.984Z",
+    "updateDate": "2026-09-16T04:06:58.504Z",
     "titleText": "Verona City News",
-    "mainText": "City officials released a report covering calls for service from August 31 to September 14, highlighting various incidents including arrests for O W I and domestic battery, alongside a serious burglary case.",
+    "mainText": "There are currently no new city news items or incoming emails to share with the community at this time.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-16",
-    "updateDate": "2026-09-16T03:07:17.984Z",
+    "updateDate": "2026-09-16T04:06:58.504Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Tonight, you can enjoy trivia at Hop Haus or Wisconsin Brewing Company. Tomorrow, the lineup includes yoga at Insight Wellness, the Downtown Farmer's Market, more trivia, and pizza night at Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do tomorrow, including the Verona Downtown Farmer's Market at Hometown Junction Park, Yoga at Insight Wellness, and Trivia Night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-16",
-    "updateDate": "2026-09-16T03:07:17.984Z",
+    "updateDate": "2026-09-16T04:06:58.504Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 10, officers responded to a burglary on Hunters Cove Way where a shot was fired, resulting in the successful detention of the suspect and the recovery of a handgun.",
+    "mainText": "Regarding the weekly police report, on September 5, officers investigated a series of reports involving cheese slices placed on car windshields around Main and Jefferson Streets, which was identified as a viral social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-16",
-    "updateDate": "2026-09-16T03:07:17.984Z",
+    "updateDate": "2026-09-16T04:06:58.504Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's of Verona is currently closed for a remodel, so enjoy your evening knowing you can visit when they open tomorrow at 10 AM to check out the next flavor of the day.",
+    "mainText": "The Culver's of Verona location is currently closed for the night for a remodel, but they will reopen tomorrow at 10:00 AM featuring their next flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
