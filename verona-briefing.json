@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-16",
-    "updateDate": "2026-09-16T21:05:19.049Z",
+    "updateDate": "2026-09-16T22:05:10.911Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. We have overcast skies and 73 degrees at Fireman's Park. Look for the moon in its waxing crescent phase tonight, and keep an eye on the northwest sky near Verona High School at 8:25 PM to spot the space station gliding toward the northeast near Home Depot for five minutes.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: we have overcast skies and 72 degrees near the Military Ridge State Trail, with an overnight low of 62 degrees and rain likely, plus a waxing crescent moon and an ISS sighting tonight at 8:25 PM as it travels from the northwest near Verona High School toward the northeast near Home Depot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-16",
-    "updateDate": "2026-09-16T21:05:19.049Z",
+    "updateDate": "2026-09-16T22:05:10.911Z",
     "titleText": "Verona City News",
-    "mainText": "The city is encouraging all residents to subscribe to the digital newsletter on the city website to stay informed about upcoming projects and local programs.",
+    "mainText": "The City of Verona encourages all residents to subscribe to the digital newsletter, which is the primary resource for staying informed on all city projects, programs, and important announcements.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-16",
-    "updateDate": "2026-09-16T21:05:19.049Z",
+    "updateDate": "2026-09-16T22:05:10.911Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona today, including Live Music at Paddy Mac's, Yoga at Insight Wellness, the Downtown Farmer's Market, Pizza and a Pitcher at Lake Lou-ee, and Trivia Night at The Bogey Factory. Looking ahead, you can enjoy trivia at Hop Haus tomorrow.",
+    "mainText": "There is plenty to do today, including live music at Paddy Mac's, yoga sessions at Insight Wellness, the Verona Downtown Farmer's Market at Hometown Junction Park, and pizza and a pitcher at Wisconsin Brewing Company, with trivia returning tomorrow at Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-16",
-    "updateDate": "2026-09-16T21:05:19.049Z",
+    "updateDate": "2026-09-16T22:05:10.911Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5, officers responded to a peculiar incident where several vehicles were found with cheese placed on their windshields, identified as a viral social media prank known as the Dairy Dare.",
+    "mainText": "In a report covering late August through mid-September, officers responded on September 5 to a series of incidents involving cheese placed on windshields as part of a viral social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-16",
-    "updateDate": "2026-09-16T21:05:19.049Z",
+    "updateDate": "2026-09-16T22:05:10.911Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is open today until 10:00 PM; however, please note that the store is currently closed for a remodel, so there is no flavor of the day to report at this time.",
+    "mainText": "Culver's of Verona is currently closed for a facility remodel, so we will have to wait for those delicious treats to return once they reopen.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
