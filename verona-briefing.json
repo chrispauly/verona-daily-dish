@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-16",
-    "updateDate": "2026-09-16T18:07:05.378Z",
+    "updateDate": "2026-09-16T19:11:01.337Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: expect 70 degrees with partly cloudy skies near the Military Ridge State Trail. If you are looking up tonight, the International Space Station will be visible starting at 8:25 PM, passing from the northwest near Verona High School toward the northeast near Home Depot.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. Over at Harriet Park, it is currently 73 degrees with overcast skies.  The ISS will be visible tonight starting at 8:25 PM for 5 minutes. Look for it rising in the Northwest (over Middleton near Verona High School) and traveling toward the Northeast (heading toward Madison near Home Depot), reaching low near the horizon.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-09-16",
-    "updateDate": "2026-09-16T18:07:05.378Z",
+    "updateDate": "2026-09-16T19:11:01.337Z",
     "titleText": "Verona City News",
-    "mainText": "We have no new important emails to report, and city records remain quiet as we head into the afternoon.",
+    "mainText": "In city affairs, the latest update is: Weekly Recap  Noteworthy Calls for Service 831  914.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-09-16",
-    "updateDate": "2026-09-16T18:07:05.378Z",
+    "updateDate": "2026-09-16T19:11:01.337Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with the Verona Downtown Farmer's Market happening today. You can also catch live music at Paddy Mac's, yoga at Insight Wellness, or grab pizza and a pitcher at Lake Lou-ee, all happening today.",
+    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's Today at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-09-16",
-    "updateDate": "2026-09-16T18:07:05.378Z",
+    "updateDate": "2026-09-16T19:11:01.337Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police update, on September 5, officers responded to reports of multiple vehicles having cheese slices left on their windshields throughout the city, which was identified as a social media prank.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-16",
-    "updateDate": "2026-09-16T18:07:05.378Z",
+    "updateDate": "2026-09-16T19:11:01.337Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's remains open until 10 PM today, though please note that the store is currently closed for a remodel.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: z *Closed Today for Remodel!. The restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
