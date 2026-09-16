@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-16",
-    "updateDate": "2026-09-16T00:14:49.985Z",
+    "updateDate": "2026-09-16T01:21:28.659Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 69 degrees with overcast skies at Verona City Hall. Tonight features a waxing crescent moon, and the space station will be visible from 7:36 PM for five minutes, rising in the west over Mount Horeb and heading northeast toward Madison. The overnight low will be 57 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. It is currently 68 degrees with overcast skies near the Verona Public Library. If you are heading out, look to the northwest near Middleton and Verona High School at 9:13 PM to spot the space station for three minutes as it heads toward the northeast. Tonight, we will see an overnight low of 59 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-16",
-    "updateDate": "2026-09-16T00:14:49.985Z",
+    "updateDate": "2026-09-16T01:21:28.659Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the police department recently released their recap of service calls from August 31 to September 14, which included a burglary on Hunters Cove Way and an O W I crash on Shooting Star Road.",
+    "mainText": "City Hall reports that there were no major headlines or emails for residents to be aware of during this two-week period.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-16",
-    "updateDate": "2026-09-16T00:14:49.985Z",
+    "updateDate": "2026-09-16T01:21:28.659Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona, with Hop Haus Trivia and Lake Lou-ee Trivia held today, and tomorrow offering the farmer's market, yoga at Insight Wellness, and live music at Paddy Mac's.",
+    "mainText": "There is plenty to do in town. Today, you can join trivia at Hop Haus or Wisconsin Brewing Company. Tomorrow, plan to visit the Downtown Farmer's Market at Hometown Junction Park or enjoy live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-16",
-    "updateDate": "2026-09-16T00:14:49.985Z",
+    "updateDate": "2026-09-16T01:21:28.659Z",
     "titleText": "Verona Police Report",
-    "mainText": "One notable incident occurred on September 5, when officers investigated multiple vehicles that had slices of cheese placed on their windshields as part of a viral social media prank.",
+    "mainText": "The police department released a summary of calls for service covering the period from August 31st through September 14th, though no specific incidents were detailed in the report.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-16",
-    "updateDate": "2026-09-16T00:14:49.985Z",
+    "updateDate": "2026-09-16T01:21:28.659Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Please note that Culver's is currently closed for a remodel, so there is no flavor of the day available at this time.",
+    "mainText": "The Culver's of Verona location is currently closed for a remodel. We look forward to their return, and the store is scheduled to open tomorrow at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
