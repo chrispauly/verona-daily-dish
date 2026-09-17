@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-09-16",
-    "updateDate": "2026-09-16T23:05:07.099Z",
+    "uid": "verona-balanced-weather-2026-09-17",
+    "updateDate": "2026-09-17T00:14:25.000Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. We are seeing 70 degrees with overcast skies near Verona Area High School. Tonight, the International Space Station will be visible for 5 minutes starting at 8:25 PM, rising in the Northwest over Middleton and traveling toward the Northeast over Madison. Expect an overnight low of 62 degrees with rain moving in overnight.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 66 degrees and overcast at City Hall. Tonight, we have a waxing crescent moon, and at 8:25 PM, keep your eyes on the northwest near the high school to see the space station traveling toward Madison. The overnight low will be 61 degrees with rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-09-16",
-    "updateDate": "2026-09-16T23:05:07.099Z",
+    "uid": "verona-balanced-news-2026-09-17",
+    "updateDate": "2026-09-17T00:14:25.000Z",
     "titleText": "Verona City News",
-    "mainText": "The city is encouraging residents to sign up for the digital newsletter. It is the best way to get updates on all municipal programs and city projects directly from the communications office.",
+    "mainText": "The city is encouraging residents to sign up for the digital newsletter to stay connected with local government projects, program updates, and important city news.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-09-16",
-    "updateDate": "2026-09-16T23:05:07.099Z",
+    "uid": "verona-balanced-events-2026-09-17",
+    "updateDate": "2026-09-17T00:14:25.000Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona today, including the Downtown Farmer's Market, Yoga at Insight Wellness, trivia at The Bogey Factory, and pizza at Wisconsin Brewing Company. Looking ahead, you can enjoy trivia at Hop Haus tomorrow or live music at Bailey's Run and Wisconsin Brewing Company on September 18.",
+    "mainText": "Today is a busy day in Verona with the downtown farmers market at Hometown Junction Park, trivia at The Bogey Factory, live music at Paddy Mac's, and pizza night at Lake Lou-ee. Looking ahead, you can catch more trivia tomorrow at Hop Haus and live music later this week at Bailey's Run.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-09-16",
-    "updateDate": "2026-09-16T23:05:07.099Z",
+    "uid": "verona-balanced-police-2026-09-17",
+    "updateDate": "2026-09-17T00:14:25.000Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5, officers were alerted to a strange series of events where cheese was found placed on windshields across various streets in town, which was identified as a social media prank.",
+    "mainText": "In a report covering calls from August 31 through September 14, police noted that on September 5, they responded to reports of vehicles being pranked with cheese on their windshields, confirming it was part of a viral social media trend with no actual damage caused.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-09-16",
-    "updateDate": "2026-09-16T23:05:07.099Z",
+    "uid": "verona-balanced-culvers-2026-09-17",
+    "updateDate": "2026-09-17T00:14:25.000Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Verona Culver's is currently closed today due to a scheduled remodel, so there is no flavor of the day available right now.",
+    "mainText": "Culver's is currently open until 10 PM, but please be aware that they are not serving a flavor of the day today as the restaurant is currently closed for a scheduled remodel.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
