@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-17",
-    "updateDate": "2026-09-17T09:06:53.884Z",
+    "updateDate": "2026-09-17T10:06:07.892Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: we are seeing overcast skies and 61 degrees over at Harriet Park, with a waxing crescent moon visible.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we have a temperature of 61 degrees with overcast conditions at Reddan Soccer Park and the moon is in its first quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-17",
-    "updateDate": "2026-09-17T09:06:53.884Z",
+    "updateDate": "2026-09-17T10:06:07.892Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona encourages residents to stay engaged by subscribing to the official digital newsletter, which provides regular updates on local projects and programs.",
+    "mainText": "The City of Verona encourages residents to stay informed by subscribing to our digital newsletter, which covers the latest city projects and community programs.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-17",
-    "updateDate": "2026-09-17T09:06:53.884Z",
+    "updateDate": "2026-09-17T10:06:07.892Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can enjoy Yoga at Insight Wellness or Hop Haus trivia, while tomorrow features live music at both Bailey's Run Vineyard and the Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do this week in Verona, including yoga at Insight Wellness today and Hop Haus Trivia happening this evening. Looking ahead, you can catch live music at Bailey's Run Vineyard and the Wisconsin Brewing Company starting tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-17",
-    "updateDate": "2026-09-17T09:06:53.884Z",
+    "updateDate": "2026-09-17T10:06:07.892Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from September 5, officers investigated a local viral trend where pranksters were placing slices of cheese on car windshields.",
+    "mainText": "In a report from September 5th, local officers responded to a series of calls regarding vehicles found with slices of cheese on their windshields as part of a social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-17",
-    "updateDate": "2026-09-17T09:06:53.884Z",
+    "updateDate": "2026-09-17T10:06:07.892Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "While the store is currently closed, Culver's of Verona will open today at 10:00 AM to serve you.",
+    "mainText": "Culver's of Verona is currently undergoing a remodel and will be opening its doors today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
