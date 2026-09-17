@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-17",
-    "updateDate": "2026-09-17T04:12:12.312Z",
+    "updateDate": "2026-09-17T05:06:34.424Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. Over at Reddan Soccer Park, it is currently 62 degrees with overcast skies. The overnight low will be around 59 degrees, with rain likely. Tonight we have a Waxing Crescent. ",
+    "mainText": "Hello, Verona! At 12 AM, we are seeing overcast skies with a temperature of 62 degrees at Reddan Soccer Park, and the moon is currently in a waxing crescent phase.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-17",
-    "updateDate": "2026-09-17T04:12:12.312Z",
+    "updateDate": "2026-09-17T05:06:34.424Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: City Newsletter.",
+    "mainText": "The City of Verona encourages residents to stay connected by subscribing to our digital newsletter. It is the best resource for staying up to date on city projects, programs, and important local news updates.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-17",
-    "updateDate": "2026-09-17T04:12:12.312Z",
+    "updateDate": "2026-09-17T05:06:34.424Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness tomorrow at Insight Wellness Verona.",
+    "mainText": "We have a busy week ahead. Yoga at Insight Wellness and Hop Haus Trivia are both happening today. Looking ahead, you can enjoy live music at Bailey's Run Vineyard and the Wisconsin Brewing Company tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-17",
-    "updateDate": "2026-09-17T04:12:12.312Z",
+    "updateDate": "2026-09-17T05:06:34.424Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "In a report covering September 5th, an officer responded to multiple calls regarding slices of cheese being left on vehicle windshields as part of a viral social media trend known as the Dairy Dare.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-17",
-    "updateDate": "2026-09-17T04:12:12.312Z",
+    "updateDate": "2026-09-17T05:06:34.424Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Culver's flavor was z *Closed Today for Remodel!. The restaurant is closed for the night and will open tomorrow at 10:00 AM featuring z *Closed Today for Remodel!.",
+    "mainText": "Today's flavor of the day is z and our local Culver's team will be ready to serve you when they open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
