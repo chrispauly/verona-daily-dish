@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-17",
-    "updateDate": "2026-09-17T01:18:30.043Z",
+    "updateDate": "2026-09-17T02:08:59.075Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have overcast skies at 64 degrees near Badger Ridge Middle School. Tonight, we will see an overnight low of 58 degrees with rain in the forecast. If you look to the sky at 8:25 PM, you might catch the ISS passing by for five minutes, rising in the northwest over Verona High School and heading toward the northeast near Home Depot, while the waxing crescent moon is overhead.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: current conditions are clear and 63 degrees near Badger Ridge Middle School. The International Space Station will be visible tonight starting at 10:03 PM, rising in the northwest over Verona High School and heading toward the east-northeast over Fitchburg. Tonight will drop to an overnight low of 58 degrees, with rain expected overnight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-17",
-    "updateDate": "2026-09-17T01:18:30.043Z",
+    "updateDate": "2026-09-17T02:08:59.075Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is inviting residents to stay connected through their digital newsletter. By subscribing on the city website, you can receive regular updates on city projects, department programs, and important announcements to stay engaged with local government news.",
+    "mainText": "The City of Verona encourages residents to stay informed through their digital newsletter. The publication provides updates on city projects, programs, and general news to keep the community connected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-17",
-    "updateDate": "2026-09-17T01:18:30.043Z",
+    "updateDate": "2026-09-17T02:08:59.075Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty happening around town today. Enjoy live music at Paddy Mac's or the Wisconsin Brewing Company, find your zen with yoga at Insight Wellness, support local vendors at the downtown farmer's market in Hometown Junction Park, or join the competitive trivia fun at The Bogey Factory. Tomorrow, the action continues with more trivia over at Hop Haus Brewing Company.",
+    "mainText": "We have a busy day in Verona today with live music at Paddy Mac's, yoga sessions at Insight Wellness, the Downtown Farmer's Market, and Wednesday Pizza and a Pitcher at Lake Lou-ee, plus Trivia Night at The Bogey Factory. Looking ahead, you can catch Hop Haus Trivia tomorrow, live music at Bailey's Run and Lake Lou-ee on September 18, and the Sugar River Fire and Smoke BBQ Festival starting September 19.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-17",
-    "updateDate": "2026-09-17T01:18:30.043Z",
+    "updateDate": "2026-09-17T02:08:59.075Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking back at our weekly report, on September 5, an officer investigated a series of reports where multiple vehicles were found with cheese slices on their windshields throughout several city streets. It appears to be related to a viral social media prank, and luckily, no property damage was reported.",
+    "mainText": "In our weekly police report, on September 5, officers responded to a peculiar situation where multiple vehicles had slices of cheese placed on their windshields, a prank known as the Dairy Dare.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-17",
-    "updateDate": "2026-09-17T01:18:30.043Z",
+    "updateDate": "2026-09-17T02:08:59.075Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "While we know it is a local favorite, please be aware that the Verona Culver's is currently closed for a facility remodel. We look forward to their reopening.",
+    "mainText": "Culver's of Verona is currently open, but please note that they will be closing their doors soon in 51 minutes, so please plan your visit accordingly to enjoy today's flavor.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
