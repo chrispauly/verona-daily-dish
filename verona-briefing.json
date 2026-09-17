@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-17",
-    "updateDate": "2026-09-17T02:08:59.075Z",
+    "updateDate": "2026-09-17T03:07:09.157Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: current conditions are clear and 63 degrees near Badger Ridge Middle School. The International Space Station will be visible tonight starting at 10:03 PM, rising in the northwest over Verona High School and heading toward the east-northeast over Fitchburg. Tonight will drop to an overnight low of 58 degrees, with rain expected overnight.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. We have overcast skies over Harriet Park and a waxing crescent moon. Expect an overnight low of 60 degrees with rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-17",
-    "updateDate": "2026-09-17T02:08:59.075Z",
+    "updateDate": "2026-09-17T03:07:09.157Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona encourages residents to stay informed through their digital newsletter. The publication provides updates on city projects, programs, and general news to keep the community connected.",
+    "mainText": "The City of Verona is inviting residents to stay informed by subscribing to their digital newsletter. This resource provides easy access to the latest city projects, programs, and important announcements to keep the community engaged.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-17",
-    "updateDate": "2026-09-17T02:08:59.075Z",
+    "updateDate": "2026-09-17T03:07:09.157Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy day in Verona today with live music at Paddy Mac's, yoga sessions at Insight Wellness, the Downtown Farmer's Market, and Wednesday Pizza and a Pitcher at Lake Lou-ee, plus Trivia Night at The Bogey Factory. Looking ahead, you can catch Hop Haus Trivia tomorrow, live music at Bailey's Run and Lake Lou-ee on September 18, and the Sugar River Fire and Smoke BBQ Festival starting September 19.",
+    "mainText": "There is plenty to do today including live music at Paddy Macs, yoga at Insight Wellness, the Verona Downtown Farmers Market at Hometown Junction Park, pizza and a pitcher at Lake Lou-ee, and trivia night at The Bogey Factory. Additionally, Hop Haus hosts trivia tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-17",
-    "updateDate": "2026-09-17T02:08:59.075Z",
+    "updateDate": "2026-09-17T03:07:09.157Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on September 5, officers responded to a peculiar situation where multiple vehicles had slices of cheese placed on their windshields, a prank known as the Dairy Dare.",
+    "mainText": "In police news, officers responded to a peculiar incident on September 5th involving multiple vehicles found with cheese slices on their windshields, which they identified as a social media prank known as the Dairy Dare.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-17",
-    "updateDate": "2026-09-17T02:08:59.075Z",
+    "updateDate": "2026-09-17T03:07:09.157Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently open, but please note that they will be closing their doors soon in 51 minutes, so please plan your visit accordingly to enjoy today's flavor.",
+    "mainText": "Culver's of Verona is currently closed for the night due to their ongoing remodel. We look forward to them reopening tomorrow at 10 AM with a new flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
