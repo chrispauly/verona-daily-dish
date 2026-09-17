@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-17",
-    "updateDate": "2026-09-17T21:05:27.484Z",
+    "updateDate": "2026-09-17T22:06:40.238Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. We have 67 degree temperatures with overcast skies at Firemans Park. The moon is currently in its first quarter phase. Also, look up at 7:37 PM tonight to see the International Space Station, which will be visible for five minutes as it passes from the Cross Plains area in the northwest toward the Madison area in the northeast, staying low near the horizon.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. It is a cool 68 degrees with overcast skies by the Verona Public Library. Tonight, we have a first quarter moon and the ISS will be visible starting at 7:37 PM, appearing in the West Northwest over Cross Plains and moving toward the Northeast by the Home Depot. The overnight low will hit 56 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-17",
-    "updateDate": "2026-09-17T21:05:27.484Z",
+    "updateDate": "2026-09-17T22:06:40.238Z",
     "titleText": "Verona City News",
-    "mainText": "City news this afternoon highlights that the Verona Police Department is currently hiring for patrol officer positions. They are seeking service-minded individuals for their community-oriented team. Additionally, the city has recently adopted the Envision Verona Comprehensive Plan to guide long-term growth and development.",
+    "mainText": "City Hall is currently focused on development projects and the new comprehensive plan, while the Police Department is actively recruiting new patrol officers to join their team.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-17",
-    "updateDate": "2026-09-17T21:05:27.484Z",
+    "updateDate": "2026-09-17T22:06:40.238Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this week. Today, you can participate in Yoga at Insight Wellness or head to Hop Haus Brewing for trivia. Tomorrow, enjoy live music at Baileys Run Vineyard or the Wisconsin Brewing Company, and look forward to the Sugar River Fire and Smoke BBQ Festival starting this Friday.",
+    "mainText": "We have plenty happening locally, including Yoga at Insight Wellness today, Hop Haus Trivia this Thursday, and the Sugar River Fire and Smoke BBQ Festival this Friday and Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-17",
-    "updateDate": "2026-09-17T21:05:27.484Z",
+    "updateDate": "2026-09-17T22:06:40.238Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at recent police activity, on September 5, an officer discovered multiple vehicles in the area of Main and Jefferson streets with slices of cheese on their windshields, an incident that appears to be part of a viral social media trend.",
+    "mainText": "A noteworthy call occurred on September 5 when officers investigated multiple reports of cheese slices left on windshields throughout town, which they identified as a social media trend known as the Dairy Dare.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-17",
-    "updateDate": "2026-09-17T21:05:27.484Z",
+    "updateDate": "2026-09-17T22:06:40.238Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culvers of Verona is currently open until 10 PM today, though please note that the store is currently closed for a remodel, so there is no flavor of the day available.",
+    "mainText": "The Culver's of Verona is closed today for a scheduled remodel, so there is no flavor of the day to report at this time.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
