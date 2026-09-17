@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-17",
-    "updateDate": "2026-09-17T17:05:02.579Z",
+    "updateDate": "2026-09-17T18:08:58.668Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish. We are seeing 67 degrees under partly cloudy skies near the Military Ridge State Trail. Tonight, keep your eyes on the skies as the International Space Station makes an appearance! At 7:37 PM, look to the West Northwest over Cross Plains and track it moving across the sky toward the Northeast near Madison.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. We are experiencing overcast skies and 66 degrees over Badger Prairie County Park. If you are looking at the sky tonight at 7:37 PM, you can catch a five-minute pass of the International Space Station traveling from the west northwest over Cross Plains toward the northeast near Madison, remaining low near the horizon.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-09-17",
-    "updateDate": "2026-09-17T17:05:02.579Z",
+    "updateDate": "2026-09-17T18:08:58.668Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has officially adopted its 2026 Comprehensive Plan, titled Envision Verona. This document serves as a long-term guide for future city growth, covering essential topics like housing, transportation, and natural resources, based on extensive community feedback.",
+    "mainText": "In city news, the Verona Police Department is seeking experienced lateral transfer police officers to join their supportive, community-focused department. Additionally, the Plan Commission will be evaluating multiple development projects at their meeting on Monday, October 5th, including certified survey maps on South Main Street and in the Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-09-17",
-    "updateDate": "2026-09-17T17:05:02.579Z",
+    "updateDate": "2026-09-17T18:08:58.668Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town. Today features Yoga at Insight Wellness and Hop Haus Trivia. Tomorrow, enjoy live music at Bailey's Run and Lake Lou-ee. Looking further ahead, the Sugar River Fire and Smoke BBQ Festival and the Dane County Farmers Market both kick off this Friday.",
+    "mainText": "We have several events coming up in our area. Today, you can head out for drop-in yoga at Insight Wellness or join Hop Haus Trivia in Verona. Tomorrow features live music at Bailey's Run Vineyard and Lake Lou-ee, and looking ahead to September 20th, the Bike the Barns fundraiser will take place at Badger Prairie County Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-09-17",
-    "updateDate": "2026-09-17T17:05:02.579Z",
+    "updateDate": "2026-09-17T18:08:58.668Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from September 5th, Verona police responded to a strange situation where multiple vehicles on several streets were found with cheese slices on their windshields, identified as a viral social media prank called the Dairy Dare.",
+    "mainText": "In the police report, officers responded to an in-progress burglary on Thursday, September 10th, on Hunters Cove Way. A nineteen-year-old male was detained and a handgun was recovered after a shot was fired during the incident.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-17",
-    "updateDate": "2026-09-17T17:05:02.579Z",
+    "updateDate": "2026-09-17T18:08:58.668Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently open until 10:00 PM today. Please note that the store is currently undergoing a remodel, so the flavor of the day is not available at this time.",
+    "mainText": "Over at Culver's, the restaurant is open until 10:00 PM today. Although their specific flavor of the day is listed as closed for remodel, you can still stop by before closing time to enjoy their standard menu.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
