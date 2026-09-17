@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-17",
-    "updateDate": "2026-09-17T03:07:09.157Z",
+    "updateDate": "2026-09-17T04:12:12.312Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. We have overcast skies over Harriet Park and a waxing crescent moon. Expect an overnight low of 60 degrees with rain in the forecast.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. Over at Reddan Soccer Park, it is currently 62 degrees with overcast skies. The overnight low will be around 59 degrees, with rain likely. Tonight we have a Waxing Crescent. ",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-09-17",
-    "updateDate": "2026-09-17T03:07:09.157Z",
+    "updateDate": "2026-09-17T04:12:12.312Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is inviting residents to stay informed by subscribing to their digital newsletter. This resource provides easy access to the latest city projects, programs, and important announcements to keep the community engaged.",
+    "mainText": "In city affairs, the latest update is: City Newsletter.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-09-17",
-    "updateDate": "2026-09-17T03:07:09.157Z",
+    "updateDate": "2026-09-17T04:12:12.312Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today including live music at Paddy Macs, yoga at Insight Wellness, the Verona Downtown Farmers Market at Hometown Junction Park, pizza and a pitcher at Lake Lou-ee, and trivia night at The Bogey Factory. Additionally, Hop Haus hosts trivia tomorrow.",
+    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness tomorrow at Insight Wellness Verona.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-09-17",
-    "updateDate": "2026-09-17T03:07:09.157Z",
+    "updateDate": "2026-09-17T04:12:12.312Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, officers responded to a peculiar incident on September 5th involving multiple vehicles found with cheese slices on their windshields, which they identified as a social media prank known as the Dairy Dare.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-17",
-    "updateDate": "2026-09-17T03:07:09.157Z",
+    "updateDate": "2026-09-17T04:12:12.312Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for the night due to their ongoing remodel. We look forward to them reopening tomorrow at 10 AM with a new flavor of the day.",
+    "mainText": "Today's Culver's flavor was z *Closed Today for Remodel!. The restaurant is closed for the night and will open tomorrow at 10:00 AM featuring z *Closed Today for Remodel!.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
