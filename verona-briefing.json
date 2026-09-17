@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-17",
-    "updateDate": "2026-09-17T22:06:40.238Z",
+    "updateDate": "2026-09-17T23:04:50.333Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. It is a cool 68 degrees with overcast skies by the Verona Public Library. Tonight, we have a first quarter moon and the ISS will be visible starting at 7:37 PM, appearing in the West Northwest over Cross Plains and moving toward the Northeast by the Home Depot. The overnight low will hit 56 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. It is 66 degrees with overcast skies at Harriet Park. The first quarter moon will be joined by a visible pass of the ISS starting at 7:37 PM, rising in the West Northwest over Cross Plains and heading toward Madison near Home Depot. The overnight low will be 57 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-17",
-    "updateDate": "2026-09-17T22:06:40.238Z",
+    "updateDate": "2026-09-17T23:04:50.333Z",
     "titleText": "Verona City News",
-    "mainText": "City Hall is currently focused on development projects and the new comprehensive plan, while the Police Department is actively recruiting new patrol officers to join their team.",
+    "mainText": "The Verona Police Department is currently seeking new patrol officers for a variety of roles including the K9 and drone teams. Additionally, the City of Verona has officially adopted the Envision Verona Comprehensive Plan to guide long-term growth.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-17",
-    "updateDate": "2026-09-17T22:06:40.238Z",
+    "updateDate": "2026-09-17T23:04:50.333Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty happening locally, including Yoga at Insight Wellness today, Hop Haus Trivia this Thursday, and the Sugar River Fire and Smoke BBQ Festival this Friday and Saturday.",
+    "mainText": "There is plenty to do, with Yoga at Insight Wellness happening today and Hop Haus Trivia taking place tonight. Tomorrow features live music at Bailey's Run and Wisconsin Brewing Company, followed by the Sugar River Fire and Smoke BBQ Festival starting this Friday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-17",
-    "updateDate": "2026-09-17T22:06:40.238Z",
+    "updateDate": "2026-09-17T23:04:50.333Z",
     "titleText": "Verona Police Report",
-    "mainText": "A noteworthy call occurred on September 5 when officers investigated multiple reports of cheese slices left on windshields throughout town, which they identified as a social media trend known as the Dairy Dare.",
+    "mainText": "On September 10, police responded to a report of a burglary at 600 Hunters Cove Way, where a suspect was taken into custody following a discharge of a firearm.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-17",
-    "updateDate": "2026-09-17T22:06:40.238Z",
+    "updateDate": "2026-09-17T23:04:50.333Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's of Verona is closed today for a scheduled remodel, so there is no flavor of the day to report at this time.",
+    "mainText": "Culver's of Verona is closed for a remodel today, so be sure to check back for updates on when they will be serving your favorite treats again.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
