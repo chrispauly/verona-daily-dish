@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-18",
-    "updateDate": "2026-09-18T15:05:52.470Z",
+    "updateDate": "2026-09-18T16:05:57.806Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. We have overcast skies and 63 degrees at Verona Community Park, and the first quarter moon will be visible tonight along with an ISS pass starting at 8:27 PM; look for it rising in the northwest near Verona High School before it travels toward the northeast.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: it is 65 degrees with overcast skies near City Hall. If you are looking up tonight, the International Space Station will be visible for 4 minutes starting at 8:27 PM, moving from the northwest over Middleton toward the northeast near Madison.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-18",
-    "updateDate": "2026-09-18T15:05:52.470Z",
+    "updateDate": "2026-09-18T16:05:57.806Z",
     "titleText": "Verona City News",
-    "mainText": "The Plan Commission is reviewing various development projects on October 5th, while the city continues to implement the Envision Verona Comprehensive Plan to manage local growth and community resources.",
+    "mainText": "Public Works announced that chip sealing begins September 23 on roads like Cross Country Road and East Verona Avenue, with lane closures expected between 9 AM and 3 PM. Additionally, the Plan Commission is set to review various development projects on October 5, including sites at 201 South Main Street and in the Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-18",
-    "updateDate": "2026-09-18T15:05:52.470Z",
+    "updateDate": "2026-09-18T16:05:57.806Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Enjoy live music at Bailey's Run and Wisconsin Brewing Company today. Tomorrow, you can visit the Sugar River Fire and Smoke BBQ Festival in Paoli or head to the Capitol for the Dane County Farmers Market.",
+    "mainText": "Today, you can enjoy live music at Bailey's Run Vineyard and the Wisconsin Brewing Company. Looking ahead, tomorrow brings the Sugar River Fire and Smoke BBQ Festival in Paoli and the Dane County Farmer's Market on the Square, followed by Bike the Barns at Badger Prairie County Park this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-18",
-    "updateDate": "2026-09-18T15:05:52.470Z",
+    "updateDate": "2026-09-18T16:05:57.806Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5th, Verona police officers investigated a strange incident involving slices of cheese left on car windshields throughout several city streets.",
+    "mainText": "In a recent report, police detailed an incident from September 5 where officers discovered vehicles with cheese slices on their windshields throughout several streets, noting that this was related to a social media prank known as the dairy dare.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-18",
-    "updateDate": "2026-09-18T15:05:52.470Z",
+    "updateDate": "2026-09-18T16:05:57.806Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is open until 10:30 PM today, though please note they are currently closed for a facility remodel, so no flavor of the day is being served.",
+    "mainText": "Culver's of Verona is currently open until 10:30 PM, but please note that the store is currently closed for a remodel, so there is no flavor of the day available at this time.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
