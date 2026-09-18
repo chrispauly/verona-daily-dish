@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-18",
-    "updateDate": "2026-09-18T09:06:22.978Z",
+    "updateDate": "2026-09-18T10:06:00.225Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: we are looking at partly cloudy conditions with a temperature of 61 degrees at Badger Prairie County Park and a First Quarter moon overhead.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we are seeing overcast skies near the Military Ridge State Trail with a temperature of 61 degrees and the first quarter moon visible.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-18",
-    "updateDate": "2026-09-18T09:06:22.978Z",
+    "updateDate": "2026-09-18T10:06:00.225Z",
     "titleText": "Verona City News",
-    "mainText": "The city has released the Envision Verona Comprehensive Plan to guide future growth, and the police department is currently accepting applications for new patrol officers.",
+    "mainText": "The City of Verona is moving forward with several development projects including work at the Liberty Business Park, and officials are reminding residents that they can stay informed on city initiatives by subscribing to the digital newsletter.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-18",
-    "updateDate": "2026-09-18T09:06:22.978Z",
+    "updateDate": "2026-09-18T10:06:00.225Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule starting with live music at Bailey's Run and Lake Lou-ee today. Tomorrow, you can enjoy the Sugar River Fire and Smoke BBQ Festival or visit the Dane County Farmers' Market.",
+    "mainText": "There is plenty to do with Live Music at Bailey's Run and Lake Lou-ee occurring today, followed by the Sugar River Fire and Smoke BBQ Festival and the Dane County Farmer's Market taking place tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-18",
-    "updateDate": "2026-09-18T09:06:22.978Z",
+    "updateDate": "2026-09-18T10:06:00.225Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly recap, on September 5, an officer discovered multiple vehicles with slices of cheese on their windshields as part of a viral social media prank.",
+    "mainText": "In terms of public safety, on September 5, an officer located multiple vehicles with cheese on their windshields as part of a viral social media trend, though no damage was reported.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-18",
-    "updateDate": "2026-09-18T09:06:22.978Z",
+    "updateDate": "2026-09-18T10:06:00.225Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's of Verona is currently undergoing a remodel and is closed today, but the team will be back in action and ready to serve you when they open today at 10:00 AM.",
+    "mainText": "The Culver's of Verona location opens today at 10:00 AM, and we look forward to seeing the new store upgrades.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
