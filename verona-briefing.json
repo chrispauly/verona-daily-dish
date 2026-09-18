@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-18",
-    "updateDate": "2026-09-18T05:05:52.734Z",
+    "updateDate": "2026-09-18T06:09:57.977Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, conditions are clear at the Military Ridge State Trail, with temperatures holding at 62 degrees and a first quarter moon shining above.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: it is 61 degrees with clear skies observed at the Verona Area High School, and the moon is currently in its first quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-18",
-    "updateDate": "2026-09-18T05:05:52.734Z",
+    "updateDate": "2026-09-18T06:09:57.977Z",
     "titleText": "Verona City News",
-    "mainText": "The city is moving forward with the 2026 Comprehensive Plan, known as Envision Verona, which serves as a long-term guide for future development and community growth.",
+    "mainText": "The City of Verona has recently adopted the 2026 Comprehensive Plan titled Envision Verona, which serves as a long-term guide for future city growth and land use, following extensive public input.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-18",
-    "updateDate": "2026-09-18T05:05:52.734Z",
+    "updateDate": "2026-09-18T06:09:57.977Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our area, starting with live music today at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, check out the Sugar River Fire and Smoke BBQ Festival in Paoli or visit the Dane County Farmers Market.",
+    "mainText": "There is plenty to do this week, starting with live music at Bailey's Run today, followed by the Sugar River Fire and Smoke BBQ Festival in Paoli and the Dane County Farmers Market tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-18",
-    "updateDate": "2026-09-18T05:05:52.734Z",
+    "updateDate": "2026-09-18T06:09:57.977Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local activity, on September 5th, officers responded to reports of cheese slices placed on vehicle windshields, which appeared to be a viral social media prank.",
+    "mainText": "Regarding the weekly report, on September 5th, officers encountered a viral social media prank where multiple vehicles were found with slices of cheese on their windshields throughout the downtown area.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-18",
-    "updateDate": "2026-09-18T05:05:52.734Z",
+    "updateDate": "2026-09-18T06:09:57.977Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is closed for a remodel today, but they will be ready to serve you when they open today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is waiting for you at the local Culver's, which opens today at 10:00 AM for your dining pleasure.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
