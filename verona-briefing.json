@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-18",
-    "updateDate": "2026-09-18T12:09:33.247Z",
+    "updateDate": "2026-09-18T13:05:16.793Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish on the weather, which features overcast skies and a temperature of 61 degrees near Badger Ridge Middle School. The current moon phase is the First Quarter.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we have overcast skies at the Military Ridge State Trail and the temperature is 62 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-18",
-    "updateDate": "2026-09-18T12:09:33.247Z",
+    "updateDate": "2026-09-18T13:05:16.793Z",
     "titleText": "Verona City News",
-    "mainText": "City officials are reminding residents that the new Envision Verona Comprehensive Plan was recently adopted in September 2026 to guide future growth. Additionally, the Verona Police Department is actively seeking new patrol officers.",
+    "mainText": "The City of Verona Plan Commission is meeting on Monday, October 5th to review several development projects, and our community is also working through the Envision Verona Comprehensive Plan to guide our growth over the next decade.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-18",
-    "updateDate": "2026-09-18T12:09:33.247Z",
+    "updateDate": "2026-09-18T13:05:16.793Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Today, you can catch live music at Bailey's Run and the Wisconsin Brewing Company. Tomorrow, the Sugar River Fire and Smoke BBQ Festival kicks off in Paoli, and the Dane County Farmers' Market will be open at the Capitol.",
+    "mainText": "Today you can enjoy live music at Bailey's Run, while tomorrow features the Sugar River Fire and Smoke BBQ Festival in Paoli and the Dane County Farmers Market in downtown Madison.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-18",
-    "updateDate": "2026-09-18T12:09:33.247Z",
+    "updateDate": "2026-09-18T13:05:16.793Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly report, on September 5th, officers were dispatched to several streets to investigate reports of vehicles with cheese slices placed on their windshields, which was identified as a social media trend.",
+    "mainText": "In a strange incident on September 5th, police discovered a social media prank known as the Dairy Dare, where several vehicles around town were found with cheese slices on their windshields.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-18",
-    "updateDate": "2026-09-18T12:09:33.247Z",
+    "updateDate": "2026-09-18T13:05:16.793Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's of Verona location is currently undergoing a remodel and is closed, but doors will open today at 10:00 AM for all your favorites.",
+    "mainText": "While Culver's is currently closed, they will be open today at 10:00 AM to satisfy your craving for the flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
