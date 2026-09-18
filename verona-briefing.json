@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-18",
-    "updateDate": "2026-09-18T00:15:23.815Z",
+    "updateDate": "2026-09-18T01:18:24.845Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. We are seeing overcast skies at Badger Prairie County Park with a temperature of 65 degrees. If you look to the sky at 7:37 PM, you can catch the ISS passing from the West Northwest over Cross Plains toward the Northeast near Madison for five minutes. Expect an overnight low of 57 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: we have overcast skies at 65 degrees near the Military Ridge State Trail. The first quarter moon will provide some light for tonight's ISS pass, which begins at 9:15 PM, rising in the northwest over Verona High School and traveling toward the northeast. The overnight low is 56 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-18",
-    "updateDate": "2026-09-18T00:15:23.815Z",
+    "updateDate": "2026-09-18T01:18:24.845Z",
     "titleText": "Verona City News",
-    "mainText": "The city is continuing work on the Envision Verona Comprehensive Plan to guide future growth. Additionally, the police department is currently accepting applications for new patrol officers who are interested in community oriented policing and professional development.",
+    "mainText": "In city news, the Verona Police Department is actively seeking new patrol officers for the team. Additionally, the city is continuing its work on the Envision Verona Comprehensive Plan to guide our growth over the next decade.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-18",
-    "updateDate": "2026-09-18T00:15:23.815Z",
+    "updateDate": "2026-09-18T01:18:24.845Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, including Yoga at Insight Wellness today and Hop Haus Trivia this evening. Tomorrow brings live music to Bailey's Run and Wisconsin Brewing Company, followed by the Sugar River Fire and Smoke BBQ Festival starting this Friday.",
+    "mainText": "There is plenty to do in town, starting with yoga at Insight Wellness today. You can also catch trivia tonight at Hop Haus, followed by live music at Bailey's Run and Lake Lou-ee tomorrow, and the exciting Sugar River Fire and Smoke BBQ festival this Friday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-18",
-    "updateDate": "2026-09-18T00:15:23.815Z",
+    "updateDate": "2026-09-18T01:18:24.845Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the recent police report, on September 5th, an officer responded to a report of vehicles having cheese slices placed on their windshields in several areas around town, which officers identified as a viral social media trend known as the Dairy Dare.",
+    "mainText": "In a noteworthy call from our weekly report, on September 5th, officers were dispatched after several vehicles were found with cheese slices left on their windshields as part of a social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-18",
-    "updateDate": "2026-09-18T00:15:23.815Z",
+    "updateDate": "2026-09-18T01:18:24.845Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently open until 10 PM, however, they are closed today for a building remodel, so keep an eye out for their reopening.",
+    "mainText": "The Culver's of Verona location is currently closed for a remodel, so there is no flavor of the day available right now. We look forward to them serving up delicious treats again soon.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
