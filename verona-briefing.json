@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-18",
-    "updateDate": "2026-09-18T14:06:15.590Z",
+    "updateDate": "2026-09-18T15:05:52.470Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: expect overcast skies with a temperature of 62 degrees near Fireman Park. Tonight, look for the space station rising in the northwest near Verona High School starting at 8:27 PM and traveling toward the northeast near Home Depot for four minutes.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. We have overcast skies and 63 degrees at Verona Community Park, and the first quarter moon will be visible tonight along with an ISS pass starting at 8:27 PM; look for it rising in the northwest near Verona High School before it travels toward the northeast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-18",
-    "updateDate": "2026-09-18T14:06:15.590Z",
+    "updateDate": "2026-09-18T15:05:52.470Z",
     "titleText": "Verona City News",
-    "mainText": "The city is currently reviewing multiple development projects at the upcoming Plan Commission meeting, including site plans at 201 South Main Street and Liberty Business Park, while also finalizing the Envision Verona Comprehensive Plan to guide future growth.",
+    "mainText": "The Plan Commission is reviewing various development projects on October 5th, while the city continues to implement the Envision Verona Comprehensive Plan to manage local growth and community resources.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-18",
-    "updateDate": "2026-09-18T14:06:15.590Z",
+    "updateDate": "2026-09-18T15:05:52.470Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend! Enjoy live music at Bailey's Run and Wisconsin Brewing Company today, followed by the Sugar River BBQ Festival and the Dane County Farmers Market tomorrow.",
+    "mainText": "Enjoy live music at Bailey's Run and Wisconsin Brewing Company today. Tomorrow, you can visit the Sugar River Fire and Smoke BBQ Festival in Paoli or head to the Capitol for the Dane County Farmers Market.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-18",
-    "updateDate": "2026-09-18T14:06:15.590Z",
+    "updateDate": "2026-09-18T15:05:52.470Z",
     "titleText": "Verona Police Report",
-    "mainText": "In recent police activity, officers responded to a peculiar incident on September 5th where multiple vehicles were found with cheese slices on their windshields, identified as a viral social media prank known as the Dairy Dare.",
+    "mainText": "On September 5th, Verona police officers investigated a strange incident involving slices of cheese left on car windshields throughout several city streets.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-18",
-    "updateDate": "2026-09-18T14:06:15.590Z",
+    "updateDate": "2026-09-18T15:05:52.470Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The local Culver's is currently getting ready for the day and will open today at 10:00 AM.",
+    "mainText": "Culver's is open until 10:30 PM today, though please note they are currently closed for a facility remodel, so no flavor of the day is being served.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
