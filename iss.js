@@ -1,7 +1,10 @@
+import { isCloudyOrOvercast } from './weather.js';
+
 /**
  * Fetches International Space Station (ISS) flyover predictions for Verona, WI.
+ * Accepts optional weather result object to evaluate cloud cover at pass time.
  */
-export async function fetchISSFlyover() {
+export async function fetchISSFlyover(weather = null) {
   const lat = parseFloat(process.env.GPS_LAT || '42.9897');
   const lon = parseFloat(process.env.GPS_LON || '-89.5356');
   const url = `https://iss-api.polluxlabs.io/iss-pass?lat=${lat}&lon=${lon}`;
@@ -34,6 +37,8 @@ export async function fetchISSFlyover() {
       });
       const durationMin = Math.round(nextPass.visible_duration_sec / 60) || 1;
       const peakElevation = Math.round(nextPass.culmination.elevation_deg);
+
+      const isCloudy = isCloudyOrOvercast(weather, startTime);
 
       // Expand compass directions for natural reading (e.g. WNW -> West Northwest)
       const compassMap = {
@@ -75,7 +80,6 @@ export async function fetchISSFlyover() {
         }
       }
 
-
       const startLocal = localRefMap[startCompass] || startCompass;
       const endLocal = localRefMap[endCompass] || endCompass;
 
@@ -91,9 +95,14 @@ export async function fetchISSFlyover() {
         elevationText = 'almost directly overhead';
       }
 
+      const text = isCloudy
+        ? `The ISS will pass overhead tonight starting at ${localTimeStr} for ${durationMin} minutes, but you won't be able to see it due to the clouds.`
+        : `The ISS will be visible tonight starting at ${localTimeStr} for ${durationMin} minutes. Look for it rising in the ${startCompass} (over ${startLocal}) and traveling toward the ${endCompass} (heading toward ${endLocal}), reaching ${elevationText}.`;
+
       return {
         hasPass: true,
-        text: `The ISS will be visible tonight starting at ${localTimeStr} for ${durationMin} minutes. Look for it rising in the ${startCompass} (over ${startLocal}) and traveling toward the ${endCompass} (heading toward ${endLocal}), reaching ${elevationText}.`,
+        isCloudy,
+        text,
         details: {
           time: localTimeStr,
           durationMin,
@@ -102,19 +111,22 @@ export async function fetchISSFlyover() {
           startCompass,
           endCompass,
           startLocal,
-          endLocal
+          endLocal,
+          isCloudy
         }
       };
     }
 
     return {
       hasPass: false,
+      isCloudy: false,
       text: 'No visible ISS passes tonight.'
     };
   } catch (error) {
     console.error('Error fetching ISS passes:', error.message);
     return {
       hasPass: false,
+      isCloudy: false,
       text: 'ISS tracking details currently unavailable.'
     };
   }
