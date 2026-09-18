@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-18",
-    "updateDate": "2026-09-18T03:07:02.730Z",
+    "updateDate": "2026-09-18T04:08:35.321Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. It is 64 degrees under overcast skies near the Military Ridge State Trail. We have a first quarter moon out there tonight. The overnight low will drop to 57 degrees, with no rain expected before morning.",
+    "mainText": "Hello, Verona! At 11 PM, we are looking at 64 degrees with overcast conditions at Verona Community Park and a first quarter moon overhead, while tonight will reach a low of 57 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-18",
-    "updateDate": "2026-09-18T03:07:02.730Z",
+    "updateDate": "2026-09-18T04:08:35.321Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has recently updated its Comprehensive Plan, known as Envision Verona, which serves as a long term guide for the city's future growth and expansion.",
+    "mainText": "The City of Verona is inviting residents to subscribe to their digital newsletter to stay informed on local projects, while the police department has announced they are currently hiring new patrol officers to join their team.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-18",
-    "updateDate": "2026-09-18T03:07:02.730Z",
+    "updateDate": "2026-09-18T04:08:35.321Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community. Today, you can participate in Yoga at Insight Wellness or join the crowd for Hop Haus Trivia. Tomorrow, enjoy live music performances at both Bailey's Run Vineyard and the Wisconsin Brewing Company.",
+    "mainText": "Tomorrow, you can catch live music at Bailey's Run and Lake Lou-ee, and starting Friday, the Sugar River Fire and Smoke BBQ Festival kicks off in Paoli followed by the Dane County Farmers' Market on the Square.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-18",
-    "updateDate": "2026-09-18T03:07:02.730Z",
+    "updateDate": "2026-09-18T04:08:35.321Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at recent reports, on September 5, officers responded to a series of calls regarding the viral dairy dare trend, where cheese was found placed on windshields throughout the city.",
+    "mainText": "In a noteworthy update, on September 5, police responded to reports of local vehicles being targeted with cheese slices on their windshields as part of a social media trend.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-18",
-    "updateDate": "2026-09-18T03:07:02.730Z",
+    "updateDate": "2026-09-18T04:08:35.321Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's of Verona is currently closed for a facility remodel. They will reopen tomorrow at 10 AM to serve the community again.",
+    "mainText": "Culver's of Verona is now closed for the evening, but we look forward to serving you again tomorrow when we open at 10 AM with a fresh flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
