@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-19",
-    "updateDate": "2026-09-19T14:05:08.885Z",
+    "updateDate": "2026-09-19T15:04:47.947Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, we are looking at 61 degrees with light drizzle over Verona Community Park. If you are outside later tonight, look for the space station to streak across the sky starting at 7:40 PM, appearing over the high school area in the northwest and traveling toward the northeast.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we are seeing overcast skies at Verona Area High School with a temperature of 62 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-19",
-    "updateDate": "2026-09-19T14:05:08.885Z",
+    "updateDate": "2026-09-19T15:04:47.947Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced that road maintenance through chip sealing will begin on September 23, affecting areas like Cross Country Road and East Verona Avenue. Additionally, the Plan Commission is set to review several development proposals on October 5, including site plans for Liberty Business Park.",
+    "mainText": "In city news, chip sealing road treatments are scheduled to begin on September 23, affecting areas like Cross Country Road and the Liberty Business Park. Additionally, the City Plan Commission has several development projects on the agenda for October 5, including sites on Country View Court and at the Sub-Zero facility.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-19",
-    "updateDate": "2026-09-19T14:05:08.885Z",
+    "updateDate": "2026-09-19T15:04:47.947Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend, starting with the Sugar River Fire and Smoke BBQ Festival today and the Dane County Farmers Market on the square. You can also catch live music today at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Tomorrow, don't miss the Bike the Barns fundraiser at Badger Prairie County Park.",
+    "mainText": "There is plenty to do this weekend! Today, we have the Sugar River Fire and Smoke BBQ Festival, the Dane County Farmers Market, and live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Tomorrow, check out the Bike the Barns fundraiser at Badger Prairie County Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-19",
-    "updateDate": "2026-09-19T14:05:08.885Z",
+    "updateDate": "2026-09-19T15:04:47.947Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly look at police activity, officers responded to a call on September 5 involving a series of vehicles found with cheese slices on their windshields, which they discovered was a viral social media prank.",
+    "mainText": "Regarding recent activity, on September 10, officers responded to a burglary in the 600 block of Hunters Cove Way where a suspect was apprehended following a shot fired at the scene.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-19",
-    "updateDate": "2026-09-19T14:05:08.885Z",
+    "updateDate": "2026-09-19T15:04:47.947Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "While Culver's of Verona is currently closed for a remodel, they are scheduled to open today at 10:00 AM to serve you.",
+    "mainText": "Culver's is currently undergoing a remodel and is closed today. We look forward to their reopening so you can enjoy their signature treats again soon.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
