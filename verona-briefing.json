@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-19",
-    "updateDate": "2026-09-19T18:06:16.098Z",
+    "updateDate": "2026-09-19T19:04:26.146Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: it is 64 degrees and foggy near the Verona Public Library. If you are looking to the stars tonight, you are in luck as the International Space Station will be visible for five minutes starting at 7:40 PM, rising in the northwest over Middleton and Verona High School before heading northeast near Home Depot, remaining low near the horizon.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We are seeing overcast skies near Reddan Soccer Park with a temperature of 66 degrees, and if you look up tonight, the moon is in its first quarter phase and you can catch the space station passing from the northwest near Verona High School towards the northeast near Madison at 7:40 PM.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-19",
-    "updateDate": "2026-09-19T18:06:16.098Z",
+    "updateDate": "2026-09-19T19:04:26.146Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced that chip seal road treatment begins on Wednesday, September 23, affecting areas like Cross Country Road and the Liberty Business Park, so expect some lane closures. Additionally, the Plan Commission is meeting on October 5 to review several development projects, including site plans for Sub-Zero.",
+    "mainText": "The city has announced that chip seal road maintenance begins on September 23, affecting areas like Cross Country Road and parts of the Liberty Business Park, so expect some traffic control during those hours.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-19",
-    "updateDate": "2026-09-19T18:06:16.098Z",
+    "updateDate": "2026-09-19T19:04:26.146Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy couple of days for local fun. Today features the Sugar River Fire and Smoke BBQ Festival, the Dane County Farmers Market, and live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking ahead, you can Bike the Barns tomorrow or join in for various trivia nights starting on Monday.",
+    "mainText": "It is a busy weekend in the area with the Sugar River Fire and Smoke BBQ Festival happening today, the Dane County Farmer's Market taking place today, and Bike the Barns coming up tomorrow at Badger Prairie County Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-19",
-    "updateDate": "2026-09-19T18:06:16.098Z",
+    "updateDate": "2026-09-19T19:04:26.146Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, we look back to September 5, when officers investigated a viral social media prank involving cheese placed on multiple vehicle windshields in the downtown area. Thankfully, no damage was reported.",
+    "mainText": "Looking at the recent police report, on September 5, officers responded to a peculiar incident where several vehicles had cheese slices placed on their windshields as part of a social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-19",
-    "updateDate": "2026-09-19T18:06:16.098Z",
+    "updateDate": "2026-09-19T19:04:26.146Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently open until 10:30 PM for your convenience, though please be aware that the store is currently undergoing a remodel and the flavor of the day is not available at this time.",
+    "mainText": "While Culver's of Verona remains open for other items until 10:30 PM, please note they are currently undergoing a remodel, so there is no flavor of the day available at this time.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
