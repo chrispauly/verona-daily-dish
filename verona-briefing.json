@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-19",
-    "updateDate": "2026-09-19T12:08:00.548Z",
+    "updateDate": "2026-09-19T13:05:06.724Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we are looking at 61 degrees with some light rain near the Military Ridge State Trail. The moon is in its first quarter phase.",
+    "mainText": "Hello, Verona! At 8 AM, we are looking at 60 degrees with heavy rain conditions here at Verona City Hall. If you are looking to the sky tonight, the ISS will be visible for 5 minutes starting at 7:40 PM, moving from the Northwest near Verona High School toward the Northeast near Home Depot, appearing low on the horizon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-19",
-    "updateDate": "2026-09-19T12:08:00.548Z",
+    "updateDate": "2026-09-19T13:05:06.724Z",
     "titleText": "Verona City News",
-    "mainText": "Important updates for your commute: starting September 23, the city is conducting chip seal maintenance on Cross Country Road, East Verona Avenue, and Liberty Business Park. Also, the Plan Commission is reviewing several development projects for the town and city at their meeting on October 5.",
+    "mainText": "Starting September 23, the city is conducting chip seal road maintenance. Work will take place on segments of Cross Country Road, East Verona Avenue, and Liberty Business Park. Traffic will remain open but expect lane closures between 9 AM and 3 PM on East Verona Avenue. Also, the Plan Commission is meeting on October 5 to review various development projects across the city.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-19",
-    "updateDate": "2026-09-19T12:08:00.548Z",
+    "updateDate": "2026-09-19T13:05:06.724Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend. Today, you can check out the Sugar River Fire and Smoke BBQ Festival or the Dane County Farmer's Market, along with live music at multiple local venues. Tomorrow, join the Bike the Barns fundraiser at Badger Prairie County Park.",
+    "mainText": "There is plenty to do this weekend. Today you can enjoy the Sugar River Fire and Smoke BBQ Festival or the Dane County Farmers Market. Live music is also scheduled today at Bailey's Run, Paddy Mac's, and Wisconsin Brewing Company. Tomorrow, consider participating in the Bike the Barns fundraiser at Badger Prairie County Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-19",
-    "updateDate": "2026-09-19T12:08:00.548Z",
+    "updateDate": "2026-09-19T13:05:06.724Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from the past week, on September 10, police responded to a burglary on Hunters Cove Way where a suspect was detained after a firearm was discharged.",
+    "mainText": "On September 5, the Verona Police Department responded to reports of a viral social media trend where unknown individuals were placing slices of cheese on vehicle windshields throughout the city. No property damage was reported.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-19",
-    "updateDate": "2026-09-19T12:08:00.548Z",
+    "updateDate": "2026-09-19T13:05:06.724Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona will open its doors today at 10:00 AM for the day. Be sure to stop by and check out the flavor of the day once they are back in operation.",
+    "mainText": "Culver's of Verona is currently preparing for the day and will open today at 10:00 AM. Stop by to enjoy your favorite treats throughout the day until they close at 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
