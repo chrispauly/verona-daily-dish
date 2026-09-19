@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-19",
-    "updateDate": "2026-09-19T06:09:32.669Z",
+    "updateDate": "2026-09-19T07:12:57.985Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we have a temperature of 61 degrees with slight rain currently reported near the Verona Area High School. We are also seeing a first quarter moon phase tonight.",
+    "mainText": "Hello, Verona! At 2 AM, it is currently 62 degrees with overcast skies near Fireman's Park, and the moon is in its first quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-19",
-    "updateDate": "2026-09-19T06:09:32.669Z",
+    "updateDate": "2026-09-19T07:12:57.985Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced that chip seal road maintenance will begin on September 23, affecting Cross Country Road, parts of East Verona Avenue, and the Liberty Business Park, so please plan your travels accordingly. Additionally, the Plan Commission is meeting on October 5 to review several development projects including work at 201 South Main Street and at the Sub-Zero facility.",
+    "mainText": "We have no new city news articles or important emails to share with you for this morning.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-19",
-    "updateDate": "2026-09-19T06:09:32.669Z",
+    "updateDate": "2026-09-19T07:12:57.985Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot to do in our community, starting today with the Sugar River Fire and Smoke BBQ Festival and the Dane County Farmer's Market. Tomorrow, you can participate in the Bike the Barns fundraiser at Badger Prairie County Park.",
+    "mainText": "There is plenty to do in our area today. You can enjoy the Sugar River Fire and Smoke BBQ Festival in Paoli or visit the Dane County Farmers Market in downtown Madison. Local venues including Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company are also hosting live music all day today.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-19",
-    "updateDate": "2026-09-19T06:09:32.669Z",
+    "updateDate": "2026-09-19T07:12:57.985Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the most recent activity, on September 5, officers responded to reports of cheese being placed on vehicle windshields, which was identified as a social media prank, and luckily no damage was found.",
+    "mainText": "There were no incidents reported by the Verona Police Department this week.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-19",
-    "updateDate": "2026-09-19T06:09:32.669Z",
+    "updateDate": "2026-09-19T07:12:57.985Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's of Verona location is currently undergoing a remodel, but they will be ready to serve you when they open today at 10 AM with today's flavor of the day.",
+    "mainText": "Culver's will open today at 10:00 AM. We look forward to seeing you there to enjoy the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
