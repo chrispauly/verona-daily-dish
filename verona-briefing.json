@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-19",
-    "updateDate": "2026-09-19T03:06:56.545Z",
+    "updateDate": "2026-09-19T04:06:53.108Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today is balanced dish. We are seeing overcast skies at Badger Prairie County Park with a temperature of 61 degrees. The moon is in its First Quarter phase. Tonight, we expect an overnight low of 60 degrees, and rain is predicted as we move into tomorrow.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. We have overcast skies at Verona City Hall with a temperature of 61 degrees. The moon is in its first quarter, and we are expecting an overnight low of 60 degrees with rain predicted for the overnight hours.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-19",
-    "updateDate": "2026-09-19T03:06:56.545Z",
+    "updateDate": "2026-09-19T04:06:53.108Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced that chip seal road maintenance begins on September 23. Areas affected include Cross Country Road and parts of the Liberty Business Park, so please drive with caution. Additionally, the Plan Commission will meet on October 5 to discuss various development projects.",
+    "mainText": "Starting September 23, the city will begin chip seal road treatments. Work zones include parts of Cross Country Road and East Verona Avenue, so please expect lane closures between 9 AM and 3 PM. Additionally, the City Plan Commission will review several development projects, including sites on Country View Court and Davis Hill Drive, during their October 5 meeting.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-19",
-    "updateDate": "2026-09-19T03:06:56.545Z",
+    "updateDate": "2026-09-19T04:06:53.108Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Today, you can enjoy live music at Bailey is Run and Lake Lou-ee. Looking to tomorrow, check out the Sugar River Fire and Smoke BBQ Festival in Paoli or head into Madison for the Dane County Farmer is Market.",
+    "mainText": "There is plenty happening around town, starting with the Sugar River Fire and Smoke BBQ Festival tomorrow. You can also visit the Dane County Farmers Market at the Square tomorrow or enjoy live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-19",
-    "updateDate": "2026-09-19T03:06:56.545Z",
+    "updateDate": "2026-09-19T04:06:53.108Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police update, on September 10, officers were dispatched to a reported burglary on Hunters Cove Way. A suspect was located and detained after breaking into a building, and the department has issued a full report on the incident.",
+    "mainText": "In a report covering late August through mid-September, police noted an incident on September 5 where officers found several vehicles with cheese on their windshields, believed to be part of a viral social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-19",
-    "updateDate": "2026-09-19T03:06:56.545Z",
+    "updateDate": "2026-09-19T04:06:53.108Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver is of Verona is closed today for their scheduled remodel. They will be back to serving up your favorite treats soon, so stay tuned for updates.",
+    "mainText": "The Culver's of Verona location is currently closed for the night. We look forward to seeing you tomorrow when the store reopens at 10:00 AM with a new flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
