@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-20",
-    "updateDate": "2026-09-20T01:22:02.033Z",
+    "updateDate": "2026-09-20T01:34:24.901Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. It is a foggy 66 degrees near City Hall. We are currently under a first quarter moon, and you can spot the International Space Station tonight starting at 9:17 PM for two minutes, rising in the northwest near the high school and traveling toward the east. The overnight low will be 60 degrees with rain expected.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: we are seeing 65 degrees at the Verona Public Library under overcast skies. The ISS will pass overhead tonight, but you won't be able to see it due to the clouds. Tonight the temperature will dip to a low of 60 degrees, and rain is in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-20",
-    "updateDate": "2026-09-20T01:22:02.033Z",
+    "updateDate": "2026-09-20T01:34:24.901Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced that chip sealing road maintenance begins Wednesday, September 23, affecting areas like Cross Country Road and the Liberty Business Park. Additionally, the Plan Commission is set to review several development projects on October 5.",
+    "mainText": "In city news, chip seal road maintenance begins on September 23 across several areas, including Cross Country Road and the Liberty Business Park. Additionally, the Plan Commission is reviewing several new development projects at their meeting on October 5.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-20",
-    "updateDate": "2026-09-20T01:22:02.033Z",
+    "updateDate": "2026-09-20T01:34:24.901Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend, starting with the Sugar River Fire and Smoke BBQ Festival today and the Dane County Farmers Market at the Capitol. You can also catch live music today at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Tomorrow, head to Badger Prairie County Park for the Bike the Barns fundraiser.",
+    "mainText": "There is plenty to do this weekend! Today, enjoy the Sugar River Fire and Smoke BBQ Festival, the Dane County Farmer's Market, or live music at Bailey's Run, Paddy Mac's, and Wisconsin Brewing Company. Tomorrow, check out the Bike the Barns fundraiser at Badger Prairie County Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-20",
-    "updateDate": "2026-09-20T01:22:02.033Z",
+    "updateDate": "2026-09-20T01:34:24.901Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on September 3, a 33-year-old man was arrested for an O W I after a vehicle crash on Shooting Star Road.",
+    "mainText": "In our weekly police report, on September 10, officers responded to a burglary in progress on Hunters Cove Way where a shot was fired and a 19-year-old suspect was taken into custody.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-20",
-    "updateDate": "2026-09-20T01:22:02.033Z",
+    "updateDate": "2026-09-20T01:34:24.901Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's of Verona location is currently closed for a building remodel, so there is no flavor of the day available at this time.",
+    "mainText": "Culver's of Verona is open today until 10:30 PM, though please note they are currently closed for a building remodel and are not serving the flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
