@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-20",
-    "updateDate": "2026-09-20T15:06:18.215Z",
+    "updateDate": "2026-09-20T16:07:13.680Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we are looking at overcast skies today at Fireman's Park, and please note the ISS passes overhead tonight, but you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. Over at Badger Ridge Middle School, we are experiencing overcast skies and a temperature of 59 degrees that feels more like 55. Tonight, the International Space Station will make an appearance at 8:29 PM, though you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-09-20",
-    "updateDate": "2026-09-20T15:06:18.215Z",
+    "updateDate": "2026-09-20T16:07:13.680Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced that chip sealing road treatments begin September 23. Work will occur on Cross Country Road, East Verona Avenue, and Liberty Business Park between 9 AM and 3 PM. Additionally, the Plan Commission is meeting on October 5 to discuss several local development projects.",
+    "mainText": "Starting Wednesday, September 23, contractors will begin chip seal road treatments on Cross Country Road, East Verona Avenue, and within the Liberty Business Park. While roads remain open, expect temporary lane closures and traffic control. Street sweeping and line painting will follow.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-09-20",
-    "updateDate": "2026-09-20T15:06:18.215Z",
+    "updateDate": "2026-09-20T16:07:13.680Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty happening in our area. Today, we have the Sugar River Fire and Smoke BBQ Festival, live music at Bailey's Run, and events at Lake Lou-ee. Tomorrow, you can check out Yoga at Insight Wellness, and later this week we have trivia at Hop Haus and Paddy Mac's.",
+    "mainText": "There is plenty to do today, including the Sugar River Fire and Smoke BBQ Festival in Paoli, Bike the Barns at Badger Prairie County Park, and live music at Wisconsin Brewing Company. Tomorrow, check out Yoga at Insight Wellness, and look forward to trivia on Tuesday at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-09-20",
-    "updateDate": "2026-09-20T15:06:18.215Z",
+    "updateDate": "2026-09-20T16:07:13.680Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering late August through mid-September, officers noted an incident on September 3 where a 33-year-old man was arrested for an O W I after a vehicle crash on Shooting Star Road.",
+    "mainText": "In the weekly recap, police reported that last Thursday, September 10, officers responded to an in-progress burglary on Hunters Cove Way where a shot was fired. A 19-year-old male was detained with a handgun and hospitalized for a severe window-cutting injury before being jailed.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-20",
-    "updateDate": "2026-09-20T15:06:18.215Z",
+    "updateDate": "2026-09-20T16:07:13.680Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for a remodel. We look forward to their return, but in the meantime, please plan your dining accordingly.",
+    "mainText": "Culvers is currently open until 10:00 PM today. However, please note that their scheduled flavor of the day is listed as closed today for remodeling.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
