@@ -99,7 +99,7 @@ export async function fetchWeather() {
   const lat = parseFloat(process.env.GPS_LAT || '42.9897');
   const lon = parseFloat(process.env.GPS_LON || '-89.5356');
   const tz = encodeURIComponent(tzName);
-  const weatherUrl = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,apparent_temperature,is_day,weather_code&hourly=temperature_2m,precipitation_probability&forecast_days=2&temperature_unit=fahrenheit&timezone=${tz}`;
+  const weatherUrl = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,apparent_temperature,is_day,weather_code,cloud_cover&hourly=temperature_2m,precipitation_probability,weather_code,cloud_cover&forecast_days=2&temperature_unit=fahrenheit&timezone=${tz}`;
   const aqUrl = `https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${lat}&longitude=${lon}&current=us_aqi`;
 
   try {
@@ -122,6 +122,7 @@ export async function fetchWeather() {
     const condition = WEATHER_CODES[code] || 'fair conditions';
     const moonPhase = getMoonPhase(now);
     const landmark = getRandomLandmark();
+    const cloudCover = typeof data.current.cloud_cover === 'number' ? data.current.cloud_cover : null;
 
     let aqi = null;
     let aqiCategory = null;
@@ -165,6 +166,19 @@ export async function fetchWeather() {
       ? ` The overnight low will be ${overnightLow} degrees and rain is ${rainPredicted ? 'predicted' : 'not predicted'}.`
       : '';
 
+    const hourly = data.hourly ? {
+      time: data.hourly.time || [],
+      temperature: data.hourly.temperature_2m || [],
+      precipitationProbability: data.hourly.precipitation_probability || [],
+      weatherCode: data.hourly.weather_code || [],
+      cloudCover: data.hourly.cloud_cover || []
+    } : null;
+
+    const isCurrentCloudy = (cloudCover !== null && cloudCover >= 50) ||
+      condition.toLowerCase().includes('cloud') ||
+      condition.toLowerCase().includes('overcast') ||
+      code === 2 || code === 3 || code >= 45;
+
     return {
       success: true,
       temp,
@@ -174,6 +188,9 @@ export async function fetchWeather() {
       moonPhase,
       landmark,
       currentHour,
+      cloudCover,
+      isCloudyOrOvercast: isCurrentCloudy,
+      hourly,
       aqi,
       aqiCategory,
       hasElevatedAQI,
@@ -195,6 +212,9 @@ export async function fetchWeather() {
       moonPhase: 'Unknown',
       landmark,
       currentHour,
+      cloudCover: null,
+      isCloudyOrOvercast: false,
+      hourly: null,
       aqi: null,
       aqiCategory: null,
       hasElevatedAQI: false,
@@ -205,5 +225,58 @@ export async function fetchWeather() {
       text: `At ${currentHour}, weather data currently unavailable at ${landmark}`
     };
   }
+}
+
+/**
+ * Determines whether the forecast is cloudy or overcast, either at a specific target Date
+ * (e.g. during an ISS pass) using hourly forecast data, or based on current weather conditions.
+ */
+export function isCloudyOrOvercast(weather, targetDate = null) {
+  if (!weather) return false;
+
+  // 1. If targetDate is provided and weather has hourly forecast data, check that specific hour
+  if (targetDate && weather.hourly && Array.isArray(weather.hourly.time)) {
+    const tzName = process.env.TIMEZONE || 'America/Chicago';
+    try {
+      const parts = new Intl.DateTimeFormat('en-CA', {
+        timeZone: tzName,
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        hourCycle: 'h23'
+      }).format(targetDate);
+      // parts is formatted like "2026-09-18, 21"
+      const [dateStr, hourStr] = parts.split(', ');
+      const targetTimeStr = `${dateStr}T${hourStr.padStart(2, '0')}:00`;
+
+      const idx = weather.hourly.time.indexOf(targetTimeStr);
+      if (idx !== -1) {
+        const cloudCover = weather.hourly.cloudCover ? weather.hourly.cloudCover[idx] : null;
+        const weatherCode = weather.hourly.weatherCode ? weather.hourly.weatherCode[idx] : null;
+
+        if (cloudCover !== null && cloudCover >= 50) return true;
+        if (weatherCode !== null && (weatherCode === 2 || weatherCode === 3 || weatherCode >= 45)) return true;
+        if (cloudCover !== null && cloudCover < 50 && weatherCode !== null && weatherCode <= 1) return false;
+      }
+    } catch (e) {
+      console.error('Error checking hourly cloud cover:', e.message);
+    }
+  }
+
+  // 2. Fall back to current cloudCover, condition, or isCloudyOrOvercast flag
+  if (typeof weather.cloudCover === 'number') {
+    if (weather.cloudCover >= 50) return true;
+    if (weather.cloudCover < 30 && !weather.condition?.toLowerCase().includes('cloud') && !weather.condition?.toLowerCase().includes('overcast')) {
+      return false;
+    }
+  }
+
+  const cond = (weather.condition || '').toLowerCase();
+  if (cond.includes('cloud') || cond.includes('overcast') || cond.includes('fog') || cond.includes('rain') || cond.includes('drizzle') || cond.includes('storm') || cond.includes('snow')) {
+    return true;
+  }
+
+  return Boolean(weather.isCloudyOrOvercast);
 }
 

@@ -95,7 +95,7 @@ async function main() {
 
   // 7. Fetch ISS Flyover Predictions
   console.log("Fetching ISS flyover predictions...");
-  const issResult = await fetchISSFlyover();
+  const issResult = await fetchISSFlyover(weatherResult);
   console.log(`ISS: ${issResult.text}`);
 
   // 7.5. Fetch Kona Ice schedule (between 8:00 AM and 8:00 PM local time only)
