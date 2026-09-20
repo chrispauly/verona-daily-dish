@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-20",
-    "updateDate": "2026-09-20T01:34:24.901Z",
+    "updateDate": "2026-09-20T02:08:25.318Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: we are seeing 65 degrees at the Verona Public Library under overcast skies. The ISS will pass overhead tonight, but you won't be able to see it due to the clouds. Tonight the temperature will dip to a low of 60 degrees, and rain is in the forecast.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: we are seeing overcast skies near Harriet Park with a temperature of 65 degrees. The moon is in its First Quarter phase, and while the ISS passes overhead tonight, we will not be able to see it due to the clouds. Expect an overnight low of 60 degrees with rain likely.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-20",
-    "updateDate": "2026-09-20T01:34:24.901Z",
+    "updateDate": "2026-09-20T02:08:25.318Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, chip seal road maintenance begins on September 23 across several areas, including Cross Country Road and the Liberty Business Park. Additionally, the Plan Commission is reviewing several new development projects at their meeting on October 5.",
+    "mainText": "In city news, the Public Works department has announced that chip sealing maintenance begins September 23. This will affect roads like Cross Country Road and the Liberty Business Park, so expect some lane closures between 9 AM and 3 PM on E Verona Avenue. Additionally, the City Plan Commission will review several development projects and a certified survey map during their meeting on October 5.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-20",
-    "updateDate": "2026-09-20T01:34:24.901Z",
+    "updateDate": "2026-09-20T02:08:25.318Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend! Today, enjoy the Sugar River Fire and Smoke BBQ Festival, the Dane County Farmer's Market, or live music at Bailey's Run, Paddy Mac's, and Wisconsin Brewing Company. Tomorrow, check out the Bike the Barns fundraiser at Badger Prairie County Park.",
+    "mainText": "There is plenty happening in Verona this weekend. Today you can enjoy the Sugar River Fire and Smoke BBQ Festival, listen to live music at Bailey's Run, Paddy Mac's, or Wisconsin Brewing Company, and visit the Dane County Farmers' Market. Tomorrow, head out for Bike the Barns at Badger Prairie County Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-20",
-    "updateDate": "2026-09-20T01:34:24.901Z",
+    "updateDate": "2026-09-20T02:08:25.318Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on September 10, officers responded to a burglary in progress on Hunters Cove Way where a shot was fired and a 19-year-old suspect was taken into custody.",
+    "mainText": "Looking at the weekly police report, on September 5, an officer encountered a lighthearted incident where multiple vehicles had cheese placed on their windshields in various parts of the city, which was identified as a viral social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-20",
-    "updateDate": "2026-09-20T01:34:24.901Z",
+    "updateDate": "2026-09-20T02:08:25.318Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is open today until 10:30 PM, though please note they are currently closed for a building remodel and are not serving the flavor of the day.",
+    "mainText": "At Culver's of Verona, the store is currently closed for a remodeling project, so keep an eye out for their reopening.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
