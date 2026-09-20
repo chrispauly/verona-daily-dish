@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-20",
-    "updateDate": "2026-09-20T06:09:10.018Z",
+    "updateDate": "2026-09-20T07:10:59.188Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: it is 62 degrees and foggy at Harriet Park under the first quarter moon.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: we are seeing overcast skies at Firemans Park with a temperature of 62 degrees and a first quarter moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-20",
-    "updateDate": "2026-09-20T06:09:10.018Z",
+    "updateDate": "2026-09-20T07:10:59.188Z",
     "titleText": "Verona City News",
-    "mainText": "Road maintenance begins September 23 with chip sealing on Cross Country Road, East Verona Avenue, and Liberty Business Park, so please use caution. Additionally, the City is reviewing several development projects and recently adopted the Envision Verona Comprehensive Plan to guide future growth.",
+    "mainText": "Beginning September 23, the city will conduct chip seal road maintenance. Work will take place on Cross Country Road and the east end of East Verona Avenue, so expect lane closures and traffic control while crews are active between 9 AM and 3 PM.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-20",
-    "updateDate": "2026-09-20T06:09:10.018Z",
+    "updateDate": "2026-09-20T07:10:59.188Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy day today in Verona, with the Sugar River Fire and Smoke BBQ Festival in Paoli, live music at Bailey's Run and the Wisconsin Brewing Company, and the Bike the Barns fundraiser at Badger Prairie County Park. Looking ahead, yoga is scheduled for tomorrow, and trivia nights begin at local breweries on Monday.",
+    "mainText": "There is plenty to do with the Sugar River Fire and Smoke BBQ Festival happening today along with live music at Baileys Run and Wisconsin Brewing Company. Tomorrow, check out yoga at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-20",
-    "updateDate": "2026-09-20T06:09:10.018Z",
+    "updateDate": "2026-09-20T07:10:59.188Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a serious incident that occurred on September 10, officers responded to a burglary on Hunters Cove Way where a suspect was taken into custody after a shot was fired.",
+    "mainText": "Looking at the weekly report, on September 10, officers responded to an in-progress burglary on Hunters Cove Way where a shot was fired and a 19-year-old male was taken into custody.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-20",
-    "updateDate": "2026-09-20T06:09:10.018Z",
+    "updateDate": "2026-09-20T07:10:59.188Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "While Culver's is closed today for a remodel, the doors are set to open today at 10:00 AM for all your cravings.",
+    "mainText": "Culver's of Verona is closed for a remodel, but the team will be back and ready to serve you starting today at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
