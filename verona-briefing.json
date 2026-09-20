@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-20",
-    "updateDate": "2026-09-20T02:08:25.318Z",
+    "updateDate": "2026-09-20T03:07:04.342Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: we are seeing overcast skies near Harriet Park with a temperature of 65 degrees. The moon is in its First Quarter phase, and while the ISS passes overhead tonight, we will not be able to see it due to the clouds. Expect an overnight low of 60 degrees with rain likely.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: it is 64 degrees and foggy near Fireman's Park under a first quarter moon, with an overnight low of 60 degrees and rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-20",
-    "updateDate": "2026-09-20T02:08:25.318Z",
+    "updateDate": "2026-09-20T03:07:04.342Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Public Works department has announced that chip sealing maintenance begins September 23. This will affect roads like Cross Country Road and the Liberty Business Park, so expect some lane closures between 9 AM and 3 PM on E Verona Avenue. Additionally, the City Plan Commission will review several development projects and a certified survey map during their meeting on October 5.",
+    "mainText": "Road maintenance begins September 23 with chip sealing on Cross Country Road and other areas, and the City is also reviewing various development projects for the October 5 meeting.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-20",
-    "updateDate": "2026-09-20T02:08:25.318Z",
+    "updateDate": "2026-09-20T03:07:04.342Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty happening in Verona this weekend. Today you can enjoy the Sugar River Fire and Smoke BBQ Festival, listen to live music at Bailey's Run, Paddy Mac's, or Wisconsin Brewing Company, and visit the Dane County Farmers' Market. Tomorrow, head out for Bike the Barns at Badger Prairie County Park.",
+    "mainText": "Today features the Sugar River BBQ Festival and various live music spots, while tomorrow you can head to Badger Prairie County Park for the Bike the Barns fundraiser.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-20",
-    "updateDate": "2026-09-20T02:08:25.318Z",
+    "updateDate": "2026-09-20T03:07:04.342Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly police report, on September 5, an officer encountered a lighthearted incident where multiple vehicles had cheese placed on their windshields in various parts of the city, which was identified as a viral social media prank.",
+    "mainText": "On September 10, officers responded to a burglary on Hunters Cove Way where a 19-year-old was taken into custody after a shot was fired during the incident.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-20",
-    "updateDate": "2026-09-20T02:08:25.318Z",
+    "updateDate": "2026-09-20T03:07:04.342Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "At Culver's of Verona, the store is currently closed for a remodeling project, so keep an eye out for their reopening.",
+    "mainText": "Culver's is currently closed today for a facility remodel, so please look forward to their return soon.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
