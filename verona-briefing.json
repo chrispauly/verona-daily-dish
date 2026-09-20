@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-20",
-    "updateDate": "2026-09-20T10:05:13.646Z",
+    "updateDate": "2026-09-20T11:05:01.641Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, we have overcast skies and 60 degree temperatures at Verona Community Park, with a first quarter moon visible.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: we are looking at overcast skies and 59 degrees at Verona Community Park with the First Quarter moon visible.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-20",
-    "updateDate": "2026-09-20T10:05:13.646Z",
+    "updateDate": "2026-09-20T11:05:01.641Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced that chip seal road maintenance begins September 23 with lane closures scheduled on Cross Country Road and East Verona Avenue, while the Plan Commission is set to review various development projects on October 5.",
+    "mainText": "Road maintenance begins September 23, affecting Cross Country Road and E Verona Ave, so please use caution. Additionally, the City has officially adopted the Envision Verona Comprehensive Plan to guide our growth over the next ten years.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-20",
-    "updateDate": "2026-09-20T10:05:13.646Z",
+    "updateDate": "2026-09-20T11:05:01.641Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with the Sugar River Fire and Smoke BBQ Festival today, live music at Bailey's Run and Wisconsin Brewing Company today, and Bike the Barns at Badger Prairie County Park also happening today.",
+    "mainText": "We have a busy weekend ahead, starting today with the Sugar River Fire and Smoke BBQ Festival, Live Music at Bailey's Run, Bike the Barns, and music at the Wisconsin Brewing Company. Tomorrow, check out Yoga at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-20",
-    "updateDate": "2026-09-20T10:05:13.646Z",
+    "updateDate": "2026-09-20T11:05:01.641Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5, officers responded to a local viral trend known as the Dairy Dare where vehicles were found with cheese slices on their windshields.",
+    "mainText": "Regarding local safety, on September 3, a driver was arrested for an O W I after crashing his vehicle on Shooting Star Road.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-20",
-    "updateDate": "2026-09-20T10:05:13.646Z",
+    "updateDate": "2026-09-20T11:05:01.641Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently closed but will be ready to serve you when they open today at 10:00 AM.",
+    "mainText": "Culver's will open its doors today at 10:00 AM to serve up today's flavor of the day. Be sure to stop by and support our local team during their regular hours.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
