@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-21",
-    "updateDate": "2026-09-21T06:13:13.803Z",
+    "updateDate": "2026-09-21T07:17:50.504Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: expect a chilly 55 degrees with overcast skies near Verona Area High School, under the light of a Waxing Gibbous moon.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: it is 55 degrees under overcast skies at Reddan Soccer Park, with a waxing gibbous moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-21",
-    "updateDate": "2026-09-21T06:13:13.803Z",
+    "updateDate": "2026-09-21T07:17:50.504Z",
     "titleText": "Verona City News",
-    "mainText": "Road maintenance begins September 23 with chip sealing on Cross Country Road and East Verona Avenue, while the Plan Commission reviews new development proposals including projects at 201 South Main Street.",
+    "mainText": "Contractors will begin chip seal road treatment on September 23. While roads remain open, expect lane closures on Cross Country Road, East Verona Avenue, and the Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-21",
-    "updateDate": "2026-09-21T06:13:13.803Z",
+    "updateDate": "2026-09-21T07:17:50.504Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You can catch Yoga at Insight Wellness today, followed by a full lineup of trivia and music tomorrow at spots like Hop Haus and Lake Lou-ee, plus the big Verona Fall Fest on September 25.",
+    "mainText": "Join Yoga at Insight Wellness today. Tomorrow, test your knowledge at Trivia Night at Hop Haus, Quizmasters Trivia at Lake Lou-ee, or Dream Day Trivia at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-21",
-    "updateDate": "2026-09-21T06:13:13.803Z",
+    "updateDate": "2026-09-21T07:17:50.504Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5, officers investigated a series of incidents where vehicles were pranked with cheese on their windshields, though thankfully no property damage was reported.",
+    "mainText": "On September 5, an officer conducted a traffic stop for speeding and arrested the driver for operating with a prohibited alcohol concentration, or O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-21",
-    "updateDate": "2026-09-21T06:13:13.803Z",
+    "updateDate": "2026-09-21T07:17:50.504Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently undergoing a remodel and is closed, but please note that the store opens today at 10:00 AM.",
+    "mainText": "The Culver's of Verona location is closed for a remodel today, but they will be ready to open their doors today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
