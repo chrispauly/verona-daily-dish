@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-21",
-    "updateDate": "2026-09-21T12:12:11.092Z",
+    "updateDate": "2026-09-21T13:05:41.680Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. We are waking up to overcast skies and a temperature of 55 degrees outside the Verona Public Library.",
+    "mainText": "Hello, Verona! At 8 AM, the weather is 55 degrees with overcast skies near Badger Ridge Middle School. The moon phase is a Waxing Gibbous, and while the ISS passes overhead tonight, you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-21",
-    "updateDate": "2026-09-21T12:12:11.092Z",
+    "updateDate": "2026-09-21T13:05:41.680Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Public Works has announced that chip seal road treatments will begin on Wednesday, September 23rd, which will cause lane closures and traffic control on Cross Country Road and East Verona Avenue. Additionally, the Plan Commission will review several development projects at their October 5th meeting, and details are available for Envision Verona, the newly adopted comprehensive plan.",
+    "mainText": "The city announced that chip seal road treatments begin September 23. Expect traffic control on Cross Country Road and East Verona Avenue. Additionally, the Plan Commission is reviewing several development projects and the City's Comprehensive Plan is currently guiding our long-term growth.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-21",
-    "updateDate": "2026-09-21T12:12:11.092Z",
+    "updateDate": "2026-09-21T13:05:41.680Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There are plenty of community events to look forward to. Today, you can attend Yoga at Insight Wellness. Tomorrow, check out Hop Haus Trivia, Quizmasters Trivia at Lake Lou-ee, or Dream Day Trivia at Paddy Mac's. Later this week, look forward to the Verona Downtown Farmer's Market and the Verona Fall Fest starting on September 25th.",
+    "mainText": "There is plenty to do, including Yoga at Insight Wellness today, followed by trivia at Hop Haus tomorrow. Looking ahead, the Verona Fall Fest takes place this Thursday at Hometown USA Festival Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-21",
-    "updateDate": "2026-09-21T12:12:11.092Z",
+    "updateDate": "2026-09-21T13:05:41.680Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly police recap, on Thursday, a 33-year-old Madison man was arrested for operating while intoxicated, second offence, which is an O W I, after crashing his vehicle on Shooting Star Road.",
+    "mainText": "On September 5, police encountered a strange situation where multiple vehicles had cheese placed on their windshields, which officers identified as a viral social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-21",
-    "updateDate": "2026-09-21T12:12:11.092Z",
+    "updateDate": "2026-09-21T13:05:41.680Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "For your Culver's update, the restaurant opens today at 10:00 AM, but the location is closed today for a remodel, so there is no flavor of the day to report.",
+    "mainText": "Culver's of Verona is closed for a remodel, but they will be ready to serve you when they open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
