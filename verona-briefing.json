@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-21",
-    "updateDate": "2026-09-21T11:05:28.812Z",
+    "updateDate": "2026-09-21T12:12:11.092Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: it is 55 degrees with overcast skies near the Verona Public Library and a Waxing Gibbous moon overhead.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. We are waking up to overcast skies and a temperature of 55 degrees outside the Verona Public Library.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-09-21",
-    "updateDate": "2026-09-21T11:05:28.812Z",
+    "updateDate": "2026-09-21T12:12:11.092Z",
     "titleText": "Verona City News",
-    "mainText": "City officials announced that chip seal road treatments begin September 23, impacting areas including Cross Country Road and the Liberty Business Park. Additionally, the Plan Commission is reviewing several development projects on October 5, and the city continues to implement goals from the Envision Verona Comprehensive Plan.",
+    "mainText": "In city news, Public Works has announced that chip seal road treatments will begin on Wednesday, September 23rd, which will cause lane closures and traffic control on Cross Country Road and East Verona Avenue. Additionally, the Plan Commission will review several development projects at their October 5th meeting, and details are available for Envision Verona, the newly adopted comprehensive plan.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-09-21",
-    "updateDate": "2026-09-21T11:05:28.812Z",
+    "updateDate": "2026-09-21T12:12:11.092Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community, starting with Yoga at Insight Wellness today. Tomorrow, you can join trivia nights at Hop Haus Brewing Co. or Lake Lou-ee, followed by the Verona Downtown Farmer's Market and trivia at The Bogey Factory on September 23. Don't forget the popular Verona Fall Fest on September 25.",
+    "mainText": "There are plenty of community events to look forward to. Today, you can attend Yoga at Insight Wellness. Tomorrow, check out Hop Haus Trivia, Quizmasters Trivia at Lake Lou-ee, or Dream Day Trivia at Paddy Mac's. Later this week, look forward to the Verona Downtown Farmer's Market and the Verona Fall Fest starting on September 25th.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-09-21",
-    "updateDate": "2026-09-21T11:05:28.812Z",
+    "updateDate": "2026-09-21T12:12:11.092Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding recent activity, on September 5, an officer located several vehicles with cheese slices on their windshields as part of a viral social media prank, which resulted in no damage.",
+    "mainText": "In the weekly police recap, on Thursday, a 33-year-old Madison man was arrested for operating while intoxicated, second offence, which is an O W I, after crashing his vehicle on Shooting Star Road.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-21",
-    "updateDate": "2026-09-21T11:05:28.812Z",
+    "updateDate": "2026-09-21T12:12:11.092Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently closed for a remodel, but they will be ready to serve you when they open today at 10:00 AM.",
+    "mainText": "For your Culver's update, the restaurant opens today at 10:00 AM, but the location is closed today for a remodel, so there is no flavor of the day to report.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
