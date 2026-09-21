@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-21",
-    "updateDate": "2026-09-21T17:05:12.287Z",
+    "updateDate": "2026-09-21T18:07:54.471Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish. We are seeing overcast skies at Fireman Park with a temperature of 59 degrees and a Waxing Gibbous moon phase. The ISS is passing overhead tonight, but you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: it is 63 degrees and partly cloudy at Verona City Hall under a waxing gibbous moon, and although the ISS passes overhead tonight, visibility will be blocked by the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-21",
-    "updateDate": "2026-09-21T17:05:12.287Z",
+    "updateDate": "2026-09-21T18:07:54.471Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced that crack filling maintenance will begin on September 28 across several areas including Nine Mound Road and Commerce Parkway, which may cause minor traffic delays. Additionally, the Plan Commission is meeting on October 5 to review several development projects, such as site plans for Sub-Zero at Liberty Business Park.",
+    "mainText": "City officials have announced that road maintenance, specifically crack filling, will begin on September 28 across several areas including Nine Mound Road, Commerce Parkway, and various streets near Jefferson and Franklin. Additionally, the Plan Commission is set to review several development projects on October 5, including sites at Country View Court and the Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-21",
-    "updateDate": "2026-09-21T17:05:12.287Z",
+    "updateDate": "2026-09-21T18:07:54.471Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, starting with Yoga at Insight Wellness today. Tomorrow, you can check out trivia at Hop Haus or Lake Lou-ee, and don't forget the downtown Farmer's Market happening on September 23.",
+    "mainText": "It is a busy week in Verona! Yoga at Insight Wellness is happening today. Tomorrow, you can catch trivia at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's. Looking further ahead, Wednesday features live music and trivia at various venues, while the Verona Fall Fest is scheduled for September 25 at Hometown USA Festival Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-21",
-    "updateDate": "2026-09-21T17:05:12.287Z",
+    "updateDate": "2026-09-21T18:07:54.471Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the latest police report, on September 5, officers responded to a peculiar incident where multiple vehicles were found with cheese slices on their windshields, which was linked to a social media prank.",
+    "mainText": "Looking at the latest report, on September 10, officers responded to a burglary in progress on Hunters Cove Way where a suspect was detained after a window was broken and a firearm was recovered.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-21",
-    "updateDate": "2026-09-21T17:05:12.287Z",
+    "updateDate": "2026-09-21T18:07:54.471Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "While we usually look forward to the daily flavor, please be advised that the Culver's of Verona location is currently closed for a remodeling project.",
+    "mainText": "Culver's of Verona is currently closed today for a remodel, so we look forward to their return to serving up fresh flavors soon.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
