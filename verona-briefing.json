@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-21",
-    "updateDate": "2026-09-21T04:07:29.342Z",
+    "updateDate": "2026-09-21T05:08:18.987Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. Overcast skies are currently hovering over Verona Community Park with a temperature of 55 degrees. Under a Waxing Gibbous moon, we can expect an overnight low of 55 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: expect 55-degree temperatures with overcast skies near Verona City Hall, under a lovely waxing gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-21",
-    "updateDate": "2026-09-21T04:07:29.342Z",
+    "updateDate": "2026-09-21T05:08:18.987Z",
     "titleText": "Verona City News",
-    "mainText": "Starting Wednesday, September 23rd, contractors will begin chip seal road treatments on Cross Country Road and East Verona Avenue, which will result in lane closures and traffic control. Additionally, several new development projects, including sites on Country View Court and Spring Rose Road, are scheduled for the Plan Commission meeting on October 5th.",
+    "mainText": "Starting September 23, the city is conducting chip seal road maintenance. Work areas include Cross Country Road and parts of East Verona Avenue, so please use caution as crews will be present between 9 AM and 3 PM.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-21",
-    "updateDate": "2026-09-21T04:07:29.342Z",
+    "updateDate": "2026-09-21T05:08:18.987Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at our upcoming schedule, Yoga at Insight Wellness is happening tomorrow, followed by Tuesday trivia nights at both Hop Haus Brewing and Wisconsin Brewing Company. Also, the award-winning Verona Fall Fest kicks off this Friday, September 25th, at Hometown USA Festival Park.",
+    "mainText": "Today, you can catch Yoga at Insight Wellness. Looking toward tomorrow, there are plenty of trivia options at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus the Downtown Farmer's Market.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-21",
-    "updateDate": "2026-09-21T04:07:29.342Z",
+    "updateDate": "2026-09-21T05:08:18.987Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on Thursday, September 10th, officers responded to an in-progress burglary on Hunters Cove Way. A 19-year-old male suspect who fired a handgun was detained, treated for injuries sustained while breaking a window, and jailed.",
+    "mainText": "On September 5, Verona officers responded to reports of vehicles being pranked with cheese slices, which they learned is part of a viral social media trend known as the Dairy Dare.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-21",
-    "updateDate": "2026-09-21T04:07:29.342Z",
+    "updateDate": "2026-09-21T05:08:18.987Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for a remodel. The store is scheduled to reopen tomorrow morning at 10:00 AM.",
+    "mainText": "The Culver's of Verona location is currently closed, but they will open today at 10:00 AM to serve up today's flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
