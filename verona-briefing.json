@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-21",
-    "updateDate": "2026-09-21T18:07:54.471Z",
+    "updateDate": "2026-09-21T19:05:17.069Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: it is 63 degrees and partly cloudy at Verona City Hall under a waxing gibbous moon, and although the ISS passes overhead tonight, visibility will be blocked by the clouds.",
+    "mainText": "Hello, Verona! At 2 PM, we are looking at 63 degrees with overcast skies near Harriet Park. The Waxing Gibbous moon is present, and while the ISS passes overhead tonight, you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-21",
-    "updateDate": "2026-09-21T18:07:54.471Z",
+    "updateDate": "2026-09-21T19:05:17.069Z",
     "titleText": "Verona City News",
-    "mainText": "City officials have announced that road maintenance, specifically crack filling, will begin on September 28 across several areas including Nine Mound Road, Commerce Parkway, and various streets near Jefferson and Franklin. Additionally, the Plan Commission is set to review several development projects on October 5, including sites at Country View Court and the Liberty Business Park.",
+    "mainText": "City officials announced that road maintenance, specifically crack filling, will begin on September 28 across five designated areas including streets like Legion and North Jefferson. Also, the Plan Commission is set to review various development projects on October 5.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-21",
-    "updateDate": "2026-09-21T18:07:54.471Z",
+    "updateDate": "2026-09-21T19:05:17.069Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy week in Verona! Yoga at Insight Wellness is happening today. Tomorrow, you can catch trivia at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's. Looking further ahead, Wednesday features live music and trivia at various venues, while the Verona Fall Fest is scheduled for September 25 at Hometown USA Festival Park.",
+    "mainText": "We have plenty going on, starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, plus pizza night at Lake Lou-ee. Looking ahead to September 25, the Verona Fall Fest kicks off at Hometown USA Festival Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-21",
-    "updateDate": "2026-09-21T18:07:54.471Z",
+    "updateDate": "2026-09-21T19:05:17.069Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the latest report, on September 10, officers responded to a burglary in progress on Hunters Cove Way where a suspect was detained after a window was broken and a firearm was recovered.",
+    "mainText": "In a noteworthy call from September 3, a 33-year-old Madison man was arrested for O W I after crashing his vehicle in the 700 block of Shooting Star Road.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-21",
-    "updateDate": "2026-09-21T18:07:54.471Z",
+    "updateDate": "2026-09-21T19:05:17.069Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed today for a remodel, so we look forward to their return to serving up fresh flavors soon.",
+    "mainText": "Currently, the Culver's in Verona is closed for a scheduled remodel, so no flavor of the day is available at this time.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
