@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-21",
-    "updateDate": "2026-09-21T20:05:48.837Z",
+    "updateDate": "2026-09-21T21:05:19.520Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, we are looking at 62 degrees with overcast skies at Verona Community Park. The ISS will pass overhead tonight, but it will be hidden from view by the clouds.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: it is 62 degrees and overcast at Verona Area High School, with a waxing gibbous moon. Although the space station is passing overhead tonight, we will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-21",
-    "updateDate": "2026-09-21T20:05:48.837Z",
+    "updateDate": "2026-09-21T21:05:19.520Z",
     "titleText": "Verona City News",
-    "mainText": "The city announced that road maintenance for crack filling is scheduled to begin on Monday, September 28, affecting areas like South Nine Mound Road and North Jefferson Street. Additionally, the Plan Commission will meet on October 5 to discuss various development projects, including a site plan for Sub-Zero in the Liberty Business Park.",
+    "mainText": "Contractors will begin road maintenance on September 28, including crack filling on several streets like South Nine Mound Road and North Jefferson Street. Also, the Plan Commission is meeting on October 5 to discuss various development projects, including a site plan for Sub-Zero.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-21",
-    "updateDate": "2026-09-21T20:05:48.837Z",
+    "updateDate": "2026-09-21T21:05:19.520Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You have plenty to do this week, starting with Yoga at Insight Wellness today. Tomorrow, you can test your knowledge at Hop Haus trivia, Quizmasters trivia at Lake Lou-ee, or Dream Day trivia at Paddy Mac's. Looking ahead, don't miss the Verona Fall Fest this Friday, September 25.",
+    "mainText": "Today you can join Yoga at Insight Wellness. Tomorrow is packed with fun including Hop Haus Trivia, Quizmasters Trivia at Lake Lou-ee, and more throughout the week including the Verona Fall Fest on September 25.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-21",
-    "updateDate": "2026-09-21T20:05:48.837Z",
+    "updateDate": "2026-09-21T21:05:19.520Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5, local officers responded to reports of a viral social media prank known as the Dairy Dare, where unidentified individuals placed cheese slices on windshields throughout the city. No property damage was reported.",
+    "mainText": "On September 3, a 33-year-old man was arrested for an O W I after crashing his vehicle on Shooting Star Road.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-21",
-    "updateDate": "2026-09-21T20:05:48.837Z",
+    "updateDate": "2026-09-21T21:05:19.520Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently open until 10 PM today, though please be aware that the store is undergoing a remodel.",
+    "mainText": "Culver's is currently open until 10 PM, however, the store is closed for a remodel, so the flavor of the day is not available.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
