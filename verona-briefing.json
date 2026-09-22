@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-22",
-    "updateDate": "2026-09-22T01:17:01.565Z",
+    "updateDate": "2026-09-22T02:08:23.530Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: it is 53 degrees with clear skies at Fireman's Park under a Waxing Gibbous moon. Tonight, the overnight low will be 50 with no rain expected. If you look up at 9:18 PM, you can catch the ISS passing high overhead, traveling from the northwest near Verona High School toward the southeast near Festival Foods.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. We have overcast skies at Reddan Soccer Park with a waxing gibbous moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds. The overnight low will drop to 50 degrees, with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-22",
-    "updateDate": "2026-09-22T01:17:01.565Z",
+    "updateDate": "2026-09-22T02:08:23.530Z",
     "titleText": "Verona City News",
-    "mainText": "City Hall reminds residents that road maintenance crews will begin crack filling work on September 28. While roads will stay open, please use caution in work zones, including South Nine Mound Road and North Jefferson Street.",
+    "mainText": "City officials have announced that crack filling maintenance begins on September 28. Work will take place across several areas including Nine Mound Road and North Jefferson Street, so please use caution in those work zones.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-22",
-    "updateDate": "2026-09-22T01:17:01.565Z",
+    "updateDate": "2026-09-22T02:08:23.530Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, starting with Yoga at Insight Wellness today. Tomorrow, you can check out trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, plus the Downtown Farmer's Market is happening at Hometown Junction Park.",
+    "mainText": "We have plenty to do in town. Yoga at Insight Wellness is scheduled for today. Looking ahead to tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, and don't forget the Verona Fall Fest coming up on September 25.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-22",
-    "updateDate": "2026-09-22T01:17:01.565Z",
+    "updateDate": "2026-09-22T02:08:23.530Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5, Verona officers responded to a situation where a driver was arrested for operating with a prohibited alcohol concentration after a traffic stop, citing an O W I violation.",
+    "mainText": "On September 5, officers noted an unusual incident involving the Dairy Dare, where several vehicles were discovered with cheese slices on their windshields throughout the city.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-22",
-    "updateDate": "2026-09-22T01:17:01.565Z",
+    "updateDate": "2026-09-22T02:08:23.530Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for a remodel, but we look forward to their reopening soon. They are typically open until 10:00 PM daily.",
+    "mainText": "Culver's of Verona is currently undergoing a remodel and will be closed for the day, but they are set to resume normal operations soon. Make sure to head over before they close for the night at 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
