@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-22",
-    "updateDate": "2026-09-22T12:08:40.375Z",
+    "updateDate": "2026-09-22T13:06:11.516Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have partly cloudy skies and a temperature of 51 degrees at Reddan Soccer Park.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: it is 52 degrees with partly cloudy skies around Badger Ridge Middle School.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-22",
-    "updateDate": "2026-09-22T12:08:40.375Z",
+    "updateDate": "2026-09-22T13:06:11.516Z",
     "titleText": "Verona City News",
-    "mainText": "City officials announced that road maintenance for crack filling begins September 28. Contractors will be working on several streets including South Nine Mound Road and Commerce Parkway, so expect potential lane closures and use caution in those areas.",
+    "mainText": "The Public Works Department is preparing for road maintenance starting September 28, and residents are encouraged to sign up for the city newsletter to stay informed about local infrastructure projects.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-22",
-    "updateDate": "2026-09-22T12:08:40.375Z",
+    "updateDate": "2026-09-22T13:06:11.516Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can head over to Hop Haus Trivia for some local fun. Looking into tomorrow, there is a full lineup including yoga at Insight Wellness, the Verona Downtown Farmer's Market at Hometown Junction Park, and trivia at The Bogey Factory.",
+    "mainText": "We have a busy schedule with Hop Haus Trivia and Quizmasters Trivia taking place today, followed by the Farmer's Market and various music events tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-22",
-    "updateDate": "2026-09-22T12:08:40.375Z",
+    "updateDate": "2026-09-22T13:06:11.516Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5, police responded to a strange situation where multiple vehicles were found with cheese slices on their windshields throughout several city streets, which was identified as a viral social media prank.",
+    "mainText": "In a strange report from September 5, Verona police officers located multiple vehicles with cheese slices on their windshields, noting it was part of a viral social media trend called the Dairy Dare.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-22",
-    "updateDate": "2026-09-22T12:08:40.375Z",
+    "updateDate": "2026-09-22T13:06:11.516Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's opens today at 10:00 AM, though please be aware the location is currently closed for a remodel.",
+    "mainText": "Culver's is preparing for a great day and will open today at 10:00 AM serving up the flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
