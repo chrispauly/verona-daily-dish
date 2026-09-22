@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-22",
-    "updateDate": "2026-09-22T05:06:42.575Z",
+    "updateDate": "2026-09-22T06:10:12.270Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. We have clear skies tonight with a temperature of 51 degrees, which feels like 47. It is a peaceful night over the Military Ridge State Trail, illuminated by a beautiful waxing gibbous moon.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: current temperatures are 51 degrees with clear skies observed at Badger Prairie County Park and a Waxing Gibbous moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-22",
-    "updateDate": "2026-09-22T05:06:42.575Z",
+    "updateDate": "2026-09-22T06:10:12.270Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, road maintenance is scheduled to begin on Monday, September 28th, with contractors starting crack filling across several zones. Roads will remain open, but prepare for temporary lane closures and traffic control. Also, the Plan Commission has multiple development projects on the agenda for their meeting on Monday, October fifth, including site plans for Sub-Zero in the Liberty Business Park.",
+    "mainText": "City officials announced that road maintenance, specifically crack filling, will begin on September 28, affecting several areas including South Nine Mound Road and North Jefferson Street.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-22",
-    "updateDate": "2026-09-22T05:06:42.575Z",
+    "updateDate": "2026-09-22T06:10:12.270Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "For local events, you can enjoy trivia today at Hop Haus, Lake Lou-ee, or Paddy Mac's. Tomorrow, look forward to the Verona Downtown Farmer's Market at Hometown Junction Park, pizza and a pitcher at Lake Lou-ee, and more trivia at The Bogey Factory. Plus, the award-winning Verona Fall Fest is coming up on Friday, September 25th.",
+    "mainText": "We have a busy schedule with Hop Haus Trivia and Lake Lou-ee Trivia taking place today, followed by a full lineup tomorrow including the Downtown Farmer's Market and live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-22",
-    "updateDate": "2026-09-22T05:06:42.575Z",
+    "updateDate": "2026-09-22T06:10:12.270Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the police weekly recap, on Thursday, September third, a 33-year-old Madison man was arrested for O W I, second offence, after crashing his vehicle in the 700 block of Shooting Star Road.",
+    "mainText": "Regarding local safety, on September 5, officers responded to reports of a viral prank where multiple vehicles had cheese slices placed on their windshields in various neighborhoods.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-22",
-    "updateDate": "2026-09-22T05:06:42.575Z",
+    "updateDate": "2026-09-22T06:10:12.270Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's opens today at 10:00 AM with today's flavor listed as closed for remodeling, so be sure to check their status if you are planning a visit.",
+    "mainText": "It is a great time to plan your treat because Culver's opens today at 10:00 AM, featuring today's flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
