@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-22",
-    "updateDate": "2026-09-22T09:06:27.026Z",
+    "updateDate": "2026-09-22T10:09:21.450Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: current temperatures are 51 degrees under overcast skies near the high school, with a waxing gibbous moon lighting up the sky.",
+    "mainText": "Hello, Verona! At 5 AM, it is 52 degrees under overcast skies near Badger Ridge Middle School with a waxing gibbous moon visible overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-22",
-    "updateDate": "2026-09-22T09:06:27.026Z",
+    "updateDate": "2026-09-22T10:09:21.450Z",
     "titleText": "Verona City News",
-    "mainText": "Starting September 28, contractors will begin road crack filling across several city areas, including South Nine Mound Road and North Jefferson Street; please use caution in these work zones. Also, the Plan Commission is set to review various development projects on October 5.",
+    "mainText": "Contractors will begin crack filling on several Verona streets starting September 28, which may cause minor traffic delays. Also, the Plan Commission meets October 5 to review several development proposals, including projects at Country View Court and the Sub-Zero site at Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-22",
-    "updateDate": "2026-09-22T09:06:27.026Z",
+    "updateDate": "2026-09-22T10:09:21.450Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with trivia at Hop Haus and Wisconsin Brewing Company today, followed by the Downtown Farmer's Market and trivia at The Bogey Factory happening tomorrow.",
+    "mainText": "There is plenty to do in town, starting with Hop Haus Trivia today. Tomorrow, you can visit the downtown Farmer's Market at Hometown Junction Park, enjoy live music at Paddy Mac's, or catch trivia night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-22",
-    "updateDate": "2026-09-22T09:06:27.026Z",
+    "updateDate": "2026-09-22T10:09:21.450Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable weekly incident, on September 5, an officer investigated a viral prank where vehicles were found with cheese slices on their windshields across several streets.",
+    "mainText": "On September 5, officers investigated a string of incidents where vehicles on Main Street and nearby areas were targeted with a viral cheese-on-the-windshield prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-22",
-    "updateDate": "2026-09-22T09:06:27.026Z",
+    "updateDate": "2026-09-22T10:09:21.450Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Verona location is currently closed for a remodel but will be ready to serve you when it opens today at 10:00 AM.",
+    "mainText": "Culver's of Verona is currently undergoing a remodel and will open today at 10:00 AM to serve up today's flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
