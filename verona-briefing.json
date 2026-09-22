@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-22",
-    "updateDate": "2026-09-22T04:06:59.136Z",
+    "updateDate": "2026-09-22T05:06:42.575Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: current conditions at Verona Community Park are 51 degrees under clear skies with a waxing gibbous moon. The temperature will dip to an overnight low of 50 degrees, and there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. We have clear skies tonight with a temperature of 51 degrees, which feels like 47. It is a peaceful night over the Military Ridge State Trail, illuminated by a beautiful waxing gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-09-22",
-    "updateDate": "2026-09-22T04:06:59.136Z",
+    "updateDate": "2026-09-22T05:06:42.575Z",
     "titleText": "Verona City News",
-    "mainText": "City crews will begin important road maintenance through crack filling on September 28 across multiple areas including South Nine Mound Road and North Jefferson Street, while the Plan Commission prepares to review several new development projects on October 5.",
+    "mainText": "In city news, road maintenance is scheduled to begin on Monday, September 28th, with contractors starting crack filling across several zones. Roads will remain open, but prepare for temporary lane closures and traffic control. Also, the Plan Commission has multiple development projects on the agenda for their meeting on Monday, October fifth, including site plans for Sub-Zero in the Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-09-22",
-    "updateDate": "2026-09-22T04:06:59.136Z",
+    "updateDate": "2026-09-22T05:06:42.575Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed calendar starting tomorrow with Hop Haus Trivia, Quizmasters Trivia at Wisconsin Brewing Company, and yoga at Insight Wellness, followed by the Verona Fall Fest taking place this September 25.",
+    "mainText": "For local events, you can enjoy trivia today at Hop Haus, Lake Lou-ee, or Paddy Mac's. Tomorrow, look forward to the Verona Downtown Farmer's Market at Hometown Junction Park, pizza and a pitcher at Lake Lou-ee, and more trivia at The Bogey Factory. Plus, the award-winning Verona Fall Fest is coming up on Friday, September 25th.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-09-22",
-    "updateDate": "2026-09-22T04:06:59.136Z",
+    "updateDate": "2026-09-22T05:06:42.575Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly report, on September 5, officers investigated a series of reports involving vehicles with cheese placed on their windshields, a viral prank identified as the Dairy Dare.",
+    "mainText": "In the police weekly recap, on Thursday, September third, a 33-year-old Madison man was arrested for O W I, second offence, after crashing his vehicle in the 700 block of Shooting Star Road.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-22",
-    "updateDate": "2026-09-22T04:06:59.136Z",
+    "updateDate": "2026-09-22T05:06:42.575Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's of Verona location is currently closed for a remodel, so they will be closed for the day. Be sure to check back for tomorrow's flavor when they reopen tomorrow at 10 AM.",
+    "mainText": "Culver's opens today at 10:00 AM with today's flavor listed as closed for remodeling, so be sure to check their status if you are planning a visit.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
