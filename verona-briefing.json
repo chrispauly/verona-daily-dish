@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-22",
-    "updateDate": "2026-09-22T19:05:30.201Z",
+    "updateDate": "2026-09-22T20:05:44.686Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We have overcast skies at Badger Prairie County Park with a temperature of 60 degrees. If you look up at 8:30 PM tonight, you will be able to see the International Space Station traveling from the northwest near Verona High School toward the east near Fitchburg, reaching halfway up the sky.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we are seeing 60 degrees with partly cloudy skies near the Verona Area High School. We also have an ISS pass tonight, but you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-22",
-    "updateDate": "2026-09-22T19:05:30.201Z",
+    "updateDate": "2026-09-22T20:05:44.686Z",
     "titleText": "Verona City News",
-    "mainText": "City residents should mark their calendars for a free e-waste recycling event on October 17 at the Verona Recycling Center from 8 AM to 3 PM to dispose of old electronics, and don't forget the Verona Police Department is actively hiring new patrol officers.",
+    "mainText": "In city news, the Verona Police Department is currently seeking new patrol officers. They are looking for dedicated individuals interested in community-oriented policing and offer specialized units like drones and e-bikes. Also, remember that a free e-waste drop-off event is scheduled for this Saturday from 8 AM to 3 PM at the Recycling Center.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-22",
-    "updateDate": "2026-09-22T19:05:30.201Z",
+    "updateDate": "2026-09-22T20:05:44.686Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with Hop Haus Trivia happening today, followed by the Verona Downtown Farmer's Market and Wednesday Trivia Night at The Bogey Factory tomorrow.",
+    "mainText": "There is plenty to do in town, starting with trivia at both Hop Haus and Lake Lou-ee happening today. Tomorrow, you can look forward to the Farmer's Market at Hometown Junction Park, live music at Paddy Mac's, and even more trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-22",
-    "updateDate": "2026-09-22T19:05:30.201Z",
+    "updateDate": "2026-09-22T20:05:44.686Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy update, on September 5, an officer investigated a series of reports involving cheese slices left on car windshields across several streets in a viral social media stunt.",
+    "mainText": "Regarding local safety, on September 10, officers responded to a burglary in the 600 block of Hunters Cove Way where a 19-year-old male was detained and a handgun was recovered.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-22",
-    "updateDate": "2026-09-22T19:05:30.201Z",
+    "updateDate": "2026-09-22T20:05:44.686Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for a facility remodel, so there is no flavor of the day to report at this time.",
+    "mainText": "For those looking for a sweet treat, please be aware that Culver's is currently closed for a remodel and will not be serving their flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
