@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-22",
-    "updateDate": "2026-09-22T02:08:23.530Z",
+    "updateDate": "2026-09-22T03:07:15.758Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. We have overcast skies at Reddan Soccer Park with a waxing gibbous moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds. The overnight low will drop to 50 degrees, with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: current temperatures are at 51 degrees under clear skies by Reddan Soccer Park, with a Waxing Gibbous moon visible tonight. The overnight low will be 49 degrees, and there is no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-22",
-    "updateDate": "2026-09-22T02:08:23.530Z",
+    "updateDate": "2026-09-22T03:07:15.758Z",
     "titleText": "Verona City News",
-    "mainText": "City officials have announced that crack filling maintenance begins on September 28. Work will take place across several areas including Nine Mound Road and North Jefferson Street, so please use caution in those work zones.",
+    "mainText": "The city has announced that crack filling maintenance begins on September 28, which may cause lane closures in various areas including South Nine Mound Road and North Jefferson Street. Additionally, the Plan Commission is meeting on October 5 to discuss various development projects, including new site plans at Sub-Zero in Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-22",
-    "updateDate": "2026-09-22T02:08:23.530Z",
+    "updateDate": "2026-09-22T03:07:15.758Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty to do in town. Yoga at Insight Wellness is scheduled for today. Looking ahead to tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, and don't forget the Verona Fall Fest coming up on September 25.",
+    "mainText": "There is plenty happening in town, starting with yoga sessions today at Insight Wellness. Tomorrow, you can test your knowledge at Hop Haus Trivia, Quizmasters at Lake Lou-ee, or Dream Day Trivia at Paddy Mac's. Looking further ahead, don't miss the Verona Downtown Farmer's Market on Wednesday and the popular Verona Fall Fest this Thursday, September 25.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-22",
-    "updateDate": "2026-09-22T02:08:23.530Z",
+    "updateDate": "2026-09-22T03:07:15.758Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5, officers noted an unusual incident involving the Dairy Dare, where several vehicles were discovered with cheese slices on their windshields throughout the city.",
+    "mainText": "In a weekly update, officers responded to a serious incident on September 10 where a 19-year-old was arrested for burglary and recklessly endangering safety after a shot was fired during a break-in at Hunters Cove Way.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-22",
-    "updateDate": "2026-09-22T02:08:23.530Z",
+    "updateDate": "2026-09-22T03:07:15.758Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently undergoing a remodel and will be closed for the day, but they are set to resume normal operations soon. Make sure to head over before they close for the night at 10:00 PM.",
+    "mainText": "Today's delicious flavor was Caramel Chocolate Pecan. The restaurant is currently closed for the night, so please stop by tomorrow morning at 10:00 AM to enjoy tomorrow's flavor of the day, which is Georgia Peach.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
