@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-23",
-    "updateDate": "2026-09-23T02:08:45.197Z",
+    "updateDate": "2026-09-23T03:08:52.230Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: we have clear skies at Harriet Park with the moon currently in a waxing gibbous phase. It is 52 degrees outside, and we are looking at an overnight low of 48 degrees with no rain expected.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. Over at Verona Area High School, it is currently 51 degrees with clear skies. The overnight low will be around 48 degrees, with rain unlikely. Tonight we have a Waxing Gibbous.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-09-23",
-    "updateDate": "2026-09-23T02:08:45.197Z",
+    "updateDate": "2026-09-23T03:08:52.230Z",
     "titleText": "Verona City News",
-    "mainText": "City residents should note that the Verona Senior Center is currently offering meal services including grab-and-go options and home-delivered meals, while the public works department reminds everyone to sign up for the city newsletter to stay updated on local utility and infrastructure news.",
+    "mainText": "In city affairs, the latest update is: Police.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-09-23",
-    "updateDate": "2026-09-23T02:08:45.197Z",
+    "updateDate": "2026-09-23T03:08:52.230Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community. Today, you can join others for trivia at Hop Haus or Lake Lou-ee. Tomorrow, the Verona Downtown Farmer's Market takes over Hometown Junction Park, followed by trivia night at the Bogey Factory and live music series at Paddy Mac's.",
+    "mainText": "If you are planning your week, we have local events coming up, including Hop Haus Trivia Today at Hop Haus Brewing Co..",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-09-23",
-    "updateDate": "2026-09-23T02:08:45.197Z",
+    "updateDate": "2026-09-23T03:08:52.230Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on September 3, a 33-year-old Madison man was arrested for operating while intoxicated, second offence, after a vehicle crash on Shooting Star Road.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-23",
-    "updateDate": "2026-09-23T02:08:45.197Z",
+    "updateDate": "2026-09-23T03:08:52.230Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is available now, but please note that the Verona location is closing soon in 51 minutes, so be sure to plan your visit accordingly if you want a treat before they close for the night.",
+    "mainText": "Today's Culver's flavor was z *Closed Today for Remodel!. The restaurant is closed for the night and will open tomorrow at 10:00 AM featuring z *Closed Today for Remodel!.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
