@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-23",
-    "updateDate": "2026-09-23T21:05:49.375Z",
+    "updateDate": "2026-09-23T22:05:36.457Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. It is 65 degrees at Harriet Park under partly cloudy skies with a waxing gibbous moon. The International Space Station passes overhead tonight, but you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: it is 64 degrees and overcast at Badger Prairie County Park. The ISS will pass overhead tonight, but you will not be able to see it due to the clouds. Tonight will reach an overnight low of 50 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-23",
-    "updateDate": "2026-09-23T21:05:49.375Z",
+    "updateDate": "2026-09-23T22:05:36.457Z",
     "titleText": "Verona City News",
-    "mainText": "Public Works crews are preparing for fall leaf collection starting October 5, and the city is also reviewing various development plans, including a site plan for Sub-Zero in the Liberty Business Park.",
+    "mainText": "In city news, the engineering department has provided its latest reports to the city council, and residents should prepare for the fall leaf collection season starting October 5, which requires loose leaves to be placed behind the curb.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-23",
-    "updateDate": "2026-09-23T21:05:49.375Z",
+    "updateDate": "2026-09-23T22:05:36.457Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with local options including the farmer's market, yoga at Insight Wellness, and trivia at the Bogey Factory, while tomorrow you can join in for Hop Haus trivia.",
+    "mainText": "There is plenty to do today including yoga at Insight Wellness, the downtown farmer's market, pizza and a pitcher at Wisconsin Brewing Company, and trivia at The Bogey Factory. Looking ahead, we have trivia tomorrow at Hop Haus and the popular Verona Fall Fest this Thursday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-23",
-    "updateDate": "2026-09-23T21:05:49.375Z",
+    "updateDate": "2026-09-23T22:05:36.457Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from September 10, officers responded to an in-progress burglary where a suspect fired a shot and was later detained after sustaining an injury.",
+    "mainText": "In a report from September 3, a 33-year-old Madison man was arrested for O W I after crashing his vehicle on Shooting Star Road.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-23",
-    "updateDate": "2026-09-23T21:05:49.375Z",
+    "updateDate": "2026-09-23T22:05:36.457Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for a building remodel, so there is no flavor of the day to report at this time.",
+    "mainText": "Culver's of Verona is currently closed for a facility remodel, so we look forward to their return soon.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
