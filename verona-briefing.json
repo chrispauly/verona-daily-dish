@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-23",
-    "updateDate": "2026-09-23T06:10:24.824Z",
+    "updateDate": "2026-09-23T07:10:05.678Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we have 49 degree temperatures and clear skies at Harriet Park under a waxing gibbous moon.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: we have clear skies and a temperature of 49 degrees over Fireman's Park, with a lovely waxing gibbous moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-23",
-    "updateDate": "2026-09-23T06:10:24.824Z",
+    "updateDate": "2026-09-23T07:10:05.678Z",
     "titleText": "Verona City News",
-    "mainText": "City news today includes an update from the Verona Police Department, which is looking for new patrol officers, and a reminder that the Senior Center offers both grab and go and home-delivered meal options for local residents.",
+    "mainText": "In city news, the Verona Police Department is seeking new patrol officers for community-oriented work, and the city is hosting a free e-waste drop-off event at the Recycling Center this Saturday.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-23",
-    "updateDate": "2026-09-23T06:10:24.824Z",
+    "updateDate": "2026-09-23T07:10:05.678Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our city, including the Verona Downtown Farmers Market happening today, trivia tonight at The Bogey Factory, and pizza and a pitcher at Wisconsin Brewing Company happening today.",
+    "mainText": "We have plenty happening today, including live music at Paddy Mac's, yoga at Insight Wellness, the downtown farmer's market, and pizza night at Lake Lou-ee, plus trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-23",
-    "updateDate": "2026-09-23T06:10:24.824Z",
+    "updateDate": "2026-09-23T07:10:05.678Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a weekly recap of notable calls, officers reported that on September 5th, they discovered multiple vehicles with cheese slices on their windshields as part of a viral social media trend.",
+    "mainText": "In a noteworthy call from September 5, an officer discovered multiple vehicles with cheese slices on their windshields as part of a viral social media trend, though no property damage was reported.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-23",
-    "updateDate": "2026-09-23T06:10:24.824Z",
+    "updateDate": "2026-09-23T07:10:05.678Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "While Culver's is currently closed for a remodel, the store opens today at 10:00 AM to serve the community.",
+    "mainText": "If you are planning your day, keep in mind that the Culver's of Verona opens today at 10:00 AM, where you can grab the delicious flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
