@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-23",
-    "updateDate": "2026-09-23T18:08:19.131Z",
+    "updateDate": "2026-09-23T19:05:26.407Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: it is 63 degrees and clear at Badger Prairie County Park. We are currently under a waxing gibbous moon phase. Also, the ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 2 PM, we are enjoying clear skies at Badger Prairie County Park with a comfortable temperature of 65 degrees and a waxing gibbous moon above. If you look up tonight at 7:43 PM, you can catch the ISS flying from the northwest near the high school toward the east over Fitchburg, reaching about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-23",
-    "updateDate": "2026-09-23T18:08:19.131Z",
+    "updateDate": "2026-09-23T19:05:26.407Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona announced that fall leaf collection starts October 5 with trucks making weekly rounds; remember to keep piles loose and off the street. Additionally, the Plan Commission meets on October 5 to review several development projects including new site plans and certified survey maps.",
+    "mainText": "Mark your calendars for October 5, as the city begins its weekly fall leaf collection. Remember to keep loose leaves behind the curb and away from obstacles. Also, the Plan Commission will review several development projects at their meeting on October 5.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-23",
-    "updateDate": "2026-09-23T18:08:19.131Z",
+    "updateDate": "2026-09-23T19:05:26.407Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a busy schedule today including live music at Paddy Mac's, yoga at Insight Wellness, the Verona Downtown Farmer's Market at Hometown Junction Park, Wednesday pizza and a pitcher at Lake Lou-ee, and trivia at the Bogey Factory. Looking ahead, you can catch Hop Haus trivia tomorrow.",
+    "mainText": "Today is packed with activities, including live music at Paddy Mac's, yoga at Insight Wellness, the downtown farmers market at Hometown Junction Park, and trivia night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-23",
-    "updateDate": "2026-09-23T18:08:19.131Z",
+    "updateDate": "2026-09-23T19:05:26.407Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding recent activity, on September 10, officers responded to a burglary in progress on Hunters Cove Way where a shot was fired; an officer was able to detain the suspect shortly after.",
+    "mainText": "In our weekly police report, on September 5, an officer discovered multiple vehicles with cheese slices on their windshields throughout the city, which was identified as a social media prank called the dairy dare.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-23",
-    "updateDate": "2026-09-23T18:08:19.131Z",
+    "updateDate": "2026-09-23T19:05:26.407Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for a building remodel today, so no flavor of the day is available.",
+    "mainText": "While Culver's is open until 10:00 PM, they are currently closed for a remodel, so there is no flavor of the day available today.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
