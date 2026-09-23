@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-23",
-    "updateDate": "2026-09-23T13:06:35.928Z",
+    "updateDate": "2026-09-23T14:06:29.692Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish. Over at Fireman's Park, it is currently 51 degrees with mainly clear skies. The ISS will pass overhead tonight starting at 7:43 PM for 5 minutes, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we have clear skies and a temperature of 54 degrees near the Verona Public Library. The moon is in a Waxing Gibbous phase, and while the ISS passes overhead tonight, you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-23",
-    "updateDate": "2026-09-23T13:06:35.928Z",
+    "updateDate": "2026-09-23T14:06:29.692Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Police.",
+    "mainText": "The Verona Plan Commission is meeting on Monday, October 5th, to discuss several development projects, including site plans for the Liberty Business Park and multiple residential surveys. Additionally, the department is currently hiring new patrol officers for the Verona Police Department.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-23",
-    "updateDate": "2026-09-23T13:06:35.928Z",
+    "updateDate": "2026-09-23T14:06:29.692Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's Today at Paddy Mac's.",
+    "mainText": "There is plenty to do in Verona today, including live music at Paddy Mac's, yoga at Insight Wellness, the downtown farmers market, pizza at Lake Lou-ee, and trivia night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-23",
-    "updateDate": "2026-09-23T13:06:35.928Z",
+    "updateDate": "2026-09-23T14:06:29.692Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "Regarding the weekly report, on September 5th, officers investigated a series of incidents where vehicles were targeted with cheese slices, which was identified as a social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-23",
-    "updateDate": "2026-09-23T13:06:35.928Z",
+    "updateDate": "2026-09-23T14:06:29.692Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Culver's Flavor of the Day is unknown flavor. The restaurant opens today at 10:00 AM.",
+    "mainText": "Culver's of Verona is currently closed for a remodeling project, but the team will be ready to serve you when they open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
