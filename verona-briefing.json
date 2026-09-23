@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-23",
-    "updateDate": "2026-09-23T22:05:36.457Z",
+    "updateDate": "2026-09-23T23:04:51.966Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: it is 64 degrees and overcast at Badger Prairie County Park. The ISS will pass overhead tonight, but you will not be able to see it due to the clouds. Tonight will reach an overnight low of 50 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: expect 62 degrees and partly cloudy skies near Badger Ridge Middle School. The moon is in its Waxing Gibbous phase, and while the ISS is passing overhead tonight, you won't be able to see it due to the clouds. Tonight will cool down to 50 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-23",
-    "updateDate": "2026-09-23T22:05:36.457Z",
+    "updateDate": "2026-09-23T23:04:51.966Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the engineering department has provided its latest reports to the city council, and residents should prepare for the fall leaf collection season starting October 5, which requires loose leaves to be placed behind the curb.",
+    "mainText": "City engineering reports from September 2026 have been added to the city website, and residents should prepare for the fall leaf collection program which kicks off on October 5. Remember to keep leaf piles clear of obstacles like hydrants and parked cars.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-23",
-    "updateDate": "2026-09-23T22:05:36.457Z",
+    "updateDate": "2026-09-23T23:04:51.966Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today including yoga at Insight Wellness, the downtown farmer's market, pizza and a pitcher at Wisconsin Brewing Company, and trivia at The Bogey Factory. Looking ahead, we have trivia tomorrow at Hop Haus and the popular Verona Fall Fest this Thursday.",
+    "mainText": "Today is a busy day for our community! You can visit the Verona Downtown Farmer's Market at Hometown Junction Park, join Trivia Night at The Bogey Factory, or enjoy Pizza and a Pitcher at Wisconsin Brewing Company. Looking ahead, Hop Haus is hosting trivia tomorrow, and the popular Verona Fall Fest is happening on September 25.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-23",
-    "updateDate": "2026-09-23T22:05:36.457Z",
+    "updateDate": "2026-09-23T23:04:51.966Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from September 3, a 33-year-old Madison man was arrested for O W I after crashing his vehicle on Shooting Star Road.",
+    "mainText": "In police news, officers responded to an incident on September 5 involving a vehicle traveling 83 miles per hour in a 65 mile per hour zone on the highway. The driver was arrested for an O W I and cited for operating after revocation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-23",
-    "updateDate": "2026-09-23T22:05:36.457Z",
+    "updateDate": "2026-09-23T23:04:51.966Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for a facility remodel, so we look forward to their return soon.",
+    "mainText": "Today's flavor at the Verona Culver's is the delightful Turtle Dove. The store is currently open and will remain open until 10:00 PM, so there is still plenty of time to stop by for a treat this evening.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
