@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-23",
-    "updateDate": "2026-09-23T08:08:11.551Z",
+    "updateDate": "2026-09-23T09:06:45.102Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, we have clear skies with a temperature of 48 degrees near Badger Prairie County Park and a waxing gibbous moon visible overhead.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: it is 48 degrees with clear skies observed at the Verona Public Library and a waxing gibbous moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-23",
-    "updateDate": "2026-09-23T08:08:11.551Z",
+    "updateDate": "2026-09-23T09:06:45.102Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department is actively seeking new patrol officers to join their team, offering a path for those new to law enforcement or experienced professionals, while the City is also hosting a free e-waste drop-off event this Saturday from 8 AM to 3 PM.",
+    "mainText": "The City of Verona is hosting a free e-waste drop-off event this Saturday at the recycling center on Investment Court from 8 AM to 3 PM, and the police department is actively recruiting new patrol officers.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-23",
-    "updateDate": "2026-09-23T08:08:11.551Z",
+    "updateDate": "2026-09-23T09:06:45.102Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with activities, including the Verona Downtown Farmer's Market at Hometown Junction Park, live music at Paddy Mac's, and trivia at The Bogey Factory, followed by more fun tomorrow like Hop Haus Trivia.",
+    "mainText": "There is plenty to do in town today, including yoga at Insight Wellness, pizza and a pitcher at Wisconsin Brewing Company, trivia at The Bogey Factory, and the Verona Downtown Farmer's Market.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-23",
-    "updateDate": "2026-09-23T08:08:11.551Z",
+    "updateDate": "2026-09-23T09:06:45.102Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a strange incident on September 5, officers discovered multiple vehicles in the area of East Harriet and Main Street covered in slices of cheese, which they identified as part of a viral social media prank.",
+    "mainText": "In a serious incident from September 10, officers responded to a burglary and a reported shot fired on Hunters Cove Way, where they successfully detained the offender.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-23",
-    "updateDate": "2026-09-23T08:08:11.551Z",
+    "updateDate": "2026-09-23T09:06:45.102Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for a remodel, but you can head over when they open today at 10:00 AM to grab your meal.",
+    "mainText": "Culver's is currently closed for a remodel, but they will be ready to serve you when they open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
