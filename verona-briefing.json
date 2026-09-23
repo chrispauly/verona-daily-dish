@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-23",
-    "updateDate": "2026-09-23T03:08:52.230Z",
+    "updateDate": "2026-09-23T04:07:04.440Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. Over at Verona Area High School, it is currently 51 degrees with clear skies. The overnight low will be around 48 degrees, with rain unlikely. Tonight we have a Waxing Gibbous.",
+    "mainText": "Hello, Verona! At 11 PM, conditions at City Hall are clear with a temperature of 51 degrees, under a Waxing Gibbous moon phase, and we expect an overnight low of 47 degrees with no rain.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-23",
-    "updateDate": "2026-09-23T03:08:52.230Z",
+    "updateDate": "2026-09-23T04:07:04.440Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Police.",
+    "mainText": "The City of Verona is hosting a free e-waste drop-off event on Saturday, October 17 at the Recycling Center from 8:00 AM to 3:00 PM, while the police department continues their recruitment efforts for new patrol officers.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-23",
-    "updateDate": "2026-09-23T03:08:52.230Z",
+    "updateDate": "2026-09-23T04:07:04.440Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Hop Haus Trivia Today at Hop Haus Brewing Co..",
+    "mainText": "There is a busy schedule of events in Verona starting tomorrow, including the Downtown Farmers Market at Hometown Junction Park, Wednesday trivia at The Bogey Factory, and pizza night at the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-23",
-    "updateDate": "2026-09-23T03:08:52.230Z",
+    "updateDate": "2026-09-23T04:07:04.440Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "Regarding recent activity, on September 5, an officer discovered multiple vehicles with cheese on their windshields throughout several city streets, which was linked to a viral social media prank known as the Dairy Dare.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-23",
-    "updateDate": "2026-09-23T03:08:52.230Z",
+    "updateDate": "2026-09-23T04:07:04.440Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Culver's flavor was z *Closed Today for Remodel!. The restaurant is closed for the night and will open tomorrow at 10:00 AM featuring z *Closed Today for Remodel!.",
+    "mainText": "Culver's of Verona is currently closed for the night, but we look forward to the next flavor of the day when they reopen tomorrow morning at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
