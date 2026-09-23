@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-23",
-    "updateDate": "2026-09-23T11:05:45.595Z",
+    "updateDate": "2026-09-23T12:09:12.332Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: we are looking at clear skies at Fireman's Park with a current temperature of 48 degrees and a waxing gibbous moon overhead.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: it is 48 degrees with a real feel of 43 under partly cloudy skies near the Verona Public Library.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-23",
-    "updateDate": "2026-09-23T11:05:45.595Z",
+    "updateDate": "2026-09-23T12:09:12.332Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Police Department is currently seeking service-minded individuals to join their team as patrol officers, offering full training and specialized roles. Additionally, mark your calendars for the free e-waste drop-off event happening at the Recycling Center this Saturday.",
+    "mainText": "The City of Verona is hosting a free E-Waste drop-off event on October 17th from 8 AM to 3 PM at the Recycling Center, where residents can bring electronics like televisions and computers. Additionally, the Verona Police Department is hiring, offering career development in units like the Drone Team and K9 Unit.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-23",
-    "updateDate": "2026-09-23T11:05:45.595Z",
+    "updateDate": "2026-09-23T12:09:12.332Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town with the Verona Downtown Farmer's Market taking place today, followed by Trivia Night at The Bogey Factory this evening. Looking ahead, you can catch the Verona Fall Fest this Thursday.",
+    "mainText": "There is plenty to do in our city today, including the Verona Downtown Farmer's Market at Hometown Junction Park and Live Music at Paddy Mac's. Looking ahead, you can catch Hop Haus Trivia tomorrow or visit the Verona Fall Fest on September 25th.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-23",
-    "updateDate": "2026-09-23T11:05:45.595Z",
+    "updateDate": "2026-09-23T12:09:12.332Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on September 5th, an officer responded to a series of reports involving vehicles with cheese placed on their windshields, which was identified as a viral social media prank called the Dairy Dare.",
+    "mainText": "On September 5th, officers encountered a strange situation where multiple vehicles had cheese slices placed on their windshields, a viral social media trend known as the Dairy Dare.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-23",
-    "updateDate": "2026-09-23T11:05:45.595Z",
+    "updateDate": "2026-09-23T12:09:12.332Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for a remodel, but they are scheduled to open today at 10:00 AM to serve the community.",
+    "mainText": "Culver's is currently closed for a building remodel, but they will be ready to welcome guests again starting today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
