@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-24",
-    "updateDate": "2026-09-24T10:06:16.011Z",
+    "updateDate": "2026-09-24T11:06:01.531Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: it is 52 degrees with clear skies by City Hall and a waxing gibbous moon overhead.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish. Over at Verona City Hall, it is currently 52 degrees with clear skies. Tonight we have a Waxing Gibbous.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-09-24",
-    "updateDate": "2026-09-24T10:06:16.011Z",
+    "updateDate": "2026-09-24T11:06:01.531Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced that fall leaf pickup begins on October 5, requiring residents to place loose leaves behind the curb. Additionally, the Plan Commission is meeting on October 5 to review several development projects including work at 2681 Country View Court and the Liberty Business Park.",
+    "mainText": "In city affairs, the latest update is: Engineering Updates.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-09-24",
-    "updateDate": "2026-09-24T10:06:16.011Z",
+    "updateDate": "2026-09-24T11:06:01.531Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can participate in Yoga at Insight Wellness, and tomorrow is packed with excitement including Fall Fest at Hometown USA Festival Park and live music at various local venues.",
+    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-09-24",
-    "updateDate": "2026-09-24T10:06:16.011Z",
+    "updateDate": "2026-09-24T11:06:01.531Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 3, a 33-year-old man was arrested for a second offence O W I after crashing his vehicle in the 700 block of Shooting Star Road.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-24",
-    "updateDate": "2026-09-24T10:06:16.011Z",
+    "updateDate": "2026-09-24T11:06:01.531Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for a remodel, but they will open today at 10:00 AM to serve the community.",
+    "mainText": "Today's Culver's Flavor of the Day is z *Closed Today for Remodel!. The restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
