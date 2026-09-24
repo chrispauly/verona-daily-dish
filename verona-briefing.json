@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-24",
-    "updateDate": "2026-09-24T20:06:29.150Z",
+    "updateDate": "2026-09-24T21:05:56.722Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. It is 68 degrees with overcast skies near the Verona Public Library. We have a full moon tonight, and the ISS passes overhead, but you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we have clear skies and a temperature of 69 degrees at Harriet Park. We have a full moon tonight, and while the ISS will pass overhead, you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-24",
-    "updateDate": "2026-09-24T20:06:29.150Z",
+    "updateDate": "2026-09-24T21:05:56.722Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona reports that planning and zoning fees must be paid by check to the City Administration Building. Please be wary of emails that are not from a veronawi.gov address that ask for digital payments.",
+    "mainText": "The Planning Department has issued a scam alert warning applicants that the city never requests payment for permit fees through wire transfers or online portals. Additionally, keep an eye out for the start of fall leaf collection beginning October 5, with loose leaves placed behind the curb.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-24",
-    "updateDate": "2026-09-24T20:06:29.150Z",
+    "updateDate": "2026-09-24T21:05:56.722Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, including Yoga at Insight Wellness today and trivia at Hop Haus tonight. Looking ahead, Verona Fall Fest happens tomorrow at Hometown USA Festival Park.",
+    "mainText": "There is plenty to do, including Yoga at Insight Wellness today and Hop Haus trivia tonight. Looking ahead, you can enjoy live music at Bailey's Run and the Verona Fall Fest tomorrow, followed by the Downtown Farmer's Market next week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-24",
-    "updateDate": "2026-09-24T20:06:29.150Z",
+    "updateDate": "2026-09-24T21:05:56.722Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5, a 26-year-old driver was arrested for operating with a prohibited alcohol concentration after being stopped for speeding on the highway.",
+    "mainText": "For our weekly report, on September 5, officers responded to reports of multiple vehicles featuring cheese slices on their windshields, identifying the activity as a viral social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-24",
-    "updateDate": "2026-09-24T20:06:29.150Z",
+    "updateDate": "2026-09-24T21:05:56.722Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for a building remodel. We will let you know as soon as they are back to serving up their famous flavors.",
+    "mainText": "Culver's of Verona is open until 10 PM today, though please note they are currently undergoing a remodel and do not have a featured flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
