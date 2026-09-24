@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-24",
-    "updateDate": "2026-09-24T01:18:34.863Z",
+    "updateDate": "2026-09-24T02:09:23.281Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. Over at Badger Prairie County Park, it is currently 58 degrees with clear skies. The overnight low will be around 53 degrees, with rain unlikely. Tonight we have a Waxing Gibbous. The ISS will be visible tonight starting at 9:19 PM for 1 minutes. Look for it rising in the West Northwest (over Cross Plains) and traveling toward the Southeast (heading toward Oregon near Costco), reaching high in the sky.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. We are seeing clear skies around the Military Ridge State Trail with an overnight low of 53 degrees and no rain in the forecast. If you look up at 9:19 PM, you can catch the ISS flying high in the sky, traveling from the direction of Cross Plains over toward Oregon near Costco.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-24",
-    "updateDate": "2026-09-24T01:18:34.863Z",
+    "updateDate": "2026-09-24T02:09:23.281Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Engineering Updates.",
+    "mainText": "In city news, the Plan Commission is meeting on October 5 to discuss various development projects, including site plans for Liberty Business Park. Also, remember that fall leaf collection kicks off that same day, so please keep leaf piles off the street and away from hydrants or mailboxes.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-24",
-    "updateDate": "2026-09-24T01:18:34.863Z",
+    "updateDate": "2026-09-24T02:09:23.281Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's Today at Paddy Mac's.",
+    "mainText": "We have a busy couple of days ahead. Today, you can check out live music at Paddy Mac's, visit the downtown farmer's market, grab pizza at Lake Lou-ee, or join trivia at The Bogey Factory. Looking ahead, we have trivia at Hop Haus tomorrow, and the popular Verona Fall Fest coming up on September 25.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-24",
-    "updateDate": "2026-09-24T01:18:34.863Z",
+    "updateDate": "2026-09-24T02:09:23.281Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "For our weekly report, officers responded on September 10 to a burglary at Hunters Cove Way where a suspect was detained after a firearm was discharged during the incident.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-24",
-    "updateDate": "2026-09-24T01:18:34.863Z",
+    "updateDate": "2026-09-24T02:09:23.281Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: z *Closed Today for Remodel!. The restaurant is open until 10:00 PM.",
+    "mainText": "Culver's of Verona is currently open until 10 PM, but please be aware that they are closed today for a facility remodel, so we look forward to their return.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
