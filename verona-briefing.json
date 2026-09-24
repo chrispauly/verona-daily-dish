@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-24",
-    "updateDate": "2026-09-24T02:09:23.281Z",
+    "updateDate": "2026-09-24T03:06:55.826Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. We are seeing clear skies around the Military Ridge State Trail with an overnight low of 53 degrees and no rain in the forecast. If you look up at 9:19 PM, you can catch the ISS flying high in the sky, traveling from the direction of Cross Plains over toward Oregon near Costco.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: it is 55 degrees out at Fireman's Park under a Waxing Gibbous moon. Tonight, the low will hit 51 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-24",
-    "updateDate": "2026-09-24T02:09:23.281Z",
+    "updateDate": "2026-09-24T03:06:55.826Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Plan Commission is meeting on October 5 to discuss various development projects, including site plans for Liberty Business Park. Also, remember that fall leaf collection kicks off that same day, so please keep leaf piles off the street and away from hydrants or mailboxes.",
+    "mainText": "The city is preparing for fall with leaf collection beginning October 5, and the Plan Commission is meeting the same day to review several development projects including a new site plan for Sub-Zero.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-24",
-    "updateDate": "2026-09-24T02:09:23.281Z",
+    "updateDate": "2026-09-24T03:06:55.826Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Today, you can check out live music at Paddy Mac's, visit the downtown farmer's market, grab pizza at Lake Lou-ee, or join trivia at The Bogey Factory. Looking ahead, we have trivia at Hop Haus tomorrow, and the popular Verona Fall Fest coming up on September 25.",
+    "mainText": "Today you can catch live music at Paddy Mac's or trivia at The Bogey Factory. Looking ahead, don't miss the Fall Fest on September 25 at Hometown USA Festival Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-24",
-    "updateDate": "2026-09-24T02:09:23.281Z",
+    "updateDate": "2026-09-24T03:06:55.826Z",
     "titleText": "Verona Police Report",
-    "mainText": "For our weekly report, officers responded on September 10 to a burglary at Hunters Cove Way where a suspect was detained after a firearm was discharged during the incident.",
+    "mainText": "On September 3, a 33-year-old man was arrested for an O W I offence after crashing his vehicle on Shooting Star Road.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-24",
-    "updateDate": "2026-09-24T02:09:23.281Z",
+    "updateDate": "2026-09-24T03:06:55.826Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently open until 10 PM, but please be aware that they are closed today for a facility remodel, so we look forward to their return.",
+    "mainText": "The Culver's of Verona location is currently closed for the night. They will reopen tomorrow at 10 AM to serve up tomorrow's flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
