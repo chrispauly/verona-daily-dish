@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-24",
-    "updateDate": "2026-09-24T00:14:42.553Z",
+    "updateDate": "2026-09-24T01:18:34.863Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. We are seeing 61 degrees at Reddan Soccer Park with partly cloudy skies and a waxing gibbous moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds. Tonight will cool down to a low of 51 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. Over at Badger Prairie County Park, it is currently 58 degrees with clear skies. The overnight low will be around 53 degrees, with rain unlikely. Tonight we have a Waxing Gibbous. The ISS will be visible tonight starting at 9:19 PM for 1 minutes. Look for it rising in the West Northwest (over Cross Plains) and traveling toward the Southeast (heading toward Oregon near Costco), reaching high in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-09-24",
-    "updateDate": "2026-09-24T00:14:42.553Z",
+    "updateDate": "2026-09-24T01:18:34.863Z",
     "titleText": "Verona City News",
-    "mainText": "The city is preparing for the fall leaf pickup season starting October 5, so keep your piles on the curb and clear of obstacles. Additionally, the Plan Commission is meeting on October 5 to discuss various development projects, including site plans for the Sub-Zero facility in Liberty Business Park.",
+    "mainText": "In city affairs, the latest update is: Engineering Updates.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-09-24",
-    "updateDate": "2026-09-24T00:14:42.553Z",
+    "updateDate": "2026-09-24T01:18:34.863Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is a busy one in Verona! We have live music at Paddy Mac's, yoga sessions at Insight Wellness, the downtown farmer's market at Hometown Junction Park, pizza and pitchers at Lake Lou-ee, and trivia at The Bogey Factory. Looking ahead, you can enjoy trivia at Hop Haus tomorrow, and later this week we have live music at Bailey's Run, the Fall Fest at Hometown USA Festival Park, and more live music at Lake Lou-ee.",
+    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's Today at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-09-24",
-    "updateDate": "2026-09-24T00:14:42.553Z",
+    "updateDate": "2026-09-24T01:18:34.863Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the recent police activity, on September 5, an officer located multiple vehicles with a slice of cheese on their windshields as part of a viral social media prank, which thankfully caused no damage.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-24",
-    "updateDate": "2026-09-24T00:14:42.553Z",
+    "updateDate": "2026-09-24T01:18:34.863Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for a facility remodel, so we are waiting for that to wrap up.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: z *Closed Today for Remodel!. The restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
