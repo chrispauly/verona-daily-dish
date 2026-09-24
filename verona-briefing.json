@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-24",
-    "updateDate": "2026-09-24T08:08:51.762Z",
+    "updateDate": "2026-09-24T09:06:23.493Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: it is 54 degrees with mainly clear skies around Verona City Hall under a waxing gibbous moon.",
+    "mainText": "Hello, Verona! At 4 AM, we are looking at clear skies and 53 degrees down by Harriet Park, with a beautiful Waxing Gibbous moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-24",
-    "updateDate": "2026-09-24T08:08:51.762Z",
+    "updateDate": "2026-09-24T09:06:23.493Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona announced that Fall Leaf Collection begins on Monday, October 5, with residents reminded to place leaves behind the curb rather than in the street. Additionally, the Plan Commission will meet on October 5 to review various development projects, including site plans for Sub-Zero at Liberty Business Park.",
+    "mainText": "In city news, fall leaf collection officially begins on October 5. Please remember to place loose leaves behind the curb and keep them clear of obstacles like hydrants and mailboxes.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-24",
-    "updateDate": "2026-09-24T08:08:51.762Z",
+    "updateDate": "2026-09-24T09:06:23.493Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can participate in Yoga at Insight Wellness. Looking ahead to tomorrow, enjoy live music at Bailey's Run, the Verona Fall Fest at Hometown USA Festival Park, and more live music at Lake Lou-ee.",
+    "mainText": "There is plenty to do in town, starting with Yoga at Insight Wellness and Hop Haus Trivia both taking place today. Looking ahead, you can enjoy live music at Bailey's Run or head to the Verona Fall Fest tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-24",
-    "updateDate": "2026-09-24T08:08:51.762Z",
+    "updateDate": "2026-09-24T09:06:23.493Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding recent activity, on September 5, officers investigated a series of incidents where vehicles were found with slices of cheese on their windshields, identifying it as a viral social media prank.",
+    "mainText": "In police news, on September 5, officers responded to reports of cheese being placed on car windshields across town, which they identified as part of a viral social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-24",
-    "updateDate": "2026-09-24T08:08:51.762Z",
+    "updateDate": "2026-09-24T09:06:23.493Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "While the store is currently closed, you can look forward to stopping by when it opens today at 10:00 AM to enjoy the flavor of the day.",
+    "mainText": "If you are looking for a snack, please note that Culver's is closed this morning but will be open for business today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
