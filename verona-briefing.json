@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-24",
-    "updateDate": "2026-09-24T06:10:21.039Z",
+    "updateDate": "2026-09-24T07:08:58.375Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we have clear skies at Harriet Park and a waxing gibbous moon, with a temperature of 53 degrees.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: it is 55 degrees with clear skies at Reddan Soccer Park and a waxing gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-24",
-    "updateDate": "2026-09-24T06:10:21.039Z",
+    "updateDate": "2026-09-24T07:08:58.375Z",
     "titleText": "Verona City News",
-    "mainText": "The city is currently processing several development projects for the Plan Commission meeting on October 5, including sites on Main Street and in the Liberty Business Park. Additionally, public works crews are finalizing preparations for the fall leaf pickup, which begins on October 5; please remember to keep piles clear of hydrants and mailboxes.",
+    "mainText": "City officials announced that fall leaf collection starts October 5, requiring residents to keep leaves off the street, while the Plan Commission meets the same day to review various local development projects.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-24",
-    "updateDate": "2026-09-24T06:10:21.039Z",
+    "updateDate": "2026-09-24T07:08:58.375Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You have plenty of options to enjoy around town, including Yoga at Insight Wellness happening today, and the exciting Verona Fall Fest taking place tomorrow at Hometown USA Festival Park.",
+    "mainText": "Today you can enjoy Yoga at Insight Wellness or Hop Haus trivia, followed by a busy tomorrow featuring live music at Bailey's Run and Lake Lou-ee plus the start of the Verona Fall Fest.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-24",
-    "updateDate": "2026-09-24T06:10:21.039Z",
+    "updateDate": "2026-09-24T07:08:58.375Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report regarding notable calls from August 31 to September 14, on September 3, a 33-year-old Madison man was arrested for O W I, second offence, after crashing his vehicle on Shooting Star Road.",
+    "mainText": "On September 3, a 33-year-old Madison man was arrested for an O W I second offence following a vehicle crash in the 700 block of Shooting Star Road.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-24",
-    "updateDate": "2026-09-24T06:10:21.039Z",
+    "updateDate": "2026-09-24T07:08:58.375Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We have a delicious treat waiting for you. Culver's opens today at 10:00 AM with today's flavor of the day, so make sure to stop by and satisfy that craving.",
+    "mainText": "The local Culver's opens today at 10:00 AM, so be sure to stop by and check out the flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
