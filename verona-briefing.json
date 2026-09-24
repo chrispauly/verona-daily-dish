@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-24",
-    "updateDate": "2026-09-24T12:09:16.403Z",
+    "updateDate": "2026-09-24T13:06:09.527Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. Over at Badger Prairie County Park, it is currently 50 degrees with mainly clear skies.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we are looking at clear skies and 52 degrees near the Verona Public Library.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-24",
-    "updateDate": "2026-09-24T12:09:16.403Z",
+    "updateDate": "2026-09-24T13:06:09.527Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Engineering Updates.",
+    "mainText": "The City of Verona has announced that fall leaf collection begins on Monday, October 5, and asks residents to place loose leaves behind the curb. Also, the Plan Commission is meeting on that same day to review several development projects including work at Sub-Zero in Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-24",
-    "updateDate": "2026-09-24T12:09:16.403Z",
+    "updateDate": "2026-09-24T13:06:09.527Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
+    "mainText": "There is plenty to do in town, starting with Yoga at Insight Wellness happening today. Tomorrow, you can enjoy the Verona Fall Fest at Hometown USA Festival Park or catch some live music at Bailey's Run Vineyard.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-24",
-    "updateDate": "2026-09-24T12:09:16.403Z",
+    "updateDate": "2026-09-24T13:06:09.527Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "In our weekly report, we noted an incident from September 10 where officers responded to a burglary in the 600 block of Hunters Cove Way, resulting in an arrest after an officer provided medical assistance to the offender.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-24",
-    "updateDate": "2026-09-24T12:09:16.403Z",
+    "updateDate": "2026-09-24T13:06:09.527Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Culver's Flavor of the Day is z *Closed Today for Remodel!. The restaurant opens today at 10:00 AM.",
+    "mainText": "While Culver's is currently closed for a remodel, they are scheduled to open today at 10:00 AM. Be sure to stop by once they are back in action to enjoy the flavors of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
