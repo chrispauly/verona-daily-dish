@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-25",
-    "updateDate": "2026-09-25T17:06:48.639Z",
+    "updateDate": "2026-09-25T18:07:25.849Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish. Over at Verona Public Library, it is currently 67 degrees with mainly clear skies. The ISS will be visible tonight starting at 7:44 PM for 5 minutes. Look for it rising in the Northwest (over Middleton near Verona High School) and traveling toward the East Southeast (heading toward Oregon / Fitchburg near Festival Foods), reaching high in the sky.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we are seeing overcast skies at Verona City Hall with a temperature of 67 degrees. The ISS will pass overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-25",
-    "updateDate": "2026-09-25T17:06:48.639Z",
+    "updateDate": "2026-09-25T18:07:25.849Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Aldi Road Construction Update  Hwy M Closure  Detour.",
+    "mainText": "Important construction alert: Hwy M near the future Aldi location will be closed from October 5 to October 7 for asphalt and shoulder work, with traffic detoured to Old PB and Verona Avenue. Also, remember that the City of Verona only accepts check payments for planning fees delivered to the City Administration Building.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-25",
-    "updateDate": "2026-09-25T17:06:48.639Z",
+    "updateDate": "2026-09-25T18:07:25.849Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Bailey's Run Today at Bailey's Run Vineyard.",
+    "mainText": "We have a busy couple of days ahead. Today, check out the Verona Fall Fest at Hometown USA Festival Park or catch live music at Bailey's Run Vineyard. Tomorrow, the Dane County Farmers' Market takes over the Capitol Square.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-25",
-    "updateDate": "2026-09-25T17:06:48.639Z",
+    "updateDate": "2026-09-25T18:07:25.849Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "For our weekly report, on September 10, officers responded to a burglary in progress at Hunters Cove Way, where a suspect was detained following a gunshot and physical injury during the break-in.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-25",
-    "updateDate": "2026-09-25T17:06:48.639Z",
+    "updateDate": "2026-09-25T18:07:25.849Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: z *Closed Today for Remodel!. The restaurant is open until 10:30 PM.",
+    "mainText": "Culver's of Verona is currently closed for a remodeling project, but you can look forward to the OREO REESE'S Cheesecake flavor coming when they reopen.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
