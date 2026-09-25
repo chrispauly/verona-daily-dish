@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-25",
-    "updateDate": "2026-09-25T02:07:51.549Z",
+    "updateDate": "2026-09-25T03:07:20.496Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish on the weather. We are looking at 63 degrees with overcast skies at Badger Prairie County Park, plus a full moon tonight. Looking ahead, the temperature will drop to 59 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: it is 61 degrees under an overcast sky with a full moon visible over Verona Community Park. The temperature will dip to an overnight low of 58 degrees, and there is no rain in the forecast for the night.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-25",
-    "updateDate": "2026-09-25T02:07:51.549Z",
+    "updateDate": "2026-09-25T03:07:20.496Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has issued a scam alert regarding fake requests for planning and zoning fees; please remember that all official city emails end in at veronawi dot gov. Additionally, city crews are preparing for fall leaf collection which begins October 5, so please keep loose leaves behind the curb.",
+    "mainText": "The Planning Department has issued a scam alert for applicants receiving fake emails requesting payments via wire transfer or online credit cards. Official City of Verona communications will only come from an address ending in at veronawi.gov, and all fees must be paid via check at the City Administration Building on Lincoln Street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-25",
-    "updateDate": "2026-09-25T02:07:51.549Z",
+    "updateDate": "2026-09-25T03:07:20.496Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty going on in town today, starting with Yoga at Insight Wellness and trivia at Hop Haus Brewing. Looking to tomorrow, you can catch live music at Bailey's Run Vineyard, check out the popular Verona Fall Fest at Hometown USA Festival Park, or enjoy music at Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do in our city! Today, you can check out Yoga at Insight Wellness or head to Hop Haus Brewing for trivia. Tomorrow, don't miss the award-winning Verona Fall Fest at Hometown USA Festival Park or live music at Bailey's Run Vineyard.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-25",
-    "updateDate": "2026-09-25T02:07:51.549Z",
+    "updateDate": "2026-09-25T03:07:20.496Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from September 10, police responded to a burglary in the 600 block of Hunters Cove Way where an individual was detained and treated for injuries sustained during the incident.",
+    "mainText": "In our weekly report, on September 5th, officers were called to investigate a series of vehicles with cheese slices placed on their windshields, which turned out to be a viral social media prank known as the Dairy Dare.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-25",
-    "updateDate": "2026-09-25T02:07:51.549Z",
+    "updateDate": "2026-09-25T03:07:20.496Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently open, but hurry in because they are closing in 52 minutes for a scheduled remodel.",
+    "mainText": "The Culver's of Verona location is currently closed for the night. We look forward to seeing you tomorrow morning when the store opens at 10:00 AM to serve up our next flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
