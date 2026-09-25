@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-25",
-    "updateDate": "2026-09-25T01:18:23.278Z",
+    "updateDate": "2026-09-25T02:07:51.549Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. It is 64 degrees and overcast near the Verona Public Library with a full moon tonight. The ISS is passing overhead, but you will not be able to see it due to the clouds. Tonight's low will be 59 degrees, and there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish on the weather. We are looking at 63 degrees with overcast skies at Badger Prairie County Park, plus a full moon tonight. Looking ahead, the temperature will drop to 59 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-25",
-    "updateDate": "2026-09-25T01:18:23.278Z",
+    "updateDate": "2026-09-25T02:07:51.549Z",
     "titleText": "Verona City News",
-    "mainText": "City officials have issued a scam alert regarding planning and zoning application fees. Please remember the city does not accept online credit card or wire transfer payments. All fees must be paid by check and delivered to the city administration building on Lincoln Street. Also, residents should prepare for fall leaf pickup which begins on October 5.",
+    "mainText": "The City of Verona has issued a scam alert regarding fake requests for planning and zoning fees; please remember that all official city emails end in at veronawi dot gov. Additionally, city crews are preparing for fall leaf collection which begins October 5, so please keep loose leaves behind the curb.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-25",
-    "updateDate": "2026-09-25T01:18:23.278Z",
+    "updateDate": "2026-09-25T02:07:51.549Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this week in Verona. Today you can enjoy Yoga at Insight Wellness or trivia at Hop Haus. Tomorrow, look forward to the Verona Fall Fest, live music at Bailey's Run, and live music at Lake Lou-ee.",
+    "mainText": "We have plenty going on in town today, starting with Yoga at Insight Wellness and trivia at Hop Haus Brewing. Looking to tomorrow, you can catch live music at Bailey's Run Vineyard, check out the popular Verona Fall Fest at Hometown USA Festival Park, or enjoy music at Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-25",
-    "updateDate": "2026-09-25T01:18:23.278Z",
+    "updateDate": "2026-09-25T02:07:51.549Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on September 5, officers discovered multiple vehicles with slices of cheese on their windshields in what appears to be a viral social media prank.",
+    "mainText": "In a noteworthy call from September 10, police responded to a burglary in the 600 block of Hunters Cove Way where an individual was detained and treated for injuries sustained during the incident.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-25",
-    "updateDate": "2026-09-25T01:18:23.278Z",
+    "updateDate": "2026-09-25T02:07:51.549Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently closed for a facility remodel, though they typically operate until 10:00 PM.",
+    "mainText": "Culver's is currently open, but hurry in because they are closing in 52 minutes for a scheduled remodel.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
