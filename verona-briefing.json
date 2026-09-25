@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-25",
-    "updateDate": "2026-09-25T11:05:33.422Z",
+    "updateDate": "2026-09-25T12:09:06.382Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: we are seeing overcast skies at Fireman's Park with a full moon overhead.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: it is currently 58 degrees with overcast skies near Harriet Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-25",
-    "updateDate": "2026-09-25T11:05:33.422Z",
+    "updateDate": "2026-09-25T12:09:06.382Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has issued a scam alert regarding fake planning application fee requests, reminding residents to pay only by check to City Hall, and fall leaf collection officially begins this October 5.",
+    "mainText": "The city has issued a scam alert regarding planning and zoning fees; remember that the City of Verona does not accept online payments or wire transfers. Additionally, fall leaf pickup is set to begin on October 5, so please keep leaf piles separate from brush and away from street obstacles.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-25",
-    "updateDate": "2026-09-25T11:05:33.422Z",
+    "updateDate": "2026-09-25T12:09:06.382Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty to look forward to, including the Verona Fall Fest happening today, followed by the Dane County Farmer's Market tomorrow at the Capitol Square.",
+    "mainText": "There is plenty to do in our community, with live music at Bailey's Run Vineyard and the Verona Fall Fest taking place today, plus the Dane County Farmers' Market at the square tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-25",
-    "updateDate": "2026-09-25T11:05:33.422Z",
+    "updateDate": "2026-09-25T12:09:06.382Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a weekly update, officers reported that on September 10, a man was arrested for burglary after an incident involving a gunshot and a broken window at a local residence.",
+    "mainText": "In a report covering late August through mid-September, police noted a strange incident on September 5 where vehicles were found with cheese slices on their windshields as part of a social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-25",
-    "updateDate": "2026-09-25T11:05:33.422Z",
+    "updateDate": "2026-09-25T12:09:06.382Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona opens today at 10:00 AM, and you can come by to enjoy today's flavor, z.",
+    "mainText": "While Culver's is currently closed for a remodel, the store opens today at 10 AM, where you can pick up today's flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
