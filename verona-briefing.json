@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-25",
-    "updateDate": "2026-09-25T21:05:30.651Z",
+    "updateDate": "2026-09-25T22:05:49.331Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: it is 69 degrees and overcast at Fireman's Park, and we are looking forward to a full moon tonight. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: we have overcast skies at Harriet Park with temperatures at 67 degrees. Tonight, the moon is full, and while the ISS is passing by, the cloud cover will prevent any viewing. The overnight low will be 49 degrees, and we are not expecting any rain.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-25",
-    "updateDate": "2026-09-25T21:05:30.651Z",
+    "updateDate": "2026-09-25T22:05:49.331Z",
     "titleText": "Verona City News",
-    "mainText": "A section of Hwy M will be closed for road work from October 5 through October 7, with detours directed to Old PB and Main Street. Additionally, the city reminds residents to be wary of scam emails requesting payment for planning or zoning fees, as all legitimate city communications come from a veronawi.gov address.",
+    "mainText": "City officials remind residents that Hwy M near the Aldi site will be closed from October 5 through October 7 for road improvements. Additionally, fall leaf pickup begins citywide on October 5, so please keep leaf piles clear of obstacles and out of the street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-25",
-    "updateDate": "2026-09-25T21:05:30.651Z",
+    "updateDate": "2026-09-25T22:05:49.331Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule! Verona Fall Fest is happening today at Hometown USA Festival Park, and live music is scheduled today at Bailey's Run Vineyard and the Wisconsin Brewing Company. Tomorrow, check out the Dane County Farmers' Market at the Capitol and live music at Paddy Mac's.",
+    "mainText": "There is plenty to do this weekend, including Live Music at Bailey's Run and the Verona Fall Fest today. Tomorrow, you can visit the Dane County Farmer's Market or enjoy music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-25",
-    "updateDate": "2026-09-25T21:05:30.651Z",
+    "updateDate": "2026-09-25T22:05:49.331Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5, an officer investigated a report of cheese placed on multiple vehicle windshields around East Harriet and Main Street, which was identified as a viral social media prank.",
+    "mainText": "In our weekly police report, on September 5, officers investigated a series of reports regarding vehicles with cheese left on their windshields, which was identified as a viral social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-25",
-    "updateDate": "2026-09-25T21:05:30.651Z",
+    "updateDate": "2026-09-25T22:05:49.331Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently closed for a building remodel. Be sure to check back tomorrow, when they open at 10 AM, for the flavor of the day, OREO REESE'S Cheesecake.",
+    "mainText": "Culver's of Verona is currently closed for a building remodel. Please look forward to enjoying their classic flavors again once they reopen.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
