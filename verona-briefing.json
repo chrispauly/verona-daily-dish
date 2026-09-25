@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-25",
-    "updateDate": "2026-09-25T20:05:14.881Z",
+    "updateDate": "2026-09-25T21:05:30.651Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: it is 68 degrees with overcast skies at Reddan Soccer Park, and a full moon will be visible tonight.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: it is 69 degrees and overcast at Fireman's Park, and we are looking forward to a full moon tonight. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-25",
-    "updateDate": "2026-09-25T20:05:14.881Z",
+    "updateDate": "2026-09-25T21:05:30.651Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona reports that Highway M will undergo a closure for construction starting October 5, and residents should also be aware of a scam alert regarding fake emails requesting payment for planning application fees.",
+    "mainText": "A section of Hwy M will be closed for road work from October 5 through October 7, with detours directed to Old PB and Main Street. Additionally, the city reminds residents to be wary of scam emails requesting payment for planning or zoning fees, as all legitimate city communications come from a veronawi.gov address.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-25",
-    "updateDate": "2026-09-25T20:05:14.881Z",
+    "updateDate": "2026-09-25T21:05:30.651Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a great lineup today including the Verona Fall Fest and live music at Bailey's Run, followed by the Dane County Farmer's Market happening tomorrow.",
+    "mainText": "We have a busy schedule! Verona Fall Fest is happening today at Hometown USA Festival Park, and live music is scheduled today at Bailey's Run Vineyard and the Wisconsin Brewing Company. Tomorrow, check out the Dane County Farmers' Market at the Capitol and live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-25",
-    "updateDate": "2026-09-25T20:05:14.881Z",
+    "updateDate": "2026-09-25T21:05:30.651Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 10, officers responded to a burglary incident at Hunters Cove Way involving a 19-year-old suspect who was apprehended after a shot was fired.",
+    "mainText": "On September 5, an officer investigated a report of cheese placed on multiple vehicle windshields around East Harriet and Main Street, which was identified as a viral social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-25",
-    "updateDate": "2026-09-25T20:05:14.881Z",
+    "updateDate": "2026-09-25T21:05:30.651Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today at Culver's, the location is closed for a scheduled remodel, but you can look forward to OREO REESE'S Cheesecake as tomorrow's flavor when they open at 10 AM.",
+    "mainText": "Culver's is currently closed for a building remodel. Be sure to check back tomorrow, when they open at 10 AM, for the flavor of the day, OREO REESE'S Cheesecake.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
