@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-25",
-    "updateDate": "2026-09-25T09:06:45.249Z",
+    "updateDate": "2026-09-25T10:06:29.162Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: it is 59 degrees and overcast near the Reddan Soccer Park with a full moon overhead.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we are seeing overcast skies at Harriet Park with a temperature of 58 degrees and an air quality index of 51 under a full moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-25",
-    "updateDate": "2026-09-25T09:06:45.249Z",
+    "updateDate": "2026-09-25T10:06:29.162Z",
     "titleText": "Verona City News",
-    "mainText": "The Planning Department wants to remind you to watch out for scams requesting online wire transfers for permits, as they only accept checks at the administration building. Also, remember that Fall Leaf collection kicks off on October 5th.",
+    "mainText": "The Planning Department is alerting residents to be wary of scammers requesting application fee payments via wire transfer or suspicious websites. Also, public works crews are preparing for fall leaf pickup which begins October 5.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-25",
-    "updateDate": "2026-09-25T09:06:45.249Z",
+    "updateDate": "2026-09-25T10:06:29.162Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule with live music at Bailey's Run and Lake Lou-ee happening today, followed by the Verona Fall Fest today as well. Looking ahead, you can visit the Dane County Farmer's Market tomorrow.",
+    "mainText": "There is plenty to do with Live Music at Bailey's Run and the Verona Fall Fest both happening today. Tomorrow, you can catch the Dane County Farmer's Market or live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-25",
-    "updateDate": "2026-09-25T09:06:45.249Z",
+    "updateDate": "2026-09-25T10:06:29.162Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report regarding notable calls, on September 5th, police were called to investigate a viral social media prank where vehicles were found with cheese slices on their windshields.",
+    "mainText": "In a noteworthy call from September 5, Verona officers responded to reports of vehicles with cheese slices on their windshields, identifying it as a viral social media prank known as the Dairy Dare.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-25",
-    "updateDate": "2026-09-25T09:06:45.249Z",
+    "updateDate": "2026-09-25T10:06:29.162Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for a remodel, but they will open today at 10:00 AM so you can grab their flavor of the day.",
+    "mainText": "Culver's is currently closed but will open today at 10:00 AM with their flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
