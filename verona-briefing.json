@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-25",
-    "updateDate": "2026-09-25T06:10:22.596Z",
+    "updateDate": "2026-09-25T07:09:41.930Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we are seeing 59 degrees under overcast skies out at Badger Prairie County Park, accompanied by a full moon.",
+    "mainText": "Hello, Verona! At 2 AM, it is 60 degrees with overcast skies near the Reddan Soccer Park and a full moon is currently visible.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-25",
-    "updateDate": "2026-09-25T06:10:22.596Z",
+    "updateDate": "2026-09-25T07:09:41.930Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is reminding residents to be cautious of scams regarding planning and zoning application fees. Please remember that the city never requests payment via wire transfer or online credit card processing; all fees must be paid by check to the city administration building. Additionally, keep an eye out for fall leaf pickup which begins on October 5th.",
+    "mainText": "The City of Verona has issued a scam alert warning residents about fake emails requesting planning application fees online, reminding everyone to only pay by check at the City Administration Building; meanwhile, public works crews are gearing up for fall leaf collection starting October 5.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-25",
-    "updateDate": "2026-09-25T06:10:22.596Z",
+    "updateDate": "2026-09-25T07:09:41.930Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is a big day with the Verona Fall Fest taking place, while tomorrow you can head over to the Dane County Farmer's Market at the State Capitol or catch live music at Paddy Mac's.",
+    "mainText": "There is plenty to do in Verona with the Verona Fall Fest, live music at Bailey's Run, and entertainment at the Wisconsin Brewing Company all happening today, plus the Dane County Farmers' Market on the square happens tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-25",
-    "updateDate": "2026-09-25T06:10:22.596Z",
+    "updateDate": "2026-09-25T07:09:41.930Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5th, the Verona Police Department responded to reports of a social media prank where slices of cheese were placed on vehicle windshields throughout town.",
+    "mainText": "In a noteworthy call from September 10, officers responded to a burglary in progress at Hunters Cove Way where a suspect was apprehended after a shot was fired during the incident.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-25",
-    "updateDate": "2026-09-25T06:10:22.596Z",
+    "updateDate": "2026-09-25T07:09:41.930Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is closed for a remodel but will open today at 10:00 AM to serve up their daily flavor.",
+    "mainText": "Culver's of Verona will open today at 10:00 AM, so be sure to stop by and treat yourself to today's flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
