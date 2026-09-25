@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-25",
-    "updateDate": "2026-09-25T08:08:25.949Z",
+    "updateDate": "2026-09-25T09:06:45.249Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, the temperature is 59 degrees with a moderate drizzle near the Verona Area High School, all under the light of a Full Moon.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: it is 59 degrees and overcast near the Reddan Soccer Park with a full moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-25",
-    "updateDate": "2026-09-25T08:08:25.949Z",
+    "updateDate": "2026-09-25T09:06:45.249Z",
     "titleText": "Verona City News",
-    "mainText": "The Planning Department reminds applicants to watch for email scams asking for online payments; always pay fees by check at the City Administration Building. Additionally, fall leaf collection begins October 5, so please keep leaf piles separate from brush.",
+    "mainText": "The Planning Department wants to remind you to watch out for scams requesting online wire transfers for permits, as they only accept checks at the administration building. Also, remember that Fall Leaf collection kicks off on October 5th.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-25",
-    "updateDate": "2026-09-25T08:08:25.949Z",
+    "updateDate": "2026-09-25T09:06:45.249Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Enjoy the Verona Fall Fest today at Hometown USA Festival Park, or catch live music at Bailey's Run and Lake Lou-ee. Tomorrow, visit the Dane County Farmers Market or Paddy Mac's for more local entertainment.",
+    "mainText": "We have a busy schedule with live music at Bailey's Run and Lake Lou-ee happening today, followed by the Verona Fall Fest today as well. Looking ahead, you can visit the Dane County Farmer's Market tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-25",
-    "updateDate": "2026-09-25T08:08:25.949Z",
+    "updateDate": "2026-09-25T09:06:45.249Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 10, officers responded to a burglary at Hunters Cove Way where an offender was apprehended after a shot was fired.",
+    "mainText": "In a report regarding notable calls, on September 5th, police were called to investigate a viral social media prank where vehicles were found with cheese slices on their windshields.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-25",
-    "updateDate": "2026-09-25T08:08:25.949Z",
+    "updateDate": "2026-09-25T09:06:45.249Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently closed for a remodel, but they will be ready to serve you when they open today at 10:00 AM.",
+    "mainText": "Culver's of Verona is currently closed for a remodel, but they will open today at 10:00 AM so you can grab their flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
