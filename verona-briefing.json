@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-09-24",
-    "updateDate": "2026-09-24T23:05:20.029Z",
+    "uid": "verona-balanced-weather-2026-09-25",
+    "updateDate": "2026-09-25T00:15:57.299Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: we have 66 degree temperatures with overcast skies near the Military Ridge State Trail, and under the full moon, please note the ISS will pass overhead tonight, but you won't be able to see it due to the clouds. The overnight low will drop to 58 degrees, and there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. We are seeing overcast skies at 64 degrees at City Hall, and a full moon is out tonight. Expect an overnight low of 58 with no rain, and though the space station passes overhead, you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-09-24",
-    "updateDate": "2026-09-24T23:05:20.029Z",
+    "uid": "verona-balanced-news-2026-09-25",
+    "updateDate": "2026-09-25T00:15:57.299Z",
     "titleText": "Verona City News",
-    "mainText": "The Planning Department is reminding residents to be vigilant against scams involving permit fees, noting that fees must be paid by check at City Hall, while public works crews are preparing for fall leaf collection which begins October 5.",
+    "mainText": "The Planning Department reports that scammers are impersonating city staff to solicit illegal payments for permit fees. Remember that all payments must be by check delivered to the administration building. Additionally, Fall Leaf Collection begins October 5, so keep your piles clear of street obstacles.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-09-24",
-    "updateDate": "2026-09-24T23:05:20.029Z",
+    "uid": "verona-balanced-events-2026-09-25",
+    "updateDate": "2026-09-25T00:15:57.299Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with yoga at Insight Wellness and trivia at Hop Haus occurring today, followed by live music and the Verona Fall Fest starting tomorrow.",
+    "mainText": "We have plenty going on, with Yoga at Insight Wellness and Hop Haus Trivia both happening today. Tomorrow, enjoy live music at Bailey's Run or head over to Hometown USA Festival Park for the popular Verona Fall Fest.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-09-24",
-    "updateDate": "2026-09-24T23:05:20.029Z",
+    "uid": "verona-balanced-police-2026-09-25",
+    "updateDate": "2026-09-25T00:15:57.299Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5, officers responded to a peculiar series of reports regarding vehicles having slices of cheese placed on their windshields as part of an internet trend.",
+    "mainText": "On September 3, a 33-year-old Madison man was arrested for O W I, second offence, after crashing his vehicle on Shooting Star Road.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-09-24",
-    "updateDate": "2026-09-24T23:05:20.029Z",
+    "uid": "verona-balanced-culvers-2026-09-25",
+    "updateDate": "2026-09-25T00:15:57.299Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "While we usually love sharing the flavor of the day, Culver's of Verona is currently closed today for a scheduled remodel.",
+    "mainText": "Culver's remains open until 10 PM today, but please be aware that the restaurant is currently closed for a remodel, meaning there is no flavor of the day available.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
