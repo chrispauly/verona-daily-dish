@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-25",
-    "updateDate": "2026-09-25T22:05:49.331Z",
+    "updateDate": "2026-09-25T23:05:06.144Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: we have overcast skies at Harriet Park with temperatures at 67 degrees. Tonight, the moon is full, and while the ISS is passing by, the cloud cover will prevent any viewing. The overnight low will be 49 degrees, and we are not expecting any rain.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: it is 66 degrees with clear skies at Badger Prairie County Park and a full moon shining bright. You can spot the International Space Station passing high in the sky starting at 7:44 PM, moving from the northwest near Verona High School toward the southeast near Festival Foods. Tonight, the temperature will drop to 48 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-25",
-    "updateDate": "2026-09-25T22:05:49.331Z",
+    "updateDate": "2026-09-25T23:05:06.144Z",
     "titleText": "Verona City News",
-    "mainText": "City officials remind residents that Hwy M near the Aldi site will be closed from October 5 through October 7 for road improvements. Additionally, fall leaf pickup begins citywide on October 5, so please keep leaf piles clear of obstacles and out of the street.",
+    "mainText": "In city news, Highway M near the new Aldi site will be closed for construction from October 5 through October 7, so please follow the posted detours on Old PB and Verona Avenue. Also, remember that all city planning fees must be paid by check to the city and never via wire transfer or suspicious online portals.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-25",
-    "updateDate": "2026-09-25T22:05:49.331Z",
+    "updateDate": "2026-09-25T23:05:06.144Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend, including Live Music at Bailey's Run and the Verona Fall Fest today. Tomorrow, you can visit the Dane County Farmer's Market or enjoy music at Paddy Mac's.",
+    "mainText": "There is plenty to do in our community, starting with live music at Bailey's Run and the Wisconsin Brewing Company, plus the Verona Fall Fest, all happening today. Looking ahead, tomorrow you can visit the Dane County Farmers' Market at the Capitol or catch live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-25",
-    "updateDate": "2026-09-25T22:05:49.331Z",
+    "updateDate": "2026-09-25T23:05:06.144Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on September 5, officers investigated a series of reports regarding vehicles with cheese left on their windshields, which was identified as a viral social media prank.",
+    "mainText": "Regarding recent police activity, on September 10, officers responded to an in-progress burglary on Hunters Cove Way where a 19-year-old male was taken into custody after a shot was fired during the incident.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-25",
-    "updateDate": "2026-09-25T22:05:49.331Z",
+    "updateDate": "2026-09-25T23:05:06.144Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for a building remodel. Please look forward to enjoying their classic flavors again once they reopen.",
+    "mainText": "Today at the Culver's in Verona, the store is currently closed for a facility remodel, so we do not have a flavor of the day to share at this time.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
