@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-25",
-    "updateDate": "2026-09-25T00:15:57.299Z",
+    "updateDate": "2026-09-25T01:18:23.278Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. We are seeing overcast skies at 64 degrees at City Hall, and a full moon is out tonight. Expect an overnight low of 58 with no rain, and though the space station passes overhead, you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. It is 64 degrees and overcast near the Verona Public Library with a full moon tonight. The ISS is passing overhead, but you will not be able to see it due to the clouds. Tonight's low will be 59 degrees, and there is no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-25",
-    "updateDate": "2026-09-25T00:15:57.299Z",
+    "updateDate": "2026-09-25T01:18:23.278Z",
     "titleText": "Verona City News",
-    "mainText": "The Planning Department reports that scammers are impersonating city staff to solicit illegal payments for permit fees. Remember that all payments must be by check delivered to the administration building. Additionally, Fall Leaf Collection begins October 5, so keep your piles clear of street obstacles.",
+    "mainText": "City officials have issued a scam alert regarding planning and zoning application fees. Please remember the city does not accept online credit card or wire transfer payments. All fees must be paid by check and delivered to the city administration building on Lincoln Street. Also, residents should prepare for fall leaf pickup which begins on October 5.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-25",
-    "updateDate": "2026-09-25T00:15:57.299Z",
+    "updateDate": "2026-09-25T01:18:23.278Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty going on, with Yoga at Insight Wellness and Hop Haus Trivia both happening today. Tomorrow, enjoy live music at Bailey's Run or head over to Hometown USA Festival Park for the popular Verona Fall Fest.",
+    "mainText": "There is plenty to do this week in Verona. Today you can enjoy Yoga at Insight Wellness or trivia at Hop Haus. Tomorrow, look forward to the Verona Fall Fest, live music at Bailey's Run, and live music at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-25",
-    "updateDate": "2026-09-25T00:15:57.299Z",
+    "updateDate": "2026-09-25T01:18:23.278Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 3, a 33-year-old Madison man was arrested for O W I, second offence, after crashing his vehicle on Shooting Star Road.",
+    "mainText": "In our weekly police report, on September 5, officers discovered multiple vehicles with slices of cheese on their windshields in what appears to be a viral social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-25",
-    "updateDate": "2026-09-25T00:15:57.299Z",
+    "updateDate": "2026-09-25T01:18:23.278Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's remains open until 10 PM today, but please be aware that the restaurant is currently closed for a remodel, meaning there is no flavor of the day available.",
+    "mainText": "Culver's is currently closed for a facility remodel, though they typically operate until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
