@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-25",
-    "updateDate": "2026-09-25T15:07:16.269Z",
+    "updateDate": "2026-09-25T16:07:07.934Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: expect clear skies around the Badger Prairie County Park area. Tonight is a full moon, and we have a fantastic viewing opportunity for the International Space Station. It will rise in the northwest near Verona High School at 7:44 PM and travel high across the sky toward the southeast near Festival Foods over a five minute window.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. It is 65 degrees at Verona Community Park under a full moon. The ISS will pass overhead tonight, but you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-25",
-    "updateDate": "2026-09-25T15:07:16.269Z",
+    "updateDate": "2026-09-25T16:07:07.934Z",
     "titleText": "Verona City News",
-    "mainText": "The Planning Department is alerting applicants to be cautious of scams asking for wire transfers or online payments for fees, as the city only accepts checks by mail or hand delivery to City Hall. Additionally, Public Works is gearing up for fall leaf pickup starting October 5th.",
+    "mainText": "The City of Verona reports that a portion of Highway M near the future Aldi site will be closed from October 5 through October 7 for road improvements. Please plan to use Old PB, East Verona Avenue, and South Main Street as your detour.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-25",
-    "updateDate": "2026-09-25T15:07:16.269Z",
+    "updateDate": "2026-09-25T16:07:07.934Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy couple of days for our community with Verona Fall Fest happening today at Hometown USA Festival Park, followed by the Dane County Farmers Market at the Capitol Square tomorrow.",
+    "mainText": "There is plenty to do in Verona today, including live music at Bailey's Run and the Verona Fall Fest at Hometown USA Festival Park. Tomorrow, you can head to the Dane County Farmer's Market at the Capitol Square or enjoy music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-25",
-    "updateDate": "2026-09-25T15:07:16.269Z",
+    "updateDate": "2026-09-25T16:07:07.934Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the records, on September 3rd, a 33-year-old man was arrested for an O W I after crashing his vehicle on Shooting Star Road.",
+    "mainText": "In our weekly police report, on September 5, officers investigated a local trend where vehicles were found with slices of cheese on their windshields, identified as a social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-25",
-    "updateDate": "2026-09-25T15:07:16.269Z",
+    "updateDate": "2026-09-25T16:07:07.934Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is closed today as the team works on a store remodel to better serve our community.",
+    "mainText": "The Culver's of Verona location is currently closed for a remodel, so today's flavor is unavailable. We look forward to their return.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
