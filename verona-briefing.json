@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-09-25",
-    "updateDate": "2026-09-25T23:05:06.144Z",
+    "uid": "verona-balanced-weather-2026-09-26",
+    "updateDate": "2026-09-26T00:15:13.693Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: it is 66 degrees with clear skies at Badger Prairie County Park and a full moon shining bright. You can spot the International Space Station passing high in the sky starting at 7:44 PM, moving from the northwest near Verona High School toward the southeast near Festival Foods. Tonight, the temperature will drop to 48 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 63 degrees under clear skies near Badger Ridge Middle School with a full moon visible tonight. You can also catch the space station at 7:44 PM as it travels from the northwest over Verona High School toward the southeast over Festival Foods. Looking ahead, the temperature will drop to an overnight low of 49 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-09-25",
-    "updateDate": "2026-09-25T23:05:06.144Z",
+    "uid": "verona-balanced-news-2026-09-26",
+    "updateDate": "2026-09-26T00:15:13.693Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Highway M near the new Aldi site will be closed for construction from October 5 through October 7, so please follow the posted detours on Old PB and Verona Avenue. Also, remember that all city planning fees must be paid by check to the city and never via wire transfer or suspicious online portals.",
+    "mainText": "For city updates, please note that a section of Highway M will be closed to traffic from October 5 through October 7 to allow for final road surfacing work. Additionally, crews begin fall leaf collection on October 5, so please remember to keep piles loose and off the street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-09-25",
-    "updateDate": "2026-09-25T23:05:06.144Z",
+    "uid": "verona-balanced-events-2026-09-26",
+    "updateDate": "2026-09-26T00:15:13.693Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community, starting with live music at Bailey's Run and the Wisconsin Brewing Company, plus the Verona Fall Fest, all happening today. Looking ahead, tomorrow you can visit the Dane County Farmers' Market at the Capitol or catch live music at Paddy Mac's.",
+    "mainText": "There is plenty to do in Verona today with live music at Bailey's Run and Wisconsin Brewing Company, along with the popular Verona Fall Fest at Hometown USA Festival Park. Tomorrow, the Dane County Farmers' Market takes place downtown, followed by live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-09-25",
-    "updateDate": "2026-09-25T23:05:06.144Z",
+    "uid": "verona-balanced-police-2026-09-26",
+    "updateDate": "2026-09-26T00:15:13.693Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding recent police activity, on September 10, officers responded to an in-progress burglary on Hunters Cove Way where a 19-year-old male was taken into custody after a shot was fired during the incident.",
+    "mainText": "A noteworthy incident occurred on September 5, when officers responded to reports of cheese being placed on vehicle windshields throughout the city as part of a viral social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-09-25",
-    "updateDate": "2026-09-25T23:05:06.144Z",
+    "uid": "verona-balanced-culvers-2026-09-26",
+    "updateDate": "2026-09-26T00:15:13.693Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today at the Culver's in Verona, the store is currently closed for a facility remodel, so we do not have a flavor of the day to share at this time.",
+    "mainText": "Culver's is closed today for a facility remodel. We look forward to them reopening tomorrow at 10:00 AM, when the featured flavor of the day will be OREO REESE'S Cheesecake.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
