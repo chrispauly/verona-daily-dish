@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-26",
-    "updateDate": "2026-09-26T12:08:01.951Z",
+    "updateDate": "2026-09-26T13:04:59.067Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have clear skies over the Military Ridge State Trail and an air quality index of 52, which is in the moderate range.",
+    "mainText": "Hello, Verona! At 8 AM, the weather at the Verona Public Library is a clear 48 degrees with an air quality index of 51.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-26",
-    "updateDate": "2026-09-26T12:08:01.951Z",
+    "updateDate": "2026-09-26T13:04:59.067Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, please be advised that Hwy M will face closures from October 5 to October 7 for final asphalt and marking work, and remember to protect yourself against planning department scams by only making payments via check to City Hall.",
+    "mainText": "Construction is coming to Hwy M near the new Aldi site starting October 5, requiring a full closure through October 7 for road improvements. Also, please be aware of a scam involving fake emails asking for payment of city planning fees; the city never accepts payments via wire transfer or online credit card.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-26",
-    "updateDate": "2026-09-26T12:08:01.951Z",
+    "updateDate": "2026-09-26T13:04:59.067Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with the Dane County Farmers Market today, live music at Bailey's Run, Paddy Mac's, and Wisconsin Brewing Company, plus Yoga on September 28 and trivia nights starting September 29.",
+    "mainText": "We have a busy schedule! The Dane County Farmer's Market is today at the State Capitol. Looking ahead, yoga is available at Insight Wellness on September 28, and you can test your knowledge at Hop Haus Trivia this coming September 29.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-26",
-    "updateDate": "2026-09-26T12:08:01.951Z",
+    "updateDate": "2026-09-26T13:04:59.067Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding our weekly police report, on September 5, officers discovered multiple vehicles with cheese slices on their windshields as part of a social media prank, though no permanent damage was reported.",
+    "mainText": "Regarding the weekly report, on September 5, police encountered a social media trend where vehicles were found covered in cheese slices across several streets, including North and South Main.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-26",
-    "updateDate": "2026-09-26T12:08:01.951Z",
+    "updateDate": "2026-09-26T13:04:59.067Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can look forward to the Oreo Reese's Cheesecake flavor of the day, and the store will be ready to serve you when it opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is the delicious Oreo Reese's Cheesecake, and you can stop by when the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
