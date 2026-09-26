@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-26",
-    "updateDate": "2026-09-26T02:07:56.691Z",
+    "updateDate": "2026-09-26T03:06:58.808Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: it is 59 degrees with clear skies by the Verona Public Library and a full moon lighting up the night. With an air quality index of 51, it is slightly elevated. You can catch the ISS passing low across the sky from Mount Horeb toward Belleville at 9:21 PM for one minute. The overnight low will reach 49 degrees, and there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: skies are clear near Badger Ridge Middle School under a full moon, with a temperature of 57 degrees and an air quality index of 51. Overnight, expect the temperature to drop to 49 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-26",
-    "updateDate": "2026-09-26T02:07:56.691Z",
+    "updateDate": "2026-09-26T03:06:58.808Z",
     "titleText": "Verona City News",
-    "mainText": "Construction alert: a section of Highway M near the future Aldi site will be closed from October 5 to October 7 for final pavement work. Also, the city's annual fall leaf collection starts on October 5, so please remember to place your loose leaves behind the curb for the vacuum trucks.",
+    "mainText": "City officials have announced that a section of Hwy M near the new Aldi site will be closed for construction from October 5 to October 7, so please plan for detours using Old PB and Main Street. Additionally, please remember the City of Verona only accepts fee payments by check, not through online wire transfers or credit cards.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-26",
-    "updateDate": "2026-09-26T02:07:56.691Z",
+    "updateDate": "2026-09-26T03:06:58.808Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can enjoy live music at Bailey's Run and Wisconsin Brewing Company, or head to Hometown USA Festival Park for the Verona Fall Fest. Tomorrow, the Dane County Farmers' Market returns to the Capitol Square, and Paddy Mac's continues its music series.",
+    "mainText": "There is plenty to do, including the Verona Fall Fest and live music at Bailey's Run both happening today, plus the Dane County Farmer's Market on the Square tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-26",
-    "updateDate": "2026-09-26T02:07:56.691Z",
+    "updateDate": "2026-09-26T03:06:58.808Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable call from September 10, officers responded to a burglary in the 600 block of Hunters Cove Way where a shot was fired; the suspect was apprehended and a handgun was recovered.",
+    "mainText": "Regarding local safety, on September 10, officers responded to a burglary at Hunters Cove Way where an offender was apprehended after a shot was fired during the incident.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-26",
-    "updateDate": "2026-09-26T02:07:56.691Z",
+    "updateDate": "2026-09-26T03:06:58.808Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor service has concluded for the evening. We look forward to seeing you tomorrow at 10:00 AM when we will be serving our OREO REESE'S Cheesecake flavor of the day.",
+    "mainText": "Culver's is currently closed for a remodel, but they will be back with the Oreo Reese's Cheesecake flavor of the day when they open tomorrow at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
