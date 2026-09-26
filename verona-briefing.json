@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-26",
-    "updateDate": "2026-09-26T18:06:46.359Z",
+    "updateDate": "2026-09-26T19:04:52.023Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: it is 65 degrees with clear skies near Verona Area High School and we have a full moon tonight. Also, the International Space Station will pass overhead tonight, but you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we are seeing clear skies and 67 degree temperatures near the Military Ridge State Trail. We also have a full moon tonight. The International Space Station will pass overhead, but please be aware that we will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-26",
-    "updateDate": "2026-09-26T18:06:46.359Z",
+    "updateDate": "2026-09-26T19:04:52.023Z",
     "titleText": "Verona City News",
-    "mainText": "For our city news, please be advised that Highway M will be closed for road construction from October 5 through October 7 to allow for asphalt work. Additionally, the city is warning residents about a scam involving fake emails requesting payment for planning or zoning fees, so please remember that the city only accepts payment by check.",
+    "mainText": "The city has announced that a segment of Highway M will be closed to traffic from October 5 through October 7 to allow crews to complete final road work. Additionally, please be cautious of email scams impersonating city staff; remember that official payments for planning applications must be made via check at the administration building.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-26",
-    "updateDate": "2026-09-26T18:06:46.359Z",
+    "updateDate": "2026-09-26T19:04:52.023Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, including the Dane County Farmer's Market happening today, plus live music at Bailey's Run and Paddy Mac's throughout the day. Looking ahead, you can enjoy yoga at Insight Wellness on September 28 or trivia nights at Hop Haus and Lake Lou-ee on September 29.",
+    "mainText": "There is a lot happening this weekend! Today, the Dane County Farmers Market is open, and we have live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking ahead, keep an eye out for Yoga at Insight Wellness on September 28 and trivia nights starting on September 29.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-26",
-    "updateDate": "2026-09-26T18:06:46.359Z",
+    "updateDate": "2026-09-26T19:04:52.023Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on September 5, officers encountered a strange situation where multiple vehicles had slices of cheese placed on their windshields, which was identified as a social media prank.",
+    "mainText": "In our weekly police report, officers noted an incident on September 5 where they discovered vehicles with cheese slices on their windshields, confirming it was part of a viral social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-26",
-    "updateDate": "2026-09-26T18:06:46.359Z",
+    "updateDate": "2026-09-26T19:04:52.023Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor at Culver's is the delicious OREO REESE'S Cheesecake and the restaurant is currently open for you until 10:30 PM.",
+    "mainText": "Today's flavor of the day is the delicious Oreo Reese's Cheesecake. The store is currently open and serving until 10:30 PM, so there is plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
