@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-26",
-    "updateDate": "2026-09-26T08:07:53.527Z",
+    "updateDate": "2026-09-26T09:05:47.518Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, we are looking at 49 degrees and clear skies near the Military Ridge State Trail, though please be aware of an air quality index of 53 under our current Full Moon.",
+    "mainText": "Hello, Verona! At 4 AM, we have clear skies at Harriet Park with a temperature of 48 degrees and an air quality index of 53.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-26",
-    "updateDate": "2026-09-26T08:07:53.527Z",
+    "updateDate": "2026-09-26T09:05:47.518Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that a section of Highway M will be closed from October 5 through October 7 for paving work. Additionally, please be vigilant against email scams requesting payment for planning fees as the city only accepts checks at City Hall.",
+    "mainText": "The city has announced that Highway M will be closed from October 5 through October 7 for final paving work, and officials are also reminding residents to watch out for scam emails regarding planning and zoning fees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-26",
-    "updateDate": "2026-09-26T08:07:53.527Z",
+    "updateDate": "2026-09-26T09:05:47.518Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with the Dane County Farmers Market occurring today, along with live music performances scheduled for today at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do today, including the Dane County Farmers Market, as well as live music performances at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-26",
-    "updateDate": "2026-09-26T08:07:53.527Z",
+    "updateDate": "2026-09-26T09:05:47.518Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly look back, on September 5, a driver was arrested for an O W I offence and other traffic violations after being stopped for speeding 83 miles per hour on the highway.",
+    "mainText": "In a noteworthy call from September 5, officers investigated a series of reports involving cheese slices placed on vehicle windshields, which appeared to be related to a social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-26",
-    "updateDate": "2026-09-26T08:07:53.527Z",
+    "updateDate": "2026-09-26T09:05:47.518Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can treat yourself to today's delicious flavor, OREO REESE'S Cheesecake, when the restaurant opens today at 10:00 AM.",
+    "mainText": "Today's delicious flavor is Oreo Reese's Cheesecake, and you can head over to grab a scoop when the restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
