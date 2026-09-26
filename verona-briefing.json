@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-26",
-    "updateDate": "2026-09-26T21:05:18.208Z",
+    "updateDate": "2026-09-26T22:05:25.234Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we have clear skies at Verona Community Park with a temperature of 68 degrees. The moon is currently full, and while there is an ISS pass tonight, you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: skies are clear over Badger Prairie County Park with a full moon visible. Although the ISS passes overhead tonight, you will not be able to see it due to the clouds. The temperature will dip to an overnight low of 49 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-26",
-    "updateDate": "2026-09-26T21:05:18.208Z",
+    "updateDate": "2026-09-26T22:05:25.234Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, please note that Highway M will be closed to traffic from October 5 through October 7 for final paving and asphalt work. Also, a reminder from the Planning Department to watch for online scams requesting payments for permit fees, as the city only accepts checks for these services.",
+    "mainText": "The city has announced that a section of Highway M will be closed from October 5 to October 7 for final pavement work, requiring drivers to follow posted detours. Also, remember to protect yourself from scams by never paying city planning fees via wire transfer or online credit card.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-26",
-    "updateDate": "2026-09-26T21:05:18.208Z",
+    "updateDate": "2026-09-26T22:05:25.234Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Today, you can visit the Dane County Farmers Market at the Capitol or catch live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking forward, Yoga at Insight Wellness is happening September 28.",
+    "mainText": "There is plenty to do in our area today, including the Dane County Farmers Market, plus live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking ahead, you can enjoy yoga at Insight Wellness on September 28 or trivia nights starting on September 29.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-26",
-    "updateDate": "2026-09-26T21:05:18.208Z",
+    "updateDate": "2026-09-26T22:05:25.234Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly police report, on September 3, a 33-year-old man was arrested for operating while intoxicated, or O W I, second offence, after crashing his vehicle on Shooting Star Road.",
+    "mainText": "In a noteworthy call from September 5, officers discovered multiple vehicles with cheese slices on their windshields, identified as part of a viral social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-26",
-    "updateDate": "2026-09-26T21:05:18.208Z",
+    "updateDate": "2026-09-26T22:05:25.234Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "It is a great day to grab a treat, as the Culver's flavor of the day is the delightful Oreo Reese's Cheesecake. The restaurant is currently open and will be serving up scoops until they close at 10:30 PM tonight.",
+    "mainText": "Today's delicious flavor of the day is Oreo Reese's Cheesecake. The restaurant is currently open, so head over before they close their doors at 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
