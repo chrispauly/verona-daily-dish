@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-26",
-    "updateDate": "2026-09-26T14:05:29.080Z",
+    "updateDate": "2026-09-26T15:05:49.656Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we have mainly clear skies with a temperature of 54 degrees at Reddan Soccer Park, and please note the air quality index is currently at 51.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: current temperatures are 57 degrees with overcast skies over the Verona Community Park area.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-26",
-    "updateDate": "2026-09-26T14:05:29.080Z",
+    "updateDate": "2026-09-26T15:05:49.656Z",
     "titleText": "Verona City News",
-    "mainText": "The city has two major updates: road construction on Highway M starts Monday, October 5, and will run through October 7 with detours in place, and fall leaf pickup begins on October 5, so remember to rake loose leaves behind the curb.",
+    "mainText": "The city has announced that Highway M will be closed from October 5 to October 7 to allow for asphalt and shoulder work near the new Aldi development, so please follow the posted detour signs. Additionally, remember to keep your planning application fees to checks delivered by mail or in person, as the city will never request wire transfers or credit card payments online.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-26",
-    "updateDate": "2026-09-26T14:05:29.080Z",
+    "updateDate": "2026-09-26T15:05:49.656Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot to do in the area today, including the Dane County Farmers Market at the Capitol, live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company.",
+    "mainText": "We have a busy schedule today including the Dane County Farmers Market, plus live music performances at Bailey's Run, Paddy Mac's, and Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-26",
-    "updateDate": "2026-09-26T14:05:29.080Z",
+    "updateDate": "2026-09-26T15:05:49.656Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident on September 10, officers responded to a burglary in progress on Hunters Cove Way where a shot was fired, and a 19-year-old male was eventually detained and jailed.",
+    "mainText": "In a noteworthy call from September 5, Verona officers responded to reports of cheese slices placed on windshields across several streets, identified as a social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-26",
-    "updateDate": "2026-09-26T14:05:29.080Z",
+    "updateDate": "2026-09-26T15:05:49.656Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is serving up the delicious Oreo Reese's Cheesecake today and will open today at 10:00 AM.",
+    "mainText": "Today's featured flavor at Culver's is OREO REESE'S Cheesecake. The restaurant is currently open, so you have until 10:30 PM tonight to stop in and enjoy a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
