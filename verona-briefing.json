@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-26",
-    "updateDate": "2026-09-26T22:05:25.234Z",
+    "updateDate": "2026-09-26T23:05:11.394Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: skies are clear over Badger Prairie County Park with a full moon visible. Although the ISS passes overhead tonight, you will not be able to see it due to the clouds. The temperature will dip to an overnight low of 49 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: skies are clear at the Verona Area High School with a full moon, and we are tracking an ISS pass tonight at 8:34 PM that will travel from over Cross Plains toward Oregon, reaching about halfway up the sky. Expect an overnight low of 49 degrees with no rain.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-26",
-    "updateDate": "2026-09-26T22:05:25.234Z",
+    "updateDate": "2026-09-26T23:05:11.394Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced that a section of Highway M will be closed from October 5 to October 7 for final pavement work, requiring drivers to follow posted detours. Also, remember to protect yourself from scams by never paying city planning fees via wire transfer or online credit card.",
+    "mainText": "City officials have announced that a section of Hwy M near the future Aldi site will be closed from October 5 to October 7 for final asphalt and marking work, and please remember to always verify the authenticity of city emails as officials will never request payment via wire transfer.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-26",
-    "updateDate": "2026-09-26T22:05:25.234Z",
+    "updateDate": "2026-09-26T23:05:11.394Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our area today, including the Dane County Farmers Market, plus live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking ahead, you can enjoy yoga at Insight Wellness on September 28 or trivia nights starting on September 29.",
+    "mainText": "We have a busy weekend ahead, starting with the Dane County Farmer's Market happening today, along with live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-26",
-    "updateDate": "2026-09-26T22:05:25.234Z",
+    "updateDate": "2026-09-26T23:05:11.394Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from September 5, officers discovered multiple vehicles with cheese slices on their windshields, identified as part of a viral social media prank.",
+    "mainText": "Regarding local public safety, officers handled a variety of calls recently, including an incident on September 10 where a burglary was reported in the 600 block of Hunters Cove Way involving a suspect who was apprehended after a gunshot was fired.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-26",
-    "updateDate": "2026-09-26T22:05:25.234Z",
+    "updateDate": "2026-09-26T23:05:11.394Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Oreo Reese's Cheesecake. The restaurant is currently open, so head over before they close their doors at 10:30 PM tonight.",
+    "mainText": "It is a great day to visit Culver's for their delicious flavor of the day, OREO REESE'S Cheesecake, and they are currently open until 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
