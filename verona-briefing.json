@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-27",
-    "updateDate": "2026-09-27T10:05:27.962Z",
+    "updateDate": "2026-09-27T11:05:12.281Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: it is 47 degrees with clear skies and a full moon shining over the Verona Public Library.",
+    "mainText": "Hello, Verona! At 6 AM, the skies are clear and the temperature is 47 degrees at Badger Prairie County Park, under a Full Moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-27",
-    "updateDate": "2026-09-27T10:05:27.962Z",
+    "updateDate": "2026-09-27T11:05:12.281Z",
     "titleText": "Verona City News",
-    "mainText": "Important updates for your commute: a section of Hwy M near the Aldi site will be closed for road work from Monday, October 5 through Wednesday, October 7. Also, the Planning Department reminds residents to watch out for scams involving fake fee requests, as all legitimate payments should be made via check at the City Administration Building.",
+    "mainText": "Construction on Hwy M near the future Aldi site will cause a closure from October 5 to October 7 for road improvements. Also, please be aware of fraudulent emails requesting online payments for city planning fees; the City only accepts checks hand-delivered or mailed to City Hall.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-27",
-    "updateDate": "2026-09-27T10:05:27.962Z",
+    "updateDate": "2026-09-27T11:05:12.281Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule ahead with live music at Bailey's Run and Lake Lou-ee happening today, yoga tomorrow at Insight Wellness, and several trivia nights and the farmer's market coming up early next week.",
+    "mainText": "We have a packed schedule with live music at Bailey's Run and Lake Lou-ee today, yoga tomorrow at Insight Wellness, and several trivia nights and the downtown farmers market occurring Tuesday, September 30.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-27",
-    "updateDate": "2026-09-27T10:05:27.962Z",
+    "updateDate": "2026-09-27T11:05:12.281Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly look back, officers were called on September 5 to investigate reports of cheese slices found on car windshields, which they identified as a social media prank.",
+    "mainText": "In noteworthy news from September 5, the Verona Police Department investigated a series of reports involving cheese left on windshields, which they identified as a viral social media prank.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-27",
-    "updateDate": "2026-09-27T10:05:27.962Z",
+    "updateDate": "2026-09-27T11:05:12.281Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor at Culver's is Turtle, and the store will be ready to serve you when it opens today at 10:00 AM.",
+    "mainText": "Today's delicious flavor of the day is Turtle. The Culver's of Verona will open today at 10:00 AM and will remain open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
