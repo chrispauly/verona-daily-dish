@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-27",
-    "updateDate": "2026-09-27T01:26:15.451Z",
+    "updateDate": "2026-09-27T02:11:47.235Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, we have clear skies and a temperature of 58 degrees near Verona Area High School, with an overnight low of 48 degrees and no rain in the forecast. Under the full moon, keep an eye on the sky at 8:34 PM to spot the space station as it travels from the Cross Plains area toward Oregon.",
+    "mainText": "Hello, Verona! At 9 PM, it is 57 degrees under overcast skies near City Hall. We are enjoying a full moon tonight, and the temperature will drop to an overnight low of 48 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-27",
-    "updateDate": "2026-09-27T01:26:15.451Z",
+    "updateDate": "2026-09-27T02:11:47.235Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced that a portion of Hwy M will be closed from October 5 through October 7 for final paving and road markings near the future Aldi site, with traffic detoured to Old PB, E Verona Ave, and S Main St. Also, the city reminds residents to be wary of phishing scams regarding planning fees, noting that official correspondence will only come from a veronawi.gov email address.",
+    "mainText": "Construction updates for Highway M indicate that a section near the new Aldi site will be closed from October 5 to October 7 for final pavement work. Additionally, the City of Verona reminds all residents to beware of online scams regarding planning or zoning fees; all payments must be made by check at the City Administration Building.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-27",
-    "updateDate": "2026-09-27T01:26:15.451Z",
+    "updateDate": "2026-09-27T02:11:47.235Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy weekend starting with the Dane County Farmer's Market today. You can also catch live music today at Bailey's Run, Paddy Mac's, and Wisconsin Brewing Company, while next week brings Yoga at Insight Wellness on September 28 and trivia nights at local spots like Hop Haus and Paddy Mac's.",
+    "mainText": "Today is packed with local events including the Dane County Farmers Market, plus live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company. Looking ahead, you can enjoy yoga at Insight Wellness on September 28 or test your knowledge at Hop Haus trivia on September 29.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-27",
-    "updateDate": "2026-09-27T01:26:15.451Z",
+    "updateDate": "2026-09-27T02:11:47.235Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly recap, on September 10, officers responded to a burglary in the 600 block of Hunters Cove Way where a 19-year-old male was taken into custody after a shot was fired and the suspect sustained a window-related injury.",
+    "mainText": "On September 5, Verona police officers encountered a series of reports involving cheese slices being placed on vehicle windshields, which they identified as a viral social media trend known as the Dairy Dare.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-27",
-    "updateDate": "2026-09-27T01:26:15.451Z",
+    "updateDate": "2026-09-27T02:11:47.235Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently open until 10:30 PM, so stop by to enjoy their delicious Flavor of the Day, OREO REESE'S Cheesecake.",
+    "mainText": "Today's delicious flavor of the day is Oreo Reese's Cheesecake. The store is currently open and will be serving guests until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
