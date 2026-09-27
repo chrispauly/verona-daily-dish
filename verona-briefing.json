@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-27",
-    "updateDate": "2026-09-27T14:05:22.922Z",
+    "updateDate": "2026-09-27T15:05:45.829Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we have 52-degree weather with partly cloudy skies at Harriet Park under a full moon. The ISS will pass overhead tonight, but you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: expect a high of 55 degrees with partly cloudy conditions at Harriet Park and a full moon tonight. While the space station will be passing overhead this evening, we unfortunately won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-27",
-    "updateDate": "2026-09-27T14:05:22.922Z",
+    "updateDate": "2026-09-27T15:05:45.829Z",
     "titleText": "Verona City News",
-    "mainText": "For city news, a portion of Hwy M near the future Aldi site will be closed from October 5 to October 7 for final paving and shoulder work, so please follow the posted detours. Additionally, the Planning Department urges residents to be aware of scams requesting fees via wire transfer or suspicious websites.",
+    "mainText": "In city news, a portion of Hwy M near the future Aldi site will be closed from October 5 through October 7 for final paving and road improvements. Please follow the posted detour signs using Old PB, E Verona Ave, and S Main St. Additionally, please remain vigilant against scam emails asking for permit fees; remember that the City of Verona only accepts check payments delivered to City Hall.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-27",
-    "updateDate": "2026-09-27T14:05:22.922Z",
+    "updateDate": "2026-09-27T15:05:45.829Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with live music today at Bailey's Run and Lake Lou-ee, followed by yoga tomorrow at Insight Wellness and trivia nights starting on September 29.",
+    "mainText": "There is plenty to do in our community this weekend. Today you can catch live music at both Bailey's Run Vineyard and the Wisconsin Brewing Company. Looking ahead to tomorrow, there is a yoga session at Insight Wellness, followed by a busy week featuring Tuesday trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus the Farmer's Market at Hometown Junction Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-27",
-    "updateDate": "2026-09-27T14:05:22.922Z",
+    "updateDate": "2026-09-27T15:05:45.829Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from September 5, officers investigated a viral social media prank where multiple vehicles were found with cheese slices left on their windshields.",
+    "mainText": "Regarding local law enforcement, on September 5, officers investigated a series of reports involving vehicles with cheese slices placed on their windshields in various downtown locations, which was identified as a social media trend.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-27",
-    "updateDate": "2026-09-27T14:05:22.922Z",
+    "updateDate": "2026-09-27T15:05:45.829Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's flavor, which is Turtle. The store opens today at 10:00 AM, so stop by to grab a scoop.",
+    "mainText": "If you are looking for a sweet treat, Culver's is currently open until 10 PM and is serving their delicious Turtle flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
