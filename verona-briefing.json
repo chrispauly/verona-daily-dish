@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-27",
-    "updateDate": "2026-09-27T20:06:32.226Z",
+    "updateDate": "2026-09-27T21:05:32.658Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: it is 72 degrees with overcast skies near Badger Prairie County Park. We are under a full moon tonight, and while the ISS will pass overhead, you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: it is 72 degrees with overcast skies at Fireman's Park. We are under a full moon, and although the ISS passes overhead tonight, we will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-27",
-    "updateDate": "2026-09-27T20:06:32.226Z",
+    "updateDate": "2026-09-27T21:05:32.658Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Highway M near the future Aldi site will be closed from October 5 through October 7 for final paving and road markings. Please follow the posted detours using Old PB and Main Street. Additionally, the ongoing Aldi development has shifted traffic patterns to maintain one lane in each direction while shoulder and utility work continues.",
+    "mainText": "In city news, Highway M near the new Aldi site will face closures from October 5 through October 7 for final paving work, with traffic detoured to Old PB, East Verona Avenue, and South Main Street. This follows earlier utility and shoulder work completed throughout the month.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-27",
-    "updateDate": "2026-09-27T20:06:32.226Z",
+    "updateDate": "2026-09-27T21:05:32.658Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule ahead. Today you can enjoy live music at both Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, check out yoga at Insight Wellness. Looking further ahead, trivia nights are scheduled for September 29 at Hop Haus and Wisconsin Brewing Company, followed by a full day of events on September 30 including the Farmer's Market and trivia at Paddy Mac's and The Bogey Factory.",
+    "mainText": "We have a busy schedule of local happenings, including live music at Bailey's Run Vineyard and the Wisconsin Brewing Company today, followed by yoga at Insight Wellness tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-27",
-    "updateDate": "2026-09-27T20:06:32.226Z",
+    "updateDate": "2026-09-27T21:05:32.658Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from our police department, an officer responded on September 10 to an in-progress burglary on Hunters Cove Way where a gunshot was heard and one suspect was taken into custody.",
+    "mainText": "Looking at the police report, on September 5, a 26-year-old driver was arrested on Highway 18/151 for speeding and O W I, after testing over the allowed limit.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-27",
-    "updateDate": "2026-09-27T20:06:32.226Z",
+    "updateDate": "2026-09-27T21:05:32.658Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Turtle. The restaurant is currently open, and with an closing time of 10 PM, there is still plenty of time to head over and enjoy a scoop.",
+    "mainText": "It is a great day to visit Culver's for the Turtle flavor of the day. The store is currently open and serving until 10:00 PM, so stop by for a treat before they close for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
