@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-27",
-    "updateDate": "2026-09-27T02:11:47.235Z",
+    "updateDate": "2026-09-27T03:07:32.215Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, it is 57 degrees under overcast skies near City Hall. We are enjoying a full moon tonight, and the temperature will drop to an overnight low of 48 degrees with no rain expected.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. It is 55 degrees with overcast skies near the Verona Area High School, and under a full moon, we expect an overnight low of 47 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-27",
-    "updateDate": "2026-09-27T02:11:47.235Z",
+    "updateDate": "2026-09-27T03:07:32.215Z",
     "titleText": "Verona City News",
-    "mainText": "Construction updates for Highway M indicate that a section near the new Aldi site will be closed from October 5 to October 7 for final pavement work. Additionally, the City of Verona reminds all residents to beware of online scams regarding planning or zoning fees; all payments must be made by check at the City Administration Building.",
+    "mainText": "Construction updates show that a portion of Hwy M will be closed from October 5 to October 7 for final pavement work, requiring drivers to follow detour signs. Additionally, the city has issued a scam alert reminding residents that they do not accept planning or zoning fees via wire transfer or online credit card payments.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-27",
-    "updateDate": "2026-09-27T02:11:47.235Z",
+    "updateDate": "2026-09-27T03:07:32.215Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with local events including the Dane County Farmers Market, plus live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company. Looking ahead, you can enjoy yoga at Insight Wellness on September 28 or test your knowledge at Hop Haus trivia on September 29.",
+    "mainText": "There is plenty to do today, including the Dane County Farmer's Market and live music at several local venues, plus yoga coming up on September 28 and trivia nights starting September 29.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-27",
-    "updateDate": "2026-09-27T02:11:47.235Z",
+    "updateDate": "2026-09-27T03:07:32.215Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5, Verona police officers encountered a series of reports involving cheese slices being placed on vehicle windshields, which they identified as a viral social media trend known as the Dairy Dare.",
+    "mainText": "On September 5, Verona police officers investigated a report of multiple vehicles featuring slices of cheese on their windshields, identifying it as a viral social media trend known as the Dairy Dare.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-27",
-    "updateDate": "2026-09-27T02:11:47.235Z",
+    "updateDate": "2026-09-27T03:07:32.215Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Oreo Reese's Cheesecake. The store is currently open and will be serving guests until 10:30 PM tonight.",
+    "mainText": "Today's flavor of the day is OREO REESE'S Cheesecake. Culver's is currently open but will be closing in 23 minutes, so make sure to get there soon.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
