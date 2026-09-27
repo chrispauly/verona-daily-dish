@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-27",
-    "updateDate": "2026-09-27T18:07:07.763Z",
+    "updateDate": "2026-09-27T19:05:14.670Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we have clear skies and 69 degrees at the Verona Area High School. We also have a Full Moon tonight, and while the ISS will pass overhead, you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. It is 71 degrees and partly cloudy at Badger Prairie County Park, and we have a Full Moon tonight. You can also catch the International Space Station passing high in the sky tonight starting at 7:47 PM, rising near Cross Plains and heading toward Oregon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-27",
-    "updateDate": "2026-09-27T18:07:07.763Z",
+    "updateDate": "2026-09-27T19:05:14.670Z",
     "titleText": "Verona City News",
-    "mainText": "Regarding city news, please be aware that Hwy M will be closed near the future Aldi site from October 5 to October 7 to allow for final asphalt and paving work. Please follow the posted detours using Old PB, E Verona Ave, and S Main St.",
+    "mainText": "In city news, Hwy M near the future Aldi site will be closed from October 5 to October 7 for final paving and shoulder work, so please use the detours on Old PB and Verona Avenue. Additionally, ongoing utility work continues to impact traffic patterns in that area.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-27",
-    "updateDate": "2026-09-27T18:07:07.763Z",
+    "updateDate": "2026-09-27T19:05:14.670Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, with Live Music at Bailey's Run happening today, followed by Yoga at Insight Wellness tomorrow.",
+    "mainText": "There is plenty to do, with Live Music at Bailey's Run and Lake Lou-ee both happening today. Tomorrow, you can enjoy yoga at Insight Wellness, followed by a busy Tuesday featuring trivia at Hop Haus and the Verona Downtown Farmer's Market at Hometown Junction Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-27",
-    "updateDate": "2026-09-27T18:07:07.763Z",
+    "updateDate": "2026-09-27T19:05:14.670Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5, the Verona Police Department investigated a unique incident where multiple vehicles around East Harriet Street and surrounding areas had slices of cheese placed on their windshields as part of a social media prank.",
+    "mainText": "In a noteworthy call from the police department, a driver was arrested for operating with a prohibited alcohol concentration, which is an O W I offence, after being stopped for speeding on September 5.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-27",
-    "updateDate": "2026-09-27T18:07:07.763Z",
+    "updateDate": "2026-09-27T19:05:14.670Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Turtle. Since the restaurant is currently open until 10:00 PM, we encourage you to stop by and grab a treat.",
+    "mainText": "Treat yourself to today's flavor, Turtle, at our local Culver's. We are currently open until 10 PM tonight, so stop by soon to grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
