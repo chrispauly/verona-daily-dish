@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-27",
-    "updateDate": "2026-09-27T06:10:04.134Z",
+    "updateDate": "2026-09-27T07:11:08.543Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, the temperature is 51 degrees with clear skies near Verona City Hall and a bright Full Moon overhead.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: we are seeing clear skies and 50 degrees, with a full moon glowing above the Verona Public Library.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-27",
-    "updateDate": "2026-09-27T06:10:04.134Z",
+    "updateDate": "2026-09-27T07:11:08.543Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced that a segment of Hwy M near the site of the new Aldi will be closed for final road work from October 5 to October 7, and please be aware of email scams impersonating city staff regarding planning fees.",
+    "mainText": "The city has announced that a section of Highway M near the new Aldi will close from October 5 to October 7 for final paving work, so please follow the detours using Old PB and Main Street. Additionally, the planning department reminds residents to be wary of scammers posing as city staff for fee payments.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-27",
-    "updateDate": "2026-09-27T06:10:04.134Z",
+    "updateDate": "2026-09-27T07:11:08.543Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy weekend ahead with live music at Bailey's Run and Wisconsin Brewing Company today, followed by yoga at Insight Wellness tomorrow.",
+    "mainText": "We have a busy schedule ahead with live music at Bailey's Run Vineyard and the Wisconsin Brewing Company happening today. Looking ahead, you can join a yoga session tomorrow at Insight Wellness or check out trivia nights starting September 29.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-27",
-    "updateDate": "2026-09-27T06:10:04.134Z",
+    "updateDate": "2026-09-27T07:11:08.543Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy update, on September 5, Verona officers responded to reports of vehicles being targeted by a prank involving slices of cheese placed on windshields throughout the city.",
+    "mainText": "On September 5, Verona officers responded to reports of local vehicles being pranked with cheese slices on their windshields as part of a viral trend, though no property damage was reported.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-27",
-    "updateDate": "2026-09-27T06:10:04.134Z",
+    "updateDate": "2026-09-27T07:11:08.543Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's flavor, which is Turtle, and remember that the restaurant opens today at 10:00 AM.",
+    "mainText": "Stop by for the delightful Turtle flavor of the day, and please note that the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
