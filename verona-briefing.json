@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-27",
-    "updateDate": "2026-09-27T15:05:45.829Z",
+    "updateDate": "2026-09-27T16:06:09.201Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: expect a high of 55 degrees with partly cloudy conditions at Harriet Park and a full moon tonight. While the space station will be passing overhead this evening, we unfortunately won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 11 AM, we have clear skies over Badger Ridge Middle School and a full moon tonight. The ISS is scheduled to fly over this evening, but unfortunately, we will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-27",
-    "updateDate": "2026-09-27T15:05:45.829Z",
+    "updateDate": "2026-09-27T16:06:09.201Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, a portion of Hwy M near the future Aldi site will be closed from October 5 through October 7 for final paving and road improvements. Please follow the posted detour signs using Old PB, E Verona Ave, and S Main St. Additionally, please remain vigilant against scam emails asking for permit fees; remember that the City of Verona only accepts check payments delivered to City Hall.",
+    "mainText": "Construction update for Hwy M near the Aldi site continues with a full closure planned from October 5 through October 7 for paving work. Also, the Planning Department reminds everyone that the city does not accept fee payments online or via wire transfer, so please only use checks delivered to City Hall.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-27",
-    "updateDate": "2026-09-27T15:05:45.829Z",
+    "updateDate": "2026-09-27T16:06:09.201Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community this weekend. Today you can catch live music at both Bailey's Run Vineyard and the Wisconsin Brewing Company. Looking ahead to tomorrow, there is a yoga session at Insight Wellness, followed by a busy week featuring Tuesday trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus the Farmer's Market at Hometown Junction Park.",
+    "mainText": "We have a packed schedule with live music at Bailey's Run today, yoga at Insight Wellness tomorrow, and trivia nights at local spots like Hop Haus and Wisconsin Brewing Company early next week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-27",
-    "updateDate": "2026-09-27T15:05:45.829Z",
+    "updateDate": "2026-09-27T16:06:09.201Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local law enforcement, on September 5, officers investigated a series of reports involving vehicles with cheese slices placed on their windshields in various downtown locations, which was identified as a social media trend.",
+    "mainText": "In a report covering September 5, officers noted an unusual incident where several vehicles had cheese slices placed on their windshields as part of a viral social media trend, resulting in no damage.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-27",
-    "updateDate": "2026-09-27T15:05:45.829Z",
+    "updateDate": "2026-09-27T16:06:09.201Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "If you are looking for a sweet treat, Culver's is currently open until 10 PM and is serving their delicious Turtle flavor of the day.",
+    "mainText": "It is a great day to visit Culver's because the flavor of the day is Turtle. They are open until 10 PM tonight, so there is plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
