@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-28",
-    "updateDate": "2026-09-28T05:06:55.849Z",
+    "updateDate": "2026-09-28T06:14:05.305Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: it is 56 degrees with clear skies under a full moon at Verona City Hall.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: it is 56 degrees under clear skies with a stunning Full Moon visible over Fireman's Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-28",
-    "updateDate": "2026-09-28T05:06:55.849Z",
+    "updateDate": "2026-09-28T06:14:05.305Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona announced that a stretch of Highway M near the new Aldi location will be closed from October 5 through October 7 for road work, and motorists should continue to expect traffic shifts as part of the broader phase two construction project.",
+    "mainText": "Please plan your travels carefully as Hwy M will be closed from October 5 to October 7 for final asphalt and pavement work near the new Aldi. Additionally, phase two of the Aldi road development continues to shift traffic patterns on Hwy M.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-28",
-    "updateDate": "2026-09-28T05:06:55.849Z",
+    "updateDate": "2026-09-28T06:14:05.305Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy week ahead starting with Yoga at Insight Wellness today, followed by a variety of trivia nights at Hop Haus, Lake Lou-ee, and Paddy Mac's tomorrow and throughout the week.",
+    "mainText": "There is plenty to do in our community, starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, while the Downtown Farmer's Market and more music events are coming up on September 30.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-28",
-    "updateDate": "2026-09-28T05:06:55.849Z",
+    "updateDate": "2026-09-28T06:14:05.305Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 5, local officers investigated a series of reports involving cheese slices left on vehicle windshields, which was identified as a viral social media prank.",
+    "mainText": "Regarding local public safety, officers investigated a strange incident on September 5 involving multiple vehicles found with slices of cheese on their windshields as part of a social media trend.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-28",
-    "updateDate": "2026-09-28T05:06:55.849Z",
+    "updateDate": "2026-09-28T06:14:05.305Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can satisfy your cravings with the Peanut Butter Fudge Brownie flavor, which is today's featured selection at the Verona Culver's, with the restaurant opening today at 10 AM.",
+    "mainText": "Today is the perfect day to stop by for the Peanut Butter Fudge Brownie flavor of the day, and you can head over when the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
