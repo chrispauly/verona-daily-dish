@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-28",
-    "updateDate": "2026-09-28T01:27:38.767Z",
+    "updateDate": "2026-09-28T02:16:39.606Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: we are seeing clear skies at Badger Prairie County Park under a full moon, with an overnight low of 53 degrees and no rain in the forecast.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. We are enjoying clear skies and 60 degree temperatures over Reddan Soccer Park under a full moon. The overnight low will drop to 53 degrees, and we are expecting a dry night with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-28",
-    "updateDate": "2026-09-28T01:27:38.767Z",
+    "updateDate": "2026-09-28T02:16:39.606Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced that a portion of Highway M near the future Aldi site will be closed from October 5 through October 7 for final paving and road improvements. Additionally, ongoing work continues as part of the broader Aldi development project which involves traffic shifts and utility upgrades in the area.",
+    "mainText": "In city news, please be aware of upcoming construction on Hwy M near the new Aldi site. The road will be closed for final paving from Monday, October 5 through Wednesday, October 7. Traffic will be detoured to Old PB, E Verona Ave, and S Main St, so please allow extra travel time.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-28",
-    "updateDate": "2026-09-28T01:27:38.767Z",
+    "updateDate": "2026-09-28T02:16:39.606Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with live music today at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, check out yoga at Insight Wellness, followed by a full schedule of trivia nights and the Verona Downtown Farmer's Market taking place this coming Tuesday.",
+    "mainText": "You have plenty of local options to fill your schedule. Today you can enjoy live music at Bailey's Run or Wisconsin Brewing Company. Tomorrow, check out yoga at Insight Wellness. Looking ahead, we have trivia nights at Hop Haus and The Bogey Factory, plus the Verona Downtown Farmer's Market at Hometown Junction Park on September 30.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-28",
-    "updateDate": "2026-09-28T01:27:38.767Z",
+    "updateDate": "2026-09-28T02:16:39.606Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the most recent departmental reports, on September 5, officers were called to investigate a series of reports regarding cheese slices being placed on vehicle windshields, which was identified as a viral social media prank.",
+    "mainText": "In a noteworthy report, officers handled an incident on September 5 involving multiple vehicles found with slices of cheese on their windshields. This activity was identified as a viral social media prank known as the Dairy Dare.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-28",
-    "updateDate": "2026-09-28T01:27:38.767Z",
+    "updateDate": "2026-09-28T02:16:39.606Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the ever-popular Turtle. The store is currently open and will be serving up treats until 10 PM tonight, so stop by soon to enjoy your dessert.",
+    "mainText": "Today's flavor is the classic Turtle, which is sure to satisfy your cravings. Culver's is currently open, but they are closing in 43 minutes, so please head out now if you would like to enjoy a treat before they close for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
