@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-28",
-    "updateDate": "2026-09-28T15:06:42.618Z",
+    "updateDate": "2026-09-28T16:07:24.063Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. Over at Fireman's Park, it is currently 63 degrees with clear skies.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: it is 66 degrees with clear skies at Reddan Soccer Park.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-28",
-    "updateDate": "2026-09-28T15:06:42.618Z",
+    "updateDate": "2026-09-28T16:07:24.063Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Weekly Recap Two Weeks  Noteworthy Calls for Service 914  928.",
+    "mainText": "In city news, please be aware that a section of Highway M near the future Aldi site will be closed from October 5 through October 7 for final pavement work. Additionally, utility and shoulder work remains ongoing in the area as part of the phase two construction project.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-28",
-    "updateDate": "2026-09-28T15:06:42.618Z",
+    "updateDate": "2026-09-28T16:07:24.063Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
+    "mainText": "There is plenty to do in town, starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus and Lake Lou-ee, followed by more events later in the week including the Verona Downtown Farmer's Market and live music at various venues.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-28",
-    "updateDate": "2026-09-28T15:06:42.618Z",
+    "updateDate": "2026-09-28T16:07:24.063Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "In our weekly police report, on September 14, a 37-year-old Verona man was taken into custody during a traffic stop for violating probation terms and failing to install a court-ordered ignition interlock device.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-28",
-    "updateDate": "2026-09-28T15:06:42.618Z",
+    "updateDate": "2026-09-28T16:07:24.063Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Peanut Butter Fudge Brownie. The restaurant is open until 10:00 PM.",
+    "mainText": "Today's flavor of the day is Peanut Butter Fudge Brownie. Culver's is currently open and will remain so until 10:00 PM tonight, so stop by and enjoy a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
