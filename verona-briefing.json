@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-28",
-    "updateDate": "2026-09-28T21:07:39.485Z",
+    "updateDate": "2026-09-28T22:06:20.711Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we have clear skies at Fireman's Park and a Waning Gibbous moon to look forward to tonight. You can also catch the International Space Station passing overhead at 8:38 PM for three minutes, traveling from over Mount Horeb toward Belleville.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: skies are clear with a temperature of 74 degrees at Verona City Hall. We have a Waning Gibbous moon and a clear view for the ISS pass at 8:38 PM tonight, rising in the West Southwest over Mount Horeb and traveling toward Belleville in the South Southwest. Overnight temperatures will drop to 52 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-28",
-    "updateDate": "2026-09-28T21:07:39.485Z",
+    "updateDate": "2026-09-28T22:06:20.711Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Plan Commission is meeting on October 5 to discuss various development projects, including site plans for 201 South Main Street. Additionally, the city has been busy with new sculptures at Century School Park and ongoing progress on the Envision Verona Comprehensive Plan.",
+    "mainText": "The Verona Plan Commission will gather on October 5th to discuss several land use items, including certified survey maps for Country View Court and Davis Hill Drive. Additionally, the city continues to provide updates on community projects like the new library community center.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-28",
-    "updateDate": "2026-09-28T21:07:39.485Z",
+    "updateDate": "2026-09-28T22:06:20.711Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a full slate of activities starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus or the Wisconsin Brewing Company, and look forward to the downtown farmer's market, live music, and more events throughout the week.",
+    "mainText": "Today you can head to Yoga at Insight Wellness. Tomorrow, the trivia options are plentiful with games at Hop Haus, the Wisconsin Brewing Company, and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-28",
-    "updateDate": "2026-09-28T21:07:39.485Z",
+    "updateDate": "2026-09-28T22:06:20.711Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, on September 21, officers were dispatched for a retail theft at a business on East Verona Avenue where an individual was identified via surveillance video.",
+    "mainText": "Looking at the report from September 21st, officers responded to a retail theft where a subject was identified via surveillance video and cited for taking Swedish Fish.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-28",
-    "updateDate": "2026-09-28T21:07:39.485Z",
+    "updateDate": "2026-09-28T22:06:20.711Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Peanut Butter Fudge Brownie. The restaurant is currently open, so be sure to stop by before they close at 10 PM tonight.",
+    "mainText": "It is a great day to stop by for today's flavor, Crazy for Cookie Dough, as the store is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
