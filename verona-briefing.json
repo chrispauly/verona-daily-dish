@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-28",
-    "updateDate": "2026-09-28T18:08:52.361Z",
+    "updateDate": "2026-09-28T19:05:19.816Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. Over at Badger Prairie County Park, it is currently 71 degrees with clear skies. The ISS will be visible tonight starting at 8:38 PM for 3 minutes. Look for it rising in the West Southwest (over Mount Horeb) and traveling toward the South Southwest (heading toward Belleville), reaching low near the horizon.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We have beautiful clear skies at Verona Community Park with a temperature of 73 degrees. Also, the International Space Station will be visible tonight starting at 8:38 PM, rising in the west-southwest over Mount Horeb and traveling toward the south-southwest near Belleville.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-28",
-    "updateDate": "2026-09-28T18:08:52.361Z",
+    "updateDate": "2026-09-28T19:05:19.816Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Development Projects.",
+    "mainText": "The Verona Plan Commission has an upcoming agenda for their meeting on October 5th, which includes reviewing certified survey maps and site plans for several locations, such as 201 South Main Street and various properties in the Town of Verona. Additionally, the city is managing several pending projects, including site plans for Sub-Zero in the Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-28",
-    "updateDate": "2026-09-28T18:08:52.361Z",
+    "updateDate": "2026-09-28T19:05:19.816Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
+    "mainText": "It is a busy couple of days in Verona. Yoga at Insight Wellness is scheduled for today. Tomorrow, you can enjoy trivia at Hop Haus or the Wisconsin Brewing Company. Looking further ahead, we have live music and the downtown farmer's market at Hometown Junction Park this Wednesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-28",
-    "updateDate": "2026-09-28T18:08:52.361Z",
+    "updateDate": "2026-09-28T19:05:19.816Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "In a report covering September 14th through September 28th, officers handled a variety of incidents. Notably, on September 21st, a retail theft involving candy was reported at a business on East Verona Avenue, where the individual was identified and cited.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-28",
-    "updateDate": "2026-09-28T18:08:52.361Z",
+    "updateDate": "2026-09-28T19:05:19.816Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Peanut Butter Fudge Brownie. The restaurant is open until 10:00 PM.",
+    "mainText": "You can enjoy the delicious OREO Cookie Cheesecake flavor of the day at Culver's, which is currently open and serving guests until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
