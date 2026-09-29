@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-29",
-    "updateDate": "2026-09-29T15:06:31.211Z",
+    "updateDate": "2026-09-29T16:07:13.114Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, we are looking at overcast skies over at Verona Community Park with a temperature of 63 degrees.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: it is 68 degrees near the Public Library with clear skies and a moderate air quality index of 51.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-29",
-    "updateDate": "2026-09-29T15:06:31.211Z",
+    "updateDate": "2026-09-29T16:07:13.114Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that trick-or-treat hours will be held on October 31st from 5 PM to 8 PM, and Mayor Diaz has recognized October 1st through 8th as Week Without Driving to support accessibility for all residents.",
+    "mainText": "City officials remind residents that the Plan Commission reviews new projects this Monday, October 5th. Also, mark your calendars for trick-or-treat night on October 31st from 5 PM to 8 PM.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-29",
-    "updateDate": "2026-09-29T15:06:31.211Z",
+    "updateDate": "2026-09-29T16:07:13.114Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of activities coming up, including Hop Haus Trivia today and the Verona Downtown Farmer's Market taking place tomorrow at Hometown Junction Park.",
+    "mainText": "Today features Hop Haus Trivia at the brewery, while tomorrow brings the downtown Farmer's Market, Yoga at Insight Wellness, and trivia night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-29",
-    "updateDate": "2026-09-29T15:06:31.211Z",
+    "updateDate": "2026-09-29T16:07:13.114Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering the end of September, officers handled a variety of calls, including an incident on September 21st where a subject was cited for retail theft involving candy.",
+    "mainText": "In recent police activity, officers identified a suspect on September 21st regarding a retail theft involving candy at a store on East Verona Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-29",
-    "updateDate": "2026-09-29T15:06:31.211Z",
+    "updateDate": "2026-09-29T16:07:13.114Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day to stop by for our flavor of the day, Caramel Peanut Buttercup. The restaurant is open and serving guests until 10 PM tonight.",
+    "mainText": "Today's delicious flavor of the day is Caramel Peanut Buttercup. The store is currently open for business and will remain open until 10 PM this evening.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
