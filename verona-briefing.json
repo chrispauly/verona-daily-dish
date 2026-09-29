@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-29",
-    "updateDate": "2026-09-29T03:07:18.770Z",
+    "updateDate": "2026-09-29T04:07:13.294Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: skies are clear near Badger Ridge Middle School with a Waning Gibbous moon, and we are looking at an overnight low of 52 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: skies are clear at Verona Community Park, currently 58 degrees. We expect an overnight low of 51 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-29",
-    "updateDate": "2026-09-29T03:07:18.770Z",
+    "updateDate": "2026-09-29T04:07:13.294Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona Plan Commission has several active projects on their agenda for the upcoming October 5th meeting, including site plans for 201 South Main Street and various certified survey maps for the Town of Verona.",
+    "mainText": "The Plan Commission is preparing for an October 5th meeting to discuss multiple certified survey maps and site plans, while the city continues to promote ongoing initiatives like the Envision Verona Comprehensive Plan and local park developments.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-29",
-    "updateDate": "2026-09-29T03:07:18.770Z",
+    "updateDate": "2026-09-29T04:07:13.294Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy week ahead, starting with yoga at Insight Wellness today, followed by a variety of trivia nights and live music performances at local spots like Paddy Mac's and Lake Lou-ee starting tomorrow.",
+    "mainText": "Your calendar is full of fun options, starting with Hop Haus Trivia and Quizmasters Trivia at Wisconsin Brewing Company tomorrow, followed by Yoga at Insight Wellness and the downtown Farmer's Market on Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-29",
-    "updateDate": "2026-09-29T03:07:18.770Z",
+    "updateDate": "2026-09-29T04:07:13.294Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering September 14th through September 28th, officers were dispatched on September 24th to a vehicle collision involving an 11-year-old bicyclist, who was fortunately evaluated by EMS and did not require hospitalization.",
+    "mainText": "In a notable weekly report, officers investigated a retail theft on September 21st involving a suspect who was later identified and cited for taking candy from a local retailer.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-29",
-    "updateDate": "2026-09-29T03:07:18.770Z",
+    "updateDate": "2026-09-29T04:07:13.294Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day was Peanut Butter Fudge Brownie. As we are currently closed for the night, we invite you to stop by tomorrow starting at 10:00 AM to enjoy our delicious Caramel Peanut Buttercup.",
+    "mainText": "Today's flavor of the day was Peanut Butter Fudge Brownie. Since the store is closed for the night, we look forward to seeing you when they open tomorrow at 10 AM to enjoy tomorrow's flavor, Caramel Peanut Buttercup.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
