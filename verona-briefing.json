@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-29",
-    "updateDate": "2026-09-29T10:06:30.716Z",
+    "updateDate": "2026-09-29T11:05:44.679Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, conditions are clear at Badger Prairie County Park under a Waning Gibbous moon.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: it is a clear 51 degrees at Fireman's Park under a waning gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-29",
-    "updateDate": "2026-09-29T10:06:30.716Z",
+    "updateDate": "2026-09-29T11:05:44.679Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Plan Commission has several items on the agenda for their October 5th meeting, including site plans and certified survey maps for developments on Country View Court and South Main Street. Additionally, the city continues to focus on long-term growth through the ongoing Envision Verona Comprehensive Plan.",
+    "mainText": "The Plan Commission meets October 5th to discuss several development projects, including sites on Country View Court and Spring Rose Road, while the city continues working on the Envision Verona Comprehensive Plan.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-29",
-    "updateDate": "2026-09-29T10:06:30.716Z",
+    "updateDate": "2026-09-29T11:05:44.679Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our area, starting with trivia at Hop Haus and Lake Lou-ee today. Tomorrow, you can look forward to yoga at Insight Wellness, the downtown Farmer's Market, and even more trivia at The Bogey Factory.",
+    "mainText": "We have a full lineup of trivia today with events at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus yoga and the Farmers Market coming up tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-29",
-    "updateDate": "2026-09-29T10:06:30.716Z",
+    "updateDate": "2026-09-29T11:05:44.679Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering September 14th through September 28th, police responded to a retail theft on September 21st where a suspect was identified stealing Swedish Fish candy from a store on East Verona Avenue.",
+    "mainText": "In a report from September 21, police were dispatched to a retail theft where an individual was identified and cited for stealing Swedish Fish.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-29",
-    "updateDate": "2026-09-29T10:06:30.716Z",
+    "updateDate": "2026-09-29T11:05:44.679Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is Caramel Peanut Buttercup. The store will open today at 10:00 AM to serve you.",
+    "mainText": "Enjoy the delicious Caramel Peanut Buttercup flavor of the day at Culver's, which opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
