@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-29",
-    "updateDate": "2026-09-29T11:05:44.679Z",
+    "updateDate": "2026-09-29T12:09:45.784Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: it is a clear 51 degrees at Fireman's Park under a waning gibbous moon.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. We have clear skies today near Reddan Soccer Park with a temperature of 50 degrees, though it feels like 47.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-29",
-    "updateDate": "2026-09-29T11:05:44.679Z",
+    "updateDate": "2026-09-29T12:09:45.784Z",
     "titleText": "Verona City News",
-    "mainText": "The Plan Commission meets October 5th to discuss several development projects, including sites on Country View Court and Spring Rose Road, while the city continues working on the Envision Verona Comprehensive Plan.",
+    "mainText": "The Verona Plan Commission is meeting on Monday to review development projects, including survey maps for Country View Court, Davis Hill Drive, and South Main Street. Additionally, the city has been busy with community initiatives, like the recent skatepark design sessions and the new tri-shaw bike program at the Senior Center.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-29",
-    "updateDate": "2026-09-29T11:05:44.679Z",
+    "updateDate": "2026-09-29T12:09:45.784Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a full lineup of trivia today with events at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus yoga and the Farmers Market coming up tomorrow.",
+    "mainText": "Today, you can head to Hop Haus Brewing Co. or Wisconsin Brewing Company for trivia night. Tomorrow, the fun continues with the Downtown Farmer's Market, yoga at Insight Wellness, and more trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-29",
-    "updateDate": "2026-09-29T11:05:44.679Z",
+    "updateDate": "2026-09-29T12:09:45.784Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from September 21, police were dispatched to a retail theft where an individual was identified and cited for stealing Swedish Fish.",
+    "mainText": "In our weekly police report, on September 24, an 11-year-old child was involved in a collision with a vehicle while riding a bicycle, but thankfully, they did not require hospital transport.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-29",
-    "updateDate": "2026-09-29T11:05:44.679Z",
+    "updateDate": "2026-09-29T12:09:45.784Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Enjoy the delicious Caramel Peanut Buttercup flavor of the day at Culver's, which opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is Caramel Peanut Buttercup. Culver's of Verona opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
