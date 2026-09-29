@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-29",
-    "updateDate": "2026-09-29T17:06:39.606Z",
+    "updateDate": "2026-09-29T18:08:13.537Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish. Over at Badger Ridge Middle School, it is currently 70 degrees with overcast skies. Note: Air quality is Moderate with an AQI of 52. The ISS will pass overhead tonight starting at 7:50 PM for 5 minutes, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we are looking at 73 degrees with overcast skies near Verona Area High School, and with an air quality index of 52, it is a moderate day to be outside. If you were looking to the stars, the International Space Station passes overhead tonight, but you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-29",
-    "updateDate": "2026-09-29T17:06:39.606Z",
+    "updateDate": "2026-09-29T18:08:13.537Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Development in Verona.",
+    "mainText": "City Hall is now open for in-person absentee voting during the two weeks leading up to the election, and the city is also observing the Week Without Driving through October 8 to better understand the barriers faced by non-drivers in our community.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-29",
-    "updateDate": "2026-09-29T17:06:39.606Z",
+    "updateDate": "2026-09-29T18:08:13.537Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Hop Haus Trivia Today at Hop Haus Brewing Co..",
+    "mainText": "We have a busy couple of days ahead with trivia at Hop Haus and Lake Lou-ee happening today, followed by the downtown farmer's market, yoga, and trivia at the Bogey Factory taking place tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-29",
-    "updateDate": "2026-09-29T17:06:39.606Z",
+    "updateDate": "2026-09-29T18:08:13.537Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "On September 21, a retail theft incident occurred involving the theft of Swedish Fish candy from a retailer on East Verona Avenue, and the offender was later identified and cited.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-29",
-    "updateDate": "2026-09-29T17:06:39.606Z",
+    "updateDate": "2026-09-29T18:08:13.537Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Caramel Peanut Buttercup. The restaurant is open until 10:00 PM.",
+    "mainText": "Today's delicious flavor is Caramel Peanut Buttercup, and since the restaurant is open until 10:00 PM, there is still time to head over and enjoy a treat before they close for the evening.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
