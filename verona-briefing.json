@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-29",
-    "updateDate": "2026-09-29T01:24:53.164Z",
+    "updateDate": "2026-09-29T02:12:07.689Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. Over at Badger Ridge Middle School, it is currently 65 degrees with clear skies. The overnight low will be around 52 degrees, with rain unlikely. Tonight we have a Waning Gibbous. The ISS will be visible tonight starting at 8:38 PM for 3 minutes. Look for it rising in the West Southwest (over Mount Horeb) and traveling toward the South Southwest (heading toward Belleville), reaching low near the horizon.",
+    "mainText": "Hello, Verona! At 9 PM, it is a clear 64 degrees at Badger Prairie County Park. Under the Waning Gibbous moon, conditions are perfect for a quiet night, with an overnight low of 52 degrees and no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-29",
-    "updateDate": "2026-09-29T01:24:53.164Z",
+    "updateDate": "2026-09-29T02:12:07.689Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Development Projects.",
+    "mainText": "The City of Verona Plan Commission is reviewing multiple development and site plans this week, including projects on Country View Court and South Main Street. Additionally, the city recently celebrated the success of several community initiatives like the sticker design contest and new senior center programs.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-29",
-    "updateDate": "2026-09-29T01:24:53.164Z",
+    "updateDate": "2026-09-29T02:12:07.689Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
+    "mainText": "Today you can participate in yoga at Insight Wellness. Tomorrow brings plenty of trivia options at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, followed by the downtown farmer's market and live music later in the week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-29",
-    "updateDate": "2026-09-29T01:24:53.164Z",
+    "updateDate": "2026-09-29T02:12:07.689Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "On September 21, officers investigated a retail theft where an individual was identified and cited for taking Swedish Fish candy from a local store.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-29",
-    "updateDate": "2026-09-29T01:24:53.164Z",
+    "updateDate": "2026-09-29T02:12:07.689Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Peanut Butter Fudge Brownie. The restaurant is open until 10:00 PM.",
+    "mainText": "Today's flavor of the day is the Peanut Butter Fudge Brownie. The store is currently open but will be closing soon in 48 minutes, so stop by before they lock up for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
