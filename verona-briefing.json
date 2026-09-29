@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-29",
-    "updateDate": "2026-09-29T22:06:13.164Z",
+    "updateDate": "2026-09-29T23:06:16.224Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: it is 75 degrees with overcast skies over the Military Ridge State Trail and an air quality index of 53. The Waning Gibbous moon is out, and though the ISS passes overhead tonight, you won't be able to see it due to the clouds. Tonight's low will be 61 degrees with rain in the forecast.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: it is 72 degrees at Harriet Park with overcast skies. While the ISS will be passing overhead tonight, the clouds mean it will not be visible. Tonight will dip to a low of 61 degrees, and please keep your umbrellas handy as rain is in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-29",
-    "updateDate": "2026-09-29T22:06:13.164Z",
+    "updateDate": "2026-09-29T23:06:16.224Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, a section of Highway M near the future Aldi location is scheduled for road work from October 6 through October 9, so follow the detours. Also, remember that early voting for the November 3 election is approaching, and you can visit City Hall or the MyVote website to prepare.",
+    "mainText": "In city news, Highway M will be closed from October 6 through October 9 for essential road work, so please use the posted detours. Additionally, if you need to vote, early in-person voting begins soon at City Hall for the November election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-29",
-    "updateDate": "2026-09-29T22:06:13.164Z",
+    "updateDate": "2026-09-29T23:06:16.224Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community, including Hop Haus Trivia and Lake Lou-ee Trivia happening today. Tomorrow, be sure to check out live music at Paddy Mac's, yoga at Insight Wellness, or the Verona Downtown Farmer's Market.",
+    "mainText": "There is plenty to do in town, starting with Hop Haus Trivia happening today. Tomorrow, you can enjoy the Verona Downtown Farmer's Market or join the trivia night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-29",
-    "updateDate": "2026-09-29T22:06:13.164Z",
+    "updateDate": "2026-09-29T23:06:16.224Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a weekly police report, officers noted that on September 21, a two-vehicle crash with injuries occurred, resulting in a citation for a driver operating too fast for conditions.",
+    "mainText": "On September 21, officers responded to a report of retail theft involving candy at a store on East Verona Avenue, where the individual was identified and cited.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-29",
-    "updateDate": "2026-09-29T22:06:13.164Z",
+    "updateDate": "2026-09-29T23:06:16.224Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Caramel Peanut Buttercup, and since Culver's is open until 10 PM, there is still plenty of time to stop by for a scoop.",
+    "mainText": "Today's flavor, Caramel Chocolate Pecan, was a treat, but we are now closed for the evening. We look forward to seeing you tomorrow at 09:00 AM when we serve up Dark Chocolate PB Crunch.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
