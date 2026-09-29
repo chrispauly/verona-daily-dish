@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-29",
-    "updateDate": "2026-09-29T14:06:18.683Z",
+    "updateDate": "2026-09-29T15:06:31.211Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: expect clear skies near the Verona Public Library today with the moon in a Waning Gibbous phase.",
+    "mainText": "Hello, Verona! At 10 AM, we are looking at overcast skies over at Verona Community Park with a temperature of 63 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-29",
-    "updateDate": "2026-09-29T14:06:18.683Z",
+    "updateDate": "2026-09-29T15:06:31.211Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is celebrating the Week Without Driving through October 8th, encouraging residents to explore transportation beyond a personal vehicle. Additionally, the Plan Commission has a meeting on October 5th to discuss several development projects, including updates for South Main Street.",
+    "mainText": "The City of Verona has announced that trick-or-treat hours will be held on October 31st from 5 PM to 8 PM, and Mayor Diaz has recognized October 1st through 8th as Week Without Driving to support accessibility for all residents.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-29",
-    "updateDate": "2026-09-29T14:06:18.683Z",
+    "updateDate": "2026-09-29T15:06:31.211Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community. Join in for trivia at Hop Haus Brewing Co. today. Tomorrow, you can enjoy the Verona Downtown Farmer's Market at Hometown Junction Park or test your knowledge at Trivia Night at The Bogey Factory.",
+    "mainText": "We have plenty of activities coming up, including Hop Haus Trivia today and the Verona Downtown Farmer's Market taking place tomorrow at Hometown Junction Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-29",
-    "updateDate": "2026-09-29T14:06:18.683Z",
+    "updateDate": "2026-09-29T15:06:31.211Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on Wednesday, September 24, an 11-year-old child was involved in a collision with a vehicle while riding a bicycle, but thankfully, they did not require hospital transport.",
+    "mainText": "In a report covering the end of September, officers handled a variety of calls, including an incident on September 21st where a subject was cited for retail theft involving candy.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-29",
-    "updateDate": "2026-09-29T14:06:18.683Z",
+    "updateDate": "2026-09-29T15:06:31.211Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day at Culver's is Caramel Peanut Buttercup. The restaurant will be opening its doors today at 10:00 AM, so be sure to stop by and enjoy a scoop.",
+    "mainText": "Today is the perfect day to stop by for our flavor of the day, Caramel Peanut Buttercup. The restaurant is open and serving guests until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
