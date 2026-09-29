@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-29",
-    "updateDate": "2026-09-29T06:10:43.018Z",
+    "updateDate": "2026-09-29T07:13:47.021Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, it is 56 degrees under clear skies near Badger Ridge Middle School, and we are currently seeing a Waning Gibbous moon.",
+    "mainText": "Hello, Verona! At 2 AM, the temperature is 55 degrees under clear skies at Harriet Park, with a Waning Gibbous moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-29",
-    "updateDate": "2026-09-29T06:10:43.018Z",
+    "updateDate": "2026-09-29T07:13:47.021Z",
     "titleText": "Verona City News",
-    "mainText": "The Plan Commission is reviewing multiple development projects including a new site plan at 201 South Main Street and various survey maps throughout the town. Additionally, the city has been busy with community initiatives like the recent sticker design contest and park improvements.",
+    "mainText": "The City of Verona Plan Commission is reviewing various development projects on October 5th, including properties on Country View Court and South Main Street. Additionally, the city continues to highlight recent accomplishments, such as the new tri-shaw Bike Program and the latest updates on the Envision Verona Comprehensive Plan.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-29",
-    "updateDate": "2026-09-29T06:10:43.018Z",
+    "updateDate": "2026-09-29T07:13:47.021Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with trivia at Hop Haus and Wisconsin Brewing Company today. Tomorrow, you can enjoy the downtown farmer's market, yoga, or live music and pizza.",
+    "mainText": "We have a busy schedule! Hop Haus Trivia and Quizmasters Trivia are both taking place today. Tomorrow, you can look forward to yoga, the downtown Farmers Market, trivia at The Bogey Factory, and live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-29",
-    "updateDate": "2026-09-29T06:10:43.018Z",
+    "updateDate": "2026-09-29T07:13:47.021Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 21, officers investigated a retail theft where a subject was identified stealing Swedish Fish candy and subsequently cited.",
+    "mainText": "In a notable call from September 14th, a 37-year-old local man was taken into custody during a traffic stop for violating his probation terms and failing to install a court-ordered ignition interlock device.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-29",
-    "updateDate": "2026-09-29T06:10:43.018Z",
+    "updateDate": "2026-09-29T07:13:47.021Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor is Caramel Peanut Buttercup, which is sure to be a hit. The shop opens today at 10:00 AM and will be serving until 10:00 PM tonight.",
+    "mainText": "Today's delicious flavor is Caramel Peanut Buttercup, and the store opens today at 10:00 AM to serve you.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
