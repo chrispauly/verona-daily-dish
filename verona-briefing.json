@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-29",
-    "updateDate": "2026-09-29T21:05:56.740Z",
+    "updateDate": "2026-09-29T22:06:13.164Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: it is 76 degrees and overcast at Verona City Hall with an air quality index of 53, and while the space station will be passing overhead tonight, the cloud cover means it will not be visible.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: it is 75 degrees with overcast skies over the Military Ridge State Trail and an air quality index of 53. The Waning Gibbous moon is out, and though the ISS passes overhead tonight, you won't be able to see it due to the clouds. Tonight's low will be 61 degrees with rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-29",
-    "updateDate": "2026-09-29T21:05:56.740Z",
+    "updateDate": "2026-09-29T22:06:13.164Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced that Highway M will be closed near the new Aldi site from October 6 to October 9 for road work, and residents are reminded that early voting for the November 3 election begins with specific hours at City Hall starting October 20.",
+    "mainText": "In city news, a section of Highway M near the future Aldi location is scheduled for road work from October 6 through October 9, so follow the detours. Also, remember that early voting for the November 3 election is approaching, and you can visit City Hall or the MyVote website to prepare.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-29",
-    "updateDate": "2026-09-29T21:05:56.740Z",
+    "updateDate": "2026-09-29T22:06:13.164Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Enjoy a busy week with trivia at Hop Haus and Wisconsin Brewing Company today, followed by yoga, the downtown farmer's market, and music at Paddy Mac's occurring tomorrow.",
+    "mainText": "There is plenty to do in our community, including Hop Haus Trivia and Lake Lou-ee Trivia happening today. Tomorrow, be sure to check out live music at Paddy Mac's, yoga at Insight Wellness, or the Verona Downtown Farmer's Market.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-29",
-    "updateDate": "2026-09-29T21:05:56.740Z",
+    "updateDate": "2026-09-29T22:06:13.164Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 24, a vehicle and bicyclist collision occurred, but fortunately, the 11-year-old cyclist did not require hospital transport.",
+    "mainText": "In a weekly police report, officers noted that on September 21, a two-vehicle crash with injuries occurred, resulting in a citation for a driver operating too fast for conditions.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-29",
-    "updateDate": "2026-09-29T21:05:56.740Z",
+    "updateDate": "2026-09-29T22:06:13.164Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Caramel Peanut Buttercup, and with the restaurant currently open until 10 PM, you have plenty of time to stop by for a scoop.",
+    "mainText": "Today's delicious flavor of the day is Caramel Peanut Buttercup, and since Culver's is open until 10 PM, there is still plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
