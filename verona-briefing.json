@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-30",
-    "updateDate": "2026-09-30T06:10:33.013Z",
+    "updateDate": "2026-09-30T07:14:09.816Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, we are seeing overcast skies at Harriet Park with a temperature of 66 degrees under a Waning Gibbous moon.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: we are seeing light drizzle and 66 degrees near the Verona Area High School under a Waning Gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-30",
-    "updateDate": "2026-09-30T06:10:33.013Z",
+    "updateDate": "2026-09-30T07:14:09.816Z",
     "titleText": "Verona City News",
-    "mainText": "City officials have announced that Hwy M will be closed near the Aldi site from October 6 through October 9 for road improvements, including milling and asphalt work. Also, early voting for the November 3 election is available at City Hall starting October 20.",
+    "mainText": "The city has announced that a section of Hwy M near the future Aldi site will be closed from October 6 through October 9 for road improvements, with detours directed to Old PB and Verona Avenue. Additionally, early voting for the November 3 election is available at City Hall starting October 20.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-30",
-    "updateDate": "2026-09-30T06:10:33.013Z",
+    "updateDate": "2026-09-30T07:14:09.816Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona, with the Downtown Farmer's Market happening today, trivia night at the Bogey Factory today, and a happy hour at ART House 360 tomorrow.",
+    "mainText": "There is plenty to do today, including the Verona Downtown Farmer's Market at Hometown Junction Park and Trivia Night at The Bogey Factory. Tomorrow, you can look forward to Art Bar Happy Hour at ART House 360 and trivia at Hop Haus Brewing Co.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-30",
-    "updateDate": "2026-09-30T06:10:33.013Z",
+    "updateDate": "2026-09-30T07:14:09.816Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on September 19, a 10-year-old child who went missing from Lincoln Street was safely located and reunited with their parents.",
+    "mainText": "On September 21, officers identified and cited an individual for the retail theft of candy from a business in the 400 block of East Verona Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-30",
-    "updateDate": "2026-09-30T06:10:33.013Z",
+    "updateDate": "2026-09-30T07:14:09.816Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by for today's delicious flavor of the day, which is Double Strawberry. The store opens today at 10:00 AM.",
+    "mainText": "Today's delicious flavor is Double Strawberry, and the store will be ready to serve you when it opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
