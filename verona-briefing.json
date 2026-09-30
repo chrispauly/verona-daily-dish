@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-30",
-    "updateDate": "2026-09-30T20:07:27.591Z",
+    "updateDate": "2026-09-30T21:06:04.650Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, we are looking at overcast skies at the Verona Area High School with a temperature of 66 degrees.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we are seeing overcast skies with a temperature of 67 degrees, feeling like 69 degrees near Verona City Hall. The moon is currently in a Waning Gibbous phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-30",
-    "updateDate": "2026-09-30T20:07:27.591Z",
+    "updateDate": "2026-09-30T21:06:04.650Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is initiating cross connection control surveys to protect our water quality, and residents may receive a request in the mail to schedule an inspection. Additionally, motorists should prepare for a closure on Highway M near the new Aldi site from October 6 through October 9 for final road construction work.",
+    "mainText": "The City of Verona is updating residents on two major items. First, the Water Utility is working with HydroCorp to conduct cross connection surveys, so keep an eye on your mail for an appointment letter. Second, remember that a portion of Highway M will be closed from October 6 through October 9 for road improvements, so plan your detours via Old PB and Main Street accordingly.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-30",
-    "updateDate": "2026-09-30T20:07:27.591Z",
+    "updateDate": "2026-09-30T21:06:04.650Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with fun including the Verona Downtown Farmer's Market, yoga at Insight Wellness, and trivia at The Bogey Factory. Looking ahead, you can check out the Art Bar Happy Hour tomorrow or enjoy live music at Bailey's Run this Friday.",
+    "mainText": "There are plenty of ways to get involved today. You can enjoy the Verona Downtown Farmer's Market at Hometown Junction Park or join the trivia night fun at The Bogey Factory. Tomorrow, look forward to the ART Bar Happy Hour at ART House 360 starting at 5 PM, or the Hop Haus trivia challenge at 6:30 PM.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-30",
-    "updateDate": "2026-09-30T20:07:27.591Z",
+    "updateDate": "2026-09-30T21:06:04.650Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly police report, on September 21, officers identified and cited an individual for retail theft following an incident at a business on East Verona Avenue.",
+    "mainText": "In a report covering September 14 to September 28, we noted an incident on September 21 where a suspect was identified through surveillance video and cited for retail theft after taking candy from a retailer on East Verona Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-30",
-    "updateDate": "2026-09-30T20:07:27.591Z",
+    "updateDate": "2026-09-30T21:06:04.650Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's today to enjoy the Flavor of the Day, which is Double Strawberry. The restaurant is currently open and serving guests until 10:00 PM tonight.",
+    "mainText": "If you are looking for a dessert, head over to Culver's to enjoy today's delicious flavor of the day, Double Strawberry. The restaurant is currently open and will remain serving guests until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
