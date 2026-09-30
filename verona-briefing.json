@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-30",
-    "updateDate": "2026-09-30T12:10:34.010Z",
+    "updateDate": "2026-09-30T13:10:49.105Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. We are starting off with a dense drizzle and a temperature of 61 degrees around Verona Area High School, under a waning gibbous moon phase.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we have 63 degrees and overcast skies at Verona City Hall under a Waning Gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-30",
-    "updateDate": "2026-09-30T12:10:34.010Z",
+    "updateDate": "2026-09-30T13:10:49.105Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, a section of Highway M near the future Aldi location will be closed from October 6th through October 9th for paving and shoulder work, with detours routed through Old PB and East Verona Avenue. Also, early voting times have been announced at City Hall starting Tuesday, October 20th, and the Plan Commission will review several development proposals, including a Sub-Zero site plan, on Monday, October 5th.",
+    "mainText": "The city has announced that a segment of Highway M will be closed for road work from October 6 through October 9, and residents can also participate in early, in-person absentee voting at City Hall for the November 3 election.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-30",
-    "updateDate": "2026-09-30T12:10:34.010Z",
+    "updateDate": "2026-09-30T13:10:49.105Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a wonderful lineup of events happening today, including the Verona Downtown Farmer's Market at Hometown Junction Park, Wednesday Pizza and a Pitcher at Lake Lou-ee, and Trivia Night at The Bogey Factory. Looking ahead, tomorrow features Hop Haus Trivia in Verona, and this Friday you can enjoy live music at Bailey's Run Vineyard.",
+    "mainText": "We have a full slate of activities today, including live music at Paddy Mac's, yoga at Insight Wellness, the Downtown Farmer's Market, Pizza and a Pitcher at Lake Lou-ee, and Trivia Night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-30",
-    "updateDate": "2026-09-30T12:10:34.010Z",
+    "updateDate": "2026-09-30T13:10:49.105Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly police recap, officers responded to a vehicle versus bicycle crash on Thursday, September 24th, at Westward and Jenna Drive, where an eleven-year-old child collided with a car after failing to stop at a stop sign, but fortunately escaped serious injury.",
+    "mainText": "In our weekly look back at local incidents, on September 21, police identified and cited a person who stole Swedish Fish candy from a local store.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-30",
-    "updateDate": "2026-09-30T12:10:34.010Z",
+    "updateDate": "2026-09-30T13:10:49.105Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "If you are craving a sweet treat, Culver's opens today at 10:00 AM with today's flavor of the day, so plan a stop by before they close tonight at 10:00 PM.",
+    "mainText": "Today's flavor of the day is Double Strawberry, and you can stop by when the doors open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
