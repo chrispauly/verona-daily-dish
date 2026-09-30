@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-30",
-    "updateDate": "2026-09-30T15:07:40.087Z",
+    "updateDate": "2026-09-30T16:07:28.553Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have overcast skies and 64 degrees at the Verona Area High School.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. We are experiencing overcast skies and a temperature of 65 degrees around Badger Prairie County Park, with a waning gibbous moon tonight.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-09-30",
-    "updateDate": "2026-09-30T15:07:40.087Z",
+    "updateDate": "2026-09-30T16:07:28.553Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that Highway M will be closed for road improvements from October 6 to October 9, and remember that early in-person voting for the November 3 election begins at City Hall on October 20.",
+    "mainText": "In city news, a portion of Highway M near the future Aldi site will be closed from October 6th through October 9th for final paving and shoulder work. Also, early in-person absentee voting begins at City Hall on Tuesday, October 20th.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-09-30",
-    "updateDate": "2026-09-30T15:07:40.087Z",
+    "updateDate": "2026-09-30T16:07:28.553Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today with the Verona Downtown Farmer's Market, yoga classes, and trivia night, plus Art Bar Happy Hour kicks off tomorrow.",
+    "mainText": "There are several local activities today, including yoga at Insight Wellness and the Verona Downtown Farmer's Market. Looking ahead to tomorrow, Hop Haus Brewing is hosting trivia and Art House 360 has its first Art Bar Happy Hour.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-09-30",
-    "updateDate": "2026-09-30T15:07:40.087Z",
+    "updateDate": "2026-09-30T16:07:28.553Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from September 21, a retail theft occurred at a business on East Verona Avenue where a subject was identified and cited for taking Swedish Fish.",
+    "mainText": "In police news, on Thursday, September 24th, officers responded to Westward Drive where an eleven-year-old bicyclist collided with a vehicle after failing to stop at a stop sign, but thankfully did not require hospitalization.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-30",
-    "updateDate": "2026-09-30T15:07:40.087Z",
+    "updateDate": "2026-09-30T16:07:28.553Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Enjoy the delicious Double Strawberry flavor of the day at Culver's, where the store is currently open and will remain open until 10:00 PM.",
+    "mainText": "To wrap things up, Culver's is open until 10 PM today featuring Double Strawberry as the flavor of the day. Tomorrow's featured flavor will be Chocolate Heath Crunch starting at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
