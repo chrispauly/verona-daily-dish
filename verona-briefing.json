@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-30",
-    "updateDate": "2026-09-30T21:06:04.650Z",
+    "updateDate": "2026-09-30T22:06:14.418Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we are seeing overcast skies with a temperature of 67 degrees, feeling like 69 degrees near Verona City Hall. The moon is currently in a Waning Gibbous phase.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. It is a cool 67 degrees with overcast skies near the Verona Public Library, with a Waning Gibbous moon phase tonight. The overnight low will drop to 65 degrees, and rain is predicted as we head into tomorrow.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-30",
-    "updateDate": "2026-09-30T21:06:04.650Z",
+    "updateDate": "2026-09-30T22:06:14.418Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is updating residents on two major items. First, the Water Utility is working with HydroCorp to conduct cross connection surveys, so keep an eye on your mail for an appointment letter. Second, remember that a portion of Highway M will be closed from October 6 through October 9 for road improvements, so plan your detours via Old PB and Main Street accordingly.",
+    "mainText": "The City of Verona Water Utility is launching cross connection control surveys to keep our water supply clean and safe. Additionally, remember to visit City Hall to cast your absentee ballot for the upcoming election, with early voting available until the Friday before election day.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-30",
-    "updateDate": "2026-09-30T21:06:04.650Z",
+    "updateDate": "2026-09-30T22:06:14.418Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There are plenty of ways to get involved today. You can enjoy the Verona Downtown Farmer's Market at Hometown Junction Park or join the trivia night fun at The Bogey Factory. Tomorrow, look forward to the ART Bar Happy Hour at ART House 360 starting at 5 PM, or the Hop Haus trivia challenge at 6:30 PM.",
+    "mainText": "Today, you can head to Hometown Junction Park for the Verona Downtown Farmer's Market, enjoy a class at Insight Wellness, or stop by Wisconsin Brewing Company for their Wednesday Pizza and a Pitcher event. Looking ahead, you can check out the Art Bar Happy Hour tomorrow at ART House 360.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-30",
-    "updateDate": "2026-09-30T21:06:04.650Z",
+    "updateDate": "2026-09-30T22:06:14.418Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering September 14 to September 28, we noted an incident on September 21 where a suspect was identified through surveillance video and cited for retail theft after taking candy from a retailer on East Verona Avenue.",
+    "mainText": "In our weekly look back, police were called to the 400 block of East Verona Avenue on September 21. Officers identified and cited an individual for retail theft involving the theft of Swedish Fish candy.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-30",
-    "updateDate": "2026-09-30T21:06:04.650Z",
+    "updateDate": "2026-09-30T22:06:14.418Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "If you are looking for a dessert, head over to Culver's to enjoy today's delicious flavor of the day, Double Strawberry. The restaurant is currently open and will remain serving guests until 10 PM tonight.",
+    "mainText": "It is a great day to grab a scoop of the Double Strawberry flavor of the day at Culver's. They are currently open until 10 PM, so make sure to stop by before they close for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
