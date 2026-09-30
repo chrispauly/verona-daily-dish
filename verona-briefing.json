@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-30",
-    "updateDate": "2026-09-30T18:08:16.302Z",
+    "updateDate": "2026-09-30T19:05:58.720Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we are seeing overcast skies at Verona Community Park with a temperature of 66 degrees.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we have overcast skies at Badger Ridge Middle School with a temperature of 67 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-30",
-    "updateDate": "2026-09-30T18:08:16.302Z",
+    "updateDate": "2026-09-30T19:05:58.720Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, please be aware that a segment of Highway M near the new Aldi site will be closed for road work from October 6 through October 9, with traffic detoured to Old PB and Main Street. Additionally, residents can begin early in-person voting for the November 3 election at City Hall starting October 20.",
+    "mainText": "The city has announced that Hwy M near the future Aldi location will be closed for road work from October 6 to October 9, with traffic redirected to Old PB and Verona Avenue. Additionally, residents can begin early voting for the November 3 election at City Hall starting October 20.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-30",
-    "updateDate": "2026-09-30T18:08:16.302Z",
+    "updateDate": "2026-09-30T19:05:58.720Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot happening today, including the Verona Downtown Farmer's Market, yoga at Insight Wellness, and Wednesday trivia at The Bogey Factory, with live music coming up at Bailey's Run Vineyard this Friday.",
+    "mainText": "There is plenty to do today, including the downtown farmer's market at Hometown Junction Park and music at Paddy Mac's, with Hop Haus trivia following tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-30",
-    "updateDate": "2026-09-30T18:08:16.302Z",
+    "updateDate": "2026-09-30T19:05:58.720Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy update from the police department, officers were dispatched on September 21 to a retailer on East Verona Avenue where a suspect was identified via video surveillance and subsequently cited for the retail theft of Swedish Fish.",
+    "mainText": "On September 24, a vehicle and bicyclist collision occurred on Westward Drive involving an 11-year-old, though thankfully no hospital transport was required.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-30",
-    "updateDate": "2026-09-30T18:08:16.302Z",
+    "updateDate": "2026-09-30T19:05:58.720Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day to stop by for a scoop of Double Strawberry. The store is currently open and will remain ready to serve you until 10:00 PM tonight.",
+    "mainText": "Treat yourself to today's delicious Flavor of the Day, Double Strawberry, and stop by anytime before the store closes at 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
