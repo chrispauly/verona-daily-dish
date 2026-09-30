@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-30",
-    "updateDate": "2026-09-30T04:07:09.846Z",
+    "updateDate": "2026-09-30T05:06:19.177Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, we are looking at 67 degrees with overcast skies at Harriet Park. We are under a Waning Gibbous moon and should expect an overnight low of 62 degrees with rain predicted before morning.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we are seeing overcast skies at the Verona Area High School with temperatures feeling like 61 degrees under a Waning Gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-30",
-    "updateDate": "2026-09-30T04:07:09.846Z",
+    "updateDate": "2026-09-30T05:06:19.177Z",
     "titleText": "Verona City News",
-    "mainText": "For our city updates, please note that Highway M will be closed near the future Aldi site for road work from October 6 through October 9, with traffic detoured to Old PB, East Verona Avenue, and South Main Street. Additionally, absentee voting for the November 3 election is available at City Hall with specific hours provided on the city website.",
+    "mainText": "The city has shared important updates regarding road construction on Highway M near the future Aldi site, which will involve a closure from October 6 through October 9, as well as information on early absentee voting available at City Hall leading up to the November 3 election.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-30",
-    "updateDate": "2026-09-30T04:07:09.846Z",
+    "updateDate": "2026-09-30T05:06:19.177Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona tomorrow, including the downtown farmer's market at Hometown Junction Park, trivia at The Bogey Factory, pizza and a pitcher at Wisconsin Brewing Company, and yoga sessions at Insight Wellness.",
+    "mainText": "There is a busy schedule today with the Verona Downtown Farmer's Market, Yoga at Insight Wellness, trivia at The Bogey Factory, and live music at Paddy Mac's, plus look out for Hop Haus trivia tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-30",
-    "updateDate": "2026-09-30T04:07:09.846Z",
+    "updateDate": "2026-09-30T05:06:19.177Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a recent report, on September 21, officers were alerted to a retail theft of Swedish Fish at a retailer on East Verona Avenue; the individual was identified via surveillance and subsequently cited.",
+    "mainText": "On September 14, a 21-year-old Sun Prairie man was taken into custody and booked into jail for resisting an officer following a report of retail theft in the 100 block of North Main Street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-30",
-    "updateDate": "2026-09-30T04:07:09.846Z",
+    "updateDate": "2026-09-30T05:06:19.177Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor, Caramel Peanut Buttercup, is no longer available as the store is closed for the night. Please join us tomorrow starting at 10 AM to enjoy the flavor of the day, which will be Double Strawberry.",
+    "mainText": "Today's delicious flavor of the day is Double Strawberry, and the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
