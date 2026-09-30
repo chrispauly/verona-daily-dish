@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-09-30",
-    "updateDate": "2026-09-30T05:06:19.177Z",
+    "updateDate": "2026-09-30T06:10:33.013Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we are seeing overcast skies at the Verona Area High School with temperatures feeling like 61 degrees under a Waning Gibbous moon.",
+    "mainText": "Hello, Verona! At 1 AM, we are seeing overcast skies at Harriet Park with a temperature of 66 degrees under a Waning Gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-09-30",
-    "updateDate": "2026-09-30T05:06:19.177Z",
+    "updateDate": "2026-09-30T06:10:33.013Z",
     "titleText": "Verona City News",
-    "mainText": "The city has shared important updates regarding road construction on Highway M near the future Aldi site, which will involve a closure from October 6 through October 9, as well as information on early absentee voting available at City Hall leading up to the November 3 election.",
+    "mainText": "City officials have announced that Hwy M will be closed near the Aldi site from October 6 through October 9 for road improvements, including milling and asphalt work. Also, early voting for the November 3 election is available at City Hall starting October 20.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-09-30",
-    "updateDate": "2026-09-30T05:06:19.177Z",
+    "updateDate": "2026-09-30T06:10:33.013Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a busy schedule today with the Verona Downtown Farmer's Market, Yoga at Insight Wellness, trivia at The Bogey Factory, and live music at Paddy Mac's, plus look out for Hop Haus trivia tomorrow.",
+    "mainText": "There is plenty to do in Verona, with the Downtown Farmer's Market happening today, trivia night at the Bogey Factory today, and a happy hour at ART House 360 tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-09-30",
-    "updateDate": "2026-09-30T05:06:19.177Z",
+    "updateDate": "2026-09-30T06:10:33.013Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 14, a 21-year-old Sun Prairie man was taken into custody and booked into jail for resisting an officer following a report of retail theft in the 100 block of North Main Street.",
+    "mainText": "In our weekly police report, on September 19, a 10-year-old child who went missing from Lincoln Street was safely located and reunited with their parents.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-09-30",
-    "updateDate": "2026-09-30T05:06:19.177Z",
+    "updateDate": "2026-09-30T06:10:33.013Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Double Strawberry, and the store opens today at 10:00 AM.",
+    "mainText": "Stop by for today's delicious flavor of the day, which is Double Strawberry. The store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
