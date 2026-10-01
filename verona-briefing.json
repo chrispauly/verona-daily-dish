@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-01",
-    "updateDate": "2026-10-01T20:07:15.342Z",
+    "updateDate": "2026-10-01T21:05:39.416Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. We have a temperature of 65 degrees, which feels like 67, under dense drizzle at Reddan Soccer Park.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we have overcast skies at Harriet Park with a temperature of 65 degrees and a Waning Gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-01",
-    "updateDate": "2026-10-01T20:07:15.342Z",
+    "updateDate": "2026-10-01T21:05:39.416Z",
     "titleText": "Verona City News",
-    "mainText": "October has been proclaimed Community Planning Month in the City of Verona to honor our Planning and Development Department. Also, residents may soon receive letters to schedule water cross-connection surveys to ensure our water supply remains clean and safe.",
+    "mainText": "The city is recognizing October as Community Planning Month to highlight the work of our planners, and residents are encouraged to look into the tri-shaw Bike program at the Senior Center for free, scenic rides on the Military Ridge State Trail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-01",
-    "updateDate": "2026-10-01T20:07:15.342Z",
+    "updateDate": "2026-10-01T21:05:39.416Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule today, including Yoga at Insight Wellness and trivia at Hop Haus Brewing Company. Looking ahead, you can catch live music at Bailey's Run Vineyard tomorrow.",
+    "mainText": "We have a busy couple of days ahead with Yoga at Insight Wellness, Art Bar Happy Hour, and Hop Haus trivia all happening today, followed by live music at Bailey's Run and Lake Lou-ee tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-01",
-    "updateDate": "2026-10-01T20:07:15.342Z",
+    "updateDate": "2026-10-01T21:05:39.416Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly update, on September 24, an 11-year-old child was involved in a collision with a vehicle while riding a bicycle, but thankfully, no hospital transport was required.",
+    "mainText": "In a noteworthy update from the weekly police report, officers responded to a retail theft on September 21 where a suspect was identified via surveillance video after stealing candy from a local retailer.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-01",
-    "updateDate": "2026-10-01T20:07:15.342Z",
+    "updateDate": "2026-10-01T21:05:39.416Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Chocolate Heath Crunch. The restaurant is currently open and will remain open for you to enjoy your treat until 10 PM tonight.",
+    "mainText": "You can enjoy today's Flavor of the Day, Chocolate Heath Crunch, which is available now until the store closes at 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
