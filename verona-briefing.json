@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-01",
-    "updateDate": "2026-10-01T03:11:56.117Z",
+    "updateDate": "2026-10-01T04:07:42.743Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: we have overcast skies near Verona Area High School and a Waning Gibbous moon overhead, with an overnight low of 64 degrees and rain in the forecast.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: it is 66 degrees and foggy near Fireman's Park under a Waning Gibbous moon, and tonight we are looking at an overnight low of 64 degrees with rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-01",
-    "updateDate": "2026-10-01T03:11:56.117Z",
+    "updateDate": "2026-10-01T04:07:42.743Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona Water Utility is beginning cross connection control surveys, and residents should keep an eye on the mail for a letter regarding their appointment; meanwhile, the city is also reminding voters that early in-person absentee voting begins soon at City Hall.",
+    "mainText": "The city is currently coordinating cross connection control inspections to protect our water supply, and don't forget that early voting for the November 3 election is available at City Hall.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-01",
-    "updateDate": "2026-10-01T03:11:56.117Z",
+    "updateDate": "2026-10-01T04:07:42.743Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with activities including the Verona Downtown Farmer's Market and trivia at The Bogey Factory, while tomorrow offers an Art Bar Happy Hour at ART House 360 and Hop Haus trivia.",
+    "mainText": "Looking ahead, tomorrow features Yoga at Insight Wellness, Art Bar Happy Hour, and trivia at Hop Haus, while the World Dairy Expo arrives this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-01",
-    "updateDate": "2026-10-01T03:11:56.117Z",
+    "updateDate": "2026-10-01T04:07:42.743Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 21, officers investigated a retail theft where a subject was identified stealing candy from a business in the 400 block of East Verona Avenue.",
+    "mainText": "On September 24, an 11-year-old bicyclist was involved in a crash with a vehicle at Westward Drive, but thankfully they did not require hospitalization.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-01",
-    "updateDate": "2026-10-01T03:11:56.117Z",
+    "updateDate": "2026-10-01T04:07:42.743Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day, Double Strawberry, has come to an end for the evening, but you can look forward to the return of Chocolate Heath Crunch when the doors open tomorrow at 10:00 AM.",
+    "mainText": "The Culver's kitchen has closed for the night after serving today's Double Strawberry, so check back tomorrow at 10:00 AM to enjoy the new flavor of the day, Chocolate Heath Crunch.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
