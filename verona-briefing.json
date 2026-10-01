@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-01",
-    "updateDate": "2026-10-01T21:05:39.416Z",
+    "updateDate": "2026-10-01T22:05:50.480Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we have overcast skies at Harriet Park with a temperature of 65 degrees and a Waning Gibbous moon.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: it is 65 degrees with light drizzle near Verona Community Park, and with the Waning Gibbous moon out, we expect a low of 46 degrees overnight with rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-01",
-    "updateDate": "2026-10-01T21:05:39.416Z",
+    "updateDate": "2026-10-01T22:05:50.480Z",
     "titleText": "Verona City News",
-    "mainText": "The city is recognizing October as Community Planning Month to highlight the work of our planners, and residents are encouraged to look into the tri-shaw Bike program at the Senior Center for free, scenic rides on the Military Ridge State Trail.",
+    "mainText": "The City of Verona is celebrating Community Planning Month throughout October to honor the Planning and Development Department's commitment to our city. Additionally, the Senior Center is offering free rides on their tri-shaw bikes along the Military Ridge State Trail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-01",
-    "updateDate": "2026-10-01T21:05:39.416Z",
+    "updateDate": "2026-10-01T22:05:50.480Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead with Yoga at Insight Wellness, Art Bar Happy Hour, and Hop Haus trivia all happening today, followed by live music at Bailey's Run and Lake Lou-ee tomorrow.",
+    "mainText": "There is plenty to do today, including Yoga at Insight Wellness, Art Bar Happy Hour, and trivia at Hop Haus Brewing. Looking ahead, you can catch live music at Bailey's Run Vineyard and the Wisconsin Brewing Company tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-01",
-    "updateDate": "2026-10-01T21:05:39.416Z",
+    "updateDate": "2026-10-01T22:05:50.480Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy update from the weekly police report, officers responded to a retail theft on September 21 where a suspect was identified via surveillance video after stealing candy from a local retailer.",
+    "mainText": "In a report covering late September, police handled a situation on September 21 where a retail theft involving candy was identified through surveillance footage.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-01",
-    "updateDate": "2026-10-01T21:05:39.416Z",
+    "updateDate": "2026-10-01T22:05:50.480Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy today's Flavor of the Day, Chocolate Heath Crunch, which is available now until the store closes at 10 PM.",
+    "mainText": "Today's flavor at the Verona Culver's is the always-popular Chocolate Heath Crunch. The store is currently open and will remain open until 10:00 PM tonight, so there is plenty of time to head over and enjoy a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
