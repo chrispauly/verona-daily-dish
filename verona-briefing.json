@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-01",
-    "updateDate": "2026-10-01T06:10:58.924Z",
+    "updateDate": "2026-10-01T07:14:05.849Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: current temperatures are holding at 66 degrees with overcast skies near the Military Ridge State Trail and a waning gibbous moon overhead.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: it is 66 degrees with light drizzle reported at the Verona Area High School, under a Waning Gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-01",
-    "updateDate": "2026-10-01T06:10:58.924Z",
+    "updateDate": "2026-10-01T07:14:05.849Z",
     "titleText": "Verona City News",
-    "mainText": "The city is beginning cross connection control surveys to keep our water supply clean and safe, so look for a letter in your mail to schedule a survey. Additionally, remember that road construction will close a portion of Highway M from October 6 through October 9, so please plan for detours.",
+    "mainText": "The City of Verona is reminding residents to watch for cross connection control survey letters, and please note that Highway M will be closed near the future Aldi site for road work from October 6 through October 9.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-01",
-    "updateDate": "2026-10-01T06:10:58.924Z",
+    "updateDate": "2026-10-01T07:14:05.849Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with Yoga at Insight Wellness, the Art Bar Happy Hour, and Hop Haus Trivia all happening today, followed by live music at Bailey's Run Vineyard tomorrow.",
+    "mainText": "We have a busy schedule today including Yoga at Insight Wellness, the Art Bar Happy Hour at ART House 360, and Hop Haus Trivia, with live music starting tomorrow at Bailey's Run Vineyard.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-01",
-    "updateDate": "2026-10-01T06:10:58.924Z",
+    "updateDate": "2026-10-01T07:14:05.849Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at recent reports, on September 21, officers identified and cited an individual via surveillance footage for the retail theft of Swedish Fish from a store on East Verona Avenue.",
+    "mainText": "Regarding recent incidents, on September 21, a retail theft of Swedish Fish candy occurred at a local business, and the individual was later identified and cited.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-01",
-    "updateDate": "2026-10-01T06:10:58.924Z",
+    "updateDate": "2026-10-01T07:14:05.849Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is Chocolate Heath Crunch, which you can enjoy once they open today at 10 AM.",
+    "mainText": "Today's flavor is the delightful Chocolate Heath Crunch, and the store opens today at 10:00 AM to serve you.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
