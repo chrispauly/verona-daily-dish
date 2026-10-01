@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-01",
-    "updateDate": "2026-10-01T01:33:23.788Z",
+    "updateDate": "2026-10-01T02:19:46.905Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: it is 65 degrees at Verona Community Park with overcast skies. We are seeing a waning gibbous moon, and the overnight low will dip to 62 degrees with rain in the forecast.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: current temperatures are 65 degrees with overcast skies at Harriet Park under a Waning Gibbous moon, and the temperature will dip to a low of 62 degrees with rain predicted overnight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-01",
-    "updateDate": "2026-10-01T01:33:23.788Z",
+    "updateDate": "2026-10-01T02:19:46.905Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is partnering with agencies to conduct cross connection control surveys to prevent water contamination, while also reminding residents that early voting begins soon at City Hall.",
+    "mainText": "The Verona Water Utility is partnering with experts to conduct cross connection surveys to prevent water contamination, so watch your mail for an appointment notice. Also, keep in mind that road construction will close a portion of Highway M from October 6 through October 9, so please follow the detours.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-01",
-    "updateDate": "2026-10-01T01:33:23.788Z",
+    "updateDate": "2026-10-01T02:19:46.905Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty happening around town, including Trivia Night at The Bogey Factory today, followed by the Art Bar Happy Hour at ART House 360 tomorrow.",
+    "mainText": "It is a busy week in town. Today you can enjoy live music at Paddy Mac's, yoga at Insight Wellness, the Farmer's Market, trivia at The Bogey Factory, or Pizza and a Pitcher at Wisconsin Brewing Company. Tomorrow, check out the Art Bar happy hour or Hop Haus trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-01",
-    "updateDate": "2026-10-01T01:33:23.788Z",
+    "updateDate": "2026-10-01T02:19:46.905Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from September 24, an 11-year-old child was involved in a collision with a vehicle while riding a bicycle, but thankfully, no hospital transport was needed.",
+    "mainText": "Regarding local activity, on September 21, officers were alerted to a retail theft where a suspect made off with Swedish Fish candy, but the individual was later identified and cited.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-01",
-    "updateDate": "2026-10-01T01:33:23.788Z",
+    "updateDate": "2026-10-01T02:19:46.905Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can still head over to Culver's to grab today's flavor, Double Strawberry, before they close their doors for the night at 10 PM.",
+    "mainText": "Today's flavor of the day is the delicious Double Strawberry. The store is currently open but will be closing soon in 40 minutes, so make sure to get there before they wrap up for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
