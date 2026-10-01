@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-01",
-    "updateDate": "2026-10-01T13:09:09.180Z",
+    "updateDate": "2026-10-01T14:06:46.193Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we are seeing moderate rain at Firemans Park with temperatures at 66 degrees.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish. We have a temperature of 63 degrees with moderate drizzle conditions near the Verona Community Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-01",
-    "updateDate": "2026-10-01T13:09:09.180Z",
+    "updateDate": "2026-10-01T14:06:46.193Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is reaching out about cross connection surveys to protect our water supply, and don't forget that early voting for the November 3 election kicks off at City Hall starting October 20.",
+    "mainText": "The City of Verona Water Utility is teaming up with HydroCorp for necessary cross connection control surveys to ensure our water supply remains clean and safe.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-01",
-    "updateDate": "2026-10-01T13:09:09.180Z",
+    "updateDate": "2026-10-01T14:06:46.193Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is a busy one with Yoga at Insight Wellness, an Art Bar Happy Hour, and trivia at Hop Haus, followed by live music at Bailey's Run and Lake Lou-ee tomorrow.",
+    "mainText": "We have a packed schedule today, including yoga at Insight Wellness and an Art Bar happy hour at ART House 360, followed by live music at Bailey's Run Vineyard tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-01",
-    "updateDate": "2026-10-01T13:09:09.180Z",
+    "updateDate": "2026-10-01T14:06:46.193Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the records, on September 19, a 10-year-old child reported missing from Lincoln Street was safely located on North Nine Mound Road and reunited with their parents.",
+    "mainText": "In a report covering September 14 through September 28, the Verona Police Department noted that on September 21, a suspect was identified via surveillance video and cited for retail theft after taking candy from a store on East Verona Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-01",
-    "updateDate": "2026-10-01T13:09:09.180Z",
+    "updateDate": "2026-10-01T14:06:46.193Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's flavor, Chocolate Heath Crunch, when the store opens today at 10:00 AM.",
+    "mainText": "You can satisfy your cravings today with our flavor of the day, Chocolate Heath Crunch. The local Culver's opens today at 10:00 AM to serve you.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
