@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-01",
-    "updateDate": "2026-10-01T10:07:10.452Z",
+    "updateDate": "2026-10-01T11:05:49.456Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we have moderate rain and a temperature of 65 degrees near the Verona Area High School, with a waning gibbous moon overhead.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish. We are seeing 65 degrees with slight rain at Badger Prairie County Park, and the moon is currently in a Waning Gibbous phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-01",
-    "updateDate": "2026-10-01T10:07:10.452Z",
+    "updateDate": "2026-10-01T11:05:49.456Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Water Utility is conducting cross connection surveys to prevent water contamination, and road crews are closing a portion of Highway M near the new Aldi site from October 6 through October 9 for final paving work.",
+    "mainText": "The City of Verona is reaching out about important cross connection inspections to protect our water supply, and don't forget that road construction on Highway M will be impacting traffic with detours through October 9.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-01",
-    "updateDate": "2026-10-01T10:07:10.452Z",
+    "updateDate": "2026-10-01T11:05:49.456Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy day in town today with Yoga at Insight Wellness, the ART Bar Happy Hour at ART House 360, and trivia at Hop Haus Brewing Co, plus live music starts tomorrow at Bailey's Run and Lake Lou-ee.",
+    "mainText": "There is a lot going on to kick off the month, including Yoga at Insight Wellness, the Art Bar Happy Hour at ART House 360, and Hop Haus Trivia, all happening today.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-01",
-    "updateDate": "2026-10-01T10:07:10.452Z",
+    "updateDate": "2026-10-01T11:05:49.456Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 14, a 37-year-old Verona man was taken into custody on a traffic stop for violating probation and operating after revocation.",
+    "mainText": "In recent police reports, a retail theft involving candy occurred on September 21, where the subject was identified through surveillance footage and later cited.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-01",
-    "updateDate": "2026-10-01T10:07:10.452Z",
+    "updateDate": "2026-10-01T11:05:49.456Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can treat yourself to today's flavor, Chocolate Heath Crunch, when the doors open today at 10:00 AM.",
+    "mainText": "You can satisfy your cravings with today's flavor of the day, Chocolate Heath Crunch, and you can head over to the store when it opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
