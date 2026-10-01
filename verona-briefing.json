@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-01",
-    "updateDate": "2026-10-01T14:06:46.193Z",
+    "updateDate": "2026-10-01T15:06:29.197Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish. We have a temperature of 63 degrees with moderate drizzle conditions near the Verona Community Park.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have overcast skies and a temperature of 63 degrees at Badger Prairie County Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-01",
-    "updateDate": "2026-10-01T14:06:46.193Z",
+    "updateDate": "2026-10-01T15:06:29.197Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona Water Utility is teaming up with HydroCorp for necessary cross connection control surveys to ensure our water supply remains clean and safe.",
+    "mainText": "The City of Verona has updated us that the Fireman Park beach is now closed for the season. Additionally, please be aware that a portion of Highway M near the future Aldi site will be closed from October 6 through October 9 for road improvements, so please plan your travel accordingly.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-01",
-    "updateDate": "2026-10-01T14:06:46.193Z",
+    "updateDate": "2026-10-01T15:06:29.197Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule today, including yoga at Insight Wellness and an Art Bar happy hour at ART House 360, followed by live music at Bailey's Run Vineyard tomorrow.",
+    "mainText": "It is a busy couple of days in town with Yoga at Insight Wellness happening today, followed by live music at Bailey's Run Vineyard and Wisconsin Brewing Company tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-01",
-    "updateDate": "2026-10-01T14:06:46.193Z",
+    "updateDate": "2026-10-01T15:06:29.197Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering September 14 through September 28, the Verona Police Department noted that on September 21, a suspect was identified via surveillance video and cited for retail theft after taking candy from a store on East Verona Avenue.",
+    "mainText": "In our weekly report, on September 21, a retail theft occurred at a business in the 400 block of East Verona Avenue involving a suspect who was later identified and cited.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-01",
-    "updateDate": "2026-10-01T14:06:46.193Z",
+    "updateDate": "2026-10-01T15:06:29.197Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can satisfy your cravings today with our flavor of the day, Chocolate Heath Crunch. The local Culver's opens today at 10:00 AM to serve you.",
+    "mainText": "You can enjoy the delicious Chocolate Heath Crunch flavor of the day at Culver's, which is currently open and serving guests until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
