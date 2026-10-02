@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-02",
-    "updateDate": "2026-10-02T17:05:31.264Z",
+    "updateDate": "2026-10-02T18:08:12.374Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we have clear skies at Reddan Soccer Park. You can also catch the International Space Station flying over tonight at 7:06 PM, appearing low in the sky as it moves from the direction of Mount Horeb toward Belleville.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. It is a crisp 59 degrees at Badger Prairie County Park under clear skies. If you are looking up tonight, the International Space Station will be visible at 7:06 PM, rising over Mount Horeb in the west-southwest and tracking low across the horizon toward Belleville in the south-southwest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-02",
-    "updateDate": "2026-10-02T17:05:31.264Z",
+    "updateDate": "2026-10-02T18:08:12.374Z",
     "titleText": "Verona City News",
-    "mainText": "October has been proclaimed Community Planning Month to recognize the hard work of our planning department. Also, please note that a section of Highway M will be closed for construction from October 6 through October 9, so plan your travels accordingly.",
+    "mainText": "October is now Community Planning Month in Verona, honoring the Planning and Development Department for their expertise in managing our city's growth. Also, keep an eye out for road construction on Highway M near the future Aldi site from October 6 through October 9, which will require detours.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-02",
-    "updateDate": "2026-10-02T17:05:31.264Z",
+    "updateDate": "2026-10-02T18:08:12.374Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead with live music today at Bailey's Run Vineyard and Lake Lou-ee. Tomorrow, check out the Dane County Farmers Market at the Capitol Square or catch the music series at Paddy Mac's. Looking further ahead, the World Dairy Expo and the Farley Center Fall Festival are both happening this Saturday.",
+    "mainText": "We have a packed schedule starting with live music today at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, you can visit the Dane County Farmer's Market or catch more live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-02",
-    "updateDate": "2026-10-02T17:05:31.264Z",
+    "updateDate": "2026-10-02T18:08:12.374Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from September 21, officers identified and cited a suspect for the retail theft of Swedish Fish candy from a local store.",
+    "mainText": "On September 21, Verona Police responded to a report of retail theft after an individual was identified via surveillance video taking candy from a local retailer.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-02",
-    "updateDate": "2026-10-02T17:05:31.264Z",
+    "updateDate": "2026-10-02T18:08:12.374Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Caramel Fudge Cookie Dough, and since the restaurant is currently open until 10:30 PM, you have plenty of time to stop by for a delicious treat.",
+    "mainText": "Today is the perfect day to stop by Culver's for their Flavor of the Day, Caramel Fudge Cookie Dough. The shop is currently open, so be sure to swing by before they close at 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
