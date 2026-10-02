@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-10-01",
-    "updateDate": "2026-10-01T23:05:28.354Z",
+    "uid": "verona-balanced-weather-2026-10-02",
+    "updateDate": "2026-10-02T00:17:13.899Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. It is 64 degrees under overcast skies at Badger Ridge Middle School with a Waning Gibbous moon above. Tonight, temperatures will drop to 46 degrees and we are expecting rain overnight.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: we are looking at 63 degrees under overcast skies at Badger Prairie County Park with a waning gibbous moon, and tonight will reach a low of 46 degrees with rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-10-01",
-    "updateDate": "2026-10-01T23:05:28.354Z",
+    "uid": "verona-balanced-news-2026-10-02",
+    "updateDate": "2026-10-02T00:17:13.899Z",
     "titleText": "Verona City News",
-    "mainText": "Mayor Diaz has officially recognized October as Community Planning Month to thank the Planning and Development Department for their expertise in shaping our city. Also, please keep an eye out for mail regarding cross connection surveys to help keep our water supply clean.",
+    "mainText": "Mayor Diaz has designated October as Community Planning Month to recognize the hard work of our planning department. Additionally, the city is reminding residents to keep an eye out for letters regarding mandatory cross connection control surveys to help protect our water quality.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-10-01",
-    "updateDate": "2026-10-01T23:05:28.354Z",
+    "uid": "verona-balanced-events-2026-10-02",
+    "updateDate": "2026-10-02T00:17:13.899Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today features Yoga at Insight Wellness and the ART House 360 Happy Hour, along with Hop Haus Trivia. Tomorrow, enjoy live music at Bailey's Run Vineyard and Wisconsin Brewing Company.",
+    "mainText": "Today you can enjoy yoga at Insight Wellness or trivia at Hop Haus, while tomorrow features live music at Bailey's Run Vineyard and the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-10-01",
-    "updateDate": "2026-10-01T23:05:28.354Z",
+    "uid": "verona-balanced-police-2026-10-02",
+    "updateDate": "2026-10-02T00:17:13.899Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 21, officers identified and cited an individual for retail theft after they were caught on surveillance stealing Swedish Fish candy.",
+    "mainText": "On September 21, a retail theft of candy occurred at a shop in the 400 block of East Verona Avenue, where the individual was identified via surveillance and cited.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-10-01",
-    "updateDate": "2026-10-01T23:05:28.354Z",
+    "uid": "verona-balanced-culvers-2026-10-02",
+    "updateDate": "2026-10-02T00:17:13.899Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is the delicious Turtle Cheesecake. Culver's is open until 10 PM tonight, so there is still plenty of time to stop by for a treat.",
+    "mainText": "The flavor of the day is Chocolate Heath Crunch, and you can grab a scoop since the store is currently open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
