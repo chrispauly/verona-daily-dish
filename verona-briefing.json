@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-02",
-    "updateDate": "2026-10-02T06:10:40.060Z",
+    "updateDate": "2026-10-02T07:12:49.894Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we have overcast skies at Fireman's Park with a temperature of 53 degrees and the moon is currently in its third quarter.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: it is 51 degrees and partly cloudy near Fireman's Park, with a third quarter moon visible tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-02",
-    "updateDate": "2026-10-02T06:10:40.060Z",
+    "updateDate": "2026-10-02T07:12:49.894Z",
     "titleText": "Verona City News",
-    "mainText": "October is officially Community Planning Month in Verona. Mayor Diaz is honoring the Planning and Development Department for their dedication to our city. Also, remember to check your mail for notifications regarding upcoming cross connection control surveys for your water utility.",
+    "mainText": "October is officially Community Planning Month in Verona, recognizing the Planning and Development Department for their vital work in shaping our community. Additionally, residents may receive mail about cross connection surveys to ensure our water safety, so please keep an eye out for those letters.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-02",
-    "updateDate": "2026-10-02T06:10:40.060Z",
+    "updateDate": "2026-10-02T07:12:49.894Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You have plenty to look forward to! Enjoy live music at Bailey's Run Vineyard today, visit the Dane County Farmers' Market tomorrow, or check out the World Dairy Expo this Saturday.",
+    "mainText": "We have plenty to look forward to, including live music at Bailey's Run today, the Dane County Farmers Market tomorrow, and the exciting Farley Center Fall Festival on October 4.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-02",
-    "updateDate": "2026-10-02T06:10:40.060Z",
+    "updateDate": "2026-10-02T07:12:49.894Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering September 14 to September 28, officers noted that on September 24, an 11-year-old child was involved in a bicycle crash at Westward Drive and Jenna Drive after failing to stop at a stop sign.",
+    "mainText": "On September 24, a vehicle and bicyclist collision occurred at Westward Drive and Jenna Drive involving an 11-year-old child; thankfully, no hospital transport was required.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-02",
-    "updateDate": "2026-10-02T06:10:40.060Z",
+    "updateDate": "2026-10-02T07:12:49.894Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "If you are looking for a sweet treat, today's flavor is Chocolate Covered Strawberry. The store opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is the delicious Caramel Fudge Cookie Dough. The store is currently closed but will open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
