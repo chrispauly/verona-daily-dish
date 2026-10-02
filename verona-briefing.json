@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-02",
-    "updateDate": "2026-10-02T18:08:12.374Z",
+    "updateDate": "2026-10-02T19:05:20.729Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. It is a crisp 59 degrees at Badger Prairie County Park under clear skies. If you are looking up tonight, the International Space Station will be visible at 7:06 PM, rising over Mount Horeb in the west-southwest and tracking low across the horizon toward Belleville in the south-southwest.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We have clear skies near the Verona Public Library and the moon is in its third quarter phase. If you look to the west-southwest near Mount Horeb around 7:06 PM, you can catch a two-minute flyover of the space station as it travels toward Belleville.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-02",
-    "updateDate": "2026-10-02T18:08:12.374Z",
+    "updateDate": "2026-10-02T19:05:20.729Z",
     "titleText": "Verona City News",
-    "mainText": "October is now Community Planning Month in Verona, honoring the Planning and Development Department for their expertise in managing our city's growth. Also, keep an eye out for road construction on Highway M near the future Aldi site from October 6 through October 9, which will require detours.",
+    "mainText": "October is officially Community Planning Month, a time to recognize our dedicated city planners. Also, if you are looking for fresh air, the Senior Center is offering free 30-minute tri-shaw bike rides along the Military Ridge State Trail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-02",
-    "updateDate": "2026-10-02T18:08:12.374Z",
+    "updateDate": "2026-10-02T19:05:20.729Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule starting with live music today at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, you can visit the Dane County Farmer's Market or catch more live music at Paddy Mac's.",
+    "mainText": "There is plenty to do with live music today at Bailey's Run Vineyard, plus the Dane County Farmers Market tomorrow, and the Farley Center Fall Festival this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-02",
-    "updateDate": "2026-10-02T18:08:12.374Z",
+    "updateDate": "2026-10-02T19:05:20.729Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 21, Verona Police responded to a report of retail theft after an individual was identified via surveillance video taking candy from a local retailer.",
+    "mainText": "Looking at the weekly report, on September 21, a retail theft occurred at a business on East Verona Avenue where a suspect was identified stealing candy via surveillance footage.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-02",
-    "updateDate": "2026-10-02T18:08:12.374Z",
+    "updateDate": "2026-10-02T19:05:20.729Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day to stop by Culver's for their Flavor of the Day, Caramel Fudge Cookie Dough. The shop is currently open, so be sure to swing by before they close at 10:30 PM.",
+    "mainText": "Today's flavor of the day is the decadent Caramel Fudge Cookie Dough. The store is currently open and will be serving up scoops until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
