@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-02",
-    "updateDate": "2026-10-02T03:08:07.564Z",
+    "updateDate": "2026-10-02T04:07:08.042Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. We have overcast skies and 58 degrees at Harriet Park under a Waning Gibbous moon. Tonight, the temperature will drop to 47 degrees, and we have no rain in the forecast.",
+    "mainText": "Hello, Verona! At 11 PM, it is currently 56 degrees with overcast skies at Badger Ridge Middle School and a third quarter moon overhead; expect an overnight low of 47 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-02",
-    "updateDate": "2026-10-02T03:08:07.564Z",
+    "updateDate": "2026-10-02T04:07:08.042Z",
     "titleText": "Verona City News",
-    "mainText": "October is officially Community Planning Month in Verona, recognizing our Planning and Development Department. Also, if you need a scenic ride, the Senior Center is offering free rides on the Military Ridge State Trail via their tri-shaw bikes.",
+    "mainText": "Mayor Diaz has proclaimed October as Community Planning Month to recognize the vital work of our Planning and Development Department in shaping our city's future through data-driven insights.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-02",
-    "updateDate": "2026-10-02T03:08:07.564Z",
+    "updateDate": "2026-10-02T04:07:08.042Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days! Today you can visit Insight Wellness for yoga, check out the Art Bar Happy Hour at ART House 360, or head to Hop Haus Brewing for trivia. Tomorrow, catch live music at Bailey's Run Vineyard or the Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do this weekend, starting with live music tomorrow at both Bailey's Run Vineyard and the Wisconsin Brewing Company, followed by the Dane County Farmers' Market on Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-02",
-    "updateDate": "2026-10-02T03:08:07.564Z",
+    "updateDate": "2026-10-02T04:07:08.042Z",
     "titleText": "Verona Police Report",
-    "mainText": "Reflecting on the weekly recap, on September 21, officers identified a suspect who stole Swedish Fish from a retailer on East Verona Avenue and issued a citation for retail theft.",
+    "mainText": "In a report regarding a retail theft on September 21, a suspect was identified via surveillance footage after taking items from a business in the 400 block of East Verona Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-02",
-    "updateDate": "2026-10-02T03:08:07.564Z",
+    "updateDate": "2026-10-02T04:07:08.042Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Our Culver's location is closed for the evening, but be sure to stop by tomorrow starting at 10 AM to enjoy the delicious Caramel Fudge Cookie Dough flavor of the day.",
+    "mainText": "The Culver's of Verona is currently closed for the evening after serving up Chocolate Heath Crunch, but we look forward to seeing you tomorrow morning at 10 AM when we feature Caramel Fudge Cookie Dough.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
