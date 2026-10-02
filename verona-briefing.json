@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-02",
-    "updateDate": "2026-10-02T04:07:08.042Z",
+    "updateDate": "2026-10-02T05:06:21.276Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, it is currently 56 degrees with overcast skies at Badger Ridge Middle School and a third quarter moon overhead; expect an overnight low of 47 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: it is 54 degrees with overcast skies near the Military Ridge State Trail, and we are currently under a Third Quarter moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-02",
-    "updateDate": "2026-10-02T04:07:08.042Z",
+    "updateDate": "2026-10-02T05:06:21.276Z",
     "titleText": "Verona City News",
-    "mainText": "Mayor Diaz has proclaimed October as Community Planning Month to recognize the vital work of our Planning and Development Department in shaping our city's future through data-driven insights.",
+    "mainText": "October is National Community Planning Month, a time to thank our dedicated Planning and Development Department. Also, please be aware that a portion of Highway M will be closed from October 6 through October 9 for road work.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-02",
-    "updateDate": "2026-10-02T04:07:08.042Z",
+    "updateDate": "2026-10-02T05:06:21.276Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend, starting with live music tomorrow at both Bailey's Run Vineyard and the Wisconsin Brewing Company, followed by the Dane County Farmers' Market on Saturday.",
+    "mainText": "We have a busy couple of days ahead with live music at Bailey's Run Vineyard today, the Dane County Farmers' Market tomorrow, and the World Dairy Expo coming up on October 4.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-02",
-    "updateDate": "2026-10-02T04:07:08.042Z",
+    "updateDate": "2026-10-02T05:06:21.276Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report regarding a retail theft on September 21, a suspect was identified via surveillance footage after taking items from a business in the 400 block of East Verona Avenue.",
+    "mainText": "In our weekly police report, on September 21, officers identified and cited an individual for the retail theft of candy from a store on East Verona Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-02",
-    "updateDate": "2026-10-02T04:07:08.042Z",
+    "updateDate": "2026-10-02T05:06:21.276Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's of Verona is currently closed for the evening after serving up Chocolate Heath Crunch, but we look forward to seeing you tomorrow morning at 10 AM when we feature Caramel Fudge Cookie Dough.",
+    "mainText": "The Culver's flavor of the day is the delightful Caramel Fudge Cookie Dough, and the restaurant will be ready to serve you when it opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
