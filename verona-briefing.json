@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-03",
-    "updateDate": "2026-10-03T08:08:00.941Z",
+    "updateDate": "2026-10-03T09:06:21.387Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: it is 44 degrees and clear at Badger Prairie County Park, with a third quarter moon lighting up the sky.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: it is 43 degrees at Badger Prairie County Park under clear skies and a third quarter moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-03",
-    "updateDate": "2026-10-03T08:08:00.941Z",
+    "updateDate": "2026-10-03T09:06:21.387Z",
     "titleText": "Verona City News",
-    "mainText": "October is Community Planning Month in Verona, honoring the Planning and Development Department for their hard work on local housing and infrastructure. Also, a reminder that the Fireman's Park Beach is now closed for the season, though the splash pad remains a highlight of our summer months.",
+    "mainText": "October is officially Community Planning Month, celebrating the department's hard work in helping our city grow, and don't forget that the Beach at Fireman's Park is now closed for the season.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-03",
-    "updateDate": "2026-10-03T08:08:00.941Z",
+    "updateDate": "2026-10-03T09:06:21.387Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead! Today, enjoy the Dane County Farmers Market or live music at venues like Paddys and Baileys Run. Tomorrow, do not miss the World Dairy Expo and the annual cider pressing at the Farley Center.",
+    "mainText": "There is plenty to do, including the Dane County Farmers Market today, live music at Paddy Mac's and Lake Lou-ee today, and the World Dairy Expo and Farley Center Fall Festival tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-03",
-    "updateDate": "2026-10-03T08:08:00.941Z",
+    "updateDate": "2026-10-03T09:06:21.387Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 21, police identified a retail theft suspect through surveillance video after they made off with candy from a store on East Verona Avenue.",
+    "mainText": "In a notable incident on September 19, police and fire crews searched for a 10-year-old child who went missing from Lincoln Street, thankfully locating them safely on North Nine Mound Road.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-03",
-    "updateDate": "2026-10-03T08:08:00.941Z",
+    "updateDate": "2026-10-03T09:06:21.387Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by for today's delicious flavor of the day, Really Reese's. The store opens today at 10:00 AM.",
+    "mainText": "You can look forward to the Really Reese's flavor of the day when the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
