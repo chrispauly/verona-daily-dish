@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-03",
-    "updateDate": "2026-10-03T20:59:51.049Z",
+    "updateDate": "2026-10-03T22:03:48.299Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we have clear skies at the Military Ridge State Trail with a temperature of 66 degrees.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: current temperatures are 64 degrees under clear skies at Fireman's Park, and we are looking at a chilly overnight low of 50 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-03",
-    "updateDate": "2026-10-03T20:59:51.049Z",
+    "updateDate": "2026-10-03T22:03:48.299Z",
     "titleText": "Verona City News",
-    "mainText": "Mayor Diaz has officially proclaimed October as Community Planning Month to recognize the vital work of our planning department. Additionally, the city is promoting a wonderful tri-shaw Bike program for seniors, which offers free rides along the Military Ridge State Trail to enjoy nature and our local scenery.",
+    "mainText": "Mayor Diaz has proclaimed October as Community Planning Month to honor the Planning and Development Department for their dedication to public service and data-driven community growth. Also, don't forget you can enjoy a free ride on a tri-shaw bike along the Military Ridge State Trail by booking through the Verona Senior Center.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-03",
-    "updateDate": "2026-10-03T20:59:51.049Z",
+    "updateDate": "2026-10-03T22:03:48.299Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a busy schedule ahead with the Dane County Farmers Market taking place today, followed by the World Dairy Expo and the Farley Center Fall Festival both happening tomorrow.",
+    "mainText": "Today features the Dane County Farmer's Market and live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Tomorrow, check out the World Dairy Expo and the Farley Center Fall Festival, followed by yoga and trivia events starting Sunday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-03",
-    "updateDate": "2026-10-03T20:59:51.049Z",
+    "updateDate": "2026-10-03T22:03:48.299Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 21, officers identified a suspect through surveillance footage who had committed a retail theft of candy from a store on East Verona Avenue.",
+    "mainText": "In a noteworthy call from September 21, local officers identified and cited an individual for retail theft after they stole Swedish Fish from a business on East Verona Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-03",
-    "updateDate": "2026-10-03T20:59:51.049Z",
+    "updateDate": "2026-10-03T22:03:48.299Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Really Reese's, and since the restaurant is currently open until 10:30 PM, I encourage you to head over and grab a scoop.",
+    "mainText": "Stop by for a scoop of the delicious Really Reese's flavor of the day. The restaurant is currently open and will be serving until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
