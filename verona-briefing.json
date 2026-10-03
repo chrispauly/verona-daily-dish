@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-03",
-    "updateDate": "2026-10-03T00:15:49.771Z",
+    "updateDate": "2026-10-03T01:20:19.952Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, we have clear skies at Harriet Park with a temperature of 55 degrees. Under the Third Quarter moon, we can expect an overnight low of 46 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 8 PM, we are looking at clear skies out by Badger Prairie County Park with a temperature of 53 degrees. Tonight, the mercury will drop to an overnight low of 46 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-03",
-    "updateDate": "2026-10-03T00:15:49.771Z",
+    "updateDate": "2026-10-03T01:20:19.952Z",
     "titleText": "Verona City News",
-    "mainText": "October is now Community Planning Month in Verona, recognizing the Planning and Development Department for their hard work. Also, please keep an eye out for any mail regarding Cross Connection Control surveys to help ensure our water supply remains safe.",
+    "mainText": "Mayor Diaz has designated October as Community Planning Month to highlight the important work of our Planning and Development Department. Also, don't forget about the free tri-shaw bike program at the Senior Center which offers relaxing rides along the Military Ridge State Trail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-03",
-    "updateDate": "2026-10-03T00:15:49.771Z",
+    "updateDate": "2026-10-03T01:20:19.952Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead with live music today at Bailey's Run and Wisconsin Brewing Company, followed by the Dane County Farmers' Market tomorrow and the World Dairy Expo this Saturday.",
+    "mainText": "We have plenty going on with live music at Bailey's Run Vineyard and the Wisconsin Brewing Company happening today, followed by the Dane County Farmer's Market taking place tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-03",
-    "updateDate": "2026-10-03T00:15:49.771Z",
+    "updateDate": "2026-10-03T01:20:19.952Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 21, officers investigated a retail theft at a local business where a suspect was identified stealing candy and subsequently cited.",
+    "mainText": "In our police report for September 24, officers responded to a collision between a vehicle and a bicyclist on Westward Drive where, thankfully, no hospital transport was required.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-03",
-    "updateDate": "2026-10-03T00:15:49.771Z",
+    "updateDate": "2026-10-03T01:20:19.952Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can still stop by Culver's tonight for some Caramel Fudge Cookie Dough before they close at 10:30 PM.",
+    "mainText": "While today's flavor is currently unknown, the Verona Culver's is open until 10:00 PM tonight, so there is still plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
