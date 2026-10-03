@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-03",
-    "updateDate": "2026-10-03T16:21:27.976Z",
+    "updateDate": "2026-10-03T18:10:40.800Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we are seeing clear skies over Badger Prairie County Park with a temperature of 59 degrees.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we are seeing clear skies around Badger Ridge Middle School with temperatures at 62 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-03",
-    "updateDate": "2026-10-03T16:21:27.976Z",
+    "updateDate": "2026-10-03T18:10:40.800Z",
     "titleText": "Verona City News",
-    "mainText": "October is officially Community Planning Month in Verona. Mayor Diaz issued a proclamation honoring our planning department for their data-driven work and commitment to our community's future.",
+    "mainText": "October is officially Community Planning Month in Verona. Mayor Diaz issued a proclamation recognizing the Planning and Development Department for their dedication to public service and helping navigate the future growth of our city.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-03",
-    "updateDate": "2026-10-03T16:21:27.976Z",
+    "updateDate": "2026-10-03T18:10:40.800Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can visit the Dane County Farmers Market or catch live music at Bailey's Run, Paddy Mac's, and Wisconsin Brewing Company. Tomorrow, check out the World Dairy Expo or the apple cider festival at the Farley Center.",
+    "mainText": "There is plenty to do this weekend, starting with the Dane County Farmers Market today. Looking ahead, tomorrow brings the World Dairy Expo and the Farley Center Fall Festival for some autumn fun.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-03",
-    "updateDate": "2026-10-03T16:21:27.976Z",
+    "updateDate": "2026-10-03T18:10:40.800Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 21, local officers investigated a retail theft where a subject was identified on surveillance footage for stealing Swedish Fish candy.",
+    "mainText": "In a report covering late September, we noted that on September 21, officers identified and cited a suspect for retail theft after they were seen on video taking candy from a local store.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-03",
-    "updateDate": "2026-10-03T16:21:27.976Z",
+    "updateDate": "2026-10-03T18:10:40.800Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Really Reese's. The Verona Culver's is currently open and will remain open until 10:30 PM tonight.",
+    "mainText": "Today's flavor at Culver's is the delicious Really Reese's. The restaurant is currently open and serving until 10:30 PM, so stop by whenever you have a moment.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
