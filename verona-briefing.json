@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-03",
-    "updateDate": "2026-10-03T03:16:53.851Z",
+    "updateDate": "2026-10-03T04:12:22.345Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. It is a clear 49 degrees near the Verona Public Library under a Third Quarter moon, and we are expecting an overnight low of 45 degrees with no rain.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. We currently have clear skies and 47 degrees over Reddan Soccer Park, with the Third Quarter moon lighting up the night. Expect a chilly overnight low of 44 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-10-03",
-    "updateDate": "2026-10-03T03:16:53.851Z",
+    "updateDate": "2026-10-03T04:12:22.345Z",
     "titleText": "Verona City News",
-    "mainText": "October is here, and Mayor Diaz has proclaimed it Community Planning Month, highlighting the dedication of our local planning professionals. Also, remember that the Fireman's Park Beach is now closed for the season.",
+    "mainText": "In city news, Mayor Diaz has proclaimed October as Community Planning Month to recognize the hard work of our Planning and Development Department. Additionally, the Verona Senior Center is promoting its free tri-shaw Bike Program, which offers electric-assist community rides on the Military Ridge State Trail on Mondays, Wednesdays, and Fridays.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-10-03",
-    "updateDate": "2026-10-03T03:16:53.851Z",
+    "updateDate": "2026-10-03T04:12:22.345Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Today you can enjoy live music at Bailey's Run Vineyard or Wisconsin Brewing Company. Tomorrow, check out the Dane County Farmer's Market or more live music at Paddy Mac's.",
+    "mainText": "There is a busy weekend ahead! Tomorrow, you can visit the Dane County Farmer's Market or enjoy live music at Bailey's Run, Paddy Mac's, and Lake Lou-ee. Then on Sunday, October 4, don't miss the World Dairy Expo at the Alliant Energy Center and the Farley Center Fall Festival featuring apple cider pressing.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-10-03",
-    "updateDate": "2026-10-03T03:16:53.851Z",
+    "updateDate": "2026-10-03T04:12:22.345Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable call from September 21, local officers identified and cited a suspect for the retail theft of candy from a business on East Verona Avenue.",
+    "mainText": "Looking at our weekly police recap, on Thursday, September 24, officers responded to a collision between a car and an 11-year-old bicyclist at Westward and Jenna Drive. Thankfully, after an assessment by EMS, the child did not need to go to the hospital.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-03",
-    "updateDate": "2026-10-03T03:16:53.851Z",
+    "updateDate": "2026-10-03T04:12:22.345Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delicious Caramel Fudge Cookie Dough. The shop is currently open, but please note they are closing in 13 minutes, so plan your visit accordingly.",
+    "mainText": "Culver's is currently closed for the night. You can look forward to grabbing tomorrow's Flavor of the Day, Really Reese's, when they open tomorrow morning at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
