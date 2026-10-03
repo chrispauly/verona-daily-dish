@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-03",
-    "updateDate": "2026-10-03T13:39:26.038Z",
+    "updateDate": "2026-10-03T14:51:58.600Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: it is 48 degrees with clear skies observed near the Verona Area High School, and the moon is currently in its third quarter phase.",
+    "mainText": "Hello, Verona! At 9 AM, it is a beautiful 54 degrees with clear skies along the Military Ridge State Trail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-03",
-    "updateDate": "2026-10-03T13:39:26.038Z",
+    "updateDate": "2026-10-03T14:51:58.600Z",
     "titleText": "Verona City News",
-    "mainText": "Mayor Diaz has proclaimed October as Community Planning Month to recognize the hard work of our planning department. Also, the city is partnering with local firms to conduct important cross connection control surveys to keep our water supply safe.",
+    "mainText": "Mayor Diaz has officially designated October as Community Planning Month. This is a time to recognize the City of Verona's Planning and Development Department for their hard work in shaping our future and handling complex land use and housing questions for our community.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-03",
-    "updateDate": "2026-10-03T13:39:26.038Z",
+    "updateDate": "2026-10-03T14:51:58.600Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. The Dane County Farmers Market is happening today. Tomorrow, you can enjoy the World Dairy Expo or take the family to the Farley Center Fall Festival for some apple cider pressing.",
+    "mainText": "There is plenty to do this weekend! Today, head over to the Wisconsin State Capitol for the Dane County Farmers Market. Tomorrow, check out the World Dairy Expo at the Alliant Energy Center or visit the Farley Center Fall Festival for their annual cider pressing.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-03",
-    "updateDate": "2026-10-03T13:39:26.038Z",
+    "updateDate": "2026-10-03T14:51:58.600Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local activity, on Sunday, September 21, a two-vehicle crash with injuries occurred, and a driver was cited for operating too fast for roadway conditions.",
+    "mainText": "Looking at the most recent activity, on Sunday, September 21, an individual was identified and cited for retail theft after taking candy from a store in the 400 block of East Verona Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-03",
-    "updateDate": "2026-10-03T13:39:26.038Z",
+    "updateDate": "2026-10-03T14:51:58.600Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delicious Really Reese's, and please note the store opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day at Culver's is the delicious Really Reese's. The store is closed right now but will open today at 10:00 AM for you to enjoy your treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
