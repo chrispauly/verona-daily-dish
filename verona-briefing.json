@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-03",
-    "updateDate": "2026-10-03T04:12:22.345Z",
+    "updateDate": "2026-10-03T05:05:47.511Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. We currently have clear skies and 47 degrees over Reddan Soccer Park, with the Third Quarter moon lighting up the night. Expect a chilly overnight low of 44 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: expect clear skies tonight with a third quarter moon visible over the Verona Public Library. It is 46 degrees out, feeling closer to 41.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-03",
-    "updateDate": "2026-10-03T04:12:22.345Z",
+    "updateDate": "2026-10-03T05:05:47.511Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Mayor Diaz has proclaimed October as Community Planning Month to recognize the hard work of our Planning and Development Department. Additionally, the Verona Senior Center is promoting its free tri-shaw Bike Program, which offers electric-assist community rides on the Military Ridge State Trail on Mondays, Wednesdays, and Fridays.",
+    "mainText": "October is officially Community Planning Month in Verona. Mayor Diaz is recognizing our Planning and Development Department for their hard work in helping our city grow and managing land use effectively. Also, don't forget the Verona Senior Center offers a wonderful free tri-shaw bike program that lets you enjoy the Military Ridge State Trail.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-03",
-    "updateDate": "2026-10-03T04:12:22.345Z",
+    "updateDate": "2026-10-03T05:05:47.511Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a busy weekend ahead! Tomorrow, you can visit the Dane County Farmer's Market or enjoy live music at Bailey's Run, Paddy Mac's, and Lake Lou-ee. Then on Sunday, October 4, don't miss the World Dairy Expo at the Alliant Energy Center and the Farley Center Fall Festival featuring apple cider pressing.",
+    "mainText": "Today you can enjoy the Dane County Farmers Market or live music at Bailey's Run, Paddy Mac's, and Wisconsin Brewing Company. Tomorrow, check out the World Dairy Expo or the apple cider pressing at the Farley Center Fall Festival.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-03",
-    "updateDate": "2026-10-03T04:12:22.345Z",
+    "updateDate": "2026-10-03T05:05:47.511Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at our weekly police recap, on Thursday, September 24, officers responded to a collision between a car and an 11-year-old bicyclist at Westward and Jenna Drive. Thankfully, after an assessment by EMS, the child did not need to go to the hospital.",
+    "mainText": "In a noteworthy call from September 14, a 37-year-old Verona man was taken into custody during a traffic stop for violating the terms of his probation and was also cited for multiple traffic-related offences.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-03",
-    "updateDate": "2026-10-03T04:12:22.345Z",
+    "updateDate": "2026-10-03T05:05:47.511Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently closed for the night. You can look forward to grabbing tomorrow's Flavor of the Day, Really Reese's, when they open tomorrow morning at 10 AM.",
+    "mainText": "Treat yourself to today's Flavor of the Day, which is the decadent Really Reese's. The store opens today at 10:00 AM, so get ready to grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
