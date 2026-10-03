@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-10-02",
-    "updateDate": "2026-10-02T23:05:26.756Z",
+    "uid": "verona-balanced-weather-2026-10-03",
+    "updateDate": "2026-10-03T00:15:49.771Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: it is 59 degrees at Reddan Soccer Park with clear skies. The ISS will be visible tonight starting at 7:06 PM, rising near Mount Horeb and heading toward Belleville. Expect an overnight low of 46 degrees with no rain.",
+    "mainText": "Hello, Verona! At 7 PM, we have clear skies at Harriet Park with a temperature of 55 degrees. Under the Third Quarter moon, we can expect an overnight low of 46 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-10-02",
-    "updateDate": "2026-10-02T23:05:26.756Z",
+    "uid": "verona-balanced-news-2026-10-03",
+    "updateDate": "2026-10-03T00:15:49.771Z",
     "titleText": "Verona City News",
-    "mainText": "October is Community Planning Month in Verona, recognizing the Planning and Development Department's expertise. Also, don't forget the Verona Senior Center offers free tri-shaw bike rides along the Military Ridge State Trail; sign up today to enjoy the scenery.",
+    "mainText": "October is now Community Planning Month in Verona, recognizing the Planning and Development Department for their hard work. Also, please keep an eye out for any mail regarding Cross Connection Control surveys to help ensure our water supply remains safe.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-10-02",
-    "updateDate": "2026-10-02T23:05:26.756Z",
+    "uid": "verona-balanced-events-2026-10-03",
+    "updateDate": "2026-10-03T00:15:49.771Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is live music today at Bailey's Run Vineyard. Looking ahead, the Dane County Farmers Market takes over the Capitol Square tomorrow, and the Farley Center hosts its annual Fall Festival this Saturday.",
+    "mainText": "We have a busy couple of days ahead with live music today at Bailey's Run and Wisconsin Brewing Company, followed by the Dane County Farmers' Market tomorrow and the World Dairy Expo this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-10-02",
-    "updateDate": "2026-10-02T23:05:26.756Z",
+    "uid": "verona-balanced-police-2026-10-03",
+    "updateDate": "2026-10-03T00:15:49.771Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 21, a retail theft was reported at a business in the 400 block of East Verona Avenue where a subject was identified stealing Swedish Fish candy via surveillance footage.",
+    "mainText": "On September 21, officers investigated a retail theft at a local business where a suspect was identified stealing candy and subsequently cited.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-10-02",
-    "updateDate": "2026-10-02T23:05:26.756Z",
+    "uid": "verona-balanced-culvers-2026-10-03",
+    "updateDate": "2026-10-03T00:15:49.771Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's to enjoy today's flavor, Caramel Fudge Cookie Dough, before they close at 10:30 PM.",
+    "mainText": "You can still stop by Culver's tonight for some Caramel Fudge Cookie Dough before they close at 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
