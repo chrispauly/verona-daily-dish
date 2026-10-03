@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-03",
-    "updateDate": "2026-10-03T18:10:40.800Z",
+    "updateDate": "2026-10-03T19:46:09.971Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we are seeing clear skies around Badger Ridge Middle School with temperatures at 62 degrees.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we are seeing clear skies over at Harriet Park with a temperature of 65 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-03",
-    "updateDate": "2026-10-03T18:10:40.800Z",
+    "updateDate": "2026-10-03T19:46:09.971Z",
     "titleText": "Verona City News",
-    "mainText": "October is officially Community Planning Month in Verona. Mayor Diaz issued a proclamation recognizing the Planning and Development Department for their dedication to public service and helping navigate the future growth of our city.",
+    "mainText": "Mayor Diaz has proclaimed October as Community Planning Month to honor the expertise of our development team, and the city is also rolling out important cross connection water surveys to keep our supply clean.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-03",
-    "updateDate": "2026-10-03T18:10:40.800Z",
+    "updateDate": "2026-10-03T19:46:09.971Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend, starting with the Dane County Farmers Market today. Looking ahead, tomorrow brings the World Dairy Expo and the Farley Center Fall Festival for some autumn fun.",
+    "mainText": "There is a lot happening this weekend, including the Dane County Farmers Market taking place today, and the World Dairy Expo and Farley Center Fall Festival both happening tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-03",
-    "updateDate": "2026-10-03T18:10:40.800Z",
+    "updateDate": "2026-10-03T19:46:09.971Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering late September, we noted that on September 21, officers identified and cited a suspect for retail theft after they were seen on video taking candy from a local store.",
+    "mainText": "In our weekly report, on September 14, a local man was taken into custody during a traffic stop for failing to install a court ordered ignition interlock device.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-03",
-    "updateDate": "2026-10-03T18:10:40.800Z",
+    "updateDate": "2026-10-03T19:46:09.971Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor at Culver's is the delicious Really Reese's. The restaurant is currently open and serving until 10:30 PM, so stop by whenever you have a moment.",
+    "mainText": "Today's flavor is the delicious Really Reese's, and since the store is currently open until 10:30 PM, it is a perfect time to stop by for a sweet snack.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
