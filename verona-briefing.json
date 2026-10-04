@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-04",
-    "updateDate": "2026-10-04T06:52:01.626Z",
+    "updateDate": "2026-10-04T09:03:20.118Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, the temperature is 55 degrees with clear skies by the Verona Public Library and the moon is in its third quarter.",
+    "mainText": "Hello, Verona! At 4 AM, it is a clear 52 degrees near Badger Ridge Middle School with the moon currently in its third quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-04",
-    "updateDate": "2026-10-04T06:52:01.626Z",
+    "updateDate": "2026-10-04T09:03:20.118Z",
     "titleText": "Verona City News",
-    "mainText": "October is now designated as Community Planning Month to highlight the important work our Planning and Development Department does for our city's future. Also, please note that the Fireman's Park beach is closed for the season, though the splash pad remains a great resource.",
+    "mainText": "October is officially Community Planning Month, a time to honor our planning department for their work on housing and land use, while the city also reminds residents that the Fireman's Park beach is now closed for the season.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-04",
-    "updateDate": "2026-10-04T06:52:01.626Z",
+    "updateDate": "2026-10-04T09:03:20.118Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot to do today, including live music at Bailey's Run, the World Dairy Expo at the Alliant Energy Center, and the apple cider pressing festival at the Farley Center. Looking ahead, you can enjoy yoga tomorrow at Insight Wellness.",
+    "mainText": "Today is packed with activities, including live music at Bailey's Run and the Wisconsin Brewing Company, as well as the World Dairy Expo and the Farley Center Fall Festival, with more fun coming tomorrow like yoga at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-04",
-    "updateDate": "2026-10-04T06:52:01.626Z",
+    "updateDate": "2026-10-04T09:03:20.118Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the recent police activity, officers handled a report on September 21 involving a retail theft where a suspect was identified stealing candy from a store on East Verona Avenue.",
+    "mainText": "In a noteworthy call from September 21, police identified and cited a suspect for the retail theft of Swedish Fish candy after reviewing surveillance footage.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-04",
-    "updateDate": "2026-10-04T06:52:01.626Z",
+    "updateDate": "2026-10-04T09:03:20.118Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the Andes Mint Avalanche, which is sure to be a crowd favorite. Culver's opens today at 10:00 AM, so be sure to stop by for a delicious treat.",
+    "mainText": "Today's flavor is the fan favorite Andes Mint Avalanche, and the restaurant will be ready to serve you when they open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
