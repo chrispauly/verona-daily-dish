@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-04",
-    "updateDate": "2026-10-04T13:51:27.034Z",
+    "updateDate": "2026-10-04T15:28:03.279Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we are seeing clear skies at Badger Prairie County Park with a temperature of 56 degrees.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: it is 60 degrees with clear skies near the Verona Public Library.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-04",
-    "updateDate": "2026-10-04T13:51:27.034Z",
+    "updateDate": "2026-10-04T15:28:03.279Z",
     "titleText": "Verona City News",
-    "mainText": "October is officially Community Planning Month in Verona as proclaimed by Mayor Diaz to thank the Planning and Development Department for their service. Also, don't forget about the free tri-shaw Bike program available at the Senior Center which offers rides along the Military Ridge State Trail.",
+    "mainText": "Mayor Diaz has designated October as Community Planning Month to honor the Planning and Development Department for their dedication to our city's growth and infrastructure. Additionally, the Verona Senior Center is now offering free rides on a tri-shaw bike along the Military Ridge State Trail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-04",
-    "updateDate": "2026-10-04T13:51:27.034Z",
+    "updateDate": "2026-10-04T15:28:03.279Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a packed day in Verona! Today, you can enjoy live music at Bailey's Run, the World Dairy Expo at the Alliant Energy Center, and the Farley Center Fall Festival. Tomorrow, you can check out yoga at Insight Wellness.",
+    "mainText": "There is a busy schedule today including the World Dairy Expo, the Farley Center Fall Festival, and live music at Bailey's Run. Looking ahead, you can enjoy yoga at Insight Wellness tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-04",
-    "updateDate": "2026-10-04T13:51:27.034Z",
+    "updateDate": "2026-10-04T15:28:03.279Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 24, officers responded to a collision between a vehicle and an 11-year-old bicyclist at Westward Drive and Jenna Drive; thankfully, the child did not require hospitalization.",
+    "mainText": "On Sunday, September 21, a retail theft incident occurred involving the theft of Swedish Fish candy from a store in the 400 block of East Verona Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-04",
-    "updateDate": "2026-10-04T13:51:27.034Z",
+    "updateDate": "2026-10-04T15:28:03.279Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Andes Mint Avalanche. Our local Culver's is currently closed but will open today at 10:00 AM.",
+    "mainText": "Today's delicious flavor of the day is Andes Mint Avalanche and the restaurant is currently open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
