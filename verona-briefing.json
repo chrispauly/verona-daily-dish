@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-04",
-    "updateDate": "2026-10-04T04:03:47.742Z",
+    "updateDate": "2026-10-04T06:52:01.626Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, it is 58 degrees and overcast near the Verona Public Library. The moon is in its third quarter phase. Tonight, the temperature will dip to a low of 51 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 1 AM, the temperature is 55 degrees with clear skies by the Verona Public Library and the moon is in its third quarter.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-04",
-    "updateDate": "2026-10-04T04:03:47.742Z",
+    "updateDate": "2026-10-04T06:52:01.626Z",
     "titleText": "Verona City News",
-    "mainText": "October is now Community Planning Month in Verona, recognizing the Planning and Development Department for their hard work. Also, please note that the Fireman's Park Beach is now closed for the season, though the splash pad remains a highlight during the summer months.",
+    "mainText": "October is now designated as Community Planning Month to highlight the important work our Planning and Development Department does for our city's future. Also, please note that the Fireman's Park beach is closed for the season, though the splash pad remains a great resource.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-04",
-    "updateDate": "2026-10-04T04:03:47.742Z",
+    "updateDate": "2026-10-04T06:52:01.626Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Tomorrow is a busy day in the community! You can catch live music at Bailey's Run, explore the trade show at the World Dairy Expo, or participate in the annual apple cider pressing at the Farley Center.",
+    "mainText": "There is a lot to do today, including live music at Bailey's Run, the World Dairy Expo at the Alliant Energy Center, and the apple cider pressing festival at the Farley Center. Looking ahead, you can enjoy yoga tomorrow at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-04",
-    "updateDate": "2026-10-04T04:03:47.742Z",
+    "updateDate": "2026-10-04T06:52:01.626Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 24, officers responded to a collision between a vehicle and an 11-year-old cyclist at Westward Drive and Jenna Drive. The child was assessed by EMS and did not require hospitalization.",
+    "mainText": "Looking at the recent police activity, officers handled a report on September 21 involving a retail theft where a suspect was identified stealing candy from a store on East Verona Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-04",
-    "updateDate": "2026-10-04T04:03:47.742Z",
+    "updateDate": "2026-10-04T06:52:01.626Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor, Really Reese's, has come to an end. Culver's is currently closed, but will reopen tomorrow morning at 10:00 AM, featuring the Andes Mint Avalanche as the flavor of the day.",
+    "mainText": "Today's flavor is the Andes Mint Avalanche, which is sure to be a crowd favorite. Culver's opens today at 10:00 AM, so be sure to stop by for a delicious treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
