@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-04",
-    "updateDate": "2026-10-04T19:58:59.429Z",
+    "updateDate": "2026-10-04T21:00:38.116Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we are seeing clear skies around Badger Ridge Middle School with a temperature of 68 degrees.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we have clear skies with a comfortable temperature of 68 degrees near the Military Ridge State Trail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-04",
-    "updateDate": "2026-10-04T19:58:59.429Z",
+    "updateDate": "2026-10-04T21:00:38.116Z",
     "titleText": "Verona City News",
-    "mainText": "October is Community Planning Month in Verona. Mayor Diaz is highlighting the essential role our planning department plays in navigating the city's future and development. Additionally, remember to keep an eye out for potential letters regarding mandatory cross connection control surveys to help maintain our water supply safety.",
+    "mainText": "Mayor Diaz has proclaimed October as Community Planning Month to recognize the hard work of our planning department. Also, don't forget that if you receive a letter from the Water Utility, you should schedule your cross-connection inspection soon to keep our water clean.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-04",
-    "updateDate": "2026-10-04T19:58:59.429Z",
+    "updateDate": "2026-10-04T21:00:38.116Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town. Today you can check out the Farley Center Fall Festival or the World Dairy Expo. Tomorrow, head over to Insight Wellness for a yoga session. Looking ahead to October 6, be sure to join the fun for trivia at Hop Haus or Lake Lou-ee.",
+    "mainText": "We have a busy day! Today, you can check out the World Dairy Expo, live music at Bailey's Run, and the apple cider pressing festival at the Farley Center. Tomorrow, yoga is available at Insight Wellness to keep you moving.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-04",
-    "updateDate": "2026-10-04T19:58:59.429Z",
+    "updateDate": "2026-10-04T21:00:38.116Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on September 19, a 10-year-old child was reported missing from Lincoln Street, but thanks to the quick response of police and fire personnel, the child was safely located and reunited with their family.",
+    "mainText": "On September 21, officers were called to investigate a retail theft involving Swedish Fish at a retailer on East Verona Avenue, where the individual was later identified.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-04",
-    "updateDate": "2026-10-04T19:58:59.429Z",
+    "updateDate": "2026-10-04T21:00:38.116Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day at Culver's is the Andes Mint Avalanche. The restaurant is currently open, so head over before they close at 10:00 PM to enjoy a scoop of this local favorite.",
+    "mainText": "The delicious Andes Mint Avalanche is the flavor of the day. Since the restaurant is currently open until 10:00 PM, make sure to stop by and grab a treat before they close for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
