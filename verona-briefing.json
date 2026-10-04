@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-04",
-    "updateDate": "2026-10-04T02:11:18.490Z",
+    "updateDate": "2026-10-04T04:03:47.742Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. It is currently 59 degrees with overcast skies at Reddan Soccer Park. The third quarter moon is out, and you can look forward to an overnight low of 52 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 11 PM, it is 58 degrees and overcast near the Verona Public Library. The moon is in its third quarter phase. Tonight, the temperature will dip to a low of 51 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-04",
-    "updateDate": "2026-10-04T02:11:18.490Z",
+    "updateDate": "2026-10-04T04:03:47.742Z",
     "titleText": "Verona City News",
-    "mainText": "October is Community Planning Month, with Mayor Diaz recognizing the Planning and Development Department for their dedication. Also, check out the tri-shaw Bike Program, which offers free rides on the Military Ridge State Trail via the Senior Center.",
+    "mainText": "October is now Community Planning Month in Verona, recognizing the Planning and Development Department for their hard work. Also, please note that the Fireman's Park Beach is now closed for the season, though the splash pad remains a highlight during the summer months.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-04",
-    "updateDate": "2026-10-04T02:11:18.490Z",
+    "updateDate": "2026-10-04T04:03:47.742Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, including the Dane County Farmers Market today and live music at Bailey's Run. Tomorrow, you can enjoy the World Dairy Expo and the Farley Center Fall Festival.",
+    "mainText": "Tomorrow is a busy day in the community! You can catch live music at Bailey's Run, explore the trade show at the World Dairy Expo, or participate in the annual apple cider pressing at the Farley Center.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-04",
-    "updateDate": "2026-10-04T02:11:18.490Z",
+    "updateDate": "2026-10-04T04:03:47.742Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering September 14 to September 28, officers handled various incidents. On September 21, a suspect was identified through surveillance video and cited for the retail theft of candy.",
+    "mainText": "On September 24, officers responded to a collision between a vehicle and an 11-year-old cyclist at Westward Drive and Jenna Drive. The child was assessed by EMS and did not require hospitalization.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-04",
-    "updateDate": "2026-10-04T02:11:18.490Z",
+    "updateDate": "2026-10-04T04:03:47.742Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Really Reese's. The store is currently open and serving until 10:30 PM, so there is still time to stop by for a scoop.",
+    "mainText": "Today's flavor, Really Reese's, has come to an end. Culver's is currently closed, but will reopen tomorrow morning at 10:00 AM, featuring the Andes Mint Avalanche as the flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
