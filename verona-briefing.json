@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-10-04",
-    "updateDate": "2026-10-04T23:05:22.380Z",
+    "uid": "verona-balanced-weather-2026-10-05",
+    "updateDate": "2026-10-05T00:17:58.444Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. Skies are clear over Verona Community Park under a Third Quarter moon, and the temperature is 63 degrees. Tonight will be cool with an overnight low of 46 degrees and no rain expected.",
+    "mainText": "Hello, Verona! At 7 PM, we have clear skies at Verona Community Park and a third quarter moon phase. The overnight low will drop to 45 degrees, with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-10-04",
-    "updateDate": "2026-10-04T23:05:22.380Z",
+    "uid": "verona-balanced-news-2026-10-05",
+    "updateDate": "2026-10-05T00:17:58.444Z",
     "titleText": "Verona City News",
-    "mainText": "October has been proclaimed Community Planning Month to honor the expertise the Planning and Development Department brings to our city growth. Also, don't forget to look for letters regarding mandatory cross-connection control surveys to keep our water supply safe.",
+    "mainText": "Mayor Diaz has officially declared October as Community Planning Month to honor the Planning and Development Department for their dedication to our city's future and development choices. Additionally, residents are reminded to look out for letters regarding mandatory cross-connection control surveys to keep our water supply safe.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-10-04",
-    "updateDate": "2026-10-04T23:05:22.380Z",
+    "uid": "verona-balanced-events-2026-10-05",
+    "updateDate": "2026-10-05T00:17:58.444Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, including the Farley Center Fall Festival today, the World Dairy Expo, and live music at both Bailey's Run and Wisconsin Brewing Company. Tomorrow, you can also join a yoga session at Insight Wellness.",
+    "mainText": "Today is packed with activities including the World Dairy Expo and the Farley Center Fall Festival. Looking ahead, you can enjoy yoga at Insight Wellness tomorrow, followed by trivia at Hop Haus and Lake Lou-ee this coming Monday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-10-04",
-    "updateDate": "2026-10-04T23:05:22.380Z",
+    "uid": "verona-balanced-police-2026-10-05",
+    "updateDate": "2026-10-05T00:17:58.444Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local activity, on September 14, a 21-year-old man was taken into custody after a pursuit following a report of retail theft in the 100 block of North Main Street.",
+    "mainText": "In a recent report, on September 21, police were called to a retail business on East Verona Avenue where a subject was identified and cited for the retail theft of candy.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-10-04",
-    "updateDate": "2026-10-04T23:05:22.380Z",
+    "uid": "verona-balanced-culvers-2026-10-05",
+    "updateDate": "2026-10-05T00:17:58.444Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's to enjoy today's flavor, Andes Mint Avalanche, before they wrap up service at 10 PM tonight.",
+    "mainText": "The Culver's flavor of the day is the Andes Mint Avalanche. The restaurant is currently open and serving until 10 PM, so stop by soon to enjoy this flavor while you can.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
