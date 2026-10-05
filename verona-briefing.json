@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-05",
-    "updateDate": "2026-10-05T11:06:05.597Z",
+    "updateDate": "2026-10-05T12:10:05.456Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, we are looking at clear skies and a temperature of 42 degrees at Verona Community Park, with a third quarter moon currently visible.",
+    "mainText": "Hello, Verona! At 7 AM, it is 41 degrees with clear skies at Badger Prairie County Park and we are currently in the Third Quarter moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-05",
-    "updateDate": "2026-10-05T11:06:05.597Z",
+    "updateDate": "2026-10-05T12:10:05.456Z",
     "titleText": "Verona City News",
-    "mainText": "Mayor Diaz has proclaimed October as Community Planning Month to honor the work of our planning department, and the city is also reminding residents to schedule cross connection surveys to protect our water quality.",
+    "mainText": "October is officially Community Planning Month in Verona, a time to honor our Planning and Development Department for their dedication to our community's future. Also, keep an eye out for potential mail regarding cross connection control surveys to ensure our water supply remains clean.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-05",
-    "updateDate": "2026-10-05T11:06:05.597Z",
+    "updateDate": "2026-10-05T12:10:05.456Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a busy lineup ahead, starting with Yoga at Insight Wellness today, followed by a variety of trivia nights and live music across town starting tomorrow.",
+    "mainText": "Today you can join Yoga at Insight Wellness. Tomorrow, we have a variety of trivia events at Hop Haus and Lake Lou-ee, and later this week look forward to the Downtown Farmer's Market and live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-05",
-    "updateDate": "2026-10-05T11:06:05.597Z",
+    "updateDate": "2026-10-05T12:10:05.456Z",
     "titleText": "Verona Police Report",
-    "mainText": "During the period of September 14 through September 28, officers handled a range of calls, including a September 14 incident where an officer apprehended a retail theft suspect after a brief foot chase.",
+    "mainText": "On September 24, officers responded to a vehicle versus bicyclist crash involving an 11-year-old child; thankfully, no hospital transport was required for the minor injuries.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-05",
-    "updateDate": "2026-10-05T11:06:05.597Z",
+    "updateDate": "2026-10-05T12:10:05.456Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Chocolate Caramel Twist, and the store opens today at 10:00 AM for your enjoyment.",
+    "mainText": "Today's flavor of the day is Chocolate Caramel Twist, and the Verona Culver's opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
