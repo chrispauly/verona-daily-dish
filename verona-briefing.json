@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-05",
-    "updateDate": "2026-10-05T05:22:36.277Z",
+    "updateDate": "2026-10-05T06:17:43.144Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: it is 47 degrees with clear skies near Fireman's Park under a third quarter moon.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we have clear skies with a temperature of 46 degrees and a third quarter moon visible near the Verona Public Library.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-05",
-    "updateDate": "2026-10-05T05:22:36.277Z",
+    "updateDate": "2026-10-05T06:17:43.144Z",
     "titleText": "Verona City News",
-    "mainText": "October is Community Planning Month, honoring the hard work of our planning department, plus the Verona Senior Center is offering free rides on their tri-shaw bikes along the Military Ridge State Trail.",
+    "mainText": "This October, the city is celebrating Community Planning Month to recognize the contributions of our Planning and Development Department, plus residents can now sign up for free rides on the new tri-shaw bikes at the Senior Center.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-05",
-    "updateDate": "2026-10-05T05:22:36.277Z",
+    "updateDate": "2026-10-05T06:17:43.144Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can join a class at Yoga at Insight Wellness, while tomorrow features trivia at Hop Haus and Lake Lou-ee.",
+    "mainText": "You can catch yoga at Insight Wellness today, followed by plenty of trivia options across town including Hop Haus and Lake Lou-ee happening tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-05",
-    "updateDate": "2026-10-05T05:22:36.277Z",
+    "updateDate": "2026-10-05T06:17:43.144Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident on September 24, an 11-year-old bicyclist was involved in a collision with a vehicle at Westward Drive and Jenna Drive, though thankfully no hospital transport was needed.",
+    "mainText": "Looking at the recent police report, on September 19, a 10-year-old child was safely reunited with their parents after a brief search near Lincoln Street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-05",
-    "updateDate": "2026-10-05T05:22:36.277Z",
+    "updateDate": "2026-10-05T06:17:43.144Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Chocolate Caramel Twist, and the store will be ready to serve you when it opens today at 10:00 AM.",
+    "mainText": "Today's delicious flavor of the day is Chocolate Caramel Twist, and the store will be opening its doors today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
