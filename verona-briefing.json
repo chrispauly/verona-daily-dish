@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-05",
-    "updateDate": "2026-10-05T12:10:05.456Z",
+    "updateDate": "2026-10-05T13:11:57.223Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, it is 41 degrees with clear skies at Badger Prairie County Park and we are currently in the Third Quarter moon phase.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: it is 43 degrees with clear skies at Badger Ridge Middle School.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-05",
-    "updateDate": "2026-10-05T12:10:05.456Z",
+    "updateDate": "2026-10-05T13:11:57.223Z",
     "titleText": "Verona City News",
-    "mainText": "October is officially Community Planning Month in Verona, a time to honor our Planning and Development Department for their dedication to our community's future. Also, keep an eye out for potential mail regarding cross connection control surveys to ensure our water supply remains clean.",
+    "mainText": "October is Community Planning Month, a time to recognize the Planning and Development Department for their dedication. Also, if you need a scenic outing, you can now book free rides on the tri-shaw Bike at the Senior Center.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-05",
-    "updateDate": "2026-10-05T12:10:05.456Z",
+    "updateDate": "2026-10-05T13:11:57.223Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can join Yoga at Insight Wellness. Tomorrow, we have a variety of trivia events at Hop Haus and Lake Lou-ee, and later this week look forward to the Downtown Farmer's Market and live music at Paddy Mac's.",
+    "mainText": "Yoga at Insight Wellness is happening today. Tomorrow, you can enjoy trivia at Hop Haus or Lake Lou-ee, and on Wednesday, Paddy Mac's hosts both trivia and live music.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-05",
-    "updateDate": "2026-10-05T12:10:05.456Z",
+    "updateDate": "2026-10-05T13:11:57.223Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 24, officers responded to a vehicle versus bicyclist crash involving an 11-year-old child; thankfully, no hospital transport was required for the minor injuries.",
+    "mainText": "On September 21, a retail theft involving Swedish Fish candy occurred at a store in the 400 block of East Verona Avenue, and the individual was identified via surveillance video.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-05",
-    "updateDate": "2026-10-05T12:10:05.456Z",
+    "updateDate": "2026-10-05T13:11:57.223Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Chocolate Caramel Twist, and the Verona Culver's opens today at 10:00 AM.",
+    "mainText": "You can enjoy today's flavor, Chocolate Caramel Twist, when the store opens today at 10 AM. The shop will remain open until 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
