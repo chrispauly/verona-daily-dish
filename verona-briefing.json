@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-05",
-    "updateDate": "2026-10-05T07:27:36.048Z",
+    "updateDate": "2026-10-05T08:16:23.952Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, we are looking at clear skies and 44 degrees by Verona City Hall, with a lovely third quarter moon visible overhead.",
+    "mainText": "Hello, Verona! At 3 AM, the temperature is 44 degrees with clear skies observed at Harriet Park and the moon in its third quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-05",
-    "updateDate": "2026-10-05T07:27:36.048Z",
+    "updateDate": "2026-10-05T08:16:23.952Z",
     "titleText": "Verona City News",
-    "mainText": "October is officially Community Planning Month in Verona. Mayor Diaz issued a proclamation honoring our Planning and Development department for their data-driven work and expertise in managing the city's growth.",
+    "mainText": "Mayor Diaz has proclaimed October as Community Planning Month to honor the expertise of our Planning and Development Department. Also, please note that a section of Highway M will be closed for construction from October 6 through October 9.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-05",
-    "updateDate": "2026-10-05T07:27:36.048Z",
+    "updateDate": "2026-10-05T08:16:23.952Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, starting with Yoga at Insight Wellness happening today. Looking ahead, you can catch trivia at Hop Haus Brewing Company tomorrow.",
+    "mainText": "You can participate in Yoga at Insight Wellness today. Tomorrow, local trivia options include Hop Haus Brewing, Wisconsin Brewing Company, and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-05",
-    "updateDate": "2026-10-05T07:27:36.048Z",
+    "updateDate": "2026-10-05T08:16:23.952Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Sunday, September 14, a 37-year-old Verona man was taken into custody following a traffic stop where he was cited for operating after revocation and failing to install a court-ordered ignition interlock device.",
+    "mainText": "In a notable incident on September 21, a retail theft occurred at a business in the 400 block of East Verona Avenue where a subject stole Swedish Fish candy and was later identified and cited.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-05",
-    "updateDate": "2026-10-05T07:27:36.048Z",
+    "updateDate": "2026-10-05T08:16:23.952Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Chocolate Caramel Twist. Please note that the store is currently closed but will open today at 10:00 AM.",
+    "mainText": "Today's delicious flavor of the day is Chocolate Caramel Twist, and the store opens today at 10:00 AM for all your cravings.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
