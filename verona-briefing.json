@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-05",
-    "updateDate": "2026-10-05T06:17:43.144Z",
+    "updateDate": "2026-10-05T07:27:36.048Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we have clear skies with a temperature of 46 degrees and a third quarter moon visible near the Verona Public Library.",
+    "mainText": "Hello, Verona! At 2 AM, we are looking at clear skies and 44 degrees by Verona City Hall, with a lovely third quarter moon visible overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-05",
-    "updateDate": "2026-10-05T06:17:43.144Z",
+    "updateDate": "2026-10-05T07:27:36.048Z",
     "titleText": "Verona City News",
-    "mainText": "This October, the city is celebrating Community Planning Month to recognize the contributions of our Planning and Development Department, plus residents can now sign up for free rides on the new tri-shaw bikes at the Senior Center.",
+    "mainText": "October is officially Community Planning Month in Verona. Mayor Diaz issued a proclamation honoring our Planning and Development department for their data-driven work and expertise in managing the city's growth.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-05",
-    "updateDate": "2026-10-05T06:17:43.144Z",
+    "updateDate": "2026-10-05T07:27:36.048Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You can catch yoga at Insight Wellness today, followed by plenty of trivia options across town including Hop Haus and Lake Lou-ee happening tomorrow.",
+    "mainText": "There is plenty to do, starting with Yoga at Insight Wellness happening today. Looking ahead, you can catch trivia at Hop Haus Brewing Company tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-05",
-    "updateDate": "2026-10-05T06:17:43.144Z",
+    "updateDate": "2026-10-05T07:27:36.048Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the recent police report, on September 19, a 10-year-old child was safely reunited with their parents after a brief search near Lincoln Street.",
+    "mainText": "On Sunday, September 14, a 37-year-old Verona man was taken into custody following a traffic stop where he was cited for operating after revocation and failing to install a court-ordered ignition interlock device.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-05",
-    "updateDate": "2026-10-05T06:17:43.144Z",
+    "updateDate": "2026-10-05T07:27:36.048Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Chocolate Caramel Twist, and the store will be opening its doors today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is the delicious Chocolate Caramel Twist. Please note that the store is currently closed but will open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
