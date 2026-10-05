@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-05",
-    "updateDate": "2026-10-05T15:07:10.819Z",
+    "updateDate": "2026-10-05T16:09:34.166Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: it is 54 degrees under clear skies at Verona City Hall, and the moon is in its third quarter phase.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. Over at Badger Prairie County Park, it is currently 58 degrees with clear skies.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-05",
-    "updateDate": "2026-10-05T15:07:10.819Z",
+    "updateDate": "2026-10-05T16:09:34.166Z",
     "titleText": "Verona City News",
-    "mainText": "The city has published new requirements for residential detached garages and storage sheds for 2025, which can be found on the city website along with a helpful solar installation checklist for residents.",
+    "mainText": "In city affairs, the latest update is: Weekly Recap  Noteworthy Calls for Service 928  105.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-05",
-    "updateDate": "2026-10-05T15:07:10.819Z",
+    "updateDate": "2026-10-05T16:09:34.166Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You can enjoy Yoga at Insight Wellness today, followed by a busy day tomorrow featuring Hop Haus Trivia, the Quizmasters Trivia at Lake Lou-ee, and the Verona Downtown Farmer's Market.",
+    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-05",
-    "updateDate": "2026-10-05T15:07:10.819Z",
+    "updateDate": "2026-10-05T16:09:34.166Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 24, officers responded to a collision between a vehicle and a bicyclist where an 11-year-old child failed to stop at a stop sign, though thankfully no hospital transport was required.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-05",
-    "updateDate": "2026-10-05T15:07:10.819Z",
+    "updateDate": "2026-10-05T16:09:34.166Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delicious Chocolate Caramel Twist, and with the store currently open until 10 PM, it is a great time to stop by for a treat.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: Chocolate Caramel Twist. The restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
