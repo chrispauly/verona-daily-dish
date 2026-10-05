@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-05",
-    "updateDate": "2026-10-05T17:06:51.124Z",
+    "updateDate": "2026-10-05T18:08:31.672Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we have clear skies and a temperature of 61 degrees near Verona Area High School.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: skies are clear and it is 63 degrees near Badger Prairie County Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-05",
-    "updateDate": "2026-10-05T17:06:51.124Z",
+    "updateDate": "2026-10-05T18:08:31.672Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that public works will begin using a new leaf vacuum truck this fall. Please remember to place loose leaves behind the curb for collection. Additionally, the city has updated permit guidelines for solar installations and detached garages.",
+    "mainText": "The City of Verona has announced a new leaf vacuum truck for the fall collection season, so please keep leaf piles separate from brush and off the street to ensure they are collected. Additionally, the building inspection department reminds residents to secure proper permits for home projects.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-05",
-    "updateDate": "2026-10-05T17:06:51.124Z",
+    "updateDate": "2026-10-05T18:08:31.672Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can head over to Yoga at Insight Wellness. Looking ahead, tomorrow features trivia at both Hop Haus and Lake Lou-ee, and on Tuesday, you can enjoy the Farmer's Market or trivia at Paddy Mac's.",
+    "mainText": "We have plenty happening locally, including Yoga at Insight Wellness today, followed by trivia nights tomorrow at Hop Haus and Lake Lou-ee, and the downtown farmer's market on October 7.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-05",
-    "updateDate": "2026-10-05T17:06:51.124Z",
+    "updateDate": "2026-10-05T18:08:31.672Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly report for September 28 through October 5, officers responded to an incident on October 3 where a 19-year-old was arrested for possession of a stolen firearm.",
+    "mainText": "In the weekly police report from September 28, officers responded to a two-vehicle crash on CTH-PB at CTH-M where a driver was cited for failing to keep his vehicle under control.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-05",
-    "updateDate": "2026-10-05T17:06:51.124Z",
+    "updateDate": "2026-10-05T18:08:31.672Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor at Culver's is Chocolate Caramel Twist. The restaurant is open until 10:00 PM, so stop by and grab a scoop while you can.",
+    "mainText": "Today's featured flavor is the delicious Chocolate Caramel Twist. The store is open until 10 PM tonight, so stop by and grab a scoop while you can.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
