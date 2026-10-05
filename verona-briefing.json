@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-05",
-    "updateDate": "2026-10-05T16:09:34.166Z",
+    "updateDate": "2026-10-05T17:06:51.124Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. Over at Badger Prairie County Park, it is currently 58 degrees with clear skies.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we have clear skies and a temperature of 61 degrees near Verona Area High School.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-05",
-    "updateDate": "2026-10-05T16:09:34.166Z",
+    "updateDate": "2026-10-05T17:06:51.124Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Weekly Recap  Noteworthy Calls for Service 928  105.",
+    "mainText": "The City of Verona has announced that public works will begin using a new leaf vacuum truck this fall. Please remember to place loose leaves behind the curb for collection. Additionally, the city has updated permit guidelines for solar installations and detached garages.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-05",
-    "updateDate": "2026-10-05T16:09:34.166Z",
+    "updateDate": "2026-10-05T17:06:51.124Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
+    "mainText": "Today you can head over to Yoga at Insight Wellness. Looking ahead, tomorrow features trivia at both Hop Haus and Lake Lou-ee, and on Tuesday, you can enjoy the Farmer's Market or trivia at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-05",
-    "updateDate": "2026-10-05T16:09:34.166Z",
+    "updateDate": "2026-10-05T17:06:51.124Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "In the weekly report for September 28 through October 5, officers responded to an incident on October 3 where a 19-year-old was arrested for possession of a stolen firearm.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-05",
-    "updateDate": "2026-10-05T16:09:34.166Z",
+    "updateDate": "2026-10-05T17:06:51.124Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Chocolate Caramel Twist. The restaurant is open until 10:00 PM.",
+    "mainText": "Today's flavor at Culver's is Chocolate Caramel Twist. The restaurant is open until 10:00 PM, so stop by and grab a scoop while you can.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
