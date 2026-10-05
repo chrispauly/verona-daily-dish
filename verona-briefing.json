@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-05",
-    "updateDate": "2026-10-05T21:06:19.115Z",
+    "updateDate": "2026-10-05T22:06:13.109Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, conditions are clear at the Verona Public Library, and we are currently under a waning crescent moon.",
+    "mainText": "Hello, Verona! At 5 PM, we are seeing clear skies and 65 degrees at Fireman's Park under a Waning Crescent moon, with temperatures cooling to an overnight low of 49 degrees and no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-05",
-    "updateDate": "2026-10-05T21:06:19.115Z",
+    "updateDate": "2026-10-05T22:06:13.109Z",
     "titleText": "Verona City News",
-    "mainText": "The city has shared updated information on residential detached garages and shed permitting, alongside new procedures for the autumn leaf collection using a new vacuum truck.",
+    "mainText": "The city has launched a new leaf vacuum truck for fall collection, so please ensure only loose leaves are placed behind the curb, while building inspectors remain available by appointment for your permit needs.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-05",
-    "updateDate": "2026-10-05T21:06:19.115Z",
+    "updateDate": "2026-10-05T22:06:13.109Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Enjoy Yoga at Insight Wellness happening today. Looking ahead to tomorrow, there is trivia at Hop Haus Brewing and the Wisconsin Brewing Company, plus several more events throughout the week.",
+    "mainText": "We have a full slate of activities, starting with Yoga at Insight Wellness today, and tomorrow you can test your knowledge at Hop Haus trivia or the Wisconsin Brewing Company quiz night.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-05",
-    "updateDate": "2026-10-05T21:06:19.115Z",
+    "updateDate": "2026-10-05T22:06:13.109Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 3, local officers arrested a 19-year-old Verona man who was in possession of a stolen firearm during a traffic stop.",
+    "mainText": "In a notable case from October 3, a local officer conducted a traffic stop on a vehicle with expired registration, which resulted in the arrest of a 19-year-old man for possession of a stolen firearm.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-05",
-    "updateDate": "2026-10-05T21:06:19.115Z",
+    "updateDate": "2026-10-05T22:06:13.109Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delightful Chocolate Caramel Twist. The store is currently open and will be serving guests until 10:00 PM tonight.",
+    "mainText": "Head over to Culver's to enjoy today's flavor, Chocolate Caramel Twist, before they close their doors at 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
