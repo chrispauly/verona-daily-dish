@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-06",
-    "updateDate": "2026-10-06T00:17:08.727Z",
+    "updateDate": "2026-10-06T01:24:18.055Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. We currently have clear skies and a temperature of 58 degrees, which feels like 54 near Badger Ridge Middle School. Under tonight's waning crescent moon, we are looking at an overnight low of 50 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: we are seeing clear skies at Reddan Soccer Park with a current temperature of 56 degrees. We are under a waning crescent moon tonight with an overnight low of 49 degrees and no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-06",
-    "updateDate": "2026-10-06T00:17:08.727Z",
+    "updateDate": "2026-10-06T01:24:18.055Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Verona's Public Works department is preparing for fall leaf collection from October through December, featuring a new leaf vacuum truck that will only collect loose, unobstructed leaves placed behind the curb. Also, if you are planning any home improvements, the building inspection department reminds residents to contact them for permits regarding detached garages, storage sheds, or solar installations.",
+    "mainText": "City residents should note that the public works department has a new leaf vacuum truck for fall collection, and remember to place all loose leaves behind the curb. Additionally, the building inspection department is currently accepting permit applications for various residential and solar projects.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-06",
-    "updateDate": "2026-10-06T00:17:08.727Z",
+    "updateDate": "2026-10-06T01:24:18.055Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There are several events coming up in our area. Today, you can catch Yoga at Insight Wellness. Tomorrow, trivia options abound with Hop Haus Trivia, Quizmasters Trivia at Lake Lou-ee, and Dream Day Trivia at Paddy Mac's. Looking ahead to Wednesday, don't miss the Verona Downtown Farmer's Market at Hometown Junction Park.",
+    "mainText": "There is plenty to do in town, starting with Yoga at Insight Wellness today. Tomorrow, you can test your knowledge at trivia events at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-06",
-    "updateDate": "2026-10-06T00:17:08.727Z",
+    "updateDate": "2026-10-06T01:24:18.055Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly police recap, a notable incident occurred last Friday afternoon on County Road PB at American Way, where a 17-year-old driver was cited for operating without a license or insurance and failing to yield the right of way after a two-vehicle crash.",
+    "mainText": "In a noteworthy call from October 3, Verona police officers arrested a 19-year-old man who was found to be in possession of a stolen firearm during a traffic stop for expired registration.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-06",
-    "updateDate": "2026-10-06T00:17:08.727Z",
+    "updateDate": "2026-10-06T01:24:18.055Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "For dessert, today's flavor of the day at Culver's is Chocolate Caramel Twist. The store is currently open until 10:00 PM tonight, so there is still plenty of time to drive over and get a scoop.",
+    "mainText": "Today's flavor is the fan-favorite Chocolate Caramel Twist. The restaurant is currently open, so you have plenty of time to stop by before they lock the doors at 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
