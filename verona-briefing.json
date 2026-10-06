@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-06",
-    "updateDate": "2026-10-06T15:06:44.638Z",
+    "updateDate": "2026-10-06T16:08:16.897Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. Over at Badger Prairie County Park, it is currently 59 degrees with clear skies.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we are seeing clear skies and 63 degrees out by the Military Ridge State Trail with a Waning Crescent moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-06",
-    "updateDate": "2026-10-06T15:06:44.638Z",
+    "updateDate": "2026-10-06T16:08:16.897Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Development Projects.",
+    "mainText": "The Public Works Department is reminding residents that they manage our local street and utility maintenance, and you can stay updated on their efforts by subscribing to the city newsletter.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-06",
-    "updateDate": "2026-10-06T15:06:44.638Z",
+    "updateDate": "2026-10-06T16:08:16.897Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Hop Haus Trivia Today at Hop Haus Brewing Co..",
+    "mainText": "There is plenty to do with Hop Haus Trivia and Quizmasters Trivia both taking place today, while tomorrow features the downtown farmers market and live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-06",
-    "updateDate": "2026-10-06T15:06:44.638Z",
+    "updateDate": "2026-10-06T16:08:16.897Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "In police news, on October 3, officers arrested a 19-year-old man who was found to be in possession of a stolen firearm during a traffic stop.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-06",
-    "updateDate": "2026-10-06T15:06:44.638Z",
+    "updateDate": "2026-10-06T16:08:16.897Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Peanut Butter Fudge Brownie. The restaurant is open until 10:00 PM.",
+    "mainText": "Today's flavor of the day is Peanut Butter Fudge Brownie, and since the restaurant is open, you have plenty of time to stop by before they lock up at 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
