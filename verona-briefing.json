@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-06",
-    "updateDate": "2026-10-06T09:07:42.615Z",
+    "updateDate": "2026-10-06T10:08:26.528Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, the temperature is 50 degrees with clear skies by the Verona Area High School. We are currently under a Waning Crescent moon.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we have clear skies and 49 degrees with a waning crescent moon watching over Fireman's Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-06",
-    "updateDate": "2026-10-06T09:07:42.615Z",
+    "updateDate": "2026-10-06T10:08:26.528Z",
     "titleText": "Verona City News",
-    "mainText": "Public Works is introducing a new leaf vacuum truck for the fall season. Residents are reminded that only loose leaves will be collected, so please avoid placing bagged leaves or debris on the curb. Additionally, if you are planning a residential project, check the latest city permits for sheds and detached garages.",
+    "mainText": "In city news, the Public Works department is excited to introduce a new leaf vacuum truck this season, and residents are reminded to keep brush and leaf piles separate for efficient collection.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-06",
-    "updateDate": "2026-10-06T09:07:42.615Z",
+    "updateDate": "2026-10-06T10:08:26.528Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community. Hop Haus Trivia and Quizmasters Trivia are taking place today. Tomorrow, you can visit the Verona Downtown Farmer's Market, catch live music at Paddy Mac's, enjoy pizza at Lake Lou-ee, or test your wits at Trivia Night at The Bogey Factory.",
+    "mainText": "There is plenty to do this week, starting with trivia today at Hop Haus and Lake Lou-ee, followed by the Verona Downtown Farmer's Market and more trivia at The Bogey Factory tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-06",
-    "updateDate": "2026-10-06T09:07:42.615Z",
+    "updateDate": "2026-10-06T10:08:26.528Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly report for the Verona Police Department, an officer arrested a 19-year-old Verona man on October 3. The individual was located in a vehicle with expired registration, and a stolen firearm was successfully recovered from the scene.",
+    "mainText": "In a report from October 3, a 19-year-old man was arrested following a stolen firearm investigation conducted with help from the Cottage Grove Police Department.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-06",
-    "updateDate": "2026-10-06T09:07:42.615Z",
+    "updateDate": "2026-10-06T10:08:26.528Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Peanut Butter Fudge Brownie. The restaurant is currently closed for the morning but will open today at 10:00 AM for all your cravings.",
+    "mainText": "Culver's of Verona will be serving up their daily treat when they open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
