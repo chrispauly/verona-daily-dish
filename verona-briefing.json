@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-06",
-    "updateDate": "2026-10-06T01:24:18.055Z",
+    "updateDate": "2026-10-06T02:12:44.185Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: we are seeing clear skies at Reddan Soccer Park with a current temperature of 56 degrees. We are under a waning crescent moon tonight with an overnight low of 49 degrees and no rain in the forecast.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: we have clear skies at Harriet Park with a temperature of 54 degrees, feeling like 50 degrees. The Waning Crescent moon is visible tonight, and you can expect an overnight low of 49 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-06",
-    "updateDate": "2026-10-06T01:24:18.055Z",
+    "updateDate": "2026-10-06T02:12:44.185Z",
     "titleText": "Verona City News",
-    "mainText": "City residents should note that the public works department has a new leaf vacuum truck for fall collection, and remember to place all loose leaves behind the curb. Additionally, the building inspection department is currently accepting permit applications for various residential and solar projects.",
+    "mainText": "The city has released guidance regarding residential detached garages and sheds, and residents are reminded that curbside leaf collection runs from October through December. Please remember to keep leaves out of the street and behind the curb to ensure our vacuum trucks can operate effectively.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-06",
-    "updateDate": "2026-10-06T01:24:18.055Z",
+    "updateDate": "2026-10-06T02:12:44.185Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with Yoga at Insight Wellness today. Tomorrow, you can test your knowledge at trivia events at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's.",
+    "mainText": "There is plenty to do in Verona this week. Starting with yoga today at Insight Wellness, you can also look forward to trivia nights at Hop Haus and Wisconsin Brewing Company tomorrow, and the downtown farmer's market coming up on October 7.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-06",
-    "updateDate": "2026-10-06T01:24:18.055Z",
+    "updateDate": "2026-10-06T02:12:44.185Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from October 3, Verona police officers arrested a 19-year-old man who was found to be in possession of a stolen firearm during a traffic stop for expired registration.",
+    "mainText": "In a noteworthy update, on October 3, Verona officers arrested a 19-year-old man who was found driving with an expired registration; he was carrying a stolen firearm and was also wanted on a probation warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-06",
-    "updateDate": "2026-10-06T01:24:18.055Z",
+    "updateDate": "2026-10-06T02:12:44.185Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the fan-favorite Chocolate Caramel Twist. The restaurant is currently open, so you have plenty of time to stop by before they lock the doors at 10:00 PM tonight.",
+    "mainText": "Today's flavor of the day is the delicious Chocolate Caramel Twist. The store is currently open, but please note that it will be closing soon in 47 minutes, so be sure to head over before 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
