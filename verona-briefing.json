@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-06",
-    "updateDate": "2026-10-06T22:06:59.219Z",
+    "updateDate": "2026-10-06T23:05:54.644Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. Skies are clear near City Hall with a temperature of 71 degrees. The overnight low will be 54 degrees, and we have no rain in the forecast tonight.",
+    "mainText": "Hello, Verona! At 6 PM, we have clear skies at Verona City Hall with a temperature of 69 degrees and a waning crescent moon overhead. The overnight low will be 54 degrees, and there is no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-06",
-    "updateDate": "2026-10-06T22:06:59.219Z",
+    "updateDate": "2026-10-06T23:05:54.644Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Public Works Department continues to manage our local infrastructure, and residents are invited to subscribe to the digital newsletter to stay informed about upcoming development projects like the ones currently before the Plan Commission.",
+    "mainText": "The Public Works Department is hard at work maintaining our local infrastructure, and they invite everyone to stay informed by subscribing to the official city newsletter. Additionally, the Plan Commission is reviewing several development projects, including site plans for the Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-06",
-    "updateDate": "2026-10-06T22:06:59.219Z",
+    "updateDate": "2026-10-06T23:05:54.644Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead with trivia today at Hop Haus and Wisconsin Brewing Company, followed by a full lineup tomorrow including the Downtown Farmer's Market and more trivia at The Bogey Factory.",
+    "mainText": "There is plenty to do in Verona. We have Hop Haus Trivia and Quizmasters Trivia at Lake Lou-ee happening today. Tomorrow, events include the Verona Downtown Farmer's Market, Yoga at Insight Wellness, and Trivia Night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-06",
-    "updateDate": "2026-10-06T22:06:59.219Z",
+    "updateDate": "2026-10-06T23:05:54.644Z",
     "titleText": "Verona Police Report",
-    "mainText": "Reviewing the weekly police report, we noted an incident on October 3 where a 19-year-old Verona man was arrested for being a felon in possession of a firearm following an investigation that recovered a stolen weapon.",
+    "mainText": "In a report covering September 28 through October 5, officers responded to several incidents, including an arrest on October 3. A 19-year-old man was taken into custody after a stolen firearm was recovered from his vehicle during a traffic stop.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-06",
-    "updateDate": "2026-10-06T22:06:59.219Z",
+    "updateDate": "2026-10-06T23:05:54.644Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor at Culver's is the delicious Peanut Butter Fudge Brownie. They are currently open and will remain so until 10:00 PM tonight.",
+    "mainText": "Stop by Culver's to enjoy today's flavor, Peanut Butter Fudge Brownie, before the store closes at 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
