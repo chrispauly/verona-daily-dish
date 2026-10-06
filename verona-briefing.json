@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-06",
-    "updateDate": "2026-10-06T07:13:44.376Z",
+    "updateDate": "2026-10-06T08:08:59.154Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: we have clear skies at Reddan Soccer Park with a temperature of 50 degrees under a Waning Crescent moon.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: we are seeing clear skies and a temperature of 50 degrees near Badger Ridge Middle School.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-06",
-    "updateDate": "2026-10-06T07:13:44.376Z",
+    "updateDate": "2026-10-06T08:08:59.154Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that their new leaf vacuum truck is now in operation for curbside collection through December, provided it is just loose leaves, while permit information for home improvements like solar panels is available through the Building Inspection Department.",
+    "mainText": "City residents should be aware that the Public Works department is rolling out a new leaf vacuum truck this season. Please remember that only loose leaves should be placed behind the curb, as mixed piles with brush or garden materials will not be collected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-06",
-    "updateDate": "2026-10-06T07:13:44.376Z",
+    "updateDate": "2026-10-06T08:08:59.154Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with Hop Haus Trivia and Quizmasters Trivia at Wisconsin Brewing Company today, followed by Dream Day Trivia at Paddy Mac's tomorrow.",
+    "mainText": "There is plenty to do in town today, including trivia at both Hop Haus Brewing Company and Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-06",
-    "updateDate": "2026-10-06T07:13:44.376Z",
+    "updateDate": "2026-10-06T08:08:59.154Z",
     "titleText": "Verona Police Report",
-    "mainText": "In their weekly report, the Verona Police Department noted that on October 3, an officer arrested a 19-year-old local man who was found in possession of a stolen firearm during a traffic stop for expired registration.",
+    "mainText": "The Verona Police Department reported that on September 28, a two-vehicle crash occurred at CTH-PB and CTH-M after a driver failed to maintain control of their vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-06",
-    "updateDate": "2026-10-06T07:13:44.376Z",
+    "updateDate": "2026-10-06T08:08:59.154Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Peanut Butter Fudge Brownie, and our local Culver's will be ready to serve you when they open today at 10:00 AM.",
+    "mainText": "If you are craving something sweet, today's flavor is Peanut Butter Fudge Brownie. The store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
