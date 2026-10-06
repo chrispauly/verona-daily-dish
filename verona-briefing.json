@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-06",
-    "updateDate": "2026-10-06T06:11:11.214Z",
+    "updateDate": "2026-10-06T07:13:44.376Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish. We have clear skies and a temperature of 51 degrees near Badger Ridge Middle School, under a waning crescent moon.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: we have clear skies at Reddan Soccer Park with a temperature of 50 degrees under a Waning Crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-06",
-    "updateDate": "2026-10-06T06:11:11.214Z",
+    "updateDate": "2026-10-06T07:13:44.376Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is preparing for fall leaf collection which runs through December. Please note that the new leaf vacuum truck can only collect loose leaves, so keep your piles free of sticks, rocks, and debris.",
+    "mainText": "The City of Verona has announced that their new leaf vacuum truck is now in operation for curbside collection through December, provided it is just loose leaves, while permit information for home improvements like solar panels is available through the Building Inspection Department.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-06",
-    "updateDate": "2026-10-06T06:11:11.214Z",
+    "updateDate": "2026-10-06T07:13:44.376Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this week in town. We have trivia today at Hop Haus and the Wisconsin Brewing Company, followed by a busy tomorrow featuring yoga at Insight Wellness, the downtown farmer's market, and more trivia at The Bogey Factory.",
+    "mainText": "There is plenty to do in town, starting with Hop Haus Trivia and Quizmasters Trivia at Wisconsin Brewing Company today, followed by Dream Day Trivia at Paddy Mac's tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-06",
-    "updateDate": "2026-10-06T06:11:11.214Z",
+    "updateDate": "2026-10-06T07:13:44.376Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 3, a 19-year-old man was arrested after being found in possession of a stolen firearm and having an active probation warrant.",
+    "mainText": "In their weekly report, the Verona Police Department noted that on October 3, an officer arrested a 19-year-old local man who was found in possession of a stolen firearm during a traffic stop for expired registration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-06",
-    "updateDate": "2026-10-06T06:11:11.214Z",
+    "updateDate": "2026-10-06T07:13:44.376Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can look forward to Peanut Butter Fudge Brownie as today's flavor of the day at the Verona location, which opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is Peanut Butter Fudge Brownie, and our local Culver's will be ready to serve you when they open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
