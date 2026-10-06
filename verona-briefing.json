@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-06",
-    "updateDate": "2026-10-06T17:05:25.997Z",
+    "updateDate": "2026-10-06T18:08:14.124Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we have clear skies and a temperature of 66 degrees at Verona Area High School.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we are seeing clear skies around the Military Ridge State Trail with a temperature of 69 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-06",
-    "updateDate": "2026-10-06T17:05:25.997Z",
+    "updateDate": "2026-10-06T18:08:14.124Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona encourages residents to stay informed through their digital newsletter, which covers vital projects and programs. Additionally, the Plan Commission is reviewing several development projects, including Ardent Glen and new proposals at 1979 Milky Way, ahead of their November 4th meeting.",
+    "mainText": "The city is currently reviewing several development projects, including updates for Ardent Glen and the Liberty Business Park, and invites you to subscribe to the newsletter for regular city news.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-06",
-    "updateDate": "2026-10-06T17:05:25.997Z",
+    "updateDate": "2026-10-06T18:08:14.124Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of activity this week, starting with trivia at both Hop Haus and Wisconsin Brewing Company today. Tomorrow features yoga at Insight Wellness, the downtown farmers market, and pizza and a pitcher at Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do with Hop Haus Trivia and Quizmasters Trivia both taking place today, followed by tomorrow's farmer's market and additional trivia options at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-06",
-    "updateDate": "2026-10-06T17:05:25.997Z",
+    "updateDate": "2026-10-06T18:08:14.124Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering incidents from September 28 to October 5, an officer arrested a 19-year-old on October 3 who was found in possession of a stolen firearm during a traffic stop for expired registration.",
+    "mainText": "On October 3, officers arrested a 19-year-old following a traffic stop for expired registration, resulting in the recovery of a stolen firearm and charges for being a felon in possession of a firearm.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-06",
-    "updateDate": "2026-10-06T17:05:25.997Z",
+    "updateDate": "2026-10-06T18:08:14.124Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor is the refreshing Mint Cookie. The store is currently open and will remain open until 11 PM, so be sure to stop by and grab a scoop.",
+    "mainText": "Stop by Culver's today to enjoy their flavor of the day, Peanut Butter Fudge Brownie, while the store is open until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
