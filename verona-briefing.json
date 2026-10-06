@@ -1,42 +1,42 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-10-05",
-    "updateDate": "2026-10-05T23:05:58.783Z",
+    "uid": "verona-balanced-weather-2026-10-06",
+    "updateDate": "2026-10-06T00:17:08.727Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: it is 62 degrees with clear skies at Badger Prairie County Park, and we are seeing a Waning Crescent moon. Tonight will cool down to an overnight low of 49 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. We currently have clear skies and a temperature of 58 degrees, which feels like 54 near Badger Ridge Middle School. Under tonight's waning crescent moon, we are looking at an overnight low of 50 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
-    "uid": "verona-balanced-news-2026-10-05",
-    "updateDate": "2026-10-05T23:05:58.783Z",
+    "uid": "verona-balanced-news-2026-10-06",
+    "updateDate": "2026-10-06T00:17:08.727Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced a new leaf vacuum truck to improve fall collection, and the Building Inspection Department has updated guidelines for residential solar projects.",
+    "mainText": "In city news, Verona's Public Works department is preparing for fall leaf collection from October through December, featuring a new leaf vacuum truck that will only collect loose, unobstructed leaves placed behind the curb. Also, if you are planning any home improvements, the building inspection department reminds residents to contact them for permits regarding detached garages, storage sheds, or solar installations.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
-    "uid": "verona-balanced-events-2026-10-05",
-    "updateDate": "2026-10-05T23:05:58.783Z",
+    "uid": "verona-balanced-events-2026-10-06",
+    "updateDate": "2026-10-06T00:17:08.727Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty to look forward to, including Yoga at Insight Wellness today, followed by various trivia nights at Hop Haus, Lake Lou-ee, and The Bogey Factory tomorrow.",
+    "mainText": "There are several events coming up in our area. Today, you can catch Yoga at Insight Wellness. Tomorrow, trivia options abound with Hop Haus Trivia, Quizmasters Trivia at Lake Lou-ee, and Dream Day Trivia at Paddy Mac's. Looking ahead to Wednesday, don't miss the Verona Downtown Farmer's Market at Hometown Junction Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
-    "uid": "verona-balanced-police-2026-10-05",
-    "updateDate": "2026-10-05T23:05:58.783Z",
+    "uid": "verona-balanced-police-2026-10-06",
+    "updateDate": "2026-10-06T00:17:08.727Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable report, on October 3, a Verona officer stopped a vehicle for expired registration and arrested the driver for being a felon in possession of a stolen firearm.",
+    "mainText": "In the weekly police recap, a notable incident occurred last Friday afternoon on County Road PB at American Way, where a 17-year-old driver was cited for operating without a license or insurance and failing to yield the right of way after a two-vehicle crash.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
-    "uid": "verona-balanced-culvers-2026-10-05",
-    "updateDate": "2026-10-05T23:05:58.783Z",
+    "uid": "verona-balanced-culvers-2026-10-06",
+    "updateDate": "2026-10-06T00:17:08.727Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by today to enjoy our flavor of the day, Chocolate Caramel Twist. We are open until 10 PM tonight, so there is still plenty of time to grab a scoop.",
+    "mainText": "For dessert, today's flavor of the day at Culver's is Chocolate Caramel Twist. The store is currently open until 10:00 PM tonight, so there is still plenty of time to drive over and get a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
