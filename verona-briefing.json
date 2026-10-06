@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-06",
-    "updateDate": "2026-10-06T13:08:01.526Z",
+    "updateDate": "2026-10-06T14:06:50.261Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish. It is a crisp 51 degrees with clear skies around Harriet Park and a waning crescent moon overhead.",
+    "mainText": "Hello, Verona! At 9 AM, we are looking at clear skies and 55 degrees at the Verona Area High School, with a waning crescent moon phase in effect.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-06",
-    "updateDate": "2026-10-06T13:08:01.526Z",
+    "updateDate": "2026-10-06T14:06:50.261Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Plan Commission has several items on the agenda for November 4th, including site plans for the Sub-Zero facility at Liberty Business Park and a temporary use permit for 1979 Milky Way.",
+    "mainText": "The City of Verona Plan Commission meets this Wednesday to review multiple projects, including a final plat for Ardent Glen and pending site plans for Sub-Zero at Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-06",
-    "updateDate": "2026-10-06T13:08:01.526Z",
+    "updateDate": "2026-10-06T14:06:50.261Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy start to the week with Hop Haus Trivia today, followed by tomorrow featuring the Verona Downtown Farmer's Market, Yoga at Insight Wellness, and trivia at The Bogey Factory.",
+    "mainText": "There is plenty to do with Hop Haus Trivia today, Quizmasters Trivia at Lake Lou-ee tonight, and the Verona Downtown Farmer's Market coming up tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-06",
-    "updateDate": "2026-10-06T13:08:01.526Z",
+    "updateDate": "2026-10-06T14:06:50.261Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy update from the police department, an officer made an arrest on October 3 after locating a suspect in a vehicle with expired registration, leading to the recovery of a stolen firearm.",
+    "mainText": "In a noteworthy call from September 28, a 71-year-old Madison man was cited for failing to keep his vehicle under control after a crash at the intersection of CTH-PB and CTH-M.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-06",
-    "updateDate": "2026-10-06T13:08:01.526Z",
+    "updateDate": "2026-10-06T14:06:50.261Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Peanut Butter Fudge Brownie, and you can head over to the store when it opens today at 10:00 AM.",
+    "mainText": "Stop by to enjoy today's delicious Peanut Butter Fudge Brownie flavor when the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
