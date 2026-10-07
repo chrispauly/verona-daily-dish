@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-07",
-    "updateDate": "2026-10-07T10:08:16.937Z",
+    "updateDate": "2026-10-07T11:06:47.702Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we are seeing clear skies and 57 degrees near the Military Ridge State Trail under a Waning Crescent moon.",
+    "mainText": "Hello, Verona! At 6 AM, conditions near Verona City Hall are clear and 54 degrees under a waning crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-07",
-    "updateDate": "2026-10-07T10:08:16.937Z",
+    "updateDate": "2026-10-07T11:06:47.702Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona remains busy with maintenance and planning. You can stay updated on infrastructure projects and public services by subscribing to the city newsletter or checking the latest development updates regarding the Plan Commission agenda for November 4th.",
+    "mainText": "The Public Works Department is ready to assist with street and utility needs, and the city encourages everyone to sign up for the official newsletter to stay informed on local development projects currently before the Plan Commission.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-07",
-    "updateDate": "2026-10-07T10:08:16.937Z",
+    "updateDate": "2026-10-07T11:06:47.702Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is a great day to get out, with the Farmer's Market at Hometown Junction Park, yoga classes at Insight Wellness, and trivia night at The Bogey Factory. Looking ahead, keep an eye out for ART House 360 events starting tomorrow.",
+    "mainText": "There is plenty to do today including the Downtown Farmer's Market, yoga classes, trivia night at The Bogey Factory, and pizza specials at the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-07",
-    "updateDate": "2026-10-07T10:08:16.937Z",
+    "updateDate": "2026-10-07T11:06:47.702Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a recent report, on October 3, an officer arrested a 19-year-old Verona man who was found in possession of a stolen firearm during a traffic stop for expired registration.",
+    "mainText": "On October 3, a 19-year-old was arrested during a traffic stop for having an expired registration, which also resulted in the recovery of a stolen firearm.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-07",
-    "updateDate": "2026-10-07T10:08:16.937Z",
+    "updateDate": "2026-10-07T11:06:47.702Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You are in for a treat with today's flavor of the day, Turtle Cheesecake. The store is currently closed, but they open today at 10:00 AM so you can swing by and grab a scoop.",
+    "mainText": "Today's flavor of the day is Turtle Cheesecake, and the restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
