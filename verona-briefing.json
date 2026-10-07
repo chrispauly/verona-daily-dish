@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-07",
-    "updateDate": "2026-10-07T00:17:17.736Z",
+    "updateDate": "2026-10-07T01:27:57.221Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 67 degrees with clear skies over Reddan Soccer Park and a waning crescent moon visible. Looking ahead, the temperature will drop to an overnight low of 55 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: we have clear skies at Reddan Soccer Park with a Waning Crescent moon, an overnight low of 55, and no rain predicted overnight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-07",
-    "updateDate": "2026-10-07T00:17:17.736Z",
+    "updateDate": "2026-10-07T01:27:57.221Z",
     "titleText": "Verona City News",
-    "mainText": "The Public Works Department reminds residents that they handle maintenance for streets, sewers, and utilities, and they encourage everyone to subscribe to the city newsletter to stay informed about local programs and infrastructure projects.",
+    "mainText": "The Public Works Department handles everything from street maintenance to water utilities, and you can stay informed on their work by subscribing to the city newsletter, which highlights current programs and development projects like the Ardent Glen plat.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-07",
-    "updateDate": "2026-10-07T00:17:17.736Z",
+    "updateDate": "2026-10-07T01:27:57.221Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with trivia at Hop Haus and Lake Lou-ee today. Tomorrow, you can look forward to the Verona Downtown Farmer's Market, yoga, pizza at Lake Lou-ee, or more trivia at The Bogey Factory.",
+    "mainText": "We have a busy schedule ahead, with trivia happening today at Hop Haus and Lake Lou-ee, followed by tomorrow's farmer's market, pizza and a pitcher specials, and even more trivia at the Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-07",
-    "updateDate": "2026-10-07T00:17:17.736Z",
+    "updateDate": "2026-10-07T01:27:57.221Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering September 28 through October 5, officers responded to a serious incident on October 3 where a 19-year-old man was arrested for possession of a stolen firearm and a probation warrant.",
+    "mainText": "Looking at the weekly report, on October 3, an officer arrested a 19 year old man in possession of a stolen firearm during a traffic stop for expired registration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-07",
-    "updateDate": "2026-10-07T00:17:17.736Z",
+    "updateDate": "2026-10-07T01:27:57.221Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Satisfy your cravings with today's flavor, Peanut Butter Fudge Brownie, as the shop is open until 10:00 PM tonight.",
+    "mainText": "Today is a great day to stop by for the Peanut Butter Fudge Brownie, as the store is open until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
