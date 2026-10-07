@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-07",
-    "updateDate": "2026-10-07T12:14:36.073Z",
+    "updateDate": "2026-10-07T13:11:18.844Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. We are waking up to clear skies and a temperature of 54 degrees that feels like 52 near Verona Community Park, with a waning crescent moon visible in the sky.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we are looking at clear skies and 55 degrees over Fireman's Park, with a Waning Crescent moon visible.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-07",
-    "updateDate": "2026-10-07T12:14:36.073Z",
+    "updateDate": "2026-10-07T13:11:18.844Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is highlighting several upcoming development projects on the Plan Commission's agenda for November 4th, including additions to Ardent Glen and a site plan for Sub-Zero. Residents are also encouraged to sign up for the City's digital newsletter for regular updates on public works and street maintenance projects.",
+    "mainText": "The city is busy with updates from the Public Works Department regarding utility maintenance and the Planning Commission is reviewing several new residential and commercial development projects scheduled for November.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-07",
-    "updateDate": "2026-10-07T12:14:36.073Z",
+    "updateDate": "2026-10-07T13:11:18.844Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty happening today in Verona, including the Downtown Farmer's Market at Hometown Junction Park, Pizza and a Pitcher at Lake Lou-ee, and Wednesday Trivia Night at The Bogey Factory. Looking ahead to tomorrow, check out the opening of ART House 360 and trivia at Hop Haus Brewing.",
+    "mainText": "There is plenty to do with the Verona Downtown Farmer's Market and Wednesday Trivia Night at The Bogey Factory happening today, plus ART House 360 events starting tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-07",
-    "updateDate": "2026-10-07T12:14:36.073Z",
+    "updateDate": "2026-10-07T13:11:18.844Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly police recap, last Friday afternoon, officers responded to a two-vehicle crash on County Road PB at American Way, where a 17-year-old driver was cited for operating without a license or insurance and failing to yield.",
+    "mainText": "In a noteworthy call from September 28, officers responded to a motor vehicle accident on Enterprise Drive involving a juvenile operating an eMoto in a reckless manner.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-07",
-    "updateDate": "2026-10-07T12:14:36.073Z",
+    "updateDate": "2026-10-07T13:11:18.844Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "If you are planning your meals, the Culver's of Verona opens today at 10:00 AM. Today's delicious flavor of the day is Turtle Cheesecake, and you can look forward to Double Strawberry tomorrow.",
+    "mainText": "If you are craving something sweet, stop by for today's flavor, Turtle Cheesecake, when the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
