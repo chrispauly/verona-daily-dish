@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-07",
-    "updateDate": "2026-10-07T13:11:18.844Z",
+    "updateDate": "2026-10-07T14:07:03.427Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we are looking at clear skies and 55 degrees over Fireman's Park, with a Waning Crescent moon visible.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we are looking at clear skies and 60 degrees out by Fireman's Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-07",
-    "updateDate": "2026-10-07T13:11:18.844Z",
+    "updateDate": "2026-10-07T14:07:03.427Z",
     "titleText": "Verona City News",
-    "mainText": "The city is busy with updates from the Public Works Department regarding utility maintenance and the Planning Commission is reviewing several new residential and commercial development projects scheduled for November.",
+    "mainText": "In city news, the Common Council has unanimously adopted the Envision Verona Comprehensive Plan to manage future development. Additionally, the city is reminding residents to subscribe to the digital newsletter to stay informed on local projects.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-07",
-    "updateDate": "2026-10-07T13:11:18.844Z",
+    "updateDate": "2026-10-07T14:07:03.427Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with the Verona Downtown Farmer's Market and Wednesday Trivia Night at The Bogey Factory happening today, plus ART House 360 events starting tomorrow.",
+    "mainText": "There is plenty to do, with the Downtown Farmer's Market and Lake Lou-ee's pizza night happening today. Tomorrow, you can head to ART House 360 or catch trivia at Hop Haus Brewing.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-07",
-    "updateDate": "2026-10-07T13:11:18.844Z",
+    "updateDate": "2026-10-07T14:07:03.427Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from September 28, officers responded to a motor vehicle accident on Enterprise Drive involving a juvenile operating an eMoto in a reckless manner.",
+    "mainText": "On September 28, officers responded to a collision on CTH-PB where a 71-year-old man was cited for failing to keep his vehicle under control.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-07",
-    "updateDate": "2026-10-07T13:11:18.844Z",
+    "updateDate": "2026-10-07T14:07:03.427Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "If you are craving something sweet, stop by for today's flavor, Turtle Cheesecake, when the store opens today at 10:00 AM.",
+    "mainText": "You can enjoy Turtle Cheesecake as the flavor of the day, and please note that the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
