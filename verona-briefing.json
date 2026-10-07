@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-07",
-    "updateDate": "2026-10-07T08:09:02.422Z",
+    "updateDate": "2026-10-07T09:08:24.135Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: it is 58 degrees with clear skies at the Reddan Soccer Park and a Waning Crescent moon visible in the sky.",
+    "mainText": "Hello, Verona! At 4 AM, we have clear skies with a temperature of 58 degrees near the Military Ridge State Trail and a Waning Crescent moon visible.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-07",
-    "updateDate": "2026-10-07T08:09:02.422Z",
+    "updateDate": "2026-10-07T09:08:24.135Z",
     "titleText": "Verona City News",
-    "mainText": "The Public Works Department is currently overseeing street and utility maintenance, and residents can stay informed on city projects and programs by subscribing to the digital city newsletter.",
+    "mainText": "The Public Works Department is hard at work maintaining our local infrastructure, and they invite you to subscribe to the city newsletter for updates on street and utility news. Additionally, the Plan Commission is reviewing several new development projects, including the Ardent Glen plat and site plans for the Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-07",
-    "updateDate": "2026-10-07T08:09:02.422Z",
+    "updateDate": "2026-10-07T09:08:24.135Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community today, including the Verona Downtown Farmer's Market at Hometown Junction Park, yoga classes at Insight Wellness, and Trivia Night at The Bogey Factory.",
+    "mainText": "We have a busy day in store with the Verona Downtown Farmer's Market, yoga sessions at Insight Wellness, and Trivia Night at The Bogey Factory, all happening today.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-07",
-    "updateDate": "2026-10-07T08:09:02.422Z",
+    "updateDate": "2026-10-07T09:08:24.135Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 2, a 17-year-old driver was cited for failing to yield and operating without a valid license following a two-vehicle crash at CTH-PB and American Way.",
+    "mainText": "In our weekly police report, on Monday, September 28, officers responded to a motor vehicle crash at the intersection of CTH-PB and CTH-M involving a driver who failed to maintain control of his vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-07",
-    "updateDate": "2026-10-07T08:09:02.422Z",
+    "updateDate": "2026-10-07T09:08:24.135Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Turtle Cheesecake, which is sure to be a treat once the store opens today at 10:00 AM.",
+    "mainText": "Today's flavor at the Verona Culver's is Turtle Cheesecake. Please note that the store is currently closed, but it will open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
