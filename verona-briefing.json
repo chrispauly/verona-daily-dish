@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-10-06",
-    "updateDate": "2026-10-06T23:05:54.644Z",
+    "uid": "verona-balanced-weather-2026-10-07",
+    "updateDate": "2026-10-07T00:17:17.736Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, we have clear skies at Verona City Hall with a temperature of 69 degrees and a waning crescent moon overhead. The overnight low will be 54 degrees, and there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 67 degrees with clear skies over Reddan Soccer Park and a waning crescent moon visible. Looking ahead, the temperature will drop to an overnight low of 55 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-10-06",
-    "updateDate": "2026-10-06T23:05:54.644Z",
+    "uid": "verona-balanced-news-2026-10-07",
+    "updateDate": "2026-10-07T00:17:17.736Z",
     "titleText": "Verona City News",
-    "mainText": "The Public Works Department is hard at work maintaining our local infrastructure, and they invite everyone to stay informed by subscribing to the official city newsletter. Additionally, the Plan Commission is reviewing several development projects, including site plans for the Liberty Business Park.",
+    "mainText": "The Public Works Department reminds residents that they handle maintenance for streets, sewers, and utilities, and they encourage everyone to subscribe to the city newsletter to stay informed about local programs and infrastructure projects.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-10-06",
-    "updateDate": "2026-10-06T23:05:54.644Z",
+    "uid": "verona-balanced-events-2026-10-07",
+    "updateDate": "2026-10-07T00:17:17.736Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona. We have Hop Haus Trivia and Quizmasters Trivia at Lake Lou-ee happening today. Tomorrow, events include the Verona Downtown Farmer's Market, Yoga at Insight Wellness, and Trivia Night at The Bogey Factory.",
+    "mainText": "There is plenty to do in town, starting with trivia at Hop Haus and Lake Lou-ee today. Tomorrow, you can look forward to the Verona Downtown Farmer's Market, yoga, pizza at Lake Lou-ee, or more trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-10-06",
-    "updateDate": "2026-10-06T23:05:54.644Z",
+    "uid": "verona-balanced-police-2026-10-07",
+    "updateDate": "2026-10-07T00:17:17.736Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering September 28 through October 5, officers responded to several incidents, including an arrest on October 3. A 19-year-old man was taken into custody after a stolen firearm was recovered from his vehicle during a traffic stop.",
+    "mainText": "In a report covering September 28 through October 5, officers responded to a serious incident on October 3 where a 19-year-old man was arrested for possession of a stolen firearm and a probation warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-10-06",
-    "updateDate": "2026-10-06T23:05:54.644Z",
+    "uid": "verona-balanced-culvers-2026-10-07",
+    "updateDate": "2026-10-07T00:17:17.736Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's to enjoy today's flavor, Peanut Butter Fudge Brownie, before the store closes at 10:00 PM.",
+    "mainText": "Satisfy your cravings with today's flavor, Peanut Butter Fudge Brownie, as the shop is open until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
