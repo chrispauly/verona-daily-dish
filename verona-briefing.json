@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-07",
-    "updateDate": "2026-10-07T05:06:55.037Z",
+    "updateDate": "2026-10-07T06:09:40.091Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. We have clear skies at Reddan Soccer Park and the moon is currently in a waning crescent phase.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we are seeing fair conditions with a temperature of 70 degrees at Badger Prairie County Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-07",
-    "updateDate": "2026-10-07T05:06:55.037Z",
+    "updateDate": "2026-10-07T06:09:40.091Z",
     "titleText": "Verona City News",
-    "mainText": "The Public Works Department is hard at work maintaining our streets and utilities, and they remind residents that the easiest way to stay informed about city projects is to subscribe to the official City of Verona newsletter.",
+    "mainText": "The Public Works Department reminds residents they are busy maintaining city streets and utilities, while the city also invites everyone to sign up for their digital newsletter to track upcoming development projects like the Ardent Glen plat.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-07",
-    "updateDate": "2026-10-07T05:06:55.037Z",
+    "updateDate": "2026-10-07T06:09:40.091Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community today, including the Verona Downtown Farmer's Market at Hometown Junction Park, yoga at Insight Wellness, and a fun trivia night over at The Bogey Factory.",
+    "mainText": "There is plenty to do in Verona today, including the Downtown Farmer's Market, yoga at Insight Wellness, trivia at The Bogey Factory, and pizza night at Lake Lou-ee, plus check back tomorrow for events like Hop Haus trivia and ART House 360.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-07",
-    "updateDate": "2026-10-07T05:06:55.037Z",
+    "updateDate": "2026-10-07T06:09:40.091Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering the week ending October 5, officers responded to a serious incident on September 28 where a 16-year-old was cited for reckless driving and operating a motorcycle without a license following a collision.",
+    "mainText": "In a noteworthy incident on October 3, a 19-year-old was arrested for being a felon in possession of a firearm following a traffic stop for expired registration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-07",
-    "updateDate": "2026-10-07T05:06:55.037Z",
+    "updateDate": "2026-10-07T06:09:40.091Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Turtle Cheesecake. If you are looking to stop by, please note that the store opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is the delightful Turtle Cheesecake, and you can satisfy your craving when the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
