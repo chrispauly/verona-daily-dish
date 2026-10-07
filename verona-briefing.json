@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-07",
-    "updateDate": "2026-10-07T21:05:47.231Z",
+    "updateDate": "2026-10-07T22:05:46.798Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we have clear skies at Badger Prairie County Park with a temperature of 74 degrees.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: expect a comfortable 72 degrees at Verona Community Park under a waning crescent moon. The temperature will dip to an overnight low of 48 degrees, and you will be happy to know there is no rain in the forecast for tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-07",
-    "updateDate": "2026-10-07T21:05:47.231Z",
+    "updateDate": "2026-10-07T22:05:46.798Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has officially adopted Envision Verona, a long-range comprehensive plan designed to guide housing, transportation, and economic development over the next decade. The plan focuses on creating strong neighborhoods and supporting our local downtown identity.",
+    "mainText": "The City of Verona Common Council has unanimously adopted the Envision Verona Comprehensive Plan, which serves as a long-range guide for infrastructure, housing, and sustainable growth. Additionally, the city continues to emphasize community engagement with the upcoming implementation phase known as Ready, Set, Go.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-07",
-    "updateDate": "2026-10-07T21:05:47.231Z",
+    "updateDate": "2026-10-07T22:05:46.798Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community today, including the Verona Downtown Farmer's Market at Hometown Junction Park and Wednesday Trivia Night at The Bogey Factory. Looking ahead, you can check out ART House 360 events tomorrow.",
+    "mainText": "We have a busy schedule today with Live Music at Paddy Mac's, Yoga at Insight Wellness, the Downtown Farmer's Market, Pizza and a Pitcher at Lake Lou-ee, and Trivia Night at The Bogey Factory. Looking ahead, you can check out ART House 360 or Hop Haus Trivia tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-07",
-    "updateDate": "2026-10-07T21:05:47.231Z",
+    "updateDate": "2026-10-07T22:05:46.798Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, on October 3, a 19-year-old Verona man was arrested following a traffic stop where officers discovered a stolen firearm in his vehicle.",
+    "mainText": "In our weekly look at service calls, on October 3, police responded to a stolen firearm case where an officer successfully located and arrested a 19-year-old man in possession of the weapon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-07",
-    "updateDate": "2026-10-07T21:05:47.231Z",
+    "updateDate": "2026-10-07T22:05:46.798Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's feature at Culver's is the delicious Turtle Cheesecake. The restaurant is currently open for business and will be serving up treats until 10 PM tonight.",
+    "mainText": "Stop by for a scoop of today's flavor, Turtle Cheesecake. The store is currently open and will remain ready to serve you until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
