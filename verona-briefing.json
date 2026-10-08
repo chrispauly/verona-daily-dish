@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-08",
-    "updateDate": "2026-10-08T09:09:48.086Z",
+    "updateDate": "2026-10-08T10:07:05.068Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: it is 48 degrees at Fireman's Park with clear skies and a Waning Crescent moon visible.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: it is 47 degrees under clear skies near the Verona Public Library with a Waning Crescent moon visible.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-08",
-    "updateDate": "2026-10-08T09:09:48.086Z",
+    "updateDate": "2026-10-08T10:07:05.068Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Common Council has unanimously adopted Envision Verona, a comprehensive plan created with extensive community feedback to guide future development, including housing, transportation, and sustainability efforts.",
+    "mainText": "The City of Verona has unanimously adopted the Envision Verona Comprehensive Plan, which creates a long-term roadmap for our city's development, housing, and infrastructure.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-08",
-    "updateDate": "2026-10-08T09:09:48.086Z",
+    "updateDate": "2026-10-08T10:07:05.068Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can participate in yoga at Insight Wellness, enjoy Thursday night activities at ART House, or head to Hop Haus for trivia. Tomorrow, catch live music at Bailey's Run or Wisconsin Brewing Company.",
+    "mainText": "Today you can enjoy Yoga at Insight Wellness, ART House 360, or Hop Haus Trivia, with live music starting tomorrow at Bailey's Run and Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-08",
-    "updateDate": "2026-10-08T09:09:48.086Z",
+    "updateDate": "2026-10-08T10:07:05.068Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 3, Verona Police recovered a stolen firearm and arrested a 19-year-old local man following an investigation into a case originating in Cottage Grove.",
+    "mainText": "On September 28, officers responded to a motor vehicle crash where a driver was cited for failing to keep his vehicle under control.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-08",
-    "updateDate": "2026-10-08T09:09:48.086Z",
+    "updateDate": "2026-10-08T10:07:05.068Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Double Strawberry. The store opens today at 10:00 AM and will remain open until 10:00 PM.",
+    "mainText": "Today's flavor of the day is Double Strawberry, and you can stop by when the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
