@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-08",
-    "updateDate": "2026-10-08T22:05:58.312Z",
+    "updateDate": "2026-10-08T23:06:26.389Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, skies are clear near the Verona Public Library under a Waning Crescent moon. The temperature is 67 degrees, and we are expecting an overnight low of 48 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: skies are clear near Harriet Park with a waning crescent moon, an overnight low of 49 degrees, and no rain predicted for the evening.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-08",
-    "updateDate": "2026-10-08T22:05:58.312Z",
+    "updateDate": "2026-10-08T23:06:26.389Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has officially adopted the Envision Verona Comprehensive Plan following a unanimous vote by the Common Council to guide future development. Additionally, the city maintains its strong Moody's Aa1 rating.",
+    "mainText": "The City of Verona has officially adopted the Envision Verona Comprehensive Plan following a unanimous vote, setting the stage for future growth. Additionally, the City remains committed to infrastructure maintenance through its ongoing partnership with engineering services.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-08",
-    "updateDate": "2026-10-08T22:05:58.312Z",
+    "updateDate": "2026-10-08T23:06:26.389Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty happening around town, starting with Yoga at Insight Wellness today. Later this evening, you can check out ART House 360 or join the trivia competition at Hop Haus Brewing Company.",
+    "mainText": "It is a busy time in Verona with Yoga at Insight Wellness today, ART House 360 and Hop Haus trivia tonight, plus live music at Bailey's Run and Lake Lou-ee tomorrow, and the Puppets in the Park festival this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-08",
-    "updateDate": "2026-10-08T22:05:58.312Z",
+    "updateDate": "2026-10-08T23:06:26.389Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering September 28 to October 5, police responded to a motor vehicle crash on September 28 involving a 16-year-old operating an eMoto in a reckless manner.",
+    "mainText": "In a notable incident from September 28, officers cited a 16-year-old for reckless driving, including excessive speed and doing wheelies, after a collision occurred in the area of Enterprise Drive.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-08",
-    "updateDate": "2026-10-08T22:05:58.312Z",
+    "updateDate": "2026-10-08T23:06:26.389Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's of Verona today to enjoy the delicious Double Strawberry flavor of the day before they close at 10:00 PM.",
+    "mainText": "Today's flavor at Culver's is the delicious Double Strawberry. The restaurant is currently open and will be serving guests until closing time at 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
