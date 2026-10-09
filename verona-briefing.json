@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-09",
-    "updateDate": "2026-10-09T06:11:02.182Z",
+    "updateDate": "2026-10-09T07:16:04.744Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: it is currently 50 degrees with overcast skies near Fireman's Park, and we are under a Waning Crescent moon.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: it is 49 degrees and clear near the Verona Area High School under the light of a waning crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-09",
-    "updateDate": "2026-10-09T06:11:02.182Z",
+    "updateDate": "2026-10-09T07:16:04.744Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona recently adopted the Envision Verona Comprehensive Plan, which serves as a long-range roadmap for housing, transportation, and sustainability through the next decade.",
+    "mainText": "The City of Verona has officially adopted the Envision Verona Comprehensive Plan following a unanimous vote, which will serve as a long-range roadmap for community growth, housing, and infrastructure.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-09",
-    "updateDate": "2026-10-09T06:11:02.182Z",
+    "updateDate": "2026-10-09T07:16:04.744Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead with live music at Bailey's Run Vineyard and Lake Lou-ee happening today, followed by the Dane County Farmer's Market and Puppets in the Park tomorrow.",
+    "mainText": "We have plenty of fun ahead with live music at Bailey's Run Vineyard today, followed by the Dane County Farmer's Market and Puppets in the Park happening tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-09",
-    "updateDate": "2026-10-09T06:11:02.182Z",
+    "updateDate": "2026-10-09T07:16:04.744Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly police report, on October 3, an officer located and arrested a 19-year-old Verona man who was a felon in possession of a firearm following a traffic stop.",
+    "mainText": "In a report from the Verona Police Department, on September 28, a 71-year-old driver was cited for failing to keep his vehicle under control during a crash at CTH-PB and CTH-M.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-09",
-    "updateDate": "2026-10-09T06:11:02.182Z",
+    "updateDate": "2026-10-09T07:16:04.744Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is OREO Cookie Overload, and you can head over to grab a scoop when the store opens today at 10:00 AM.",
+    "mainText": "Treat yourself to today's delicious flavor, OREO Cookie Overload, and remember that the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
