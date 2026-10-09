@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-09",
-    "updateDate": "2026-10-09T17:05:19.367Z",
+    "updateDate": "2026-10-09T18:07:23.899Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: skies are overcast near Verona Area High School and the air quality is moderate with an index of 54.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we are seeing overcast skies near Harriet Park with a temperature of 67 degrees and an air quality index of 54.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-09",
-    "updateDate": "2026-10-09T17:05:19.367Z",
+    "updateDate": "2026-10-09T18:07:23.899Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has officially adopted the Envision Verona Comprehensive Plan to manage future development and infrastructure, while our local engineering services continue to provide regular updates to the City Council.",
+    "mainText": "In city news, the Common Council has unanimously adopted the Envision Verona Comprehensive Plan, which serves as a long-range roadmap for city growth. The plan, developed through extensive public engagement, focuses on creating strong neighborhoods, supporting our local business environment, and protecting natural assets.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-09",
-    "updateDate": "2026-10-09T17:05:19.367Z",
+    "updateDate": "2026-10-09T18:07:23.899Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule with live music at Bailey's Run Vineyard and Lake Lou-ee today, followed by the Dane County Farmer's Market and Puppets in the Park at Century School Park happening tomorrow.",
+    "mainText": "There is plenty to do around town with live music at Bailey's Run today. Tomorrow, you can look forward to the Dane County Farmers' Market at the Capitol, live music at Paddy Mac's, and the fun Puppets in the House festival at Century School Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-09",
-    "updateDate": "2026-10-09T17:05:19.367Z",
+    "updateDate": "2026-10-09T18:07:23.899Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 3, the Verona Police Department assisted another agency in a case that led to the arrest of a 19-year-old for possession of a stolen firearm and other charges.",
+    "mainText": "Looking at the weekly police report, on September 28, officers responded to a two-vehicle crash at CTH-PB and CTH-M where a driver was cited for failing to keep his vehicle under control.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-09",
-    "updateDate": "2026-10-09T17:05:19.367Z",
+    "updateDate": "2026-10-09T18:07:23.899Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy the OREO Cookie Overload at Culver's of Verona today, as the store is open until 10:30 PM.",
+    "mainText": "If you are craving something sweet, today's flavor is OREO Cookie Overload. The store is currently open, so stop by anytime before they close at 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
