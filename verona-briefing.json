@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-09",
-    "updateDate": "2026-10-09T02:18:29.024Z",
+    "updateDate": "2026-10-09T03:11:34.171Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, it is 57 degrees with clear skies at Firemans Park under a Waning Crescent moon. Looking ahead, we will see an overnight low of 48 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: current temperatures are 56 degrees under partly cloudy skies near Harriet Park. Looking ahead to the overnight hours, the temperature will settle at 48 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-09",
-    "updateDate": "2026-10-09T02:18:29.024Z",
+    "updateDate": "2026-10-09T03:11:34.171Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Common Council recently voted unanimously to adopt the Envision Verona Comprehensive Plan. This long-range strategy focuses on enhancing local neighborhoods, supporting our regional employment hubs, and maintaining a welcoming downtown area.",
+    "mainText": "The Verona Common Council has unanimously adopted the Envision Verona Comprehensive Plan. This document will serve as a long-term roadmap for city development, focusing on housing, transportation, and sustainability.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-09",
-    "updateDate": "2026-10-09T02:18:29.024Z",
+    "updateDate": "2026-10-09T03:11:34.171Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty happening around town. Today you can catch yoga at Insight Wellness or trivia at Hop Haus. Tomorrow, look out for live music at Baileys Run and Wisconsin Brewing Company, followed by the Puppets in the Park festival this Friday.",
+    "mainText": "We have plenty happening, including Yoga at Insight Wellness, ART House 360, and Hop Haus trivia all taking place today, followed by live music tomorrow at Bailey's Run and Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-09",
-    "updateDate": "2026-10-09T02:18:29.024Z",
+    "updateDate": "2026-10-09T03:11:34.171Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy report from September 28, Verona police responded to a crash involving a 16-year-old operating an eMoto recklessly, resulting in multiple citations for the driver.",
+    "mainText": "Regarding the weekly police report, on October 3, officers took a 19-year-old into custody for being a felon in possession of a firearm following a traffic stop for expired registration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-09",
-    "updateDate": "2026-10-09T02:18:29.024Z",
+    "updateDate": "2026-10-09T03:11:34.171Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The delicious flavor of the day is Double Strawberry. The restaurant is currently open but will be closing soon in 42 minutes, so be sure to stop by before they lock up for the night.",
+    "mainText": "Today's flavor was Double Strawberry. As we are currently closed for the night, we look forward to serving you our tomorrow flavor, OREO Cookie Overload, when we open at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
