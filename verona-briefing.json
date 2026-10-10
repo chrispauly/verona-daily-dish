@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-10",
-    "updateDate": "2026-10-10T21:05:27.513Z",
+    "updateDate": "2026-10-10T22:06:00.181Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, we have clear skies and a comfortable 79 degrees at Fireman's Park, providing a beautiful day for the community.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: the weather is a pleasant 77 degrees with clear skies by the Military Ridge State Trail. The overnight low will hit 55 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-10",
-    "updateDate": "2026-10-10T21:05:27.513Z",
+    "updateDate": "2026-10-10T22:06:00.181Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Common Council has officially adopted the Envision Verona Comprehensive Plan to guide city growth, and the city recently highlighted its Moody's Aa1 financial rating.",
+    "mainText": "City leadership is looking ahead as the Common Council unanimously adopted the Envision Verona Comprehensive Plan, which sets a roadmap for future city development and infrastructure.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-10",
-    "updateDate": "2026-10-10T21:05:27.513Z",
+    "updateDate": "2026-10-10T22:06:00.181Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot to do in Verona today, including the Puppets in the Park festival at Century School Park, plus live music performances at Bailey's Run, Paddy Mac's, and Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do today, including Puppets in the Park at Century School Park, and live music performances at both Bailey's Run Vineyard and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-10",
-    "updateDate": "2026-10-10T21:05:27.513Z",
+    "updateDate": "2026-10-10T22:06:00.181Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from October 3, Verona Police arrested a 19-year-old man who was found to be in possession of a stolen firearm during a traffic stop.",
+    "mainText": "In a report regarding activity between September 28 and October 5, officers responded on September 28 to a crash involving a 16-year-old operating an eMoto recklessly, resulting in multiple citations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-10",
-    "updateDate": "2026-10-10T21:05:27.513Z",
+    "updateDate": "2026-10-10T22:06:00.181Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor at Culver's is Raspberry Cheesecake. The restaurant is currently open to serve you until 10:30 PM tonight.",
+    "mainText": "Stop by Culver's today to enjoy the Raspberry Cheesecake flavor of the day, as the restaurant remains open until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
