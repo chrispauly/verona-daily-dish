@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-10",
-    "updateDate": "2026-10-10T00:17:18.817Z",
+    "updateDate": "2026-10-10T01:26:52.197Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. We have overcast skies at Verona City Hall with temperatures at 59 degrees and an elevated air quality index of 62. Under the new moon, we expect a low of 55 degrees overnight with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have clear skies at Badger Prairie County Park with a temperature of 56 degrees. The air quality index is at a moderate 62, and we are under a new moon phase tonight. Expect an overnight low of 54 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-10",
-    "updateDate": "2026-10-10T00:17:18.817Z",
+    "updateDate": "2026-10-10T01:26:52.197Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has officially adopted the Envision Verona Comprehensive Plan following a unanimous vote. This long-range strategy, developed with community input, focuses on sustainable growth, diverse housing, and improving our local utility infrastructure.",
+    "mainText": "The Verona Common Council has unanimously adopted the Envision Verona Comprehensive Plan, a long-range vision developed with community input to guide growth, housing, and infrastructure over the next decade. Additionally, the city is continuing its regular engineering service reports to keep our infrastructure on track.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-10",
-    "updateDate": "2026-10-10T00:17:18.817Z",
+    "updateDate": "2026-10-10T01:26:52.197Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Enjoy live music today at Bailey's Run Vineyard and Lake Lou-ee. Tomorrow, head over to the Wisconsin State Capitol for the Dane County Farmers Market, check out music at Paddy Mac's, or catch the Puppets in the Park festival at Century School Park.",
+    "mainText": "We have a full slate of activities, starting with live music today at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, check out the Dane County Farmers' Market at the Square, live music at Paddy Mac's, and the international Puppets in the House festival at Century School Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-10",
-    "updateDate": "2026-10-10T00:17:18.817Z",
+    "updateDate": "2026-10-10T01:26:52.197Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 3, Verona Police officers located an individual driving with expired registration who was found to be in possession of a stolen firearm and a probation warrant.",
+    "mainText": "In a notable call from September 28, officers responded to a motor vehicle accident where a 16-year-old operating an eMoto in a reckless manner collided with an SUV.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-10",
-    "updateDate": "2026-10-10T00:17:18.817Z",
+    "updateDate": "2026-10-10T01:26:52.197Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's today to enjoy the OREO Cookie Overload flavor. The shop is open until 10:30 PM tonight, so there is still plenty of time to satisfy your cravings.",
+    "mainText": "Today's flavor is OREO Cookie Overload. The restaurant is currently open and will be serving up scoops until they close at 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
