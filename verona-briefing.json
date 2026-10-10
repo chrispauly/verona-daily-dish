@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-10",
-    "updateDate": "2026-10-10T18:07:21.879Z",
+    "updateDate": "2026-10-10T19:04:52.361Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we have clear skies with a temperature of 76 degrees at Verona Community Park.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we have clear skies with a temperature of 79 degrees near the Verona Public Library.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-10",
-    "updateDate": "2026-10-10T18:07:21.879Z",
+    "updateDate": "2026-10-10T19:04:52.361Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has been making strides, recently maintaining a high Aa1 rating from Moody's and officially adopting the Envision Verona Comprehensive Plan to help manage our local development.",
+    "mainText": "The city recently passed the Envision Verona Comprehensive Plan to manage future development and has maintained a strong Aa1 rating from Moody's.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-10",
-    "updateDate": "2026-10-10T18:07:21.879Z",
+    "updateDate": "2026-10-10T19:04:52.361Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today, including the Dane County Farmers Market at the Capitol, live music at Bailey's Run, and the festive Puppets in the Park event at Century School Park.",
+    "mainText": "There is plenty to do today, including the Dane County Farmers Market, live music at Bailey's Run and Paddy Mac's, and the Puppets in the Park festival at Century School Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-10",
-    "updateDate": "2026-10-10T18:07:21.879Z",
+    "updateDate": "2026-10-10T19:04:52.361Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 28, Verona police responded to a two-vehicle accident at CTH-PB and CTH-M where a driver was cited for failing to keep his vehicle under control.",
+    "mainText": "In a noteworthy call from October 3, officers arrested a 19-year-old man who was found to be in possession of a stolen firearm during a routine traffic stop.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-10",
-    "updateDate": "2026-10-10T18:07:21.879Z",
+    "updateDate": "2026-10-10T19:04:52.361Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Raspberry Cheesecake, and with the store currently open until 10:30 PM, you have plenty of time to stop by for a serving.",
+    "mainText": "Stop by for today's flavor of the day, Raspberry Cheesecake, before the doors close for the night at 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
