@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-10",
-    "updateDate": "2026-10-10T07:13:38.115Z",
+    "updateDate": "2026-10-10T08:07:34.399Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: the temperature is 56 degrees with clear skies at Badger Prairie County Park. The air quality index is currently 61, and we are under a new moon phase tonight.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: the temperature is 57 degrees with clear skies by the Verona Public Library. Please note the air quality is currently moderate with an index of 60, and we are under a New Moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-10",
-    "updateDate": "2026-10-10T07:13:38.115Z",
+    "updateDate": "2026-10-10T08:07:34.399Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona Common Council has adopted the Envision Verona Comprehensive Plan, a roadmap designed to guide city growth over the next ten years. Developed with extensive community feedback, the plan includes priorities like diverse housing options, support for local employment, downtown revitalization, and long term infrastructure sustainability.",
+    "mainText": "The City of Verona has officially adopted the Envision Verona Comprehensive Plan following a unanimous council vote. This long-range vision, developed with extensive community input, focuses on sustainable growth, diverse housing, and improving local infrastructure over the next decade.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-10",
-    "updateDate": "2026-10-10T07:13:38.115Z",
+    "updateDate": "2026-10-10T08:07:34.399Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with activities including the Dane County Farmers Market, Puppets in the Park, and live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking ahead, you can enjoy yoga at Insight Wellness on October 12, trivia at Hop Haus and Lake Lou-ee on October 13, and trivia at Paddy Mac's or the Downtown Farmers Market on October 14.",
+    "mainText": "There is plenty happening today, including the Dane County Farmers Market and Puppets in the Park at Century School Park. Looking ahead, you can enjoy yoga on October 12, trivia at Hop Haus or Lake Lou-ee on October 13, and the Verona Downtown Farmers Market on October 14.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-10",
-    "updateDate": "2026-10-10T07:13:38.115Z",
+    "updateDate": "2026-10-10T08:07:34.399Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 28, the Verona Police Department responded to a two vehicle crash at the intersection of CTH-PB and CTH-M where a driver was cited for failure to control his vehicle.",
+    "mainText": "In a noteworthy update, on September 28, a 16-year-old was cited for reckless driving and multiple vehicle violations after an incident at Enterprise Drive and East Verona Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-10",
-    "updateDate": "2026-10-10T07:13:38.115Z",
+    "updateDate": "2026-10-10T08:07:34.399Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Raspberry Cheesecake. The store opens today at 10:00 AM, so make sure to stop by and pick up a serving of today's featured flavor.",
+    "mainText": "The Culver's flavor of the day is Raspberry Cheesecake. The restaurant opens today at 10:00 AM and will remain open until 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
