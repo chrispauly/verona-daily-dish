@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-10",
-    "updateDate": "2026-10-10T10:05:38.257Z",
+    "updateDate": "2026-10-10T11:05:42.026Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: it is 56 degrees and clear at Verona City Hall with an elevated air quality alert and a new moon in the sky.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish. It is a crisp 56 degrees with clear skies at Verona City Hall, and please be aware that the air quality is moderate at 59. We are currently under a New Moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-10",
-    "updateDate": "2026-10-10T10:05:38.257Z",
+    "updateDate": "2026-10-10T11:05:42.026Z",
     "titleText": "Verona City News",
-    "mainText": "The Common Council has unanimously adopted the Envision Verona Comprehensive Plan, a roadmap for the city's future housing and transit. Additionally, engineering reports are available for review on the city website.",
+    "mainText": "The City of Verona recently reached a major milestone with the Common Council unanimously adopting the Envision Verona Comprehensive Plan. This new long-range vision was developed through extensive community input and will focus on strengthening neighborhoods, supporting local businesses, and promoting sustainable growth.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-10",
-    "updateDate": "2026-10-10T10:05:38.257Z",
+    "updateDate": "2026-10-10T11:05:42.026Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot happening today, including the Dane County Farmer's Market, live music at Bailey's Run, Paddy Mac's, and Wisconsin Brewing Company, plus Puppets in the Park. Looking ahead, yoga is scheduled for October 12, with trivia nights on October 13 and 14.",
+    "mainText": "There is a busy day ahead for our community. Today, you can check out the Dane County Farmers Market, enjoy live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company, or head to Century School Park for the Puppets in the Park festival. Looking ahead, yoga is scheduled for October 12 at Insight Wellness, and trivia games are lined up for next week at Hop Haus and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-10",
-    "updateDate": "2026-10-10T10:05:38.257Z",
+    "updateDate": "2026-10-10T11:05:42.026Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 3, officers located a 19-year-old driving with expired registration and recovered a stolen firearm from the vehicle.",
+    "mainText": "In a noteworthy call from Sunday, September 28, a 16-year-old was cited for reckless driving and operating a motorcycle without a license following a collision on Enterprise Drive.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-10",
-    "updateDate": "2026-10-10T10:05:38.257Z",
+    "updateDate": "2026-10-10T11:05:42.026Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Raspberry Cheesecake. The store is closed this morning but opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is the delicious Raspberry Cheesecake. If you are planning a visit, please note that the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
