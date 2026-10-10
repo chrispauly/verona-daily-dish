@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-10",
-    "updateDate": "2026-10-10T17:04:59.387Z",
+    "updateDate": "2026-10-10T18:07:21.879Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, we have clear skies near Reddan Soccer Park with a temperature of 72 degrees and a moderate air quality index of 52.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we have clear skies with a temperature of 76 degrees at Verona Community Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-10",
-    "updateDate": "2026-10-10T17:04:59.387Z",
+    "updateDate": "2026-10-10T18:07:21.879Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Common Council recently voted unanimously to adopt the Envision Verona Comprehensive Plan. This long-term strategy focuses on creating diverse housing, supporting our local manufacturing and technology hub, and fostering a vibrant downtown experience.",
+    "mainText": "The City of Verona has been making strides, recently maintaining a high Aa1 rating from Moody's and officially adopting the Envision Verona Comprehensive Plan to help manage our local development.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-10",
-    "updateDate": "2026-10-10T17:04:59.387Z",
+    "updateDate": "2026-10-10T18:07:21.879Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy day ahead for our community! Today you can catch the Puppets in the Park festival at Century School Park or enjoy live music at Bailey's Run, Paddy Mac's, and Wisconsin Brewing Company. Looking ahead, yoga classes return this Sunday and trivia nights kick off at local breweries starting Monday.",
+    "mainText": "There is plenty to do today, including the Dane County Farmers Market at the Capitol, live music at Bailey's Run, and the festive Puppets in the Park event at Century School Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-10",
-    "updateDate": "2026-10-10T17:04:59.387Z",
+    "updateDate": "2026-10-10T18:07:21.879Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, we noted an incident from October 3 where an officer located a 19-year-old driving with expired registration. The individual was arrested for a stolen firearm charge and a probation warrant.",
+    "mainText": "On September 28, Verona police responded to a two-vehicle accident at CTH-PB and CTH-M where a driver was cited for failing to keep his vehicle under control.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-10",
-    "updateDate": "2026-10-10T17:04:59.387Z",
+    "updateDate": "2026-10-10T18:07:21.879Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day to stop by for our flavor of the day, Raspberry Cheesecake. We are currently open and will be serving up treats until 10:30 PM tonight.",
+    "mainText": "Today's flavor of the day is the delightful Raspberry Cheesecake, and with the store currently open until 10:30 PM, you have plenty of time to stop by for a serving.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
