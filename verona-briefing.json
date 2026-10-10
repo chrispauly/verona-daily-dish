@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-10",
-    "updateDate": "2026-10-10T03:12:02.138Z",
+    "updateDate": "2026-10-10T04:08:38.085Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: conditions are clear at Badger Ridge Middle School with an elevated air quality of 63 and a New Moon overhead. Tonight will drop to a low of 54 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: it is 56 degrees and clear at Verona City Hall under a new moon, with an elevated air quality index of 63. The overnight low will drop to 54 degrees, and no rain is currently in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-10",
-    "updateDate": "2026-10-10T03:12:02.138Z",
+    "updateDate": "2026-10-10T04:08:38.085Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Common Council has adopted the Envision Verona Comprehensive Plan to shape the future of our city, while the engineering department continues to provide regular updates on infrastructure and development projects.",
+    "mainText": "The City of Verona has officially adopted the Envision Verona Comprehensive Plan following a unanimous vote. This long-range strategy, developed with extensive community feedback, outlines how the city will prioritize sustainable growth, diverse housing options, and a thriving downtown area for the next decade.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-10",
-    "updateDate": "2026-10-10T03:12:02.138Z",
+    "updateDate": "2026-10-10T04:08:38.085Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, with live music at Bailey's Run Vineyard and Wisconsin Brewing Company today, followed by the Dane County Farmer's Market and the Puppets in the Park festival at Century School Park tomorrow.",
+    "mainText": "Tomorrow is packed with activities, including the Dane County Farmers Market, live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company, alongside the Puppets in the Park event at Century School Park. Looking ahead, you can also join the fun with trivia at Hop Haus on October 13 or the Verona Downtown Farmers Market on October 14.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-10",
-    "updateDate": "2026-10-10T03:12:02.138Z",
+    "updateDate": "2026-10-10T04:08:38.085Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on October 3, officers arrested a 19-year-old Verona man who was found in possession of a stolen firearm during a traffic stop for expired registration.",
+    "mainText": "In a notable incident from October 3, Verona Police officers located an individual involved in a stolen firearm investigation out of Cottage Grove, resulting in an arrest and the recovery of the weapon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-10",
-    "updateDate": "2026-10-10T03:12:02.138Z",
+    "updateDate": "2026-10-10T04:08:38.085Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is OREO Cookie Overload, which is a local favorite. The restaurant is currently open but will be closing its doors in 19 minutes, so there is still a small window to grab a treat tonight.",
+    "mainText": "The Culver's flavor of the day was Oreo Cookie Overload. The restaurant is currently closed for the night, but you can look forward to Raspberry Cheesecake when they reopen tomorrow at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
