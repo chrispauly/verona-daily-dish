@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-11",
-    "updateDate": "2026-10-11T05:06:10.249Z",
+    "updateDate": "2026-10-11T06:09:47.338Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: it is a clear night at Harriet Park with a current temperature of 65 degrees under a New Moon.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we have clear skies at Badger Ridge Middle School with a temperature of 64 degrees and a New Moon in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-11",
-    "updateDate": "2026-10-11T05:06:10.249Z",
+    "updateDate": "2026-10-11T06:09:47.338Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Common Council has officially adopted the Envision Verona Comprehensive Plan to steer our local growth. Additionally, the city has been maintaining a strong financial position with a Moody's Aa1 rating.",
+    "mainText": "The Verona Common Council has officially adopted the Envision Verona Comprehensive Plan to guide future growth, and the city continues to maintain a strong Moody's Aa1 rating.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-11",
-    "updateDate": "2026-10-11T05:06:10.249Z",
+    "updateDate": "2026-10-11T06:09:47.338Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to enjoy this week. We have live music at Bailey's Run Vineyard and the Wisconsin Brewing Company today, followed by yoga at Insight Wellness tomorrow. Looking ahead to next week, you can catch trivia at various locations and the Farmer's Market on Tuesday.",
+    "mainText": "Today, you can enjoy live music at both Bailey's Run Vineyard and Wisconsin Brewing Company, while tomorrow features yoga sessions at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-11",
-    "updateDate": "2026-10-11T05:06:10.249Z",
+    "updateDate": "2026-10-11T06:09:47.338Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported that on October 3, an officer located a subject during a traffic stop who was found to be in possession of a stolen firearm and was subsequently taken into custody.",
+    "mainText": "In a notable incident on October 3, officers arrested a 19-year-old Verona man who was found to be a felon in possession of a firearm following a traffic stop.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-11",
-    "updateDate": "2026-10-11T05:06:10.249Z",
+    "updateDate": "2026-10-11T06:09:47.338Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Caramel Cashew. The store opens today at 10:00 AM, so be sure to stop by and satisfy your sweet tooth.",
+    "mainText": "Today's flavor is Caramel Cashew, and the Culver's of Verona location opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
