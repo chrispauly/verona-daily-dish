@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-11",
-    "updateDate": "2026-10-11T08:07:57.065Z",
+    "updateDate": "2026-10-11T09:06:03.418Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: current conditions at Verona Community Park show 60 degrees under clear skies, with a New Moon phase visible tonight.",
+    "mainText": "Hello, Verona! At 4 AM, the weather is clear near the Military Ridge State Trail and we are under a new moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-11",
-    "updateDate": "2026-10-11T08:07:57.065Z",
+    "updateDate": "2026-10-11T09:06:03.418Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Common Council has unanimously adopted the Envision Verona Comprehensive Plan, a key framework to guide our city's long-term development. Additionally, the city is continuing its commitment to infrastructure, with engineering reports regularly updated for council review.",
+    "mainText": "The Verona Common Council recently passed the Envision Verona Comprehensive Plan, while the city also continues to receive high marks for its financial health with a Moody's Aa1 rating.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-11",
-    "updateDate": "2026-10-11T08:07:57.065Z",
+    "updateDate": "2026-10-11T09:06:03.418Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Today, you can enjoy live music at Bailey's Run or the Wisconsin Brewing Company. Tomorrow, check out yoga at Insight Wellness to get centered.",
+    "mainText": "We have a busy weekend ahead, starting with Live Music at Bailey's Run and Wisconsin Brewing Company today, followed by Yoga at Insight Wellness tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-11",
-    "updateDate": "2026-10-11T08:07:57.065Z",
+    "updateDate": "2026-10-11T09:06:03.418Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly police report, an incident occurred on October 3 where a 19-year-old was arrested for being a felon in possession of a firearm following a traffic stop where a stolen weapon was recovered.",
+    "mainText": "In a notable incident on September 28, a 16-year-old was cited for reckless driving after an eMoto collision near Enterprise Drive.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-11",
-    "updateDate": "2026-10-11T08:07:57.065Z",
+    "updateDate": "2026-10-11T09:06:03.418Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Caramel Cashew. The store is currently closed, but it will open today at 10:00 AM for you to enjoy your treat.",
+    "mainText": "Today's flavor of the day is Caramel Cashew, so make sure to stop by when they open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
