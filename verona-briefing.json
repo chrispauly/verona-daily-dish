@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-11",
-    "updateDate": "2026-10-11T16:06:45.008Z",
+    "updateDate": "2026-10-11T17:05:02.565Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, we are seeing clear skies and a temperature of 67 degrees at the Verona Public Library, though we do have a moderate air quality alert in effect with an index of 53.",
+    "mainText": "Hello, Verona! At 12 PM, we have clear skies near the Verona Area High School and an air quality index of 54, which is in the moderate range.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-11",
-    "updateDate": "2026-10-11T16:06:45.008Z",
+    "updateDate": "2026-10-11T17:05:02.565Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has reached an important milestone with the unanimous adoption of the Envision Verona Comprehensive Plan, which serves as a long-term roadmap for infrastructure and housing, while the Public Works department continues to provide essential updates on local utility and street maintenance.",
+    "mainText": "The City of Verona has officially adopted the Envision Verona Comprehensive Plan following a unanimous council vote. This long-term vision was developed with extensive public input to manage housing, transportation, and sustainability as the city grows.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-11",
-    "updateDate": "2026-10-11T16:06:45.008Z",
+    "updateDate": "2026-10-11T17:05:02.565Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend with live music at Bailey's Run Vineyard and Wisconsin Brewing Company happening today, followed by yoga at Insight Wellness tomorrow.",
+    "mainText": "Enjoy a busy weekend and early week with live music today at Bailey's Run Vineyard and Wisconsin Brewing Company. Looking ahead, yoga is scheduled for tomorrow at Insight Wellness, followed by various trivia nights at local spots like Hop Haus, Paddy Mac's, and The Mill early next week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-11",
-    "updateDate": "2026-10-11T16:06:45.008Z",
+    "updateDate": "2026-10-11T17:05:02.565Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident reported by the police department, a 19-year-old man was arrested on October 3 for being a felon in possession of a firearm after an officer initiated a traffic stop.",
+    "mainText": "Reviewing the weekly police report, on October 3, a 19-year-old Verona man was arrested for being a felon in possession of a firearm after officers located him during a traffic stop for expired registration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-11",
-    "updateDate": "2026-10-11T16:06:45.008Z",
+    "updateDate": "2026-10-11T17:05:02.565Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You are in for a treat today at Culver's because the flavor of the day is Caramel Cashew, and you can stop by anytime before they close at 10:00 PM.",
+    "mainText": "The Culver's flavor of the day is Caramel Cashew and you can stop by any time before they close at 10:00 PM to grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
