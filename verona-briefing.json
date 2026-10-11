@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-10-10",
-    "updateDate": "2026-10-10T23:05:38.693Z",
+    "uid": "verona-balanced-weather-2026-10-11",
+    "updateDate": "2026-10-11T00:19:02.453Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: it is 73 degrees and clear by City Hall, and it will be a pleasant night with a low of 55 degrees and no rain expected.",
+    "mainText": "Hello, Verona! At 7 PM, the weather is clear near the Military Ridge State Trail with temperatures feeling like 66 degrees. Expect a low of 55 degrees overnight with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-10-10",
-    "updateDate": "2026-10-10T23:05:38.693Z",
+    "uid": "verona-balanced-news-2026-10-11",
+    "updateDate": "2026-10-11T00:19:02.453Z",
     "titleText": "Verona City News",
-    "mainText": "City officials announced that the Verona Common Council has officially adopted the Envision Verona Comprehensive Plan. This document is designed to guide the city's future growth and development initiatives.",
+    "mainText": "In city news, the Common Council has unanimously adopted the Envision Verona Comprehensive Plan to guide future development, while Engineering Services continues providing regular reports to the Council regarding city infrastructure projects.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-10-10",
-    "updateDate": "2026-10-10T23:05:38.693Z",
+    "uid": "verona-balanced-events-2026-10-11",
+    "updateDate": "2026-10-11T00:19:02.453Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot going on today, including the Dane County Farmer's Market, live music at both Bailey's Run and Paddy Mac's, and the Puppets in the Park festival at Century School Park. Looking ahead, you can enjoy yoga at Insight Wellness on October 12, or trivia nights at Hop Haus and Lake Lou-ee starting October 13.",
+    "mainText": "Today is packed with fun, including the Puppets in the Park festival at Century School Park, the Dane County Farmers Market, and live music at Bailey's Run. Looking ahead, you can catch yoga at Insight Wellness on October 12.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-10-10",
-    "updateDate": "2026-10-10T23:05:38.693Z",
+    "uid": "verona-balanced-police-2026-10-11",
+    "updateDate": "2026-10-11T00:19:02.453Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 28, the Verona Police Department responded to a two-vehicle crash on CTH-PB at CTH-M, where a 71-year-old driver was cited for failing to keep his vehicle under control.",
+    "mainText": "In a report from the police, on October 3, officers arrested a 19-year-old man in possession of a stolen firearm during a traffic stop for expired registration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-10-10",
-    "updateDate": "2026-10-10T23:05:38.693Z",
+    "uid": "verona-balanced-culvers-2026-10-11",
+    "updateDate": "2026-10-11T00:19:02.453Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Raspberry Cheesecake, which is a fan favorite here in town. The store is currently open and will remain so until 10:30 PM, so there is still plenty of time to stop by for a treat.",
+    "mainText": "Enjoy the delicious Raspberry Cheesecake flavor of the day today! The store is currently open until 10:30 PM, so make sure to stop by soon.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
