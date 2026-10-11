@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-11",
-    "updateDate": "2026-10-11T04:08:41.494Z",
+    "updateDate": "2026-10-11T05:06:10.249Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, we are enjoying clear skies near Harriet Park. The temperature is 66 degrees, and we expect an overnight low of 56 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: it is a clear night at Harriet Park with a current temperature of 65 degrees under a New Moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-11",
-    "updateDate": "2026-10-11T04:08:41.494Z",
+    "updateDate": "2026-10-11T05:06:10.249Z",
     "titleText": "Verona City News",
-    "mainText": "In city updates, the Common Council recently adopted the Envision Verona Comprehensive Plan to manage future growth. Additionally, the city has successfully maintained its Moody's Aa1 financial rating.",
+    "mainText": "In city news, the Verona Common Council has officially adopted the Envision Verona Comprehensive Plan to steer our local growth. Additionally, the city has been maintaining a strong financial position with a Moody's Aa1 rating.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-11",
-    "updateDate": "2026-10-11T04:08:41.494Z",
+    "updateDate": "2026-10-11T05:06:10.249Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this week. Catch live music tomorrow at Bailey's Run Vineyard and Wisconsin Brewing Company, check out yoga at Insight Wellness on October 12, or join trivia nights at Hop Haus and Paddy Mac's starting early next week.",
+    "mainText": "There is plenty to enjoy this week. We have live music at Bailey's Run Vineyard and the Wisconsin Brewing Company today, followed by yoga at Insight Wellness tomorrow. Looking ahead to next week, you can catch trivia at various locations and the Farmer's Market on Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-11",
-    "updateDate": "2026-10-11T04:08:41.494Z",
+    "updateDate": "2026-10-11T05:06:10.249Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly report, on October 3, a 19-year-old Verona man was arrested following a tip from the Cottage Grove Police Department, resulting in the recovery of a stolen firearm.",
+    "mainText": "The Verona Police Department reported that on October 3, an officer located a subject during a traffic stop who was found to be in possession of a stolen firearm and was subsequently taken into custody.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-11",
-    "updateDate": "2026-10-11T04:08:41.494Z",
+    "updateDate": "2026-10-11T05:06:10.249Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day was Raspberry Cheesecake. Since the store is now closed for the evening, please look forward to tomorrow's flavor, Caramel Cashew, when the doors open tomorrow at 10:00 AM.",
+    "mainText": "Today's flavor of the day is the delicious Caramel Cashew. The store opens today at 10:00 AM, so be sure to stop by and satisfy your sweet tooth.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
