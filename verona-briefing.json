@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-11",
-    "updateDate": "2026-10-11T13:06:37.103Z",
+    "updateDate": "2026-10-11T14:05:59.214Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: expect clear skies near Fireman's Park with temperatures around 55 degrees and an air quality index of 51.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we are seeing clear skies near Verona Area High School with temperatures at 59 degrees, though keep in mind the air quality index is currently at a moderate 52.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-11",
-    "updateDate": "2026-10-11T13:06:37.103Z",
+    "updateDate": "2026-10-11T14:05:59.214Z",
     "titleText": "Verona City News",
-    "mainText": "The city has been busy with the Common Council unanimously adopting the Envision Verona Comprehensive Plan, and you can also check out the latest engineering reports available on the city website to see infrastructure updates.",
+    "mainText": "In city news, the Verona Common Council recently voted to adopt the Envision Verona Comprehensive Plan, which sets the stage for our upcoming growth. Additionally, the city has been busy with infrastructure updates and continues to maintain a strong Moody's Aa1 rating.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-11",
-    "updateDate": "2026-10-11T13:06:37.103Z",
+    "updateDate": "2026-10-11T14:05:59.214Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with live music happening today at Bailey's Run Vineyard and Wisconsin Brewing Company, yoga classes tomorrow at Insight Wellness, and upcoming trivia nights at Hop Haus and The Mill early next week.",
+    "mainText": "We have a busy couple of days ahead! Enjoy live music at Bailey's Run Vineyard and Lake Lou-ee today, followed by yoga at Insight Wellness tomorrow. Looking ahead, you can also join the fun at Hop Haus Trivia this coming Monday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-11",
-    "updateDate": "2026-10-11T13:06:37.103Z",
+    "updateDate": "2026-10-11T14:05:59.214Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering late September into early October, police noted that on September 28, a 16-year-old was cited for reckless driving after an incident involving an eMoto and an SUV.",
+    "mainText": "In our weekly look at police activity, on September 28, officers responded to a collision involving a motorcycle on Enterprise Drive. The driver was cited for several violations including reckless driving.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-11",
-    "updateDate": "2026-10-11T13:06:37.103Z",
+    "updateDate": "2026-10-11T14:05:59.214Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can satisfy your sweet tooth with today's flavor of the day, Caramel Cashew, once the restaurant opens today at 10:00 AM.",
+    "mainText": "If you are looking for a treat, today's flavor of the day is Caramel Cashew. The store opens today at 10:00 AM, so stop by and enjoy a scoop later this morning.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
