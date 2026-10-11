@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-11",
-    "updateDate": "2026-10-11T20:06:41.174Z",
+    "updateDate": "2026-10-11T21:05:43.580Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: it is a pleasant 78 degrees at Badger Prairie County Park with clear skies, though please note an elevated air quality index of 55 today. We are currently in a new moon phase.",
+    "mainText": "Hello, Verona! At 4 PM, the temperature is 79 degrees under clear skies at Verona Area High School, with an air quality index of 55 which is currently in the moderate range.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-11",
-    "updateDate": "2026-10-11T20:06:41.174Z",
+    "updateDate": "2026-10-11T21:05:43.580Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has officially adopted the Envision Verona Comprehensive Plan following a unanimous vote, providing a long-term roadmap for housing, transportation, and sustainability. Additionally, residents are encouraged to stay connected with the city by subscribing to the official digital newsletter for updates on local projects.",
+    "mainText": "The Common Council has officially adopted the Envision Verona Comprehensive Plan after a unanimous vote to help manage long term development, while our engineering department continues to provide regular updates to the council.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-11",
-    "updateDate": "2026-10-11T20:06:41.174Z",
+    "updateDate": "2026-10-11T21:05:43.580Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend with live music at Bailey's Run Vineyard happening today and yoga sessions at Insight Wellness available tomorrow.",
+    "mainText": "Today you can catch live music at Bailey's Run Vineyard, tomorrow includes yoga sessions at Insight Wellness, and next week features community favorites like the downtown farmer's market and trivia nights.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-11",
-    "updateDate": "2026-10-11T20:06:41.174Z",
+    "updateDate": "2026-10-11T21:05:43.580Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call for service on September 28, officers responded to a collision involving a 16-year-old operating an e-motorcycle recklessly, resulting in multiple citations for the juvenile.",
+    "mainText": "In a report regarding incidents between September 28 and October 5, officers arrested a 19 year old man on October 3 who was found to be a felon in possession of a firearm following a tip from Cottage Grove police.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-11",
-    "updateDate": "2026-10-11T20:06:41.174Z",
+    "updateDate": "2026-10-11T21:05:43.580Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's of Verona today to enjoy the delicious Caramel Cashew flavor of the day; the store is open and serving until 10 PM.",
+    "mainText": "Culver's is open until 10 PM today, so stop by to enjoy their flavor of the day before they close for the evening.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
