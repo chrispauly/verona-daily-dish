@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-11",
-    "updateDate": "2026-10-11T21:05:43.580Z",
+    "updateDate": "2026-10-11T22:06:17.844Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, the temperature is 79 degrees under clear skies at Verona Area High School, with an air quality index of 55 which is currently in the moderate range.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. Over at Military Ridge State Trail, it is currently 77 degrees with clear skies. Note: Air quality is Moderate with an AQI of 53. The overnight low will be around 62 degrees, with rain unlikely.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-11",
-    "updateDate": "2026-10-11T21:05:43.580Z",
+    "updateDate": "2026-10-11T22:06:17.844Z",
     "titleText": "Verona City News",
-    "mainText": "The Common Council has officially adopted the Envision Verona Comprehensive Plan after a unanimous vote to help manage long term development, while our engineering department continues to provide regular updates to the council.",
+    "mainText": "In city affairs, the latest update is: Press Releases.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-11",
-    "updateDate": "2026-10-11T21:05:43.580Z",
+    "updateDate": "2026-10-11T22:06:17.844Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can catch live music at Bailey's Run Vineyard, tomorrow includes yoga sessions at Insight Wellness, and next week features community favorites like the downtown farmer's market and trivia nights.",
+    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Bailey's Run Today at Bailey's Run Vineyard.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-11",
-    "updateDate": "2026-10-11T21:05:43.580Z",
+    "updateDate": "2026-10-11T22:06:17.844Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report regarding incidents between September 28 and October 5, officers arrested a 19 year old man on October 3 who was found to be a felon in possession of a firearm following a tip from Cottage Grove police.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-11",
-    "updateDate": "2026-10-11T21:05:43.580Z",
+    "updateDate": "2026-10-11T22:06:17.844Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is open until 10 PM today, so stop by to enjoy their flavor of the day before they close for the evening.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: Caramel Cashew. The restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
