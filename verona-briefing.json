@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-12",
-    "updateDate": "2026-10-12T09:18:49.615Z",
+    "updateDate": "2026-10-12T10:13:16.132Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish. We have a temperature of 64 degrees with overcast skies near Badger Ridge Middle School. We are currently experiencing a new moon, and although the ISS passes overhead tonight, you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we have overcast skies and a temperature of 64 degrees at Badger Prairie County Park, with the new moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-12",
-    "updateDate": "2026-10-12T09:18:49.615Z",
+    "updateDate": "2026-10-12T10:13:16.132Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona recently reached a milestone as the Common Council unanimously adopted the Envision Verona Comprehensive Plan. This long-range document, developed with extensive public feedback, focuses on housing, sustainability, and supporting our regional employment hubs. Additionally, the city continues to provide ongoing engineering and public works updates available on the municipal website.",
+    "mainText": "The Verona Common Council has unanimously adopted the Envision Verona Comprehensive Plan. This long-term roadmap focuses on creating strong neighborhoods, supporting our local businesses, and ensuring sustainable infrastructure for the future.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-12",
-    "updateDate": "2026-10-12T09:18:49.615Z",
+    "updateDate": "2026-10-12T10:13:16.132Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a great lineup for our community. Today, you can catch Yoga at Insight Wellness. Tomorrow, there are multiple options for trivia including at Hop Haus and the Wisconsin Brewing Company. Looking further ahead, the Verona Downtown Farmer's Market will be at Hometown Junction Park on October 14.",
+    "mainText": "There is plenty to do in town, starting with yoga at Insight Wellness today. Tomorrow, you can test your knowledge at Hop Haus or Wisconsin Brewing Company, followed by a busy Wednesday with the farmer's market and trivia at multiple local venues.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-12",
-    "updateDate": "2026-10-12T09:18:49.615Z",
+    "updateDate": "2026-10-12T10:13:16.132Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the police department's weekly recap, on October 3, an officer located a 19-year-old man driving with expired registration who was found to be in possession of a stolen firearm.",
+    "mainText": "In a report regarding incidents between September 28 and October 5, officers responded to a motor vehicle crash on September 28 where a 16-year-old was cited for reckless driving and operating without a license.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-12",
-    "updateDate": "2026-10-12T09:18:49.615Z",
+    "updateDate": "2026-10-12T10:13:16.132Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Georgia Peach, which is a delicious choice to celebrate the day. Please note that the store is currently closed, but it opens today at 10:00 AM and will remain open until 10:00 PM.",
+    "mainText": "Today's flavor of the day is Georgia Peach. The store is currently closed, but will open today at 10:00 AM to serve you.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
