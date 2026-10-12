@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-12",
-    "updateDate": "2026-10-12T19:06:28.379Z",
+    "updateDate": "2026-10-12T20:06:49.155Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we are seeing partly cloudy skies and a comfortable 84 degrees at Reddan Soccer Park.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we are seeing clear skies and 84 degree temperatures near Harriet Park under a New Moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-12",
-    "updateDate": "2026-10-12T19:06:28.379Z",
+    "updateDate": "2026-10-12T20:06:49.155Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has officially adopted the Envision Verona Comprehensive Plan following a unanimous vote, setting a long-term roadmap for sustainable growth, housing, and downtown development.",
+    "mainText": "The City of Verona has reached a milestone with the unanimous adoption of the Envision Verona Comprehensive Plan, a roadmap for long-term growth and sustainability. Additionally, residents are encouraged to stay connected through the city's digital newsletter for ongoing project updates.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-12",
-    "updateDate": "2026-10-12T19:06:28.379Z",
+    "updateDate": "2026-10-12T20:06:49.155Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have several community activities coming up, starting with Yoga at Insight Wellness today, followed by various trivia events tomorrow at Hop Haus, Lake Lou-ee, and more.",
+    "mainText": "Today you can enjoy Yoga at Insight Wellness. Looking ahead to tomorrow, there is trivia at Hop Haus Brewing Co., Lake Lou-ee, and The Bogey Factory, along with live music at Paddy Mac's and the Farmer's Market at Hometown Junction Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-12",
-    "updateDate": "2026-10-12T19:06:28.379Z",
+    "updateDate": "2026-10-12T20:06:49.155Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 28, the Verona Police Department responded to a two-vehicle crash on CTH-PB at CTH-M, resulting in a citation for failure to keep a vehicle under control.",
+    "mainText": "In a noteworthy call for service on September 28, police responded to a motor vehicle crash at CTH-PB and CTH-M involving a driver cited for failing to keep his vehicle under control.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-12",
-    "updateDate": "2026-10-12T19:06:28.379Z",
+    "updateDate": "2026-10-12T20:06:49.155Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy today's flavor of the day, Chocolate Heath Crunch, at Culver's, which remains open for business until 11 PM tonight.",
+    "mainText": "Today at Culver's, the featured flavor of the day is Georgia Peach. The restaurant is currently open for business until 10 PM, so stop by and enjoy a scoop before they close for the evening.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
