@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-12",
-    "updateDate": "2026-10-12T05:13:47.079Z",
+    "updateDate": "2026-10-12T06:17:27.159Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we have overcast skies at Verona Community Park, a temperature of 65 degrees, and an air quality index of 52. We are currently under a New Moon, and although the ISS will pass overhead tonight, we will not be able to see it due to the cloud cover.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: it is 65 degrees and partly cloudy at Fireman's Park under a new moon, with a moderate air quality alert of 51.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-12",
-    "updateDate": "2026-10-12T05:13:47.079Z",
+    "updateDate": "2026-10-12T06:17:27.159Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Common Council recently voted unanimously to adopt the Envision Verona Comprehensive Plan, a long-range document developed with resident input that outlines strategies for housing, transportation, and sustainability over the coming decades.",
+    "mainText": "The Common Council has unanimously adopted the Envision Verona Comprehensive Plan, which sets a vision for our local growth for the next ten years, and the city continues to maintain a strong Moody's Aa1 financial rating.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-12",
-    "updateDate": "2026-10-12T05:13:47.079Z",
+    "updateDate": "2026-10-12T06:17:27.159Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You can participate in Yoga at Insight Wellness today, followed by several trivia nights happening tomorrow at Hop Haus Brewing Co, Wisconsin Brewing Company, and Paddy Mac's.",
+    "mainText": "There is plenty to do with Yoga at Insight Wellness today, followed by a busy slate tomorrow featuring trivia at Hop Haus, Wisconsin Brewing Company, Paddy Mac's, The Mill, and The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-12",
-    "updateDate": "2026-10-12T05:13:47.079Z",
+    "updateDate": "2026-10-12T06:17:27.159Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from September 28, officers responded to a two-vehicle crash at the intersection of CTH-PB and CTH-M where a driver was cited for failing to maintain control of their vehicle.",
+    "mainText": "On September 28, officers responded to a collision involving an eMoto and an SUV where the juvenile driver was cited for reckless driving and not having a license.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-12",
-    "updateDate": "2026-10-12T05:13:47.079Z",
+    "updateDate": "2026-10-12T06:17:27.159Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's flavor of the day, Georgia Peach, which you can pick up starting when the store opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is Georgia Peach and you can head to the restaurant when it opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
