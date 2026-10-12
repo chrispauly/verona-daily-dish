@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-12",
-    "updateDate": "2026-10-12T04:16:08.879Z",
+    "updateDate": "2026-10-12T05:13:47.079Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we have mainly clear skies at Badger Prairie County Park with an air quality index of 52. Under the New Moon tonight, the ISS passes overhead, though you will not be able to see it due to the clouds. The temperature will dip to an overnight low of 63 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we have overcast skies at Verona Community Park, a temperature of 65 degrees, and an air quality index of 52. We are currently under a New Moon, and although the ISS will pass overhead tonight, we will not be able to see it due to the cloud cover.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-12",
-    "updateDate": "2026-10-12T04:16:08.879Z",
+    "updateDate": "2026-10-12T05:13:47.079Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has formally adopted the Envision Verona Comprehensive Plan following a unanimous council vote, establishing a long-term vision for our neighborhoods, housing, and local economy. Additionally, residents are encouraged to stay connected to city projects by subscribing to the latest digital newsletter.",
+    "mainText": "The Verona Common Council recently voted unanimously to adopt the Envision Verona Comprehensive Plan, a long-range document developed with resident input that outlines strategies for housing, transportation, and sustainability over the coming decades.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-12",
-    "updateDate": "2026-10-12T04:16:08.879Z",
+    "updateDate": "2026-10-12T05:13:47.079Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy week ahead starting with Yoga at Insight Wellness tomorrow. Looking further, you can enjoy trivia at Hop Haus or Lake Lou-ee on October 13, followed by the Downtown Farmer's Market and various trivia options on October 14.",
+    "mainText": "You can participate in Yoga at Insight Wellness today, followed by several trivia nights happening tomorrow at Hop Haus Brewing Co, Wisconsin Brewing Company, and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-12",
-    "updateDate": "2026-10-12T04:16:08.879Z",
+    "updateDate": "2026-10-12T05:13:47.079Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering September 28 through October 5, officers responded to a noteworthy incident on October 3 where a 19-year-old man was arrested for being a felon in possession of a firearm following an investigation involving the Cottage Grove Police Department.",
+    "mainText": "In a noteworthy call from September 28, officers responded to a two-vehicle crash at the intersection of CTH-PB and CTH-M where a driver was cited for failing to maintain control of their vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-12",
-    "updateDate": "2026-10-12T04:16:08.879Z",
+    "updateDate": "2026-10-12T05:13:47.079Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor was Dark Chocolate PB Crunch. As the store is now closed for the evening, please look forward to tomorrow's flavor, Caramel Fudge Cookie Dough, which will be ready for you when the store opens tomorrow at 10:00 AM.",
+    "mainText": "Treat yourself to today's flavor of the day, Georgia Peach, which you can pick up starting when the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
