@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-12",
-    "updateDate": "2026-10-12T03:18:20.009Z",
+    "updateDate": "2026-10-12T04:16:08.879Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. Temperatures are currently 67 degrees with clear skies around Badger Ridge Middle School under a New Moon. Air quality is moderate tonight with an AQI of 53. While the ISS passes overhead tonight, you won't be able to see it due to clouds. Expect an overnight low of 64 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we have mainly clear skies at Badger Prairie County Park with an air quality index of 52. Under the New Moon tonight, the ISS passes overhead, though you will not be able to see it due to the clouds. The temperature will dip to an overnight low of 63 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-12",
-    "updateDate": "2026-10-12T03:18:20.009Z",
+    "updateDate": "2026-10-12T04:16:08.879Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Common Council unanimously approved the Envision Verona Comprehensive Plan following extensive community input. The long-range plan sets priorities for housing, infrastructure, and downtown development for decades to come. Additionally, the city maintained its Moody's Aa1 bond rating.",
+    "mainText": "The City of Verona has formally adopted the Envision Verona Comprehensive Plan following a unanimous council vote, establishing a long-term vision for our neighborhoods, housing, and local economy. Additionally, residents are encouraged to stay connected to city projects by subscribing to the latest digital newsletter.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-12",
-    "updateDate": "2026-10-12T03:18:20.009Z",
+    "updateDate": "2026-10-12T04:16:08.879Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "For local entertainment, enjoy live music today at Bailey's Run Vineyard and Lake Lou-ee. Tomorrow features yoga sessions at Insight Wellness, and look forward to local trivia and the Verona Downtown Farmer's Market coming up later this week.",
+    "mainText": "We have a busy week ahead starting with Yoga at Insight Wellness tomorrow. Looking further, you can enjoy trivia at Hop Haus or Lake Lou-ee on October 13, followed by the Downtown Farmer's Market and various trivia options on October 14.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-12",
-    "updateDate": "2026-10-12T03:18:20.009Z",
+    "updateDate": "2026-10-12T04:16:08.879Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly police report, on Saturday, officers acted on information regarding a stolen firearm case. An officer stopped a vehicle for expired registration, successfully recovered the stolen handgun, and arrested a nineteen-year-old Verona man.",
+    "mainText": "In a report covering September 28 through October 5, officers responded to a noteworthy incident on October 3 where a 19-year-old man was arrested for being a felon in possession of a firearm following an investigation involving the Cottage Grove Police Department.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-12",
-    "updateDate": "2026-10-12T03:18:20.009Z",
+    "updateDate": "2026-10-12T04:16:08.879Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is now closed for the night after serving up Caramel Cashew. Look forward to tomorrow's flavor of the day, Georgia Peach, when doors reopen at 10:00 AM.",
+    "mainText": "Today's delicious flavor was Dark Chocolate PB Crunch. As the store is now closed for the evening, please look forward to tomorrow's flavor, Caramel Fudge Cookie Dough, which will be ready for you when the store opens tomorrow at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
