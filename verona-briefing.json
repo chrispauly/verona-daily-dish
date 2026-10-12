@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-12",
-    "updateDate": "2026-10-12T02:25:22.038Z",
+    "updateDate": "2026-10-12T03:18:20.009Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: we have clear skies near Verona Area High School with an air quality index of 53. We are currently under a New Moon, and while the ISS is passing overhead, you won't be able to see it due to the clouds. Expect an overnight low of 63 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. Temperatures are currently 67 degrees with clear skies around Badger Ridge Middle School under a New Moon. Air quality is moderate tonight with an AQI of 53. While the ISS passes overhead tonight, you won't be able to see it due to clouds. Expect an overnight low of 64 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-10-12",
-    "updateDate": "2026-10-12T02:25:22.038Z",
+    "updateDate": "2026-10-12T03:18:20.009Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Common Council recently voted to adopt the Envision Verona Comprehensive Plan, a long-term roadmap created with community input to improve housing, transportation, and sustainability. Additionally, the city continues to maintain its strong Aa1 financial rating from Moody's.",
+    "mainText": "In city news, the Common Council unanimously approved the Envision Verona Comprehensive Plan following extensive community input. The long-range plan sets priorities for housing, infrastructure, and downtown development for decades to come. Additionally, the city maintained its Moody's Aa1 bond rating.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-10-12",
-    "updateDate": "2026-10-12T02:25:22.038Z",
+    "updateDate": "2026-10-12T03:18:20.009Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today features live music at both Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, you can head over to Insight Wellness for yoga, and this coming Monday, don't miss trivia at Hop Haus Brewing or Wisconsin Brewing Company.",
+    "mainText": "For local entertainment, enjoy live music today at Bailey's Run Vineyard and Lake Lou-ee. Tomorrow features yoga sessions at Insight Wellness, and look forward to local trivia and the Verona Downtown Farmer's Market coming up later this week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-10-12",
-    "updateDate": "2026-10-12T02:25:22.038Z",
+    "updateDate": "2026-10-12T03:18:20.009Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from September 28, officers responded to a collision involving a 16-year-old operating an eMoto recklessly, resulting in multiple traffic citations.",
+    "mainText": "In the weekly police report, on Saturday, officers acted on information regarding a stolen firearm case. An officer stopped a vehicle for expired registration, successfully recovered the stolen handgun, and arrested a nineteen-year-old Verona man.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-12",
-    "updateDate": "2026-10-12T02:25:22.038Z",
+    "updateDate": "2026-10-12T03:18:20.009Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Caramel Cashew. The store is currently open but will be closing soon in 35 minutes, so be sure to get your scoop before they wrap up for the night.",
+    "mainText": "Culver's is now closed for the night after serving up Caramel Cashew. Look forward to tomorrow's flavor of the day, Georgia Peach, when doors reopen at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
