@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-12",
-    "updateDate": "2026-10-12T18:07:11.397Z",
+    "updateDate": "2026-10-12T19:06:28.379Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, we have clear skies and a temperature of 83 degrees by the Verona Public Library, making it a perfect afternoon to be outside.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we are seeing partly cloudy skies and a comfortable 84 degrees at Reddan Soccer Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-12",
-    "updateDate": "2026-10-12T18:07:11.397Z",
+    "updateDate": "2026-10-12T19:06:28.379Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has officially adopted the Envision Verona Comprehensive Plan following a unanimous council vote, establishing a vision for future growth, housing, and infrastructure.",
+    "mainText": "The City of Verona has officially adopted the Envision Verona Comprehensive Plan following a unanimous vote, setting a long-term roadmap for sustainable growth, housing, and downtown development.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-12",
-    "updateDate": "2026-10-12T18:07:11.397Z",
+    "updateDate": "2026-10-12T19:06:28.379Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can join Yoga at Insight Wellness, while tomorrow features several trivia opportunities at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's.",
+    "mainText": "We have several community activities coming up, starting with Yoga at Insight Wellness today, followed by various trivia events tomorrow at Hop Haus, Lake Lou-ee, and more.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-12",
-    "updateDate": "2026-10-12T18:07:11.397Z",
+    "updateDate": "2026-10-12T19:06:28.379Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable case from October 3, a 19-year-old man was arrested and a stolen firearm was recovered by police during a traffic stop.",
+    "mainText": "On September 28, the Verona Police Department responded to a two-vehicle crash on CTH-PB at CTH-M, resulting in a citation for failure to keep a vehicle under control.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-12",
-    "updateDate": "2026-10-12T18:07:11.397Z",
+    "updateDate": "2026-10-12T19:06:28.379Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by for today's flavor, Georgia Peach, before the doors close at 10 PM tonight.",
+    "mainText": "You can enjoy today's flavor of the day, Chocolate Heath Crunch, at Culver's, which remains open for business until 11 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
