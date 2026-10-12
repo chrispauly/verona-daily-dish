@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-12",
-    "updateDate": "2026-10-12T10:13:16.132Z",
+    "updateDate": "2026-10-12T11:07:47.327Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we have overcast skies and a temperature of 64 degrees at Badger Prairie County Park, with the new moon overhead.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: we are seeing overcast skies near Harriet Park with a temperature of 64 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-12",
-    "updateDate": "2026-10-12T10:13:16.132Z",
+    "updateDate": "2026-10-12T11:07:47.327Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Common Council has unanimously adopted the Envision Verona Comprehensive Plan. This long-term roadmap focuses on creating strong neighborhoods, supporting our local businesses, and ensuring sustainable infrastructure for the future.",
+    "mainText": "The City of Verona has unanimously adopted the Envision Verona Comprehensive Plan. This long-range strategy, developed with community input and mapping exercises, creates a roadmap for future infrastructure, sustainability, and diverse housing needs.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-12",
-    "updateDate": "2026-10-12T10:13:16.132Z",
+    "updateDate": "2026-10-12T11:07:47.327Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with yoga at Insight Wellness today. Tomorrow, you can test your knowledge at Hop Haus or Wisconsin Brewing Company, followed by a busy Wednesday with the farmer's market and trivia at multiple local venues.",
+    "mainText": "We have a busy week ahead! Join us for Yoga at Insight Wellness today, followed by several trivia options tomorrow including Hop Haus and Lake Lou-ee, and don't miss the Verona Downtown Farmer's Market on October 14.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-12",
-    "updateDate": "2026-10-12T10:13:16.132Z",
+    "updateDate": "2026-10-12T11:07:47.327Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report regarding incidents between September 28 and October 5, officers responded to a motor vehicle crash on September 28 where a 16-year-old was cited for reckless driving and operating without a license.",
+    "mainText": "Regarding the weekly report, on September 28, officers responded to a motor vehicle crash involving injuries on CTH-PB at CTH-M after an eMoto operator engaged in reckless driving.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-12",
-    "updateDate": "2026-10-12T10:13:16.132Z",
+    "updateDate": "2026-10-12T11:07:47.327Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Georgia Peach. The store is currently closed, but will open today at 10:00 AM to serve you.",
+    "mainText": "Enjoy the Georgia Peach flavor of the day at the Verona Culver is, which opens today at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
