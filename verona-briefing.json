@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-12",
-    "updateDate": "2026-10-12T06:17:27.159Z",
+    "updateDate": "2026-10-12T07:31:28.076Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: it is 65 degrees and partly cloudy at Fireman's Park under a new moon, with a moderate air quality alert of 51.",
+    "mainText": "Hello, Verona! At 2 AM, it is 65 degrees under overcast skies near Reddan Soccer Park. We are currently in a New Moon phase, and while the International Space Station will pass overhead tonight, you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-12",
-    "updateDate": "2026-10-12T06:17:27.159Z",
+    "updateDate": "2026-10-12T07:31:28.076Z",
     "titleText": "Verona City News",
-    "mainText": "The Common Council has unanimously adopted the Envision Verona Comprehensive Plan, which sets a vision for our local growth for the next ten years, and the city continues to maintain a strong Moody's Aa1 financial rating.",
+    "mainText": "The Verona Common Council has unanimously adopted Envision Verona, a comprehensive plan created with extensive community input to guide growth, infrastructure, and housing over the next decade.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-12",
-    "updateDate": "2026-10-12T06:17:27.159Z",
+    "updateDate": "2026-10-12T07:31:28.076Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with Yoga at Insight Wellness today, followed by a busy slate tomorrow featuring trivia at Hop Haus, Wisconsin Brewing Company, Paddy Mac's, The Mill, and The Bogey Factory.",
+    "mainText": "Today you can join a class for Yoga at Insight Wellness, followed by a busy tomorrow featuring trivia nights at Hop Haus and the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-12",
-    "updateDate": "2026-10-12T06:17:27.159Z",
+    "updateDate": "2026-10-12T07:31:28.076Z",
     "titleText": "Verona Police Report",
-    "mainText": "On September 28, officers responded to a collision involving an eMoto and an SUV where the juvenile driver was cited for reckless driving and not having a license.",
+    "mainText": "In a notable incident on October 3, local officers assisted the Cottage Grove Police Department by locating a 19-year-old suspect in Verona who was found to be in possession of a stolen firearm.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-12",
-    "updateDate": "2026-10-12T06:17:27.159Z",
+    "updateDate": "2026-10-12T07:31:28.076Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Georgia Peach and you can head to the restaurant when it opens today at 10:00 AM.",
+    "mainText": "Satisfy your cravings with today's delicious Georgia Peach flavor when the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
