@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-13",
-    "updateDate": "2026-10-13T01:31:30.051Z",
+    "updateDate": "2026-10-13T02:21:50.891Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, we are seeing clear skies over Harriet Park under a New Moon, with an overnight low of 62 degrees and no rain expected.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: it is a clear 78 degrees by Fireman's Park under a new moon. Tonight, the temperature will drop to an overnight low of 62 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-13",
-    "updateDate": "2026-10-13T01:31:30.051Z",
+    "updateDate": "2026-10-13T02:21:50.891Z",
     "titleText": "Verona City News",
-    "mainText": "The Common Council has unanimously adopted the Envision Verona Comprehensive Plan, a new long-range vision developed with extensive community input to prioritize housing, infrastructure, and our local downtown culture.",
+    "mainText": "In city news, the Common Council has unanimously adopted the Envision Verona Comprehensive Plan. This new long-range vision focuses on creating strong neighborhoods, supporting our local manufacturing and technology sectors, and fostering a vibrant downtown environment.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-13",
-    "updateDate": "2026-10-13T01:31:30.051Z",
+    "updateDate": "2026-10-13T02:21:50.891Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Join us today for Yoga at Insight Wellness, and prepare for a busy tomorrow featuring trivia events at Hop Haus, Wisconsin Brewing Company, Paddy Mac's, The Mill, and The Bogey Factory.",
+    "mainText": "There is plenty happening around town, starting with yoga at Insight Wellness today. Tomorrow, you can test your knowledge at trivia nights hosted at Hop Haus or Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-13",
-    "updateDate": "2026-10-13T01:31:30.051Z",
+    "updateDate": "2026-10-13T02:21:50.891Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering late September, police noted that on September 28, a 71-year-old driver was cited for a two-vehicle crash at the intersection of CTH-PB and CTH-M.",
+    "mainText": "Looking at the weekly police report, on October 3, officers arrested a 19-year-old local man who was found to be in possession of a stolen firearm during a traffic stop.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-13",
-    "updateDate": "2026-10-13T01:31:30.051Z",
+    "updateDate": "2026-10-13T02:21:50.891Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Georgia Peach, and you still have time to stop by since the store is open until 10:00 PM.",
+    "mainText": "Today's flavor is Georgia Peach. The restaurant is currently open, but please note they will be closing in 38 minutes, so you have just enough time to grab a scoop before they shut their doors for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
