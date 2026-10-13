@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-13",
-    "updateDate": "2026-10-13T21:05:25.071Z",
+    "updateDate": "2026-10-13T22:05:14.261Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: it is a clear 74 degrees near Verona City Hall, with a beautiful waxing crescent moon visible tonight.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: skies are clear near Harriet Park. Looking ahead, the overnight low will dip to 57 degrees with rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-13",
-    "updateDate": "2026-10-13T21:05:25.071Z",
+    "updateDate": "2026-10-13T22:05:14.261Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department released a recap of service calls from October 5 through October 12, noting several traffic accidents, including a motorcycle crash on USH 18/151 and an e-moto collision on Basswood Avenue.",
+    "mainText": "In city news, the Verona Police Department released a summary of notable calls from October 5 through October 12, which included a mix of traffic accidents and one arrest on an outstanding warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-13",
-    "updateDate": "2026-10-13T21:05:25.071Z",
+    "updateDate": "2026-10-13T22:05:14.261Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona, with Hop Haus Trivia and Quizmasters Trivia both taking place today, followed by the Verona Downtown Farmer's Market, yoga, and more trivia nights happening tomorrow.",
+    "mainText": "There is plenty to do in Verona! Today, you can catch trivia at Hop Haus or Lake Lou-ee. Tomorrow, the fun continues with live music at Paddy Mac's, yoga at Insight Wellness, the Downtown Farmer's Market, and trivia at The Mill or The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-13",
-    "updateDate": "2026-10-13T21:05:25.071Z",
+    "updateDate": "2026-10-13T22:05:14.261Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 9, officers responded to a two-vehicle crash near mile marker 76 on USH 18/151 that resulted in one person being transported to the hospital.",
+    "mainText": "Regarding the weekly police report, on October 9, officers responded to a two-vehicle crash on USH 18/151 near mile marker 76, which resulted in a citation for unsafe lane deviation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-13",
-    "updateDate": "2026-10-13T21:05:25.071Z",
+    "updateDate": "2026-10-13T22:05:14.261Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is OREO Cookie Cheesecake, and you can head over to enjoy it anytime before the store closes at 10 PM.",
+    "mainText": "Stop by Culver's today to enjoy the OREO Cookie Cheesecake flavor of the day. The store is currently open and will remain open until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
