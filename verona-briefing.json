@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-13",
-    "updateDate": "2026-10-13T10:08:11.973Z",
+    "updateDate": "2026-10-13T11:06:39.321Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish. We are seeing clear skies near Fireman's Park with a temperature of 67 degrees and a waxing crescent moon in the sky.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: skies are clear near Harriet Park with a temperature of 64 degrees and a waxing crescent moon above.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-13",
-    "updateDate": "2026-10-13T10:08:11.973Z",
+    "updateDate": "2026-10-13T11:06:39.321Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Common Council recently voted unanimously to adopt the Envision Verona Comprehensive Plan. This document serves as a long-range roadmap for city development, focusing on housing, sustainability, and our downtown identity following extensive community input.",
+    "mainText": "The City of Verona has officially adopted the Envision Verona Comprehensive Plan following a unanimous vote. This long-term guide aims to develop sustainable neighborhoods, boost our local economy, and improve infrastructure over the coming decades.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-13",
-    "updateDate": "2026-10-13T10:08:11.973Z",
+    "updateDate": "2026-10-13T11:06:39.321Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town over the next two days. Today, you can join trivia at Hop Haus or Wisconsin Brewing Company. Tomorrow, check out the Downtown Farmer's Market at Hometown Junction Park or catch more trivia at The Mill and The Bogey Factory.",
+    "mainText": "There is plenty to do this week. Today you can join Hop Haus for trivia, while tomorrow brings the Verona Downtown Farmers Market, yoga at Insight Wellness, and trivia nights at both The Mill and The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-13",
-    "updateDate": "2026-10-13T10:08:11.973Z",
+    "updateDate": "2026-10-13T11:06:39.321Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding recent activity, on September 28, officers responded to a motor vehicle crash at CTH-PB and CTH-M where a driver was cited for failing to keep his vehicle under control.",
+    "mainText": "Looking at the recent police report, on September 28, officers handled a motor vehicle crash involving a 16-year-old operating an electric motorcycle recklessly, resulting in multiple citations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-13",
-    "updateDate": "2026-10-13T10:08:11.973Z",
+    "updateDate": "2026-10-13T11:06:39.321Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is OREO Cookie Cheesecake. If you are looking to stop by, the store opens today at 10:00 AM and remains open until 10:00 PM.",
+    "mainText": "For dessert lovers, today's flavor is Oreo Cookie Cheesecake. The restaurant opens today at 10:00 AM, so be sure to stop by and grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
