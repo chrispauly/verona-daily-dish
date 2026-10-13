@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-13",
-    "updateDate": "2026-10-13T17:06:13.392Z",
+    "updateDate": "2026-10-13T18:09:17.014Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: it is 70 degrees with clear skies near the Verona Area High School, under a waxing crescent moon.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. Over at Reddan Soccer Park, it is currently 71 degrees with clear skies.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-13",
-    "updateDate": "2026-10-13T17:06:13.392Z",
+    "updateDate": "2026-10-13T18:09:17.014Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Common Council has adopted the Envision Verona Comprehensive Plan to guide future growth, and the city has also been busy updating engineering services and maintaining strong community infrastructure projects.",
+    "mainText": "In city affairs, the latest update is: Weekly Recap  Noteworthy Calls for Service 105  1012.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-13",
-    "updateDate": "2026-10-13T17:06:13.392Z",
+    "updateDate": "2026-10-13T18:09:17.014Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule today and tomorrow. Today, you can join Hop Haus Trivia or Quizmasters Trivia at Wisconsin Brewing Company. Tomorrow, the lineup includes the Verona Downtown Farmer's Market, Yoga at Insight Wellness, and trivia events at The Mill and The Bogey Factory.",
+    "mainText": "If you are planning your week, we have local events coming up, including Hop Haus Trivia Today at Hop Haus Brewing Co..",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-13",
-    "updateDate": "2026-10-13T17:06:13.392Z",
+    "updateDate": "2026-10-13T18:09:17.014Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly report, on October 3, a 19-year-old Verona man was arrested following a stolen firearm investigation after an officer performed a traffic stop on a vehicle with expired registration.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-13",
-    "updateDate": "2026-10-13T17:06:13.392Z",
+    "updateDate": "2026-10-13T18:09:17.014Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is OREO Cookie Cheesecake and Culver's is currently open until 10:00 PM, so there is plenty of time to stop by for a treat.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: OREO Cookie Cheesecake. The restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
