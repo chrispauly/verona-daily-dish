@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-13",
-    "updateDate": "2026-10-13T19:05:30.032Z",
+    "updateDate": "2026-10-13T20:06:18.971Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: it is 73 degrees with clear skies at Reddan Soccer Park, and we have a waxing crescent moon in the sky.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: enjoy 73 degree weather with clear skies over at Fireman's Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-13",
-    "updateDate": "2026-10-13T19:05:30.032Z",
+    "updateDate": "2026-10-13T20:06:18.971Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department has released a summary of notable calls from October 5 to October 12, highlighting several traffic accidents and an arrest in the 100 block of Prairie Oaks Drive.",
+    "mainText": "The Verona Police Department has published its weekly recap of calls for service from October 5 to October 12, covering various incidents including traffic accidents and property checks.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-13",
-    "updateDate": "2026-10-13T19:05:30.032Z",
+    "updateDate": "2026-10-13T20:06:18.971Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, with Hop Haus Trivia and Quizmasters Trivia happening today. Tomorrow, you can check out the Verona Downtown Farmer's Market, enjoy pizza at Lake Lou-ee, or attend trivia at The Mill or The Bogey Factory.",
+    "mainText": "We have plenty of fun ahead with Hop Haus Trivia and Quizmasters Trivia taking place today, followed by the Verona Downtown Farmer's Market and more trivia nights happening tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-13",
-    "updateDate": "2026-10-13T19:05:30.032Z",
+    "updateDate": "2026-10-13T20:06:18.971Z",
     "titleText": "Verona Police Report",
-    "mainText": "Among the incidents reported, on October 7, a 17-year-old riding an e-moto was involved in a collision at Basswood Avenue and Hemlock Drive, resulting in minor injuries.",
+    "mainText": "On October 7, officers responded to a collision on Basswood Avenue where a juvenile on an electric motorcycle attempted to pass a turning vehicle, resulting in minor injuries and a parental citation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-13",
-    "updateDate": "2026-10-13T19:05:30.032Z",
+    "updateDate": "2026-10-13T20:06:18.971Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is Oreo Cookie Cheesecake. The restaurant is currently open until 10 PM tonight, so there is still plenty of time to stop by for a treat.",
+    "mainText": "Culver's is currently open until 10:00 PM, so stop by to enjoy their featured flavor of the day, OREO Cookie Cheesecake.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
