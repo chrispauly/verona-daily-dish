@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-14",
-    "updateDate": "2026-10-14T00:14:44.506Z",
+    "updateDate": "2026-10-14T01:17:49.059Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. We have overcast skies and temperatures at 70 degrees near Badger Ridge Middle School. The moon is in a waxing crescent phase. The ISS passes overhead tonight, but you won't be able to see it due to the clouds. Expect an overnight low of 57 degrees with rain in the forecast.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have overcast skies near the Verona Public Library under a waxing crescent moon. The International Space Station passes overhead tonight, but you won't be able to see it due to the clouds. The temperature is 65 degrees, with an overnight low of 58 degrees and rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-14",
-    "updateDate": "2026-10-14T00:14:44.506Z",
+    "updateDate": "2026-10-14T01:17:49.059Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Police Department released a summary of notable calls from October 5 to October 12, ranging from accidents to warrants, ensuring we keep our residents informed on neighborhood safety.",
+    "mainText": "The Verona Police Department released their weekly recap of service calls. Notable incidents include multiple vehicle crashes and one arrest on an outstanding warrant in the 100 block of Prairie Oaks Drive.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-14",
-    "updateDate": "2026-10-14T00:14:44.506Z",
+    "updateDate": "2026-10-14T01:17:49.059Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this week in Verona. Today, enjoy Hop Haus Trivia or Quizmasters Trivia at Lake Lou-ee. Tomorrow, look forward to Yoga at Insight Wellness, the Verona Downtown Farmer's Market, live music at Paddy Mac's, and trivia nights at The Mill and The Bogey Factory.",
+    "mainText": "There is plenty to do in Verona this week. Today features Hop Haus Trivia and Quizmasters Trivia at Lake Lou-ee. Tomorrow, you can enjoy the downtown farmer's market, yoga at Insight Wellness, and several trivia options at local venues.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-14",
-    "updateDate": "2026-10-14T00:14:44.506Z",
+    "updateDate": "2026-10-14T01:17:49.059Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly report, on October 10, a 24-year-old man from Fitchburg was located on Prairie Oaks Drive and taken into custody on an outstanding arrest warrant.",
+    "mainText": "During the week of October 5 to October 12, officers handled a variety of incidents, including a motor vehicle crash on October 7 involving a juvenile on an e-moto that resulted in minor injuries and a citation for the parent.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-14",
-    "updateDate": "2026-10-14T00:14:44.506Z",
+    "updateDate": "2026-10-14T01:17:49.059Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is OREO Cookie Cheesecake. The restaurant is currently open, so feel free to stop by anytime before they close at 10:00 PM tonight.",
+    "mainText": "Today's flavor is OREO Cookie Cheesecake. The restaurant is currently open and serving until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
