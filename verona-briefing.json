@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-14",
-    "updateDate": "2026-10-14T20:06:12.780Z",
+    "updateDate": "2026-10-14T21:05:36.691Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. It is 61 degrees with overcast skies along the Military Ridge State Trail, and we are currently seeing a waxing crescent moon.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we are seeing 61 degrees under overcast skies near Verona Community Park, with a Waxing Crescent moon phase tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-14",
-    "updateDate": "2026-10-14T20:06:12.780Z",
+    "updateDate": "2026-10-14T21:05:36.691Z",
     "titleText": "Verona City News",
-    "mainText": "City Hall reminds residents that they can view an interactive district map on the city website to find their elected representatives, with contact information available for all City Council members.",
+    "mainText": "The City of Verona has added two new polling locations to better serve voters. Residents are encouraged to visit the My Vote Wisconsin website to confirm their current ward and polling location before election day.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-14",
-    "updateDate": "2026-10-14T20:06:12.780Z",
+    "updateDate": "2026-10-14T21:05:36.691Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona today, including Live Music at Paddy Mac's, Yoga at Insight Wellness, the Downtown Farmer's Market, Pizza and a Pitcher at Lake Lou-ee, and Trivia nights at The Mill and The Bogey Factory.",
+    "mainText": "There is a great lineup of events in Verona! You can enjoy the Verona Downtown Farmer's Market today, join trivia at The Mill or The Bogey Factory today, or look ahead to tomorrow for trivia at Hop Haus or art events at the ART House.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-14",
-    "updateDate": "2026-10-14T20:06:12.780Z",
+    "updateDate": "2026-10-14T21:05:36.691Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering October 5 through October 12, officers noted that on October 7, a collision involving an electric motorcycle occurred at Basswood Avenue and Hemlock Drive.",
+    "mainText": "In our weekly police update, on October 5, officers were dispatched to a single-vehicle motorcycle crash on US Highway 18-151, resulting in medical transport for a 19-year-old Verona man.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-14",
-    "updateDate": "2026-10-14T20:06:12.780Z",
+    "updateDate": "2026-10-14T21:05:36.691Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy today's flavor of the day, Dark Chocolate Decadence, at Culver's right now. The restaurant is open and will be serving until 10:00 PM tonight.",
+    "mainText": "It is a delicious day for a treat at Culver's, as today's flavor of the day is Chocolate Covered Strawberry; stop by before they close at 11 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
