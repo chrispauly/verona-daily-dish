@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-14",
-    "updateDate": "2026-10-14T13:05:37.738Z",
+    "updateDate": "2026-10-14T14:06:15.913Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we have overcast skies and a temperature of 54 degrees, feeling like 51 near Harriet Park.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish. Over at Verona Public Library, it is currently 56 degrees with overcast skies.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-14",
-    "updateDate": "2026-10-14T13:05:37.738Z",
+    "updateDate": "2026-10-14T14:06:15.913Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department has released a summary of calls for service from October 5 through October 12, documenting several vehicle accidents and arrests.",
+    "mainText": "In city affairs, the latest update is: Weekly Recap  Noteworthy Calls for Service 105  1012.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-14",
-    "updateDate": "2026-10-14T13:05:37.738Z",
+    "updateDate": "2026-10-14T14:06:15.913Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is a busy day in town with the Verona Downtown Farmers Market at Hometown Junction Park, while trivia fans can head to The Mill or The Bogey Factory tonight.",
+    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's Today at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-14",
-    "updateDate": "2026-10-14T13:05:37.738Z",
+    "updateDate": "2026-10-14T14:06:15.913Z",
     "titleText": "Verona Police Report",
-    "mainText": "Among the incidents reported this week, officers responded on October 7 to a collision involving a 17-year-old on an electric motorcycle that resulted in minor injuries.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-14",
-    "updateDate": "2026-10-14T13:05:37.738Z",
+    "updateDate": "2026-10-14T14:06:15.913Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "If you are craving something sweet, head over to Culver's to enjoy today's flavor of Dark Chocolate Decadence, as the store opens today at 10:00 AM.",
+    "mainText": "Today's Culver's Flavor of the Day is Dark Chocolate Decadence. The restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
