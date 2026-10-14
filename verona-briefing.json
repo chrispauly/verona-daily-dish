@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-14",
-    "updateDate": "2026-10-14T02:07:32.670Z",
+    "updateDate": "2026-10-14T03:07:19.611Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. We have clear skies by Fireman's Park tonight with a waxing crescent moon. The ISS passes overhead, but you will not be able to see it due to the clouds. Expect an overnight low of 57 degrees with rain in the forecast.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. Over at Badger Prairie County Park, it is currently 64 degrees with mainly clear skies. The overnight low will be around 55 degrees, with rain unlikely. Tonight we have a Waxing Crescent. The ISS will pass overhead tonight starting at 6:23 AM for 6 minutes, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-14",
-    "updateDate": "2026-10-14T02:07:32.670Z",
+    "updateDate": "2026-10-14T03:07:19.611Z",
     "titleText": "Verona City News",
-    "mainText": "Verona Police have released their weekly report for October 5 through October 12, documenting several traffic incidents and a warrant arrest in the Prairie Oaks Drive area.",
+    "mainText": "In city affairs, the latest update is: Weekly Recap  Noteworthy Calls for Service 105  1012.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-14",
-    "updateDate": "2026-10-14T02:07:32.670Z",
+    "updateDate": "2026-10-14T03:07:19.611Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona! Today, you can catch trivia at Hop Haus or Lake Lou-ee. Tomorrow, the local events include the downtown farmer's market at Hometown Junction Park, live music at Paddy Mac's, and trivia at The Mill, The Bogey Factory, or Paddy Mac's.",
+    "mainText": "If you are planning your week, we have local events coming up, including Hop Haus Trivia Today at Hop Haus Brewing Co..",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-14",
-    "updateDate": "2026-10-14T02:07:32.670Z",
+    "updateDate": "2026-10-14T03:07:19.611Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 9, a two-vehicle crash occurred on USH 18/151 near mile marker 76, which resulted in a driver being cited for unsafe lane deviation.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-14",
-    "updateDate": "2026-10-14T02:07:32.670Z",
+    "updateDate": "2026-10-14T03:07:19.611Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day at Culver's is OREO Cookie Cheesecake. The store is currently open but will be closing soon in 53 minutes, so please plan accordingly if you would like to stop by.",
+    "mainText": "Today's Culver's flavor was Chocolate Heath Crunch. The restaurant is closed for the night and will open tomorrow at 10:00 AM featuring Caramel Cashew.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
