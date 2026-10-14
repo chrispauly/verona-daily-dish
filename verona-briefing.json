@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-14",
-    "updateDate": "2026-10-14T07:19:09.201Z",
+    "updateDate": "2026-10-14T08:07:57.258Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish. It is currently 59 degrees with overcast skies near the Military Ridge State Trail and a Waxing Crescent moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: we are seeing overcast skies at Verona Community Park under a waxing crescent moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-14",
-    "updateDate": "2026-10-14T07:19:09.201Z",
+    "updateDate": "2026-10-14T08:07:57.258Z",
     "titleText": "Verona City News",
-    "mainText": "Looking at city updates, there are no new emails or urgent city notices currently on the desk for this morning.",
+    "mainText": "The Verona Police Department released a summary of calls from October 5 through October 12, highlighting several vehicle accidents and an arrest in the 100 block of Prairie Oaks Drive.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-14",
-    "updateDate": "2026-10-14T07:19:09.201Z",
+    "updateDate": "2026-10-14T08:07:57.258Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town! Today, enjoy live music at Paddy Mac's, yoga at Insight Wellness, the farmer's market at Hometown Junction Park, and trivia at The Mill and The Bogey Factory. Tomorrow, look forward to ART House 360 events and trivia at Hop Haus Brewing Co.",
+    "mainText": "It is a busy day in Verona today with the Downtown Farmer's Market, Yoga at Insight Wellness, and Trivia Night events happening at both The Mill and The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-14",
-    "updateDate": "2026-10-14T07:19:09.201Z",
+    "updateDate": "2026-10-14T08:07:57.258Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from October 9, a two-vehicle crash on USH 18/151 resulted in a driver being transported to the hospital with minor injuries after a lane deviation incident.",
+    "mainText": "On October 7, an incident occurred where a seventeen year old riding an electric motorcycle collided with a vehicle that was making a left turn.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-14",
-    "updateDate": "2026-10-14T07:19:09.201Z",
+    "updateDate": "2026-10-14T08:07:57.258Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Dark Chocolate Decadence. The store is currently closed, but they will open today at 10:00 AM so you can swing by and grab a treat.",
+    "mainText": "Today's flavor of the day is Dark Chocolate Decadence. Culver's opens today at 10:00 AM, so be sure to stop by and enjoy a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
