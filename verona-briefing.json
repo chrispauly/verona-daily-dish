@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-14",
-    "updateDate": "2026-10-14T21:05:36.691Z",
+    "updateDate": "2026-10-14T22:05:48.040Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we are seeing 61 degrees under overcast skies near Verona Community Park, with a Waxing Crescent moon phase tonight.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. We are looking at overcast skies over Verona Community Park with a temperature of 61 degrees. The moon phase is a waxing crescent. Looking ahead, the temperature will drop to an overnight low of 52 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-14",
-    "updateDate": "2026-10-14T21:05:36.691Z",
+    "updateDate": "2026-10-14T22:05:48.040Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has added two new polling locations to better serve voters. Residents are encouraged to visit the My Vote Wisconsin website to confirm their current ward and polling location before election day.",
+    "mainText": "The City of Verona has announced that two additional polling locations were approved last year. Please visit the My Vote Wisconsin website to check your specific ward and polling station before election day. City Hall staff are also available to answer any questions regarding the new map or your voting history.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-14",
-    "updateDate": "2026-10-14T21:05:36.691Z",
+    "updateDate": "2026-10-14T22:05:48.040Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a great lineup of events in Verona! You can enjoy the Verona Downtown Farmer's Market today, join trivia at The Mill or The Bogey Factory today, or look ahead to tomorrow for trivia at Hop Haus or art events at the ART House.",
+    "mainText": "There is plenty to do in Verona today, including the Downtown Farmer's Market at Hometown Junction Park and trivia challenges at The Mill and The Bogey Factory. Looking forward, don't miss the ART House 360 events happening tomorrow, or the Hop Haus trivia night also starting tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-14",
-    "updateDate": "2026-10-14T21:05:36.691Z",
+    "updateDate": "2026-10-14T22:05:48.040Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police update, on October 5, officers were dispatched to a single-vehicle motorcycle crash on US Highway 18-151, resulting in medical transport for a 19-year-old Verona man.",
+    "mainText": "In our weekly police report, we noted an incident that occurred on October 7, involving a motor vehicle crash on Basswood Avenue where a juvenile operating an electric motorcycle collided with a car during a turn. The report serves as a reminder to stay alert on our local roads.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-14",
-    "updateDate": "2026-10-14T21:05:36.691Z",
+    "updateDate": "2026-10-14T22:05:48.040Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "It is a delicious day for a treat at Culver's, as today's flavor of the day is Chocolate Covered Strawberry; stop by before they close at 11 PM tonight.",
+    "mainText": "Today's featured flavor at the Verona Culver's is the delicious Chocolate Caramel Twist. The restaurant is currently open for business and will remain open until 11:00 PM tonight, so there is plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
