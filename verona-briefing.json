@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-10-13",
-    "updateDate": "2026-10-13T23:04:52.754Z",
+    "uid": "verona-balanced-weather-2026-10-14",
+    "updateDate": "2026-10-14T00:14:44.506Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, it is 72 degrees and overcast near Reddan Soccer Park, and the moon is a waxing crescent. Expect the temperature to drop to an overnight low of 57 degrees with rain in the forecast.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. We have overcast skies and temperatures at 70 degrees near Badger Ridge Middle School. The moon is in a waxing crescent phase. The ISS passes overhead tonight, but you won't be able to see it due to the clouds. Expect an overnight low of 57 degrees with rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-10-13",
-    "updateDate": "2026-10-13T23:04:52.754Z",
+    "uid": "verona-balanced-news-2026-10-14",
+    "updateDate": "2026-10-14T00:14:44.506Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department has released a summary of activity from October 5 to October 12, which highlights a series of vehicle crashes and one warrant arrest. Detailed logs indicate a variety of incidents, including traffic complaints and property checks.",
+    "mainText": "In city news, the Verona Police Department released a summary of notable calls from October 5 to October 12, ranging from accidents to warrants, ensuring we keep our residents informed on neighborhood safety.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-10-13",
-    "updateDate": "2026-10-13T23:04:52.754Z",
+    "uid": "verona-balanced-events-2026-10-14",
+    "updateDate": "2026-10-14T00:14:44.506Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can participate in Hop Haus Trivia or Quizmasters Trivia at Lake Lou-ee. Tomorrow, the local fun continues with the Verona Downtown Farmer's Market, Yoga at Insight Wellness, and various trivia nights at local venues.",
+    "mainText": "There is plenty to do this week in Verona. Today, enjoy Hop Haus Trivia or Quizmasters Trivia at Lake Lou-ee. Tomorrow, look forward to Yoga at Insight Wellness, the Verona Downtown Farmer's Market, live music at Paddy Mac's, and trivia nights at The Mill and The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-10-13",
-    "updateDate": "2026-10-13T23:04:52.754Z",
+    "uid": "verona-balanced-police-2026-10-14",
+    "updateDate": "2026-10-14T00:14:44.506Z",
     "titleText": "Verona Police Report",
-    "mainText": "Among the noteworthy calls, a 17-year-old was involved in a motor vehicle crash on October 7 when their electric motorcycle collided with a vehicle on Basswood Avenue.",
+    "mainText": "Regarding the weekly report, on October 10, a 24-year-old man from Fitchburg was located on Prairie Oaks Drive and taken into custody on an outstanding arrest warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-10-13",
-    "updateDate": "2026-10-13T23:04:52.754Z",
+    "uid": "verona-balanced-culvers-2026-10-14",
+    "updateDate": "2026-10-14T00:14:44.506Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is OREO Cookie Cheesecake. The store is currently open and will remain so until 10 PM tonight, so stop in for a scoop.",
+    "mainText": "Today's delicious flavor of the day is OREO Cookie Cheesecake. The restaurant is currently open, so feel free to stop by anytime before they close at 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
