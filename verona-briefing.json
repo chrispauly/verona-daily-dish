@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-14",
-    "updateDate": "2026-10-14T10:06:23.421Z",
+    "updateDate": "2026-10-14T11:06:03.160Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, we are looking at 56 degrees with overcast skies near Badger Ridge Middle School and a waxing crescent moon. The ISS is passing overhead tonight, but you will not be able to see it due to the cloud cover.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: we are seeing overcast skies near Verona City Hall under a waxing crescent moon. Please note the ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-14",
-    "updateDate": "2026-10-14T10:06:23.421Z",
+    "updateDate": "2026-10-14T11:06:03.160Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, there were no new emails received today. The police department recently released their weekly recap of service calls for the period ending October 12, which highlights a variety of traffic incidents and safety responses across the city.",
+    "mainText": "Looking at the latest from the City of Verona, there were no new emails received today, but residents should note the recent police reports regarding traffic safety.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-14",
-    "updateDate": "2026-10-14T10:06:23.421Z",
+    "updateDate": "2026-10-14T11:06:03.160Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town over the next couple of days. Today, you can visit the Verona Downtown Farmer's Market, play trivia at The Mill or The Bogey Factory, or enjoy pizza and a pitcher at Lake Lou-ee. Tomorrow, you can look forward to ART House 360 events or trivia at Hop Haus Brewing Company.",
+    "mainText": "There is plenty to do in Verona today, including the Downtown Farmer's Market at Hometown Junction Park, trivia at The Bogey Factory and The Mill, live music at Paddy Mac's, and pizza night at Lake Lou-ee. Looking ahead to tomorrow, check out ART House 360 or Hop Haus trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-14",
-    "updateDate": "2026-10-14T10:06:23.421Z",
+    "updateDate": "2026-10-14T11:06:03.160Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly police report, on October 9, officers responded to a two-vehicle crash on USH 18/151 near mile marker 76, where a driver was cited for unsafe lane deviation.",
+    "mainText": "The Verona Police Department recently released their report from October 5 through October 12, noting that on October 9, a two-vehicle crash occurred on USH 18/151 near mile marker 76, resulting in one driver being transported to a hospital.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-14",
-    "updateDate": "2026-10-14T10:06:23.421Z",
+    "updateDate": "2026-10-14T11:06:03.160Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Dark Chocolate Decadence. The restaurant is currently closed but will open today at 10:00 AM and remain open until 10:00 PM.",
+    "mainText": "Today's flavor at Culver's is the delicious Dark Chocolate Decadence. The store opens today at 10:00 AM and will remain open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
