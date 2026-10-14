@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-14",
-    "updateDate": "2026-10-14T19:07:41.179Z",
+    "updateDate": "2026-10-14T20:06:12.780Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. Over at Verona Public Library, it is currently 60 degrees with overcast skies.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. It is 61 degrees with overcast skies along the Military Ridge State Trail, and we are currently seeing a waxing crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-14",
-    "updateDate": "2026-10-14T19:07:41.179Z",
+    "updateDate": "2026-10-14T20:06:12.780Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Elected Officials.",
+    "mainText": "City Hall reminds residents that they can view an interactive district map on the city website to find their elected representatives, with contact information available for all City Council members.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-14",
-    "updateDate": "2026-10-14T19:07:41.179Z",
+    "updateDate": "2026-10-14T20:06:12.780Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's Today at Paddy Mac's.",
+    "mainText": "There is plenty to do in Verona today, including Live Music at Paddy Mac's, Yoga at Insight Wellness, the Downtown Farmer's Market, Pizza and a Pitcher at Lake Lou-ee, and Trivia nights at The Mill and The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-14",
-    "updateDate": "2026-10-14T19:07:41.179Z",
+    "updateDate": "2026-10-14T20:06:12.780Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "In a report covering October 5 through October 12, officers noted that on October 7, a collision involving an electric motorcycle occurred at Basswood Avenue and Hemlock Drive.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-14",
-    "updateDate": "2026-10-14T19:07:41.179Z",
+    "updateDate": "2026-10-14T20:06:12.780Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Dark Chocolate Decadence. The restaurant is open until 10:00 PM.",
+    "mainText": "You can enjoy today's flavor of the day, Dark Chocolate Decadence, at Culver's right now. The restaurant is open and will be serving until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
