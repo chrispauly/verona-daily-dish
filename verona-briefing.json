@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-15",
-    "updateDate": "2026-10-15T05:06:11.477Z",
+    "updateDate": "2026-10-15T06:10:23.197Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: it is 53 degrees with overcast skies at Reddan Soccer Park and a waxing crescent moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we have overcast skies and a temperature of 54 degrees near the Military Ridge State Trail, plus a waxing crescent moon. Also, the International Space Station will pass overhead later, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-15",
-    "updateDate": "2026-10-15T05:06:11.477Z",
+    "updateDate": "2026-10-15T06:10:23.197Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has updated its list of polling locations with two new sites for the upcoming election. Residents should visit the My Vote Wisconsin website to check their specific ward and polling place, as your designated location may have changed. All polls are open from 7:00 a.m. to 8:00 p.m. on election day.",
+    "mainText": "The City of Verona reminds residents that polling locations were recently updated, so please verify your ward and assigned polling place at the My Vote Wisconsin website before election day. Polls will be open from 7 AM to 8 PM.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-15",
-    "updateDate": "2026-10-15T05:06:11.477Z",
+    "updateDate": "2026-10-15T06:10:23.197Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a full schedule of local happenings. Today, you can participate in Yoga at Insight Wellness, enjoy ART House 360, or test your knowledge at Hop Haus Trivia. Looking ahead, we have live music at Bailey's Run and Lake Lou-ee tomorrow, followed by the Dane County Farmers' Market this Saturday.",
+    "mainText": "There is plenty to do around town, including Yoga at Insight Wellness today, ART House 360 Thursday nights today, and Hop Haus Trivia today at 6:30 PM. Looking ahead, you can catch live music at Bailey's Run and Lake Lou-ee tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-15",
-    "updateDate": "2026-10-15T05:06:11.477Z",
+    "updateDate": "2026-10-15T06:10:23.197Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from October 7, officers responded to a collision on Basswood Avenue where a juvenile on an electric motorcycle attempted to pass a vehicle that was turning, resulting in minor injuries.",
+    "mainText": "In our weekly police report, on October 5, officers were dispatched to USH 18/151 for a single-vehicle motorcycle crash where the rider was transported to a local hospital.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-15",
-    "updateDate": "2026-10-15T05:06:11.477Z",
+    "updateDate": "2026-10-15T06:10:23.197Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Crazy for Cookie Dough. The store opens today at 10:00 AM, so be sure to stop by and satisfy your sweet tooth.",
+    "mainText": "Today's flavor of the day is Crazy for Cookie Dough, and the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
