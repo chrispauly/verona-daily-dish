@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-15",
-    "updateDate": "2026-10-15T12:08:50.137Z",
+    "updateDate": "2026-10-15T13:07:29.166Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: it is 54 degrees with overcast skies near the Verona Public Library, and we have a waxing crescent moon in the sky.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we have overcast skies and 54 degrees at Badger Prairie County Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-15",
-    "updateDate": "2026-10-15T12:08:50.137Z",
+    "updateDate": "2026-10-15T13:07:29.166Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has updated its polling information, adding two new locations for a total of four sites. Residents should check the My Vote Wisconsin website to confirm if their designated polling place has changed before heading out to vote.",
+    "mainText": "The city of Verona has updated its list of polling locations with two new sites added last September. To find out if your voting ward has moved, visit the My Vote Wisconsin website before heading out to the polls, which remain open from 7 AM to 8 PM on election day.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-15",
-    "updateDate": "2026-10-15T12:08:50.137Z",
+    "updateDate": "2026-10-15T13:07:29.166Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can check out Yoga at Insight Wellness, ART House 360, or Hop Haus Trivia. Tomorrow, look forward to live music at Bailey's Run and the Wisconsin Brewing Company.",
+    "mainText": "We have plenty of action this week. Today you can enjoy Yoga at Insight Wellness, Art House 360 festivities, or Trivia at Hop Haus. Tomorrow brings live music to Bailey's Run and the Wisconsin Brewing Company, with the Dane County Farmers' Market and live music at Paddy Mac's following this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-15",
-    "updateDate": "2026-10-15T12:08:50.137Z",
+    "updateDate": "2026-10-15T13:07:29.166Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy update, officers reported that on October 7th, a 17-year-old riding an electric motorcycle was involved in a collision at Basswood Avenue and Hemlock Drive.",
+    "mainText": "In a report covering the week of October 5 to October 12, officers handled several incidents, including a motor vehicle crash on October 7 involving an electric motorcycle on Basswood Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-15",
-    "updateDate": "2026-10-15T12:08:50.137Z",
+    "updateDate": "2026-10-15T13:07:29.166Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's opens today at 10:00 AM, featuring today's flavor, Crazy for Cookie Dough. Be sure to stop by before they close at 10:00 PM.",
+    "mainText": "Today's delicious flavor of the day is Crazy for Cookie Dough. The local Culver's opens today at 10:00 AM so be sure to stop by and satisfy your sweet tooth.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
