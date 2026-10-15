@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-15",
-    "updateDate": "2026-10-15T07:11:30.303Z",
+    "updateDate": "2026-10-15T08:08:28.835Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, it is 53 degrees with overcast skies near the Verona Public Library, under a waxing crescent moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish. Over at Verona Community Park, it is currently 54 degrees with overcast skies. Tonight we have a Waxing Crescent. The ISS will pass overhead tonight starting at 5:36 AM for 5 minutes, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-15",
-    "updateDate": "2026-10-15T07:11:30.303Z",
+    "updateDate": "2026-10-15T08:08:28.835Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has updated its list of polling locations with two additional spots added last September. Residents are encouraged to visit the My Vote Wisconsin website to confirm their specific ward's polling place, or contact the City Clerk at 608-845-6495 for assistance.",
+    "mainText": "In city affairs, the latest update is: Polling Locations.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-15",
-    "updateDate": "2026-10-15T07:11:30.303Z",
+    "updateDate": "2026-10-15T08:08:28.835Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can participate in Yoga at Insight Wellness, enjoy the Thursday night atmosphere at ART House 360, or join the free trivia session at Hop Haus Brewing Co. starting at 6:30 PM.",
+    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-15",
-    "updateDate": "2026-10-15T07:11:30.303Z",
+    "updateDate": "2026-10-15T08:08:28.835Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 7, police investigated a vehicle collision on Basswood Avenue at Hemlock Drive, where a minor operating an electric motorcycle collided with a vehicle while attempting to pass.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-15",
-    "updateDate": "2026-10-15T07:11:30.303Z",
+    "updateDate": "2026-10-15T08:08:28.835Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Crazy for Cookie Dough. The restaurant is currently closed but will open its doors today at 10:00 AM for your enjoyment.",
+    "mainText": "Today's Culver's Flavor of the Day is Crazy for Cookie Dough. The restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
