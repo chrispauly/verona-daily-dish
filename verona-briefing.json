@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-15",
-    "updateDate": "2026-10-15T04:06:34.086Z",
+    "updateDate": "2026-10-15T05:06:11.477Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: current conditions at the Verona Area High School are overcast with a temperature of 54 degrees. The moon is currently in a waxing crescent phase. While the International Space Station passes overhead tonight, you won't be able to see it due to the clouds. Tonight will see an overnight low of 54 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: it is 53 degrees with overcast skies at Reddan Soccer Park and a waxing crescent moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-15",
-    "updateDate": "2026-10-15T04:06:34.086Z",
+    "updateDate": "2026-10-15T05:06:11.477Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has officially designated four polling locations for residents, including the Sugar River United Methodist Church and the Verona Public Library. It is important to visit the My Vote Wisconsin website to confirm your specific ward and polling location before you head out, as locations may have changed since last year.",
+    "mainText": "The City of Verona has updated its list of polling locations with two new sites for the upcoming election. Residents should visit the My Vote Wisconsin website to check their specific ward and polling place, as your designated location may have changed. All polls are open from 7:00 a.m. to 8:00 p.m. on election day.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-15",
-    "updateDate": "2026-10-15T04:06:34.086Z",
+    "updateDate": "2026-10-15T05:06:11.477Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty happening in the community. Tomorrow, you can enjoy Yoga at Insight Wellness, ART House 360 Thursday nights, or Hop Haus Trivia. Looking ahead, Friday features live music at Bailey's Run, Wisconsin Brewing Company, and Paddy Mac's, followed by the Dane County Farmer's Market on the Square this Saturday.",
+    "mainText": "We have a full schedule of local happenings. Today, you can participate in Yoga at Insight Wellness, enjoy ART House 360, or test your knowledge at Hop Haus Trivia. Looking ahead, we have live music at Bailey's Run and Lake Lou-ee tomorrow, followed by the Dane County Farmers' Market this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-15",
-    "updateDate": "2026-10-15T04:06:34.086Z",
+    "updateDate": "2026-10-15T05:06:11.477Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local public safety, a noteworthy incident occurred on October 7th, where a 17-year-old riding an e-moto collided with a vehicle on Basswood Avenue. The juvenile sustained minor injuries, and their parent was cited for permitting an unauthorized minor to operate the motorcycle.",
+    "mainText": "In a noteworthy call from October 7, officers responded to a collision on Basswood Avenue where a juvenile on an electric motorcycle attempted to pass a vehicle that was turning, resulting in minor injuries.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-15",
-    "updateDate": "2026-10-15T04:06:34.086Z",
+    "updateDate": "2026-10-15T05:06:11.477Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day was Dark Chocolate Decadence. Since we are closed for the evening, we invite you to stop by tomorrow when we open at 10:00 AM to enjoy our next flavor, Crazy for Cookie Dough.",
+    "mainText": "Today's delicious flavor of the day is Crazy for Cookie Dough. The store opens today at 10:00 AM, so be sure to stop by and satisfy your sweet tooth.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
