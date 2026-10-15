@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-15",
-    "updateDate": "2026-10-15T01:16:45.440Z",
+    "updateDate": "2026-10-15T02:08:36.894Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have overcast skies at Reddan Soccer Park tonight. The ISS is passing overhead, but you will not be able to see it due to the clouds. The overnight low will drop to 51 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. We are looking at 56 degrees with overcast skies at Reddan Soccer Park. The moon is in its Waxing Crescent phase, and while the ISS is passing overhead tonight, you will not be able to see it due to the clouds. Tonight will cool down to an overnight low of 51 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-15",
-    "updateDate": "2026-10-15T01:16:45.440Z",
+    "updateDate": "2026-10-15T02:08:36.894Z",
     "titleText": "Verona City News",
-    "mainText": "The city has updated its list of polling locations to include two new spots. Residents are encouraged to visit the My Vote Wisconsin website to confirm their specific polling place before heading out, as your assigned location may have changed. Polls remain open from 7 AM until 8 PM on election days.",
+    "mainText": "The City of Verona has approved two additional polling locations. Residents should visit the My Vote Wisconsin website to confirm their current polling place before heading out to vote. All locations are fully accessible to elderly and disabled voters.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-15",
-    "updateDate": "2026-10-15T01:16:45.440Z",
+    "updateDate": "2026-10-15T02:08:36.894Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona today. You can visit the Verona Downtown Farmer's Market at Hometown Junction Park, grab some dinner at the Wednesday Pizza and a Pitcher event at Wisconsin Brewing Company, or join a trivia night at The Mill or The Bogey Factory.",
+    "mainText": "There is plenty happening in town. Today, enjoy the Verona Downtown Farmer's Market at Hometown Junction Park, trivia at The Mill and The Bogey Factory, or Pizza and a Pitcher at Lake Lou-ee. Tomorrow, you can look forward to Art House 360 events and trivia at Hop Haus Brewing.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-15",
-    "updateDate": "2026-10-15T01:16:45.440Z",
+    "updateDate": "2026-10-15T02:08:36.894Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, officers investigated a motor vehicle crash on October 7 involving a juvenile on an electric motorcycle who attempted to pass a vehicle on Basswood Avenue. The juvenile sustained minor injuries in the collision.",
+    "mainText": "Regarding the weekly police report, on October 7, officers responded to a collision on Basswood Avenue where a 17-year-old operating an electric motorcycle collided with a vehicle that was attempting a left turn.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-15",
-    "updateDate": "2026-10-15T01:16:45.440Z",
+    "updateDate": "2026-10-15T02:08:36.894Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Dark Chocolate Decadence. The store is currently open and serving until 10 PM, so you still have time to head out and grab a scoop.",
+    "mainText": "Today's flavor at Culver's is the delightful Dark Chocolate Decadence. The store is currently open but will be closing in just 52 minutes, so make sure to get there soon to grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
