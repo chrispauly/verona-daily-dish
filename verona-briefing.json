@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-15",
-    "updateDate": "2026-10-15T14:06:21.261Z",
+    "updateDate": "2026-10-15T15:06:14.442Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, we are seeing 56 degrees with some light rain near the Military Ridge State Trail.",
+    "mainText": "Hello, Verona! At 10 AM, we are experiencing dense drizzle with temperatures sitting at 55 degrees near Verona City Hall under a waxing crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-15",
-    "updateDate": "2026-10-15T14:06:21.261Z",
+    "updateDate": "2026-10-15T15:06:14.442Z",
     "titleText": "Verona City News",
-    "mainText": "The city has released sample ballots for the November 3rd election. Residents can confirm their ward and polling place details by visiting the My Vote Wisconsin website or by contacting the city clerk office.",
+    "mainText": "Important information for residents: the City of Verona has updated its polling locations for the November 3 general election. Please use the My Vote Wisconsin website to confirm your specific ward and polling station before election day, as your location may have changed.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-15",
-    "updateDate": "2026-10-15T14:06:21.261Z",
+    "updateDate": "2026-10-15T15:06:14.442Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can enjoy Yoga at Insight Wellness or head to Hop Haus Brewing for trivia tonight. Tomorrow, look forward to live music at Bailey's Run Vineyard and the Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do in our community this week! Today, you can catch yoga at Insight Wellness, enjoy Thursday night events at the ART House, or play trivia at Hop Haus Brewing Company. Tomorrow, check out live music at Bailey's Run Vineyard or at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-15",
-    "updateDate": "2026-10-15T14:06:21.261Z",
+    "updateDate": "2026-10-15T15:06:14.442Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 10, the Verona Police Department responded to a call in the 100 block of Prairie Oaks Drive where they took a 24-year-old man into custody for an outstanding arrest warrant.",
+    "mainText": "Looking at the weekly police report, officers responded to a motor vehicle crash on October 7 involving a juvenile on an electric motorcycle near Basswood Avenue and Hemlock Drive.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-15",
-    "updateDate": "2026-10-15T14:06:21.261Z",
+    "updateDate": "2026-10-15T15:06:14.442Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is the delicious Crazy for Cookie Dough. The restaurant is currently closed but will open today at 10:00 AM.",
+    "mainText": "Today's delicious flavor of the day at Culver's is Crazy for Cookie Dough. The restaurant is currently open, so feel free to stop by anytime before they close at 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
