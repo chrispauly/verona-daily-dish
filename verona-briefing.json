@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-10-14",
-    "updateDate": "2026-10-14T23:05:27.935Z",
+    "uid": "verona-balanced-weather-2026-10-15",
+    "updateDate": "2026-10-15T00:14:50.018Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. It is 59 degrees and overcast near Fireman's Park. The moon is a waxing crescent. The ISS passes overhead tonight, but you won't be able to see it due to the clouds. Tonight's low will be 51 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 58 degrees and overcast at City Hall, and a waxing crescent moon is visible tonight. The ISS is passing overhead, but you will not be able to see it due to the clouds. We can expect an overnight low of 50 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-10-14",
-    "updateDate": "2026-10-14T23:05:27.935Z",
+    "uid": "verona-balanced-news-2026-10-15",
+    "updateDate": "2026-10-15T00:14:50.018Z",
     "titleText": "Verona City News",
-    "mainText": "Verona has added two new polling locations to our existing four sites. Please check the My Vote Wisconsin website to verify your designated polling place before election day, as your ward may have changed.",
+    "mainText": "The City of Verona has updated its list of polling locations as of late 2023. There are now four sites, including Sugar River United Methodist Church and the Verona Public Library, so residents are encouraged to verify their specific location on the My Vote WI website before election day.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-10-14",
-    "updateDate": "2026-10-14T23:05:27.935Z",
+    "uid": "verona-balanced-events-2026-10-15",
+    "updateDate": "2026-10-15T00:14:50.018Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona today, including the downtown farmer's market, trivia events at The Mill and The Bogey Factory, and live music at Paddy Mac's. Also, check out Hop Haus trivia happening tomorrow.",
+    "mainText": "Today is packed with activities including the Verona Downtown Farmer's Market and Yoga at Insight Wellness. For evening entertainment, you can enjoy pizza and a pitcher at Wisconsin Brewing Company or head to trivia at The Mill and The Bogey Factory. Looking ahead, tomorrow brings karaoke and improv comedy at ART House 360 and trivia at Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-10-14",
-    "updateDate": "2026-10-14T23:05:27.935Z",
+    "uid": "verona-balanced-police-2026-10-15",
+    "updateDate": "2026-10-15T00:14:50.018Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, on October 9, a 22-year-old man from Mount Horeb was cited for unsafe lane deviation following a two-vehicle crash on USH 18/151.",
+    "mainText": "Looking at the weekly report, on October 9, a two-vehicle crash occurred on Highway 18-151 near mile marker 76 which resulted in one driver being cited for unsafe lane deviation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-10-14",
-    "updateDate": "2026-10-14T23:05:27.935Z",
+    "uid": "verona-balanced-culvers-2026-10-15",
+    "updateDate": "2026-10-15T00:14:50.018Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Dark Chocolate Decadence. The store is currently open and will remain open until 10:00 PM, so stop by for a treat before the day is out.",
+    "mainText": "The Culver's flavor of the day is the rich Dark Chocolate Decadence. The store is currently open and will remain so until 10 PM, so there is still plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
