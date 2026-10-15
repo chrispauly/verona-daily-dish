@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-15",
-    "updateDate": "2026-10-15T20:05:38.825Z",
+    "updateDate": "2026-10-15T21:06:25.930Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, we are seeing overcast skies at Reddan Soccer Park with the moon currently in a waxing crescent phase.",
+    "mainText": "Hello, Verona! At 4 PM, it is 57 degrees at Fireman's Park with a light rain falling, while the moon is currently in a waxing crescent phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-15",
-    "updateDate": "2026-10-15T20:05:38.825Z",
+    "updateDate": "2026-10-15T21:06:25.930Z",
     "titleText": "Verona City News",
-    "mainText": "The city recently updated its zoning and sign ordinances, which residents can now view through an interactive map that shows individual district standards and permitted uses.",
+    "mainText": "The city has provided a new interactive district map online for residents to look up zoning information, and don't forget to verify your polling location at My Vote WI before any upcoming elections.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-15",
-    "updateDate": "2026-10-15T20:05:38.825Z",
+    "updateDate": "2026-10-15T21:06:25.930Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a busy schedule today starting with Yoga at Insight Wellness, followed by an evening of art and comedy at ART House 360, and trivia at Hop Haus Brewing Co.",
+    "mainText": "There is plenty to do with Yoga at Insight Wellness happening today, Hop Haus trivia taking place tonight, and live music coming up tomorrow at Bailey's Run Vineyard and Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-15",
-    "updateDate": "2026-10-15T20:05:38.825Z",
+    "updateDate": "2026-10-15T21:06:25.930Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 7, officers responded to a collision on Basswood Avenue where an electric motorcycle attempted to pass a vehicle, resulting in minor injuries to a juvenile.",
+    "mainText": "On October 7, there was a collision between a vehicle and an electric motorcycle on Basswood Avenue which resulted in minor injuries to the juvenile operator.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-15",
-    "updateDate": "2026-10-15T20:05:38.825Z",
+    "updateDate": "2026-10-15T21:06:25.930Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is a great day to stop by Culver's for the delicious Crazy for Cookie Dough flavor, and since they are open until 10 PM, you have plenty of time to grab a scoop.",
+    "mainText": "Head over to enjoy today's flavor, Crazy for Cookie Dough, as the restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
