@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-15",
-    "updateDate": "2026-10-15T21:06:25.930Z",
+    "updateDate": "2026-10-15T22:05:57.101Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, it is 57 degrees at Fireman's Park with a light rain falling, while the moon is currently in a waxing crescent phase.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. We are seeing 56 degrees with dense drizzle near Harriet Park and a waxing crescent moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds. Overnight, temperatures will drop to 46 degrees with rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-15",
-    "updateDate": "2026-10-15T21:06:25.930Z",
+    "updateDate": "2026-10-15T22:05:57.101Z",
     "titleText": "Verona City News",
-    "mainText": "The city has provided a new interactive district map online for residents to look up zoning information, and don't forget to verify your polling location at My Vote WI before any upcoming elections.",
+    "mainText": "The City of Verona has recently overhauled its zoning and sign ordinance, and residents can now use an interactive map on the city website to look up their specific zoning district. Additionally, the city reminds everyone to double check their polling location on the My Vote Wisconsin website before heading out to vote, as new locations were added in 2023.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-15",
-    "updateDate": "2026-10-15T21:06:25.930Z",
+    "updateDate": "2026-10-15T22:05:57.101Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with Yoga at Insight Wellness happening today, Hop Haus trivia taking place tonight, and live music coming up tomorrow at Bailey's Run Vineyard and Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do in Verona! Today you can visit Yoga at Insight Wellness, enjoy ART House 360, or play Hop Haus Trivia. Looking ahead, Bailey's Run and Lake Lou-ee have live music starting tomorrow, and you can catch the Dane County Farmer's Market on the Square this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-15",
-    "updateDate": "2026-10-15T21:06:25.930Z",
+    "updateDate": "2026-10-15T22:05:57.101Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 7, there was a collision between a vehicle and an electric motorcycle on Basswood Avenue which resulted in minor injuries to the juvenile operator.",
+    "mainText": "Regarding local safety, on October 7, an incident occurred on Basswood Avenue where a 17-year-old on an electric motorcycle collided with a turning vehicle; the juvenile's parent was cited for allowing an unauthorized minor to operate the device.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-15",
-    "updateDate": "2026-10-15T21:06:25.930Z",
+    "updateDate": "2026-10-15T22:05:57.101Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Head over to enjoy today's flavor, Crazy for Cookie Dough, as the restaurant is open until 10:00 PM.",
+    "mainText": "Culver's is currently closed for the night. You missed out on the Really Reese's flavor of the day, but you can head back tomorrow at 10:30 AM to try the Caramel Fudge Cookie Dough.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
