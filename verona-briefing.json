@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-16",
-    "updateDate": "2026-10-16T01:15:47.742Z",
+    "updateDate": "2026-10-16T02:08:17.413Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, it is 56 degrees and overcast near Verona Area High School. We have a waxing crescent moon, and while the ISS passes overhead tonight, you won't be able to see it due to the clouds. Tonight's low will be 47 degrees with no rain expected.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. Over at Badger Ridge Middle School, it is currently 55 degrees with overcast skies. The overnight low will be around 47 degrees, with rain unlikely. Tonight we have a Waxing Crescent. The ISS will pass overhead tonight starting at 4:51 AM for 2 minutes, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-16",
-    "updateDate": "2026-10-16T01:15:47.742Z",
+    "updateDate": "2026-10-16T02:08:17.413Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department recently arrested a school bus driver for operating while impaired, and the city is reminding residents to check their polling locations for upcoming elections. Additionally, the city is in the process of updating zoning ordinances.",
+    "mainText": "In city affairs, the latest update is: Verona Police Arrest School Bus Driver for Operating While Impaired.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-16",
-    "updateDate": "2026-10-16T01:15:47.742Z",
+    "updateDate": "2026-10-16T02:08:17.413Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today, including Yoga at Insight Wellness, ART House 360, and Hop Haus Trivia. Looking ahead, you can enjoy live music at Bailey's Run and Lake Lou-ee tomorrow, followed by the Dane County Farmers Market on October 17.",
+    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-16",
-    "updateDate": "2026-10-16T01:15:47.742Z",
+    "updateDate": "2026-10-16T02:08:17.413Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Thursday, October 15, the Verona Police Department arrested a school bus driver after receiving reports of dangerous driving. Officers confirmed the driver was operating while impaired, though alcohol was not a factor.",
+    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-16",
-    "updateDate": "2026-10-16T01:15:47.742Z",
+    "updateDate": "2026-10-16T02:08:17.413Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Crazy for Cookie Dough. The store is currently open and will be serving guests until 10 PM this evening.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: Crazy for Cookie Dough. The restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
