@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-16",
-    "updateDate": "2026-10-16T20:05:27.629Z",
+    "updateDate": "2026-10-16T21:05:27.762Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we have fair conditions across the city, particularly around the Verona Area High School campus.",
+    "mainText": "Hello, Verona! At 4 PM, conditions are clear at Harriet Park with a temperature of 50 degrees, though it feels like 39 outside.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-16",
-    "updateDate": "2026-10-16T20:05:27.629Z",
+    "updateDate": "2026-10-16T21:05:27.762Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Police Department successfully arrested a school bus driver on Thursday after reports of dangerous driving near Whalen Road and Fairview Terrace. Meanwhile, the city continues to keep the Zoning and Sign Ordinance up to date, and residents are reminded to check the new polling locations at the library, churches, and City Hall.",
+    "mainText": "In city news, the Verona Police Department arrested a school bus driver on Thursday for operating while impaired. Additionally, the City of Verona has recently updated polling locations, so be sure to check the My Vote Wisconsin website before heading out to vote.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-16",
-    "updateDate": "2026-10-16T20:05:27.629Z",
+    "updateDate": "2026-10-16T21:05:27.762Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community. We have live music at Bailey's Run and the Wisconsin Brewing Company today, followed by the Dane County Farmers' Market and music at Paddy Mac's tomorrow.",
+    "mainText": "There is plenty to do in our area. Today, enjoy live music at Bailey's Run Vineyard and the Wisconsin Brewing Company. Tomorrow, the Dane County Farmer's Market is open at the Capitol, and you can catch live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-16",
-    "updateDate": "2026-10-16T20:05:27.629Z",
+    "updateDate": "2026-10-16T21:05:27.762Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported an incident from Thursday where a bus driver was taken into custody for O W I. No students were injured during the event, and the department is currently investigating a potential collision with a traffic sign.",
+    "mainText": "On Thursday, October 15, the Verona Police Department responded to reports of a school bus driver operating a vehicle while impaired. Officers stopped the bus and confirmed that no injuries occurred during the incident.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-16",
-    "updateDate": "2026-10-16T20:05:27.629Z",
+    "updateDate": "2026-10-16T21:05:27.762Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor at the Verona Culver's is the delicious OREO REESE'S Cheesecake. The store is currently open and serving guests until 10:30 PM tonight.",
+    "mainText": "It is a great day to visit Culver's! Today's flavor is Oreo Reese's Cheesecake, and the restaurant remains open until 10:30 PM this evening.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
