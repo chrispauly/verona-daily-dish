@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-16",
-    "updateDate": "2026-10-16T06:10:15.003Z",
+    "updateDate": "2026-10-16T07:09:37.367Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish. Over at Verona Public Library, it is currently 50 degrees with overcast skies. Tonight we have a Waxing Crescent.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: expect overcast skies and 49 degrees at Verona Community Park. The ISS will pass overhead tonight, but you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-16",
-    "updateDate": "2026-10-16T06:10:15.003Z",
+    "updateDate": "2026-10-16T07:09:37.367Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Verona Police Arrest School Bus Driver for Operating While Impaired.",
+    "mainText": "Regarding city news, a school bus driver was arrested for O W I on Thursday, October 15, after reports of dangerous driving. Also, residents can use the city's interactive map to verify their zoning district, and updated polling locations are available for the upcoming elections.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-16",
-    "updateDate": "2026-10-16T06:10:15.003Z",
+    "updateDate": "2026-10-16T07:09:37.367Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Bailey's Run Today at Bailey's Run Vineyard.",
+    "mainText": "Today, catch live music at both Bailey's Run Vineyard and the Wisconsin Brewing Company. Tomorrow, check out the Dane County Farmer's Market at the capitol square and live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-16",
-    "updateDate": "2026-10-16T06:10:15.003Z",
+    "updateDate": "2026-10-16T07:09:37.367Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
+    "mainText": "On Thursday, October 15, the Verona Police Department arrested a school bus driver for O W I following reports of erratic driving while transporting students near Whalen Road and Fairview Terrace.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-16",
-    "updateDate": "2026-10-16T06:10:15.003Z",
+    "updateDate": "2026-10-16T07:09:37.367Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Culver's Flavor of the Day is OREO REESE'S Cheesecake. The restaurant opens today at 10:00 AM.",
+    "mainText": "You can treat yourself to today's flavor, O R E O R E E S E S Cheesecake, when the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
