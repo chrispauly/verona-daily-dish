@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-16",
-    "updateDate": "2026-10-16T09:06:32.987Z",
+    "updateDate": "2026-10-16T10:06:28.470Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: it is 49 degrees with overcast skies at Badger Prairie County Park and a waxing crescent moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: expect 48 degrees with overcast skies at the Verona Public Library and a waxing crescent moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-16",
-    "updateDate": "2026-10-16T09:06:32.987Z",
+    "updateDate": "2026-10-16T10:06:28.470Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police arrested a school bus driver on Thursday after reports of dangerous driving. In other city updates, the Common Council has been managing zoning and sign ordinance rewrites, and the city has updated local polling locations, so be sure to check your designated site before heading out to vote.",
+    "mainText": "In city news, the police have arrested a school bus driver for operating while impaired following an incident on Thursday. Additionally, the city reminds residents that the zoning and sign ordinance was updated, and you can check your specific district via the online interactive map.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-16",
-    "updateDate": "2026-10-16T09:06:32.987Z",
+    "updateDate": "2026-10-16T10:06:28.470Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with live music today at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, you can visit the Dane County Farmer's Market at the Capitol Square or catch the music series at Paddy Mac's.",
+    "mainText": "We have plenty of entertainment ahead with live music at Bailey's Run Vineyard and Wisconsin Brewing Company taking place today. Looking ahead, the Dane County Farmers' Market is happening tomorrow at the Capitol Square, and there is more live music tomorrow at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-16",
-    "updateDate": "2026-10-16T09:06:32.987Z",
+    "updateDate": "2026-10-16T10:06:28.470Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Thursday, October 15, the Verona Police Department arrested a school bus driver for O W I after reports of erratic driving behavior while transporting students; fortunately, no injuries were reported.",
+    "mainText": "On Thursday, the Verona Police Department responded to reports of dangerous driving. They arrested a bus driver for operating while impaired near the intersection of Whalen Road and Fairview Terrace, though no injuries were reported.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-16",
-    "updateDate": "2026-10-16T09:06:32.987Z",
+    "updateDate": "2026-10-16T10:06:28.470Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delightful Oreo Reese's Cheesecake. The store opens today at 10:00 AM, so be sure to stop by and grab a scoop.",
+    "mainText": "Stop by for today's delicious flavor of the day, OREO REESE'S Cheesecake. The store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
