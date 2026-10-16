@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-16",
-    "updateDate": "2026-10-16T02:08:17.413Z",
+    "updateDate": "2026-10-16T03:07:01.708Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. Over at Badger Ridge Middle School, it is currently 55 degrees with overcast skies. The overnight low will be around 47 degrees, with rain unlikely. Tonight we have a Waxing Crescent. The ISS will pass overhead tonight starting at 4:51 AM for 2 minutes, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: it is 54 degrees with overcast skies at Fireman's Park. There is a waxing crescent moon, and the ISS will pass overhead tonight, though you will not be able to see it due to the clouds. Tonight's low will be 47 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-16",
-    "updateDate": "2026-10-16T02:08:17.413Z",
+    "updateDate": "2026-10-16T03:07:01.708Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Verona Police Arrest School Bus Driver for Operating While Impaired.",
+    "mainText": "The big story is the arrest of a school bus driver on Thursday for O W I. Additionally, the City of Verona has updated its zoning and sign ordinances, and residents are reminded to double-check their polling locations, as two new locations were added in 2023.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-16",
-    "updateDate": "2026-10-16T02:08:17.413Z",
+    "updateDate": "2026-10-16T03:07:01.708Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
+    "mainText": "There is plenty to do in Verona! Today you can catch Yoga at Insight Wellness, ART House 360, or Hop Haus Trivia. Tomorrow, look out for live music at Bailey's Run and Lake Lou-ee, and on October 17th, we have the Dane County Farmer's Market and live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-16",
-    "updateDate": "2026-10-16T02:08:17.413Z",
+    "updateDate": "2026-10-16T03:07:01.708Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
+    "mainText": "On Thursday, October 15, the Verona Police Department arrested a school bus driver for operating while impaired after receiving reports of dangerous driving. Alcohol was ruled out as a factor, and fortunately, no injuries were reported.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-16",
-    "updateDate": "2026-10-16T02:08:17.413Z",
+    "updateDate": "2026-10-16T03:07:01.708Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Crazy for Cookie Dough. The restaurant is open until 10:00 PM.",
+    "mainText": "We have wrapped up our serving of Crazy for Cookie Dough for the day. We are currently closed, but we look forward to serving tomorrow's flavor, OREO REESE'S Cheesecake, starting at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
