@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-16",
-    "updateDate": "2026-10-16T04:06:37.473Z",
+    "updateDate": "2026-10-16T05:06:07.767Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: expect 53-degree weather with overcast skies near Verona Area High School. We are looking at a low of 46 degrees overnight with no rain. Also, the ISS is passing overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: it is 52 degrees outside with overcast skies near Badger Ridge Middle School and a Waxing Crescent moon. The ISS will pass overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-16",
-    "updateDate": "2026-10-16T04:06:37.473Z",
+    "updateDate": "2026-10-16T05:06:07.767Z",
     "titleText": "Verona City News",
-    "mainText": "For city updates, the Verona Police Department reported an arrest last Thursday involving a school bus driver for O W I, with no reported injuries to students. Additionally, the city reminds residents that updated zoning maps and information on the four polling locations are available on the city website to help you prepare for upcoming elections.",
+    "mainText": "The Verona Police Department arrested a school bus driver last Thursday for operating while impaired after receiving reports of dangerous driving while students were on board. Additionally, the city is reminding residents that they can use an interactive map on the city website to determine their specific zoning district following the 2021 ordinance overhaul.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-16",
-    "updateDate": "2026-10-16T04:06:37.473Z",
+    "updateDate": "2026-10-16T05:06:07.767Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town starting tomorrow with live music at Bailey's Run and the Wisconsin Brewing Company. Looking ahead, you can catch the Dane County Farmer's Market this Friday at the Capitol, plus trivia nights at The Bogey Factory and Paddy Mac's early next week.",
+    "mainText": "We have a busy couple of days ahead. Live music is featured today at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, you can head to the Capitol Square for the Dane County Farmer's Market or catch more live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-16",
-    "updateDate": "2026-10-16T04:06:37.473Z",
+    "updateDate": "2026-10-16T05:06:07.767Z",
     "titleText": "Verona Police Report",
-    "mainText": "Last Thursday, October 15, the Verona Police Department took a school bus driver into custody for O W I after reports of erratic driving while students were on board.",
+    "mainText": "Last Thursday, officers arrested a bus driver for O W I near the intersection of Whalen Road and Fairview Terrace. Alcohol was ruled out as a cause, and the department is currently investigating a potential collision with a traffic sign.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-16",
-    "updateDate": "2026-10-16T04:06:37.473Z",
+    "updateDate": "2026-10-16T05:06:07.767Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor was the fan-favorite Crazy for Cookie Dough. Since the store is now closed for the night, please join us tomorrow starting at 10:00 AM, when the featured flavor will be OREO REESE'S Cheesecake.",
+    "mainText": "Today's flavor of the day is the delicious OREO REESE'S Cheesecake. Culver's of Verona opens today at 10:00 AM, so be sure to stop by and enjoy a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
