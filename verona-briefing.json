@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-17",
-    "updateDate": "2026-10-17T07:07:31.976Z",
+    "updateDate": "2026-10-17T08:07:00.476Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: the temperature is 37 degrees with clear skies at Fireman's Park. The first quarter moon is visible, and you can catch the International Space Station flying high in the sky at 5:39 AM, rising near Mount Horeb and moving toward the Fitchburg and Madison area.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish. We have clear skies and a temperature of 36 degrees at Verona City Hall. Under this clear first quarter moon, you can catch the International Space Station passing high in the sky starting at 5:39 AM, appearing over Mount Horeb before traveling toward Fitchburg and Madison.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-17",
-    "updateDate": "2026-10-17T07:07:31.976Z",
+    "updateDate": "2026-10-17T08:07:00.476Z",
     "titleText": "Verona City News",
-    "mainText": "City officials are working to keep our community updated. The Verona Police Department confirmed the arrest of a school bus driver this past Thursday for operating while impaired. In other news, the city has finalized new polling locations and updated our zoning ordinances to make property information more accessible through an interactive map.",
+    "mainText": "In city news from last Thursday, the Verona Police Department arrested a school bus driver for operating while impaired. No students were injured in the incident. Additionally, the city reminds residents that they can use an interactive map on the city website to verify their current zoning district and polling location.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-17",
-    "updateDate": "2026-10-17T07:07:31.976Z",
+    "updateDate": "2026-10-17T08:07:00.476Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy week for local fun! Today features the Dane County Farmers Market, with live music at Bailey's Run, Paddy Mac's, and Wisconsin Brewing Company. Looking ahead, we have Yoga at Insight Wellness on October 19th, followed by various trivia nights starting October 20th at Hop Haus and Wisconsin Brewing Company.",
+    "mainText": "We have plenty happening in the community. The Dane County Farmers Market takes place today, and you can also enjoy live music at Bailey's Run, Paddy Mac's, and Lake Lou-ee throughout the day. Looking ahead, keep an eye out for yoga at Insight Wellness on October 19 and various trivia nights starting October 20.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-17",
-    "updateDate": "2026-10-17T07:07:31.976Z",
+    "updateDate": "2026-10-17T08:07:00.476Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the incident this past Thursday, the Verona Police Department responded to reports of dangerous driving. Officers confirmed an arrest of a school bus driver for operating while impaired, though no students were injured during the incident.",
+    "mainText": "On Thursday, October 15, officers responded to a report of dangerous driving and arrested a bus driver for O W I. An investigation is currently underway regarding a potential collision with a traffic sign.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-17",
-    "updateDate": "2026-10-17T07:07:31.976Z",
+    "updateDate": "2026-10-17T08:07:00.476Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "If you are craving something sweet, today's flavor is Chocolate Volcano. Please note that the restaurant is currently closed, but they open today at 10:00 AM to serve you.",
+    "mainText": "For those with a sweet tooth, today's flavor of the day is Mint Explosion. The store opens today at 10:00 AM, so stop by to grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
