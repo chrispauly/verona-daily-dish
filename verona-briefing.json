@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-17",
-    "updateDate": "2026-10-17T11:05:20.532Z",
+    "updateDate": "2026-10-17T12:07:35.311Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, we are looking at clear skies and 33 degrees near Badger Ridge Middle School under a first quarter moon.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have clear skies at Verona Community Park and a First Quarter moon phase to start our day.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-17",
-    "updateDate": "2026-10-17T11:05:20.532Z",
+    "updateDate": "2026-10-17T12:07:35.311Z",
     "titleText": "Verona City News",
-    "mainText": "City news today includes a report from the police department regarding the arrest of a school bus driver on Thursday for operating while impaired, and residents are reminded that city zoning ordinances and maps are available online for property planning.",
+    "mainText": "The City of Verona has announced that the Zoning and Sign Ordinance has been updated, and residents can now use an interactive map on the city website to determine their property's zoning district.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-17",
-    "updateDate": "2026-10-17T11:05:20.532Z",
+    "updateDate": "2026-10-17T12:07:35.311Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today, including the Dane County Farmer's Market and live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company, with yoga at Insight Wellness coming up on October 19th.",
+    "mainText": "There is a busy schedule today with the Dane County Farmer's Market, followed by live music events at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking ahead, you can enjoy yoga at Insight Wellness on October 19 or trivia at various local spots starting on October 20.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-17",
-    "updateDate": "2026-10-17T11:05:20.532Z",
+    "updateDate": "2026-10-17T12:07:35.311Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Thursday, October 15th, the Verona Police Department arrested a school bus driver for O W I after receiving reports of dangerous driving, and they are currently investigating a potential collision with a traffic sign.",
+    "mainText": "On Thursday, October 15, the Verona Police Department arrested a school bus driver for O W I. No injuries were reported, and the department is investigating a potential collision with a traffic sign.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-17",
-    "updateDate": "2026-10-17T11:05:20.532Z",
+    "updateDate": "2026-10-17T12:07:35.311Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Chocolate Volcano, and the store opens today at 10:00 AM, so be sure to stop by and enjoy a scoop.",
+    "mainText": "Today's flavor is the delicious Chocolate Volcano. Culver's is currently closed, but they open today at 10:00 AM so you can swing by and enjoy your treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
