@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-18",
-    "updateDate": "2026-10-18T08:07:14.633Z",
+    "updateDate": "2026-10-18T09:05:35.343Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: it is 42 degrees with clear skies by the Verona Area High School and we are currently seeing a First Quarter moon.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: we have clear skies near Verona City Hall and the moon is in its first quarter. If you are an early riser, the International Space Station will pass overhead for two minutes starting at 4:54 AM; look toward the south southwest over Belleville and watch it travel toward the east northeast across the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-18",
-    "updateDate": "2026-10-18T08:07:14.633Z",
+    "updateDate": "2026-10-18T09:05:35.343Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the police department reports that a school bus driver was arrested for O W I this past Thursday. Additionally, the city has updated its zoning and sign ordinance, and residents can use an interactive map to check their specific zoning district online.",
+    "mainText": "The City of Verona has provided updates on the zoning map and ordinance process, allowing residents to use an interactive map to check their property zoning. Additionally, voters are reminded to check their designated polling locations, as two new locations were approved in 2023.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-18",
-    "updateDate": "2026-10-18T08:07:14.633Z",
+    "updateDate": "2026-10-18T09:05:35.343Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with live music at both Bailey's Run and the Wisconsin Brewing Company today. Tomorrow, you can check out Yoga at Insight Wellness, and starting Monday, the schedule is packed with trivia nights at Hop Haus and the Bogey Factory.",
+    "mainText": "There is plenty to do this weekend, starting with live music today at Bailey's Run Vineyard and the Wisconsin Brewing Company. Looking ahead, you can join a yoga session tomorrow at Insight Wellness, and catch some trivia on Tuesday at Hop Haus or Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-18",
-    "updateDate": "2026-10-18T08:07:14.633Z",
+    "updateDate": "2026-10-18T09:05:35.343Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Thursday, October 15, the Verona Police Department arrested a school bus driver for O W I. Officers responded to reports of dangerous driving and confirmed no injuries occurred during the incident.",
+    "mainText": "On Thursday, the Verona Police Department arrested a school bus driver for O W I after receiving a report of dangerous driving behavior while students were on board; thankfully, no injuries were reported.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-18",
-    "updateDate": "2026-10-18T08:07:14.633Z",
+    "updateDate": "2026-10-18T09:05:35.343Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the refreshing Mint Cookie. The store is currently closed, but it will open today at 10:00 AM to serve you.",
+    "mainText": "Today's flavor of the day is the delicious Mint Cookie. The store is currently closed, but you can head over to grab a scoop when it opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
