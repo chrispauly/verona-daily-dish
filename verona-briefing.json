@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-18",
-    "updateDate": "2026-10-18T20:05:32.294Z",
+    "updateDate": "2026-10-18T21:04:46.590Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: skies are clear over Fireman's Park with a temperature of 63 degrees.",
+    "mainText": "Hello, Verona! At 4 PM, we are looking at clear skies and 63 degrees at Fireman's Park, with a First Quarter moon expected tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-18",
-    "updateDate": "2026-10-18T20:05:32.294Z",
+    "updateDate": "2026-10-18T21:04:46.590Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department reported an incident last Thursday involving a school bus driver arrested for O W I, while city officials also confirmed updates to the municipal zoning and sign ordinances.",
+    "mainText": "The Verona Police Department reported that a school bus driver was arrested for O W I on Thursday, October 15, after reports of dangerous driving. Fortunately, no injuries were reported among the students or the public.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-18",
-    "updateDate": "2026-10-18T20:05:32.294Z",
+    "updateDate": "2026-10-18T21:04:46.590Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Enjoy your weekend with live music at Bailey's Run and Wisconsin Brewing Company happening today, followed by yoga at Insight Wellness tomorrow.",
+    "mainText": "There is plenty to do this weekend, including live music today at both Bailey's Run and Wisconsin Brewing Company, followed by yoga sessions tomorrow at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-18",
-    "updateDate": "2026-10-18T20:05:32.294Z",
+    "updateDate": "2026-10-18T21:04:46.590Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Thursday, October 15, Verona Police arrested a school bus driver for O W I, though no injuries occurred and the investigation is ongoing.",
+    "mainText": "On Thursday, October 15, officers arrested a school bus driver near Whalen Road and Fairview Terrace for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-18",
-    "updateDate": "2026-10-18T20:05:32.294Z",
+    "updateDate": "2026-10-18T21:04:46.590Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the refreshing Mint Explosion and the store is open until 11:00 PM tonight.",
+    "mainText": "Stop by for some delicious Mint Cookie before the store closes at 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
