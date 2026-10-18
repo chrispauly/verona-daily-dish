@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-18",
-    "updateDate": "2026-10-18T13:05:30.057Z",
+    "updateDate": "2026-10-18T14:05:16.541Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish. It is a clear 41 degrees near Fireman's Park with a first quarter moon visible.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: expect clear skies and a temperature of 45 degrees at Badger Prairie County Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-18",
-    "updateDate": "2026-10-18T13:05:30.057Z",
+    "updateDate": "2026-10-18T14:05:16.541Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona recently updated zoning ordinances and confirmed four local polling locations, so be sure to check your district map online at the city website.",
+    "mainText": "The City of Verona has updated their zoning ordinances to ensure property development matches our community standards, and residents are reminded that polling locations for upcoming elections have been updated, so please check the city website to confirm where you should vote.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-18",
-    "updateDate": "2026-10-18T13:05:30.057Z",
+    "updateDate": "2026-10-18T14:05:16.541Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona, including live music at Bailey's Run and Wisconsin Brewing Company happening today, followed by yoga at Insight Wellness tomorrow.",
+    "mainText": "We have a packed schedule starting today with live music at Bailey's Run and Wisconsin Brewing Company, plus yoga classes happening tomorrow at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-18",
-    "updateDate": "2026-10-18T13:05:30.057Z",
+    "updateDate": "2026-10-18T14:05:16.541Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported an arrest last Thursday involving a school bus driver who was taken into custody for O W I after dangerous driving was reported.",
+    "mainText": "On Thursday, October 15, the Verona Police Department arrested a school bus driver for O W I after reports of dangerous driving behavior while transporting students.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-18",
-    "updateDate": "2026-10-18T13:05:30.057Z",
+    "updateDate": "2026-10-18T14:05:16.541Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day at Culver's is the refreshing Mint Cookie. The store opens today at 10:00 AM, and they will be serving until 10:00 PM.",
+    "mainText": "Stop by for a scoop of today's delicious Mint Cookie flavor; the shop opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
