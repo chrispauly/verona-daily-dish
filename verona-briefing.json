@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-18",
-    "updateDate": "2026-10-18T02:08:25.968Z",
+    "updateDate": "2026-10-18T03:07:27.799Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, we are looking at clear skies and 45 degrees by the Verona Public Library under a first quarter moon. Expect an overnight low of 40 with no rain predicted for the rest of the night.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. Over at Verona Area High School, it is currently 44 degrees with clear skies. The overnight low will be around 40 degrees, with rain unlikely. Tonight we have a First Quarter. The ISS will be visible tonight starting at 4:54 AM for 2 minutes. Look for it rising in the South Southwest (over Belleville) and traveling toward the East Northeast (heading toward Fitchburg / Madison), reaching about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-18",
-    "updateDate": "2026-10-18T02:08:25.968Z",
+    "updateDate": "2026-10-18T03:07:27.799Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department recently arrested a school bus driver for O W I after reports of dangerous driving on Thursday. Meanwhile, the city is reminding residents to use the interactive map on the city website to locate their specific zoning district and polling place.",
+    "mainText": "In city affairs, the latest update is: Verona Police Arrest School Bus Driver for Operating While Impaired.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-18",
-    "updateDate": "2026-10-18T02:08:25.968Z",
+    "updateDate": "2026-10-18T03:07:27.799Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our area today, including the Dane County Farmers Market and live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company. Looking ahead, you can find yoga at Insight Wellness on October 19, followed by trivia nights starting October 20 at Hop Haus and the Wisconsin Brewing Company.",
+    "mainText": "If you are planning your week, we have local events coming up, including Dane County Farmer's Market Today at Wisconsin State Capitol.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-18",
-    "updateDate": "2026-10-18T02:08:25.968Z",
+    "updateDate": "2026-10-18T03:07:27.799Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Thursday, officers took a school bus driver into custody for O W I. No injuries were reported, and the department is currently investigating whether the vehicle struck any traffic signs.",
+    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-18",
-    "updateDate": "2026-10-18T02:08:25.968Z",
+    "updateDate": "2026-10-18T03:07:27.799Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's flavor, Chocolate Volcano. The store is currently open and serving until 10:30 PM tonight.",
+    "mainText": "Today's Culver's flavor was unknown flavor. The restaurant is closed for the night and will open tomorrow at 10:00 AM featuring unknown flavor.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
