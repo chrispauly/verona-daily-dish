@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-18",
-    "updateDate": "2026-10-18T05:05:14.074Z",
+    "updateDate": "2026-10-18T06:09:11.940Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. We have clear skies along the Military Ridge State Trail under a First Quarter moon. If you are up early, the ISS will be visible at 4:54 AM, appearing over Belleville and moving toward the Fitchburg and Madison area, climbing about halfway up the sky.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we are seeing clear skies and a chilly 42 degrees out near Badger Ridge Middle School under a First Quarter moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-18",
-    "updateDate": "2026-10-18T05:05:14.074Z",
+    "updateDate": "2026-10-18T06:09:11.940Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has provided updates regarding recent ordinances and polling locations. Additionally, the police department reported that on Thursday, October 15, 2026, a school bus driver was arrested for O W I while transporting students; no injuries were reported and an investigation is ongoing.",
+    "mainText": "The City of Verona has announced that the Zoning and Sign Ordinance has been updated to streamline development standards, and residents are encouraged to use the interactive map on the city website to verify their specific zoning district. Additionally, voters are reminded to check the My Vote Wisconsin website to confirm their current polling location, as two new locations were approved last year.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-18",
-    "updateDate": "2026-10-18T05:05:14.074Z",
+    "updateDate": "2026-10-18T06:09:11.940Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Today, you can catch live music at both Bailey's Run Vineyard and the Wisconsin Brewing Company. Tomorrow, check out yoga at Insight Wellness, followed by trivia nights starting Monday at Hop Haus and the Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do this weekend, starting with live music today at Bailey's Run Vineyard and the Wisconsin Brewing Company. Looking ahead, you can join a yoga session tomorrow at Insight Wellness or participate in trivia nights starting this coming Monday at various local venues.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-18",
-    "updateDate": "2026-10-18T05:05:14.074Z",
+    "updateDate": "2026-10-18T06:09:11.940Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Thursday, October 15, 2026, the Verona Police Department arrested a school bus driver for O W I. Officers developed probable cause during their investigation, and the department is currently reviewing evidence regarding a possible collision with a traffic sign.",
+    "mainText": "The Verona Police Department reported an incident from this past Thursday, October 15, where a school bus driver was arrested for O W I after officers responded to reports of dangerous driving behavior while children were on board. No injuries were reported, and the investigation is ongoing.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-18",
-    "updateDate": "2026-10-18T05:05:14.074Z",
+    "updateDate": "2026-10-18T06:09:11.940Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Mint Cookie. Culver's is currently closed but will open today at 10:00 AM for you to enjoy your treat.",
+    "mainText": "If you are looking for a treat, today's flavor is Mint Cookie, and the restaurant opens today at 10:00 AM for your enjoyment.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
