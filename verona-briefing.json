@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-18",
-    "updateDate": "2026-10-18T21:04:46.590Z",
+    "updateDate": "2026-10-18T22:05:04.751Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, we are looking at clear skies and 63 degrees at Fireman's Park, with a First Quarter moon expected tonight.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. We have clear skies at Verona Community Park with a temperature of 61 degrees. The moon is in its First Quarter phase. Tonight will be cool with an overnight low of 42 degrees, and there is no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-18",
-    "updateDate": "2026-10-18T21:04:46.590Z",
+    "updateDate": "2026-10-18T22:05:04.751Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department reported that a school bus driver was arrested for O W I on Thursday, October 15, after reports of dangerous driving. Fortunately, no injuries were reported among the students or the public.",
+    "mainText": "In city news, the Verona Police Department has reported the arrest of a school bus driver on Thursday, October 15, for operating while impaired. While no injuries occurred, authorities are currently investigating potential damage to a traffic sign outside of city limits.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-18",
-    "updateDate": "2026-10-18T21:04:46.590Z",
+    "updateDate": "2026-10-18T22:05:04.751Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend, including live music today at both Bailey's Run and Wisconsin Brewing Company, followed by yoga sessions tomorrow at Insight Wellness.",
+    "mainText": "It is a busy time in Verona. We have live music occurring today at both Bailey's Run Vineyard and the Wisconsin Brewing Company. Tomorrow, you can attend yoga at Insight Wellness. Looking ahead, next week features trivia nights at Hop Haus, the Wisconsin Brewing Company, Paddy Mac's, and The Bogey Factory, alongside music and art events.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-18",
-    "updateDate": "2026-10-18T21:04:46.590Z",
+    "updateDate": "2026-10-18T22:05:04.751Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Thursday, October 15, officers arrested a school bus driver near Whalen Road and Fairview Terrace for O W I.",
+    "mainText": "During the incident on Thursday, October 15, officers located a school bus near Whalen Road and Fairview Terrace. They developed probable cause to believe the driver was operating the vehicle while impaired, leading to an arrest for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-18",
-    "updateDate": "2026-10-18T21:04:46.590Z",
+    "updateDate": "2026-10-18T22:05:04.751Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by for some delicious Mint Cookie before the store closes at 10 PM tonight.",
+    "mainText": "Stop by for some delicious Mint Cookie, the flavor of the day. The store is currently open and will remain so until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
