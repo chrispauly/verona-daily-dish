@@ -1,42 +1,42 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-10-17",
-    "updateDate": "2026-10-17T23:04:56.450Z",
+    "uid": "verona-balanced-weather-2026-10-18",
+    "updateDate": "2026-10-18T00:16:10.012Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. Over at Verona City Hall, it is currently 50 degrees with clear skies. The overnight low will be around 40 degrees, with rain unlikely.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: we are seeing clear skies and 47 degree temperatures at Verona City Hall under a First Quarter moon. The overnight low will be 40 degrees with no rain expected. If you are an early riser, the International Space Station will be visible at 4:54 AM, traveling from over Belleville toward the East Northeast.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-10-17",
-    "updateDate": "2026-10-17T23:04:56.450Z",
+    "uid": "verona-balanced-news-2026-10-18",
+    "updateDate": "2026-10-18T00:16:10.012Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Verona Police Arrest School Bus Driver for Operating While Impaired.",
+    "mainText": "For our city update, the Verona Police Department arrested a school bus driver for O W I this past Thursday, October 15, after reports of erratic driving while transporting students. In other news, the city has updated its zoning and sign ordinances, and residents are reminded to double check their polling locations for upcoming elections.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-10-17",
-    "updateDate": "2026-10-17T23:04:56.450Z",
+    "uid": "verona-balanced-events-2026-10-18",
+    "updateDate": "2026-10-18T00:16:10.012Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Dane County Farmer's Market Today at Wisconsin State Capitol.",
+    "mainText": "There is plenty to do in our area, starting with the Dane County Farmers Market today. You can also catch live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company today. Looking further ahead, yoga is scheduled for October 19 at Insight Wellness, followed by various trivia nights starting October 20.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-10-17",
-    "updateDate": "2026-10-17T23:04:56.450Z",
+    "uid": "verona-balanced-police-2026-10-18",
+    "updateDate": "2026-10-18T00:16:10.012Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
+    "mainText": "Regarding local safety, the Verona Police Department responded on Thursday, October 15, to an incident involving a school bus driver arrested for O W I. Officers confirmed that no students were injured during the event.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-10-17",
-    "updateDate": "2026-10-17T23:04:56.450Z",
+    "uid": "verona-balanced-culvers-2026-10-18",
+    "updateDate": "2026-10-18T00:16:10.012Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Chocolate Volcano. The restaurant is open until 10:30 PM.",
+    "mainText": "Culver's of Verona is currently open until 10:30 PM, so stop in to enjoy today's delicious flavor of the day, Chocolate Volcano.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
