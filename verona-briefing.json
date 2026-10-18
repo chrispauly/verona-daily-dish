@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-18",
-    "updateDate": "2026-10-18T10:05:35.524Z",
+    "updateDate": "2026-10-18T11:04:52.775Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish. We have clear skies and a temperature of 41 degrees at City Hall under a first quarter moon. If you are looking to the stars, the International Space Station will be visible tonight starting at 6:27 AM, rising in the west over Mount Horeb and tracking toward the northeast near Home Depot in Madison, reaching about halfway up the sky.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: the temperature is 40 degrees with a feels-like of 32 under clear skies at the Military Ridge State Trail, and we are currently in a First Quarter moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-18",
-    "updateDate": "2026-10-18T10:05:35.524Z",
+    "updateDate": "2026-10-18T11:04:52.775Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Police arrested a school bus driver on Thursday after a report of dangerous driving; no injuries were reported. Additionally, the city has updated its zoning and sign ordinance and reminds residents to verify their assigned polling location before heading to the polls.",
+    "mainText": "The city has provided updates on the zoning map and ordinance, which was overhauled to include a new interactive tool where you can look up your property zoning district by address. Additionally, residents are encouraged to double check their polling locations for upcoming elections, as four sites are now available including the library and city hall.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-18",
-    "updateDate": "2026-10-18T10:05:35.524Z",
+    "updateDate": "2026-10-18T11:04:52.775Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this week. Today, catch live music at Bailey's Run Vineyard and the Wisconsin Brewing Company. Tomorrow, join a yoga session at Insight Wellness. Looking further ahead, mark your calendars for trivia nights starting Monday at Hop Haus and Wisconsin Brewing Company.",
+    "mainText": "We have a busy couple of days ahead with live music at Bailey's Run Vineyard and Wisconsin Brewing Company taking place today, followed by yoga sessions at Insight Wellness tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-18",
-    "updateDate": "2026-10-18T10:05:35.524Z",
+    "updateDate": "2026-10-18T11:04:52.775Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the police report from Thursday, officers arrested a school bus driver for O W I near Whalen Road and Fairview Terrace; alcohol was ruled out as a factor and the investigation into a possible traffic sign collision continues.",
+    "mainText": "This past Thursday, the Verona Police Department arrested a school bus driver for operating while impaired after receiving reports of dangerous driving behavior while transporting students.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-18",
-    "updateDate": "2026-10-18T10:05:35.524Z",
+    "updateDate": "2026-10-18T11:04:52.775Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Mint Cookie. The store is currently closed but will open today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is Mint Cookie. Please note that the store is currently closed, but it will open today at 10:00 AM to serve you.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
