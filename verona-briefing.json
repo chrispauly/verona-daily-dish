@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-19",
-    "updateDate": "2026-10-19T02:11:18.750Z",
+    "updateDate": "2026-10-19T03:07:52.693Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, we have clear skies with a temperature of 53 degrees near Reddan Soccer Park. The first quarter moon is visible, and the International Space Station will make a pass tomorrow morning at 5:42 AM, rising in the west-southwest over Mount Horeb and traveling high across the sky toward the northeast near the Home Depot in Madison. Overnight, we expect a low of 42 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 10 PM, the skies are clear at Reddan Soccer Park. You can catch the International Space Station flying over tomorrow morning starting at 5:42 AM, as it travels from the West Southwest over Mount Horeb toward the Northeast near the Madison Home Depot, eventually reaching high in the sky. The temperature is 52 degrees, and tonight we are looking at a low of 42 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-19",
-    "updateDate": "2026-10-19T02:11:18.750Z",
+    "updateDate": "2026-10-19T03:07:52.693Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Police Department arrested a school bus driver on Thursday for operating while impaired after receiving reports of dangerous driving while students were on board. Fortunately, there were no injuries reported. Additionally, the city is continuing to maintain its zoning and sign ordinances, and residents are reminded that there are now four designated polling locations throughout Verona.",
+    "mainText": "In city news, the Verona Police Department recently arrested a school bus driver for operating while impaired. Additionally, the city has updated its zoning and sign ordinances, and residents are reminded to verify their polling locations via the My Vote Wisconsin website, as some locations have changed since 2023.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-19",
-    "updateDate": "2026-10-19T02:11:18.750Z",
+    "updateDate": "2026-10-19T03:07:52.693Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend, including live music at Bailey's Run Vineyard and the Wisconsin Brewing Company today. Looking ahead, you can enjoy trivia at Hop Haus on Monday, or check out the art exhibitions at the Art House 360 starting this coming Thursday.",
+    "mainText": "There is plenty to do this weekend in Verona. Today, enjoy live music at Bailey's Run and the Wisconsin Brewing Company. Tomorrow, you can head to Insight Wellness for yoga. Looking ahead, next week is packed with trivia at Hop Haus, the Wisconsin Brewing Company, Paddy Mac's, and The Bogey Factory, plus live music and events at the ART House.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-19",
-    "updateDate": "2026-10-19T02:11:18.750Z",
+    "updateDate": "2026-10-19T03:07:52.693Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the incident from Thursday, Verona police arrested a school bus driver for operating while impaired. The driver was processed for an evidentiary chemical test after officers conducted an investigation near Whalen Road and Fairview Terrace.",
+    "mainText": "On Thursday, the Verona Police Department arrested a school bus driver after receiving reports of dangerous driving. Officers determined the driver was operating while impaired, though alcohol was not a factor, and no one was injured during the incident.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-19",
-    "updateDate": "2026-10-19T02:11:18.750Z",
+    "updateDate": "2026-10-19T03:07:52.693Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Mint Cookie. Culver's is currently open, but please note they are closing soon in 49 minutes, so make sure to get there in time.",
+    "mainText": "Today's flavor of the day was Mint Cookie. As the store is now closed for the night, we invite you to stop by tomorrow starting at 10:00 AM to enjoy our tomorrow's flavor, which is Caramel Peanut Buttercup.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
