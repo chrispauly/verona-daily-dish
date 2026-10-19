@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-19",
-    "updateDate": "2026-10-19T20:06:25.587Z",
+    "updateDate": "2026-10-19T21:05:35.436Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we have clear skies and a temperature of 68 degrees over at Badger Prairie County Park.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: expect 67-degree temperatures with overcast skies near the Verona Public Library.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-19",
-    "updateDate": "2026-10-19T20:06:25.587Z",
+    "updateDate": "2026-10-19T21:05:35.436Z",
     "titleText": "Verona City News",
-    "mainText": "Regarding city news, on October 15, the Verona Police Department arrested a school bus driver for operating while impaired. Officers stopped the bus on Whalen Road after reports of dangerous driving, and while the driver was taken for testing, fortunately no students were injured during the incident.",
+    "mainText": "Verona residents can apply for a Stormwater Utility Credit to lower their bills by managing runoff with rain gardens or barrels. Additionally, the police department is currently reviewing information regarding a bus collision with a traffic sign following the arrest of a driver on October 15 for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-19",
-    "updateDate": "2026-10-19T20:06:25.587Z",
+    "updateDate": "2026-10-19T21:05:35.436Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a full slate of activities starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia nights at Hop Haus Brewing, Lake Lou-ee, or Paddy Mac's.",
+    "mainText": "You can catch Yoga at Insight Wellness today. Tomorrow, local fun continues with trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's and trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-19",
-    "updateDate": "2026-10-19T20:06:25.587Z",
+    "updateDate": "2026-10-19T21:05:35.436Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 15, the Verona Police Department conducted an arrest of a school bus driver for O W I after reports of erratic behavior while transporting students.",
+    "mainText": "On October 15, the Verona Police Department arrested a school bus driver for O W I after reports of dangerous driving behavior, though all students were reported safe.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-19",
-    "updateDate": "2026-10-19T20:06:25.587Z",
+    "updateDate": "2026-10-19T21:05:35.436Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor at Culver's is Caramel Peanut Buttercup. The store is currently open and will remain open until 10:00 PM, so there is plenty of time to stop by for a treat.",
+    "mainText": "Head over to Culver's today to enjoy the Caramel Peanut Buttercup flavor of the day; the store is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
