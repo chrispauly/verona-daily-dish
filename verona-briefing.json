@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-19",
-    "updateDate": "2026-10-19T16:06:48.647Z",
+    "updateDate": "2026-10-19T17:08:25.014Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. Over at Verona City Hall, it is currently 58 degrees with clear skies.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we have clear skies with a comfortable temperature of 62 degrees over at Reddan Soccer Park.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-19",
-    "updateDate": "2026-10-19T16:06:48.647Z",
+    "updateDate": "2026-10-19T17:08:25.014Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Adopt A Storm Drain.",
+    "mainText": "The City of Verona is highlighting two major infrastructure efforts. First, you can join the Adopt A Storm Drain program to help prevent local flooding by keeping debris out of our sewers. Second, the Mark Drive reconstruction project is entering its second phase, with work on utility lines and concrete sidewalks currently underway.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-19",
-    "updateDate": "2026-10-19T16:06:48.647Z",
+    "updateDate": "2026-10-19T17:08:25.014Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
+    "mainText": "There is plenty to do in our community. Today, you can attend Yoga at Insight Wellness. Looking toward tomorrow, there is trivia at Hop Haus and Wisconsin Brewing Company. Later this week, you can check out live music at Paddy Mac's and Bailey's Run, or enjoy Thursday night activities at ART House 360.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-19",
-    "updateDate": "2026-10-19T16:06:48.647Z",
+    "updateDate": "2026-10-19T17:08:25.014Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
+    "mainText": "The Verona Police Department reported an incident from last Thursday, where officers arrested a school bus driver for O W I after receiving reports of dangerous driving. Fortunately, no injuries were reported.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-19",
-    "updateDate": "2026-10-19T16:06:48.647Z",
+    "updateDate": "2026-10-19T17:08:25.014Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Caramel Peanut Buttercup. The restaurant is open until 10:00 PM.",
+    "mainText": "Culver's is currently open and serving up the Caramel Peanut Buttercup flavor of the day until they close at 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
