@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-19",
-    "updateDate": "2026-10-19T11:05:46.983Z",
+    "updateDate": "2026-10-19T12:10:05.287Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: we have clear skies at Harriet Park with a First Quarter moon to start the morning.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have clear skies at the Verona Area High School with a temperature of 40 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-19",
-    "updateDate": "2026-10-19T11:05:46.983Z",
+    "updateDate": "2026-10-19T12:10:05.287Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department reported an arrest on Thursday, October 15, involving a school bus driver suspected of operating while impaired, though fortunately no students were injured. Additionally, residents are reminded that the city has updated its zoning and sign ordinance, and you can check your specific district via the city's interactive map.",
+    "mainText": "Regarding city news, the Verona Police Department has reported the arrest of a school bus driver for O W I on Thursday, while residents are reminded that zoning ordinances and updated polling locations for upcoming elections can be found on the city website.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-19",
-    "updateDate": "2026-10-19T11:05:46.983Z",
+    "updateDate": "2026-10-19T12:10:05.287Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead! Yoga at Insight Wellness is on the schedule for today. Looking toward tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's.",
+    "mainText": "We have a full slate of activities starting with Yoga at Insight Wellness today, followed by a busy tomorrow featuring trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-19",
-    "updateDate": "2026-10-19T11:05:46.983Z",
+    "updateDate": "2026-10-19T12:10:05.287Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Thursday, October 15, the Verona Police Department arrested a school bus driver for O W I after receiving reports of dangerous driving behavior near Whalen Road and Fairview Terrace.",
+    "mainText": "On Thursday, the Verona Police Department arrested a school bus driver near the intersection of Whalen Road and Fairview Terrace for O W I, with no injuries reported to the students on board.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-19",
-    "updateDate": "2026-10-19T11:05:46.983Z",
+    "updateDate": "2026-10-19T12:10:05.287Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Caramel Peanut Buttercup, and the Culver's in Verona opens today at 10:00 AM.",
+    "mainText": "Today's delicious flavor of the day is Caramel Peanut Buttercup, and the store opens today at 10:00 AM to serve you until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
