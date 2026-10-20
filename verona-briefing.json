@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-20",
-    "updateDate": "2026-10-20T00:15:04.333Z",
+    "updateDate": "2026-10-20T01:17:56.338Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. We are seeing 58 degrees with partly cloudy skies at Badger Ridge Middle School. We have a first quarter moon tonight, an overnight low of 42 degrees, and no rain in the forecast. Keep your eyes on the sky at 4:57 AM for a 2-minute ISS flyover, moving from Mount Horeb toward Fitchburg and Madison, appearing almost directly overhead.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have 54-degree weather at Reddan Soccer Park under a First Quarter moon. The ISS is passing by early tomorrow morning, but you won't be able to see it due to the clouds. The temperature will dip to an overnight low of 42 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-20",
-    "updateDate": "2026-10-20T00:15:04.333Z",
+    "updateDate": "2026-10-20T01:17:56.338Z",
     "titleText": "Verona City News",
-    "mainText": "Verona property owners can now apply for a stormwater utility credit by using rain gardens or barrels to help manage runoff. Additionally, the Verona Police Department is looking for feedback regarding a bus incident, so please contact them if you have information.",
+    "mainText": "City officials are offering new stormwater utility credits for property owners who install rain gardens or barrels. Additionally, the police department is continuing to investigate after arresting a school bus driver for operating while impaired on October 15.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-20",
-    "updateDate": "2026-10-20T00:15:04.333Z",
+    "updateDate": "2026-10-20T01:17:56.338Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can check out Yoga at Insight Wellness. Tomorrow is packed with fun including Hop Haus Trivia, Quizmasters Trivia at Lake Lou-ee, and Dream Day Trivia at Paddy Mac's.",
+    "mainText": "We have plenty going on in Verona, starting with Yoga at Insight Wellness today. Tomorrow, you can test your knowledge at Hop Haus or Lake Lou-ee trivia nights.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-20",
-    "updateDate": "2026-10-20T00:15:04.333Z",
+    "updateDate": "2026-10-20T01:17:56.338Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the police report, on October 15, officers arrested a school bus driver for O W I after dangerous driving was reported; no students were injured during the incident.",
+    "mainText": "In a notable weekly incident from October 13, police responded to a disturbance at a restaurant on East Verona Avenue, resulting in property bans and a citation for obstruction.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-20",
-    "updateDate": "2026-10-20T00:15:04.333Z",
+    "updateDate": "2026-10-20T01:17:56.338Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Caramel Peanut Buttercup, and the store is open until 10 PM tonight, so stop by soon for a delicious dessert.",
+    "mainText": "Enjoy the Caramel Peanut Buttercup flavor of the day at Culver's, which remains open until 10:00 PM this evening.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
