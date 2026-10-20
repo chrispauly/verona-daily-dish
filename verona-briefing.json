@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-20",
-    "updateDate": "2026-10-20T17:08:11.734Z",
+    "updateDate": "2026-10-20T18:22:40.768Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: skies are clear at Badger Prairie County Park with a temperature of 59 degrees, but we do have a moderate air quality alert in effect.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: it is 64 degrees with clear skies near the Verona Public Library, though we do have a moderate air quality alert in effect.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-20",
-    "updateDate": "2026-10-20T17:08:11.734Z",
+    "updateDate": "2026-10-20T18:22:40.768Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center has officially been awarded accreditation by the Wisconsin Association of Senior Centers for their excellence in supporting local older adults. Additionally, the City Plan Commission is reviewing several development projects this week, including updates for Ardent Glen and the Liberty Business Park.",
+    "mainText": "In city news, there are no new emails to report, leaving our community updates clear for the day.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-20",
-    "updateDate": "2026-10-20T17:08:11.734Z",
+    "updateDate": "2026-10-20T18:22:40.768Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town starting with trivia at both Hop Haus and Lake Lou-ee today. Tomorrow, you can look forward to more trivia at Paddy Mac's and The Bogey Factory, along with live music and yoga sessions.",
+    "mainText": "Looking for things to do? Hop Haus and Lake Lou-ee are both hosting trivia today. Tomorrow, you can enjoy pizza and a pitcher, hit up yoga at Insight Wellness, or test your brain at the Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-20",
-    "updateDate": "2026-10-20T17:08:11.734Z",
+    "updateDate": "2026-10-20T18:22:40.768Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local safety, the Verona Police Department reported that on Thursday, October 15, they arrested a school bus driver for an O W I after receiving reports of dangerous driving behavior while students were on board.",
+    "mainText": "Regarding the weekly police report, there were no notable incidents recorded for this week.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-20",
-    "updateDate": "2026-10-20T17:08:11.734Z",
+    "updateDate": "2026-10-20T18:22:40.768Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's today to enjoy the Flavor of the Day, which is Devil's Food Cake. The store is currently open and will remain open until 10 PM tonight.",
+    "mainText": "Stop by Culver's today to enjoy the delicious Devil's Food Cake flavor of the day. The shop is currently open and serving until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
