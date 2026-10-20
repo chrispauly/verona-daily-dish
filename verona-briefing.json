@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-20",
-    "updateDate": "2026-10-20T02:08:08.053Z",
+    "updateDate": "2026-10-20T03:07:04.804Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: it is 52 degrees and clear at Verona City Hall under a First Quarter moon. The temperature will dip to an overnight low of 42 degrees, and we are not expecting any rain tonight.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. We have clear skies near Fireman's Park and the First Quarter moon is out. The temperature is 50 degrees, and tonight we expect a low of 40 degrees with no rain predicted. If you are an early riser, the space station will be visible tomorrow at 4:57 AM, rising in the West Southwest over Mount Horeb and traveling over our heads toward the East Northeast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-20",
-    "updateDate": "2026-10-20T02:08:08.053Z",
+    "updateDate": "2026-10-20T03:07:04.804Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has two updates for you. First, property owners can now apply for the Stormwater Utility Credit by using systems like rain barrels to protect our local watershed. Second, the Police Department is currently not hiring, but they are accepting resumes from certified officers who wish to join their team in the future.",
+    "mainText": "City news today focuses on environmental efforts and public safety. Property owners can now apply for credits on their stormwater bills by installing rain barrels or gardens. Also, the police department reminds everyone to contact them with any information regarding the O W I arrest of a school bus driver that occurred on October 15.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-20",
-    "updateDate": "2026-10-20T02:08:08.053Z",
+    "updateDate": "2026-10-20T03:07:04.804Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You have plenty of ways to stay busy. Today you can enjoy Yoga at Insight Wellness. Looking toward tomorrow, you have several trivia options including Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus pizza and a pitcher specials at Lake Lou-ee.",
+    "mainText": "For those looking to get out and about, Yoga at Insight Wellness is happening today. Tomorrow, you can participate in trivia at Hop Haus or Lake Lou-ee, and Wednesday offers even more options including pizza specials and additional trivia nights.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-20",
-    "updateDate": "2026-10-20T02:08:08.053Z",
+    "updateDate": "2026-10-20T03:07:04.804Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on Thursday, October 15, officers arrested a school bus driver for O W I after receiving reports of dangerous driving. No students were injured during the incident, and the department is continuing to investigate.",
+    "mainText": "On October 15, the Verona Police Department arrested a school bus driver for O W I after reports of dangerous driving. No students were injured during the incident.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-20",
-    "updateDate": "2026-10-20T02:08:08.053Z",
+    "updateDate": "2026-10-20T03:07:04.804Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently open until 10 PM tonight. While the specific flavor of the day is not listed, it is always a great time to stop by for a snack before they close for the night.",
+    "mainText": "The Culver's kitchen is closed for the night. We will be back open tomorrow at 10:00 AM, featuring Devil's Food Cake as the flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
