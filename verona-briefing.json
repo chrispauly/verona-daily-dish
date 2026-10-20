@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-20",
-    "updateDate": "2026-10-20T20:06:01.856Z",
+    "updateDate": "2026-10-20T21:05:56.598Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we have clear skies with a temperature of 67 degrees near the Military Ridge State Trail and a moderate air quality index of 70.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: it is 67 degrees with clear skies at Badger Prairie County Park, with a moderate air quality index of 71 and a waxing gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-20",
-    "updateDate": "2026-10-20T20:06:01.856Z",
+    "updateDate": "2026-10-20T21:05:56.598Z",
     "titleText": "Verona City News",
-    "mainText": "The Mark Drive reconstruction project has entered phase two, focusing on utility work and concrete improvements, and the Verona Senior Center has officially received accreditation from the state.",
+    "mainText": "The Mark Drive reconstruction project continues with Phase 2 progress, including completed utility work and ongoing concrete installation on Mark Drive and Todd Street, while the Verona Senior Center remains active with travel opportunities and services for residents 55 and older.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-20",
-    "updateDate": "2026-10-20T20:06:01.856Z",
+    "updateDate": "2026-10-20T21:05:56.598Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You have plenty to choose from today with Hop Haus Trivia and Quizmasters Trivia both taking place, followed by a busy Wednesday with pizza and a pitcher at Lake Lou-ee and trivia at the Bogey Factory.",
+    "mainText": "We have a busy schedule of local fun starting with Hop Haus Trivia today at 6:30 PM, followed by tomorrow's events including Yoga at Insight Wellness and trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-20",
-    "updateDate": "2026-10-20T20:06:01.856Z",
+    "updateDate": "2026-10-20T21:05:56.598Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 15, the Verona Police Department arrested a school bus driver for O W I following reports of dangerous driving behavior while students were on board.",
+    "mainText": "In our weekly report, the Verona Police Department arrested a school bus driver on October 15 for O W I, noting that no injuries were reported and the investigation is ongoing.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-20",
-    "updateDate": "2026-10-20T20:06:01.856Z",
+    "updateDate": "2026-10-20T21:05:56.598Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor at Culver's is Devil's Food Cake, and you can stop by any time before they close at 10:00 PM to grab a scoop.",
+    "mainText": "Today is the perfect day to stop by for our flavor of the day, Devil's Food Cake, and since the store is open until 10:00 PM, you have plenty of time to head out and enjoy a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
