@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-20",
-    "updateDate": "2026-10-20T12:09:05.619Z",
+    "updateDate": "2026-10-20T13:07:40.456Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: it is 39 degrees with clear skies near Badger Ridge Middle School, a first quarter moon, and an air quality index of 55.",
+    "mainText": "Hello, Verona! At 8 AM, we are seeing clear skies at Badger Prairie County Park with a temperature of 40 degrees and an air quality index of 57.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-20",
-    "updateDate": "2026-10-20T12:09:05.619Z",
+    "updateDate": "2026-10-20T13:07:40.456Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is offering a Stormwater Utility Credit for property owners who use management practices like rain barrels or infiltration systems. Additionally, the Verona Police Department is currently accepting inquiries from certified officers for future hiring opportunities.",
+    "mainText": "Verona is offering a stormwater utility credit for property owners who use rain gardens or infiltration systems, with extra credits available for those who pledge to protect the local creek.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-20",
-    "updateDate": "2026-10-20T12:09:05.619Z",
+    "updateDate": "2026-10-20T13:07:40.456Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead with Hop Haus Trivia and Lake Lou-ee Trivia both happening today. Tomorrow brings more excitement with Yoga at Insight Wellness, Pizza and a Pitcher at Lake Lou-ee, and Trivia Night at The Bogey Factory.",
+    "mainText": "There is plenty to do with Hop Haus Trivia and Quizmasters Trivia both taking place today, followed by yoga and additional trivia nights at The Bogey Factory tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-20",
-    "updateDate": "2026-10-20T12:09:05.619Z",
+    "updateDate": "2026-10-20T13:07:40.456Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 15, the Verona Police Department arrested a school bus driver for O W I. Fortunately, there were no injuries to the students or the public reported during the incident.",
+    "mainText": "On October 13, police handled a disturbance at a restaurant on East Verona Avenue where a man and woman were warned for disorderly conduct and trespassed from the site.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-20",
-    "updateDate": "2026-10-20T12:09:05.619Z",
+    "updateDate": "2026-10-20T13:07:40.456Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Devil's Food Cake. The store is currently closed but will be opening today at 10:00 AM for you to enjoy.",
+    "mainText": "Today's flavor is Devil's Food Cake and the restaurant opens today at 10:00 AM, so get ready to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
