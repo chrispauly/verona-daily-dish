@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-20",
-    "updateDate": "2026-10-20T09:06:49.189Z",
+    "updateDate": "2026-10-20T10:06:53.992Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish. It is a clear 40 degrees near Harriet Park under a First Quarter moon. You can spot the space station tonight starting at 4:57 AM, as it rises over Mount Horeb and travels high across the sky toward Fitchburg and Madison.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: it is 40 degrees with clear skies at Harriet Park and a first quarter moon. The air quality is currently moderate with an index of 51. You can catch the International Space Station passing over tonight for 5 minutes starting at 6:30 AM, rising in the west-northwest over Cross Plains and traveling toward the northeast near the Home Depot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-20",
-    "updateDate": "2026-10-20T09:06:49.189Z",
+    "updateDate": "2026-10-20T10:06:53.992Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is promoting a Stormwater Utility Credit program to encourage eco-friendly practices. Residents can earn bill credits by installing features like rain gardens or rain barrels. Additionally, those who sign the Sugar River Supporter pledge can qualify for even more savings.",
+    "mainText": "The city is offering a Stormwater Utility Credit for property owners who install features like rain gardens or barrels to manage runoff. Also, the police department is currently looking to connect with certified law enforcement officers for potential future career opportunities.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-20",
-    "updateDate": "2026-10-20T09:06:49.189Z",
+    "updateDate": "2026-10-20T10:06:53.992Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule of trivia starting today at Hop Haus and Wisconsin Brewing Company. Tomorrow, join the fun at Paddy Mac's for more trivia, or check out yoga at Insight Wellness and the Wednesday specials at Wisconsin Brewing Company.",
+    "mainText": "We have plenty of fun on the horizon. Today, you can catch trivia at Hop Haus Brewing or at the Wisconsin Brewing Company. Tomorrow, check out live music at Paddy Mac's, yoga at Insight Wellness, pizza at Lake Lou-ee, or Wednesday trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-20",
-    "updateDate": "2026-10-20T09:06:49.189Z",
+    "updateDate": "2026-10-20T10:06:53.992Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from October 15, the Verona Police Department arrested a school bus driver for O W I after receiving reports of dangerous driving behavior while transporting students. Fortunately, no injuries were reported.",
+    "mainText": "Regarding the police report, on October 15, officers arrested a school bus driver for O W I after receiving reports of dangerous driving while students were on board. Thankfully, no injuries were reported.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-20",
-    "updateDate": "2026-10-20T09:06:49.189Z",
+    "updateDate": "2026-10-20T10:06:53.992Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is serving up Devil's Food Cake as today's flavor, and they open today at 10:00 AM.",
+    "mainText": "Today's flavor is the delicious Devil's Food Cake. The store opens today at 10:00 AM, so be sure to stop by and enjoy a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
