@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-21",
-    "updateDate": "2026-10-21T12:08:45.710Z",
+    "updateDate": "2026-10-21T13:08:52.165Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: it is 42 degrees with clear skies at the Military Ridge State Trail and an air quality index of 69. The Waxing Gibbous moon is visible in our skies.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish. Expect clear skies around the Verona Public Library with temperatures sitting at 43 degrees, feeling like 37. Air quality is elevated at a moderate level of 68 today, and look for a waxing gibbous moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-10-21",
-    "updateDate": "2026-10-21T12:08:45.710Z",
+    "updateDate": "2026-10-21T13:08:52.165Z",
     "titleText": "Verona City News",
-    "mainText": "City residents should know that Verona has launched a toilet rebate program for residential properties. Additionally, the Mark Drive reconstruction project is moving into a new phase with utility work completed and concrete work currently underway.",
+    "mainText": "In city news, progress continues on Phase 2 of the Mark Drive reconstruction project with utility work complete and lower asphalt planned for mid-November. Additionally, the city reminds residents about the toilet rebate program and the Eye On Water program to monitor household water usage.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-10-21",
-    "updateDate": "2026-10-21T12:08:45.710Z",
+    "updateDate": "2026-10-21T13:08:52.165Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona! Today features live music at Paddy Mac's, yoga at Insight Wellness, pizza and a pitcher at Lake Lou-ee, and trivia at The Bogey Factory. Tomorrow, look forward to art events at ART House 360 and trivia at Hop Haus.",
+    "mainText": "Local events feature several great options today, including Trivia Night at The Bogey Factory, Pizza and a Pitcher at Lake Lou-ee, and live music at Paddy Mac's. Tomorrow, check out Hop Haus Trivia and ART House 360, while live music at Bailey's Run Vineyard is coming up this weekend.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-10-21",
-    "updateDate": "2026-10-21T12:08:45.710Z",
+    "updateDate": "2026-10-21T13:08:52.165Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the Verona Police Department weekly report, on Wednesday October 15, officers arrested a school bus driver for O W I after receiving reports of dangerous driving behavior.",
+    "mainText": "In police news, officers arrested a school bus driver for O W I on Thursday afternoon near Whalen Road after receiving reports of dangerous driving. Fortunately, no injuries were reported among students or the public.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-21",
-    "updateDate": "2026-10-21T12:08:45.710Z",
+    "updateDate": "2026-10-21T13:08:52.165Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Chocolate Covered Strawberry. If you are planning a visit, please note that the store opens today at 10:00 AM.",
+    "mainText": "Culver's opens today at 10:00 AM. Today's featured flavor of the day is Chocolate Covered Strawberry.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
