@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-21",
-    "updateDate": "2026-10-21T18:08:05.892Z",
+    "updateDate": "2026-10-21T19:06:16.501Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. Over at Verona City Hall, it is currently 68 degrees with clear skies. Note: Air quality is Moderate with an AQI of 60.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: skies are clear near the Verona Area High School with a temperature of 70 degrees, though please be aware of an air quality index of 59.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-21",
-    "updateDate": "2026-10-21T18:08:05.892Z",
+    "updateDate": "2026-10-21T19:06:16.501Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Police.",
+    "mainText": "The city is currently working on the Mark Drive reconstruction project, which includes water main and sewer improvements, with the final surface layer of asphalt expected next spring. Also, please remember that the city offers a residential toilet rebate program to help with water conservation.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-21",
-    "updateDate": "2026-10-21T18:08:05.892Z",
+    "updateDate": "2026-10-21T19:06:16.501Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's Today at Paddy Mac's.",
+    "mainText": "There is plenty to do this week, including yoga at Insight Wellness today, Wednesday Pizza and a Pitcher at Lake Lou-ee today, and trivia at The Bogey Factory today. Looking ahead, ART House 360 events start tomorrow, and the Dane County Farmers Market is this coming Friday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-21",
-    "updateDate": "2026-10-21T18:08:05.892Z",
+    "updateDate": "2026-10-21T19:06:16.501Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
+    "mainText": "In local law enforcement news, the Verona Police Department reported an incident from Thursday, October 15, where a school bus driver was arrested for O W I after dangerous driving was reported.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-21",
-    "updateDate": "2026-10-21T18:08:05.892Z",
+    "updateDate": "2026-10-21T19:06:16.501Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Chocolate Covered Strawberry. The restaurant is open until 10:00 PM.",
+    "mainText": "Culver's is currently open and serving guests until 10 PM tonight. Although the specific flavor of the day is not available, their doors are open for all your favorite treats.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
