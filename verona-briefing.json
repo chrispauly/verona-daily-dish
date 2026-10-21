@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-21",
-    "updateDate": "2026-10-21T02:10:27.601Z",
+    "updateDate": "2026-10-21T03:07:49.381Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish starting with clear skies and 54 degrees near Verona City Hall. The overnight low will drop to 45 degrees with no rain predicted, and air quality is currently elevated at 76. Tonight features a Waxing Gibbous moon, and early tomorrow at 5:45 AM, look west toward Mount Horeb to see the space station travel toward Madison, reaching about halfway up the sky.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. We are seeing clear skies and 50 degrees at Verona Community Park, though the air quality is moderate. The moon is a waxing gibbous, and the ISS will be visible tomorrow morning starting at 5:45 AM, rising over Mount Horeb and moving toward the northeast near the Madison Home Depot. Tonight, the low will hit 44 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-21",
-    "updateDate": "2026-10-21T02:10:27.601Z",
+    "updateDate": "2026-10-21T03:07:49.381Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Phase 2 of the Mark Drive reconstruction project is moving forward with gravel base installation and concrete work on Todd Street. Additionally, the City of Verona is promoting its residential toilet rebate program and providing contour maps to help homeowners design yard rain gardens.",
+    "mainText": "The city has been busy with infrastructure updates. Phase two of the Mark Drive reconstruction is moving along, with utility work finished and concrete pouring now in progress. Additionally, residents are encouraged to utilize the Eye-On-Water program to track usage or check the public works website for information on the toilet rebate program.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-21",
-    "updateDate": "2026-10-21T02:10:27.601Z",
+    "updateDate": "2026-10-21T03:07:49.381Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "For upcoming events, you can test your knowledge today with Quizmasters Trivia at Wisconsin Brewing Company. Tomorrow brings a busy evening with Dream Day Trivia at Paddy Mac's, Trivia Night at The Bogey Factory, and Pizza and a Pitcher at Lake Lou-ee. Looking ahead, ART House 360 kicks off its Thursday night community series this week.",
+    "mainText": "There is plenty to do in town, starting with trivia at Hop Haus Brewing or Wisconsin Brewing Company today. Tomorrow, you can catch more trivia at The Bogey Factory or enjoy live music at Paddy Mac's, and be sure to check out the ART House 360 events starting this Thursday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-21",
-    "updateDate": "2026-10-21T02:10:27.601Z",
+    "updateDate": "2026-10-21T03:07:49.381Z",
     "titleText": "Verona Police Report",
-    "mainText": "In law enforcement updates, on Thursday afternoon, Verona Police arrested a school bus driver for operating while impaired near Whalen Road and Fairview Terrace. Alcohol was ruled out as a factor, and fortunately no injuries were reported.",
+    "mainText": "On October 15th, the Verona Police Department responded to reports of erratic driving and subsequently arrested a school bus driver for O W I. Officers confirmed no injuries occurred during the event and are continuing their investigation.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-21",
-    "updateDate": "2026-10-21T02:10:27.601Z",
+    "updateDate": "2026-10-21T03:07:49.381Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "To finish up, Culver's is featuring Devil's Food Cake as today's flavor of the day. The restaurant is open until 10:00 PM and closing soon, so head over shortly to grab your scoop.",
+    "mainText": "We have finished serving today's flavor, which was the rich Devil's Food Cake. The store is now closed, so please join us tomorrow starting at 10:00 AM, when we will be featuring the Chocolate Covered Strawberry flavor.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
