@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-21",
-    "updateDate": "2026-10-21T10:06:10.558Z",
+    "updateDate": "2026-10-21T11:06:24.033Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish. Over at Badger Prairie County Park, it is currently 43 degrees with clear skies. Note: Air quality is Moderate with an AQI of 71. Tonight we have a Waxing Gibbous. The ISS will be visible tonight starting at 5:45 AM for 3 minutes. Look for it rising in the West (over Mount Horeb) and traveling toward the Northeast (heading toward Madison near Home Depot), reaching about halfway up the sky.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: we are looking at 43 degrees with clear skies near the Military Ridge State Trail. Please be aware that the air quality is currently moderate with an index of 70, and the waxing gibbous moon is visible tonight.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-21",
-    "updateDate": "2026-10-21T10:06:10.558Z",
+    "updateDate": "2026-10-21T11:06:24.033Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Water.",
+    "mainText": "City news today focuses on the ongoing Mark Drive reconstruction. Phase two utility work is now finished, gravel bases are down, and concrete work is moving along on the west block. Additionally, remember that the city offers a helpful toilet rebate program and an Eye-On-Water monitoring tool to help manage your utility usage.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-21",
-    "updateDate": "2026-10-21T10:06:10.558Z",
+    "updateDate": "2026-10-21T11:06:24.033Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's Today at Paddy Mac's.",
+    "mainText": "We have a busy schedule of local happenings. Today, you can check out Trivia Night at The Bogey Factory or enjoy pizza and a pitcher at Lake Lou-ee. Tomorrow, make sure to visit ART House 360 for bar happy hours or catch Hop Haus Trivia. Later this week, Bailey's Run Vineyard will host live music on Thursday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-21",
-    "updateDate": "2026-10-21T10:06:10.558Z",
+    "updateDate": "2026-10-21T11:06:24.033Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
+    "mainText": "In our police report for the week, the department arrested a school bus driver for O W I on Wednesday, October 15, following reports of dangerous driving behavior while transporting students.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-21",
-    "updateDate": "2026-10-21T10:06:10.558Z",
+    "updateDate": "2026-10-21T11:06:24.033Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Culver's Flavor of the Day is Chocolate Covered Strawberry. The restaurant opens today at 10:00 AM.",
+    "mainText": "Today's delicious flavor is Chocolate Covered Strawberry. If you are planning a visit, the store opens today at 10:00 AM and will remain open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
