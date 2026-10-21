@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-21",
-    "updateDate": "2026-10-21T09:07:11.769Z",
+    "updateDate": "2026-10-21T10:06:10.558Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish. It is 44 degrees with clear skies by the Military Ridge State Trail, though note that our air quality is currently moderate with an index of 77. We have a Waxing Gibbous moon, and you can spot the International Space Station at 5:45 AM, rising in the west over Mount Horeb and traveling northeast toward the Home Depot near Madison, reaching about halfway up the sky.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish. Over at Badger Prairie County Park, it is currently 43 degrees with clear skies. Note: Air quality is Moderate with an AQI of 71. Tonight we have a Waxing Gibbous. The ISS will be visible tonight starting at 5:45 AM for 3 minutes. Look for it rising in the West (over Mount Horeb) and traveling toward the Northeast (heading toward Madison near Home Depot), reaching about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-21",
-    "updateDate": "2026-10-21T09:07:11.769Z",
+    "updateDate": "2026-10-21T10:06:10.558Z",
     "titleText": "Verona City News",
-    "mainText": "The city is moving ahead with phase two of the Mark Drive reconstruction, which includes new utility and roadway work, while the local toilet rebate program and the Eye-On-Water monitoring system remain available for residents.",
+    "mainText": "In city affairs, the latest update is: Water.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-21",
-    "updateDate": "2026-10-21T09:07:11.769Z",
+    "updateDate": "2026-10-21T10:06:10.558Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule for you today with live music at Paddy Mac's, yoga at Insight Wellness, pizza and a pitcher at Lake Lou-ee, and trivia at The Bogey Factory, followed by events like Hop Haus trivia and art bar happenings tomorrow.",
+    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's Today at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-21",
-    "updateDate": "2026-10-21T09:07:11.769Z",
+    "updateDate": "2026-10-21T10:06:10.558Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Wednesday, October 15, the Verona Police Department arrested a school bus driver for O W I after reports of dangerous driving, though thankfully no injuries occurred.",
+    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-21",
-    "updateDate": "2026-10-21T09:07:11.769Z",
+    "updateDate": "2026-10-21T10:06:10.558Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by for today's flavor of the day, which is Chocolate Covered Strawberry, as the store opens today at 10:00 AM.",
+    "mainText": "Today's Culver's Flavor of the Day is Chocolate Covered Strawberry. The restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
