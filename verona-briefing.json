@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-21",
-    "updateDate": "2026-10-21T05:05:52.689Z",
+    "updateDate": "2026-10-21T06:09:26.604Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. It is 46 degrees with clear skies at Reddan Soccer Park. The air quality index is at a moderate 77, and we are under a waxing gibbous moon. The International Space Station will be visible tonight starting at 5:45 AM, rising in the west near Mount Horeb and passing halfway up the sky toward the northeast near the Madison Home Depot.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: the temperature is a crisp 46 degrees under clear skies at Reddan Soccer Park, though we are under an air quality alert with an index of 77. Under the waxing gibbous moon, keep an eye out for the space station rising over Mount Horeb at 5:45 AM, which will travel toward Madison near the Home Depot and reach about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-21",
-    "updateDate": "2026-10-21T05:05:52.689Z",
+    "updateDate": "2026-10-21T06:09:26.604Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is moving forward with Phase 2 of the Mark Drive reconstruction. Crews have finished underground utility work and are currently wrapping up gravel base and concrete installations on the east block and Scheel Court. Also, remember that the city offers a toilet rebate program and an Eye-On-Water monitoring tool to help manage your utility usage.",
+    "mainText": "The City of Verona is offering a new toilet rebate program for property owners, while also encouraging residents to build rain gardens to help manage local flooding. You can also sign up for the Eye on Water program to track your usage and avoid leaks.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-21",
-    "updateDate": "2026-10-21T05:05:52.689Z",
+    "updateDate": "2026-10-21T06:09:26.604Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona. Today, enjoy live music at Paddy Mac's, yoga at Insight Wellness, trivia at The Bogey Factory, or Pizza and a Pitcher at Lake Lou-ee. Tomorrow, look forward to ART House 360 events and trivia at Hop Haus. Later this week, we also have live music at Bailey's Run and Lake Lou-ee, followed by the Dane County Farmer's Market on Friday.",
+    "mainText": "We have a busy week ahead. Today, enjoy live music at Paddy Mac's, yoga at Insight Wellness, or pizza and a pitcher at Lake Lou-ee. Tomorrow, check out Art House 360 or Hop Haus trivia, followed by more live music at Bailey's Run and Lake Lou-ee later this week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-21",
-    "updateDate": "2026-10-21T05:05:52.689Z",
+    "updateDate": "2026-10-21T06:09:26.604Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly report, the Verona Police Department responded to an incident on Wednesday, October 15, where a school bus driver was arrested for O W I after reports of dangerous driving. No injuries were reported, and the department is currently investigating the incident.",
+    "mainText": "On October 15, the Verona Police Department arrested a school bus driver for O W I after receiving reports of erratic driving while students were on board.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-21",
-    "updateDate": "2026-10-21T05:05:52.689Z",
+    "updateDate": "2026-10-21T06:09:26.604Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Chocolate Covered Strawberry. If you are planning a visit, please note that the store opens today at 10:00 AM and will remain open until 10:00 PM.",
+    "mainText": "Today's flavor of the day is Chocolate Covered Strawberry. The store opens today at 10:00 AM, so head over to enjoy a scoop before they close at 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
