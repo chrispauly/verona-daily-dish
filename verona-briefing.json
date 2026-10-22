@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-22",
-    "updateDate": "2026-10-22T21:06:19.971Z",
+    "updateDate": "2026-10-22T22:05:51.790Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. Over at Verona City Hall, it is currently 73 degrees with clear skies. Note: Air quality is Moderate with an AQI of 57.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: current temperatures are at 71 degrees with clear skies at Verona Community Park. Please be aware the air quality is currently moderate with an index of 60. Tonight, we will see a waxing gibbous moon, and the temperature will drop to an overnight low of 48 with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-22",
-    "updateDate": "2026-10-22T21:06:19.971Z",
+    "updateDate": "2026-10-22T22:05:51.790Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Finance Department.",
+    "mainText": "City Hall is busy with the upcoming plan commission meeting on November 4th, covering development proposals for Ardent Glen and Milky Way, while property tax bills are being prepared for a mid-December mailing.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-22",
-    "updateDate": "2026-10-22T21:06:19.971Z",
+    "updateDate": "2026-10-22T22:05:51.790Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
+    "mainText": "There is plenty to do in Verona! Today, you can participate in Yoga at Insight Wellness, ART House 360 Thursday night events, or Hop Haus Trivia. Looking ahead, catch live music at Bailey's Run Vineyard and Wisconsin Brewing Company tomorrow, followed by the Dane County Farmers' Market on Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-22",
-    "updateDate": "2026-10-22T21:06:19.971Z",
+    "updateDate": "2026-10-22T22:05:51.790Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
+    "mainText": "Regarding local public safety, the Verona Police Department reported an incident from October 15th, where a school bus driver was arrested for O W I, though thankfully no injuries were reported.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-22",
-    "updateDate": "2026-10-22T21:06:19.971Z",
+    "updateDate": "2026-10-22T22:05:51.790Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Dark Chocolate PB Crunch. The restaurant is open until 10:00 PM.",
+    "mainText": "Treat yourself to today's delicious flavor of the day, Dark Chocolate PB Crunch. The Verona Culver's is currently open and will be serving up scoops until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
