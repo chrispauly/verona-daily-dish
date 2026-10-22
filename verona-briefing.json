@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-22",
-    "updateDate": "2026-10-22T19:04:50.507Z",
+    "updateDate": "2026-10-22T20:06:22.015Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. It is a clear 72 degrees at Verona City Hall with an air quality index of 57, so keep that in mind if you are sensitive to the moderate air quality.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. We have clear skies at Verona Community Park with a temperature of 73 degrees, but be aware that the air quality index is 57.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-22",
-    "updateDate": "2026-10-22T19:04:50.507Z",
+    "updateDate": "2026-10-22T20:06:22.015Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that the Plan Commission will review several development projects on November 4th, including the Ardent Glen addition and site plans for 1979 Milky Way. Additionally, tax bill preparation is underway, with bills arriving by December 15th.",
+    "mainText": "In city news, the finance department has published the proposed 2027 budget and is preparing residents for property tax bills, which will be mailed by December 15. Additionally, the Plan Commission is set to review several development proposals on November 4th, including plans for Ardent Glen and new site maps for property on Milky Way.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-22",
-    "updateDate": "2026-10-22T19:04:50.507Z",
+    "updateDate": "2026-10-22T20:06:22.015Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona. Today, enjoy Yoga at Insight Wellness, ART House 360, or Hop Haus Trivia. Looking ahead, tomorrow features live music at Bailey's Run and Wisconsin Brewing Company, followed by the Dane County Farmer's Market this Saturday.",
+    "mainText": "It is a busy week for local events! Today, you can join Yoga at Insight Wellness, enjoy the Thursday night festivities at ART House 360, or participate in Hop Haus Trivia at 6:30 PM. Looking ahead, catch live music at Bailey's Run and Wisconsin Brewing Company tomorrow, and don't forget the Dane County Farmer's Market this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-22",
-    "updateDate": "2026-10-22T19:04:50.507Z",
+    "updateDate": "2026-10-22T20:06:22.015Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding public safety, the Verona Police Department reported that on Thursday, October 15th, an officer arrested a school bus driver for O W I after investigating reports of dangerous driving. No injuries were reported during the incident.",
+    "mainText": "In police news, on October 15, the Verona Police Department arrested a school bus driver for O W I following reports of dangerous driving while students were on board. Fortunately, no injuries were reported, and the department is continuing to investigate the incident.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-22",
-    "updateDate": "2026-10-22T19:04:50.507Z",
+    "updateDate": "2026-10-22T20:06:22.015Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "For dessert, Culver's of Verona is currently open and featuring the Peanut Butter Fudge Brownie as today's flavor of the day. They remain open until 10:00 PM this evening for your convenience.",
+    "mainText": "Today at Culver's, enjoy the Flavor of the Day, Dark Chocolate PB Crunch. The restaurant is currently open and will remain open until 10 PM tonight, so there is plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
