@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-22",
-    "updateDate": "2026-10-22T02:09:43.528Z",
+    "updateDate": "2026-10-22T03:14:23.189Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: skies are clear over Badger Ridge Middle School, though the air quality is a bit high with an index of 51. It is a waxing gibbous moon phase, and you can catch the space station pass at 4:59 AM as it rises over Mount Horeb and travels toward the Home Depot near Madison, reaching halfway up the sky. Expect an overnight low of 48 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. Over at Reddan Soccer Park, it is currently 54 degrees with clear skies. Note: Air quality is Moderate with an AQI of 51. The overnight low will be around 47 degrees, with rain unlikely. Tonight we have a Waxing Gibbous. The ISS will be visible tonight starting at 4:59 AM for 1 minutes. Look for it rising in the West (over Mount Horeb) and traveling toward the Northeast (heading toward Madison near Home Depot), reaching about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-22",
-    "updateDate": "2026-10-22T02:09:43.528Z",
+    "updateDate": "2026-10-22T03:14:23.189Z",
     "titleText": "Verona City News",
-    "mainText": "The City is busy with updates on the Mark Drive reconstruction project, where underground utility work is finished and new gravel is down. Meanwhile, the Senior Center reminds everyone to order their daily grab and go meals in advance, and residents can use the Eye on Water program to track usage.",
+    "mainText": "In city affairs, the latest update is: Nutrition.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-22",
-    "updateDate": "2026-10-22T02:09:43.528Z",
+    "updateDate": "2026-10-22T03:14:23.189Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with Trivia Night at The Bogey Factory today. Tomorrow, you can check out ART House 360 or trivia at Hop Haus. Later this week, enjoy music at Bailey's Run and Lake Lou-ee, followed by the Dane County Farmer's Market on the Square this Friday.",
+    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's Today at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-22",
-    "updateDate": "2026-10-22T02:09:43.528Z",
+    "updateDate": "2026-10-22T03:14:23.189Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 15, the Verona Police Department responded to an incident where a school bus driver was arrested for operating while impaired; however, no students or members of the public were injured during the event.",
+    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-22",
-    "updateDate": "2026-10-22T02:09:43.528Z",
+    "updateDate": "2026-10-22T03:14:23.189Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by for a scoop of today's Chocolate Covered Strawberry flavor, but be sure to head over soon as the restaurant closes in 50 minutes.",
+    "mainText": "Today's Culver's flavor was Chocolate Covered Strawberry. The restaurant is closed for the night and will open tomorrow at 10:00 AM featuring Dark Chocolate PB Crunch.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
