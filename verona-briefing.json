@@ -1,42 +1,42 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-10-21",
-    "updateDate": "2026-10-21T23:05:01.978Z",
+    "uid": "verona-balanced-weather-2026-10-22",
+    "updateDate": "2026-10-22T00:13:55.258Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. We have clear skies at Harriet Park with a temperature of 65 degrees, though the air quality is moderate at 53. The moon is in a waxing gibbous phase. You can catch the ISS passing overhead at 4:59 AM, rising in the west near Mount Horeb and heading toward the northeast near Madison. Overnight, temperatures will drop to 48 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. Over at Reddan Soccer Park, it is currently 62 degrees with clear skies. Note: Air quality is Moderate with an AQI of 52. The overnight low will be around 49 degrees, with rain unlikely. Tonight we have a Waxing Gibbous. The ISS will be visible tonight starting at 4:59 AM for 1 minutes. Look for it rising in the West (over Mount Horeb) and traveling toward the Northeast (heading toward Madison near Home Depot), reaching about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
-    "uid": "verona-balanced-news-2026-10-21",
-    "updateDate": "2026-10-21T23:05:01.978Z",
+    "uid": "verona-balanced-news-2026-10-22",
+    "updateDate": "2026-10-22T00:13:55.258Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Senior Center is inviting residents to order flexible, catered lunch options for dine-in or pick-up. Additionally, Phase 2 of the Mark Drive reconstruction project is ongoing with new gravel bases installed and asphalt work expected by mid-November.",
+    "mainText": "In city affairs, the latest update is: Nutrition.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
-    "uid": "verona-balanced-events-2026-10-21",
-    "updateDate": "2026-10-21T23:05:01.978Z",
+    "uid": "verona-balanced-events-2026-10-22",
+    "updateDate": "2026-10-22T00:13:55.258Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona. Today, enjoy yoga at Insight Wellness, pizza at Lake Lou-ee, or trivia at The Bogey Factory. Tomorrow, ART House 360 hosts various performances, and Hop Haus holds trivia at 6:30 PM. Looking further ahead, Bailey's Run and Lake Lou-ee have live music throughout the week.",
+    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's Today at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
-    "uid": "verona-balanced-police-2026-10-21",
-    "updateDate": "2026-10-21T23:05:01.978Z",
+    "uid": "verona-balanced-police-2026-10-22",
+    "updateDate": "2026-10-22T00:13:55.258Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, officers arrested a school bus driver for O W I on October 15 after receiving reports of dangerous driving behavior near Whalen Road and Fairview Terrace.",
+    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
-    "uid": "verona-balanced-culvers-2026-10-21",
-    "updateDate": "2026-10-21T23:05:01.978Z",
+    "uid": "verona-balanced-culvers-2026-10-22",
+    "updateDate": "2026-10-22T00:13:55.258Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Enjoy the featured flavor of the day, Chocolate Covered Strawberry. The store is currently open and will be serving guests until 10:00 PM tonight.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: Georgia Peach. The restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
