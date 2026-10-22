@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-22",
-    "updateDate": "2026-10-22T00:13:55.258Z",
+    "updateDate": "2026-10-22T01:17:20.739Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. Over at Reddan Soccer Park, it is currently 62 degrees with clear skies. Note: Air quality is Moderate with an AQI of 52. The overnight low will be around 49 degrees, with rain unlikely. Tonight we have a Waxing Gibbous. The ISS will be visible tonight starting at 4:59 AM for 1 minutes. Look for it rising in the West (over Mount Horeb) and traveling toward the Northeast (heading toward Madison near Home Depot), reaching about halfway up the sky.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have clear skies at Harriet Park with a temperature of 59 degrees and an air quality index of 52. The moon is in its Waxing Gibbous phase. If you are an early bird, the space station will be visible tomorrow morning starting at 4:59 AM, rising in the West over Mount Horeb and traveling toward the Northeast near the Home Depot, reaching halfway up the sky. Tonight's low will be 49 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-22",
-    "updateDate": "2026-10-22T00:13:55.258Z",
+    "updateDate": "2026-10-22T01:17:20.739Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Nutrition.",
+    "mainText": "The Mark Drive reconstruction project is moving along with utility work complete, and residents are reminded that the city offers an Eye-On-Water program to monitor usage. Additionally, the senior center is accepting meal orders daily.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-22",
-    "updateDate": "2026-10-22T00:13:55.258Z",
+    "updateDate": "2026-10-22T01:17:20.739Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's Today at Paddy Mac's.",
+    "mainText": "There is plenty to do in town today, including live music at Paddy Mac's, yoga at Insight Wellness, and trivia at The Bogey Factory. Looking ahead, ART House 360 opens tomorrow night, and Hop Haus hosts trivia tomorrow as well.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-22",
-    "updateDate": "2026-10-22T00:13:55.258Z",
+    "updateDate": "2026-10-22T01:17:20.739Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
+    "mainText": "On October 15, 2026, the Verona Police Department arrested a school bus driver for O W I after reports of dangerous driving behavior; no injuries were reported.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-22",
-    "updateDate": "2026-10-22T00:13:55.258Z",
+    "updateDate": "2026-10-22T01:17:20.739Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Georgia Peach. The restaurant is open until 10:00 PM.",
+    "mainText": "Today's delicious flavor of the day is Chocolate Covered Strawberry. The store is currently open and will remain open until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
