@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-22",
-    "updateDate": "2026-10-22T11:05:52.644Z",
+    "updateDate": "2026-10-22T12:09:32.688Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: we have fair conditions with temperatures sitting at 70 degrees near Reddan Soccer Park. Keep an eye on the sky tonight, as the ISS will be visible for five minutes starting at 6:32 AM, rising in the northwest over Verona High School and traveling toward the northeast near Home Depot.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: it is 44 degrees and clear at Verona Community Park, with the air quality index at a moderate 52 and a beautiful Waxing Gibbous moon to start the morning.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-22",
-    "updateDate": "2026-10-22T11:05:52.644Z",
+    "updateDate": "2026-10-22T12:09:32.688Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center is reminding everyone that they offer daily meal options prepared by TNT Catering. You can order grab and go meals for pick up or dine in, or sign up for home delivered meals by contacting their office. Additionally, the Mark Drive reconstruction project is moving along with utility work complete and concrete work currently underway.",
+    "mainText": "City news today includes the Senior Center offering nutritious meal programs for our residents, plus ongoing updates on the Mark Drive reconstruction project where utility work is finished and concrete work continues on the west block.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-22",
-    "updateDate": "2026-10-22T11:05:52.644Z",
+    "updateDate": "2026-10-22T12:09:32.688Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty happening in the area! Today you can visit Insight Wellness for yoga, stop by ART House 360 for their Thursday night series, or head to Hop Haus for trivia. Looking ahead, Bailey's Run and Lake Lou-ee have live music starting tomorrow, and the Dane County Farmers' Market returns to the square this Friday.",
+    "mainText": "There is plenty to do with Yoga at Insight Wellness happening today, plus ART House 360 and Hop Haus trivia rounds out your evening, while tomorrow features live music at Bailey's Run and Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-22",
-    "updateDate": "2026-10-22T11:05:52.644Z",
+    "updateDate": "2026-10-22T12:09:32.688Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported that on Thursday, October 15, they arrested a school bus driver for O W I after receiving a report of dangerous driving. Thankfully, there were no injuries reported during the incident.",
+    "mainText": "Regarding local safety, the Verona Police Department reported an incident from Thursday, October 15, where a school bus driver was arrested for O W I during transport, though fortunately no injuries were reported.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-22",
-    "updateDate": "2026-10-22T11:05:52.644Z",
+    "updateDate": "2026-10-22T12:09:32.688Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day at Culver's of Verona is Dark Chocolate PB Crunch. The restaurant is currently closed but will open today at 10:00 AM, so make sure to stop by and enjoy a treat.",
+    "mainText": "For dessert, today's flavor of the day is Dark Chocolate PB Crunch and the restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
