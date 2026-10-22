@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-22",
-    "updateDate": "2026-10-22T14:06:20.731Z",
+    "updateDate": "2026-10-22T15:06:52.079Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, it is a clear 50 degrees at Verona Area High School with a moderate air quality alert in effect.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. Over at Reddan Soccer Park, it is currently 56 degrees with clear skies. Note: Air quality is Moderate with an AQI of 55.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-22",
-    "updateDate": "2026-10-22T14:06:20.731Z",
+    "updateDate": "2026-10-22T15:06:52.079Z",
     "titleText": "Verona City News",
-    "mainText": "The city has two important updates. First, the Senior Center is offering flexible, catered meal options for seniors that you can pick up daily. Second, construction on the Mark Drive reconstruction project is moving along, with underground utility work finished and concrete work currently underway.",
+    "mainText": "In city affairs, the latest update is: Finance Department.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-22",
-    "updateDate": "2026-10-22T14:06:20.731Z",
+    "updateDate": "2026-10-22T15:06:52.079Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community. Today, you can join Yoga at Insight Wellness, check out the creativity at ART House 360, or participate in Hop Haus Trivia. Tomorrow, look forward to live music at Bailey's Run and Lake Lou-ee.",
+    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-22",
-    "updateDate": "2026-10-22T14:06:20.731Z",
+    "updateDate": "2026-10-22T15:06:52.079Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported that on Thursday, October 15, an officer arrested a school bus driver for O W I after a report of dangerous driving behavior.",
+    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-22",
-    "updateDate": "2026-10-22T14:06:20.731Z",
+    "updateDate": "2026-10-22T15:06:52.079Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Dark Chocolate PB Crunch. The store opens today at 10:00 AM, so be sure to stop by and enjoy a scoop.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: Dark Chocolate PB Crunch. The restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
