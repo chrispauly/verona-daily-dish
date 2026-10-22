@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-22",
-    "updateDate": "2026-10-22T05:06:15.371Z",
+    "updateDate": "2026-10-22T06:09:34.336Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we have clear skies at Reddan Soccer Park and a waxing gibbous moon, and you can spot the ISS passing over from Mount Horeb towards Madison around 4:59 AM, appearing about halfway up the sky.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: it is 49 degrees with clear skies at the Verona Public Library under a waxing gibbous moon. Keep an eye out for the ISS tonight at 4:59 AM as it travels from Mount Horeb toward the Madison area, visible about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-22",
-    "updateDate": "2026-10-22T05:06:15.371Z",
+    "updateDate": "2026-10-22T06:09:34.336Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Senior Center invites you to order their nutritious grab and go or home-delivered meals, with deadlines set for the previous Wednesday. Meanwhile, the city continues work on the Mark Drive reconstruction, having recently completed utility tasks on the west block, with surface paving planned for next spring.",
+    "mainText": "The Verona Senior Center is offering flexible daily meal options for anyone interested, with orders due by the previous Wednesday. Also, the city is reminding residents about the Mark Drive reconstruction project where utility work is finished and concrete work is currently underway.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-22",
-    "updateDate": "2026-10-22T05:06:15.371Z",
+    "updateDate": "2026-10-22T06:09:34.336Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule today with Yoga at Insight Wellness, Art House 360 Thursday nights, and Hop Haus Trivia. Looking ahead, enjoy live music tomorrow at Bailey's Run Vineyard or Wisconsin Brewing Company, followed by the Dane County Farmers' Market on October 24.",
+    "mainText": "Today you can enjoy Yoga at Insight Wellness or catch trivia at Hop Haus. Looking ahead, tomorrow features live music at Bailey's Run and Wisconsin Brewing Company, followed by the Dane County Farmers Market on Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-22",
-    "updateDate": "2026-10-22T05:06:15.371Z",
+    "updateDate": "2026-10-22T06:09:34.336Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 15, the Verona Police Department successfully arrested a school bus driver for O W I after reports of dangerous driving, though thankfully no injuries were reported.",
+    "mainText": "On Thursday, October 15, the Verona Police Department arrested a school bus driver for O W I after reports of dangerous driving. No injuries were reported, and the case remains under investigation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-22",
-    "updateDate": "2026-10-22T05:06:15.371Z",
+    "updateDate": "2026-10-22T06:09:34.336Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Dark Chocolate PB Crunch, and the store opens today at 10:00 AM, so be sure to stop by and satisfy your sweet tooth.",
+    "mainText": "Today's flavor of the day is the delightful Dark Chocolate PB Crunch. The restaurant will be ready to serve you when it opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
