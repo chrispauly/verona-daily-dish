@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-22",
-    "updateDate": "2026-10-22T17:05:15.544Z",
+    "updateDate": "2026-10-22T18:07:32.719Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we have clear skies at Verona Community Park, though please note an elevated air quality alert with an index of 56.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. Over at Military Ridge State Trail, it is currently 70 degrees with clear skies. Note: Air quality is Moderate with an AQI of 57.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-22",
-    "updateDate": "2026-10-22T17:05:15.544Z",
+    "updateDate": "2026-10-22T18:07:32.719Z",
     "titleText": "Verona City News",
-    "mainText": "City officials are busy with preparations for the upcoming tax season, reminding residents that tax bills will be mailed no later than December 15th, while the Plan Commission prepares for a November 4th meeting to review new residential and site plan developments.",
+    "mainText": "In city affairs, the latest update is: Finance Department.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-22",
-    "updateDate": "2026-10-22T17:05:15.544Z",
+    "updateDate": "2026-10-22T18:07:32.719Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town, starting today with Yoga at Insight Wellness, ART House 360 events, and trivia at Hop Haus Brewing at 6:30 PM. Looking ahead, you can catch live music tomorrow at Bailey's Run Vineyard and the Wisconsin Brewing Company.",
+    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-22",
-    "updateDate": "2026-10-22T17:05:15.544Z",
+    "updateDate": "2026-10-22T18:07:32.719Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from last Thursday, October 15th, the Verona Police Department arrested a school bus driver for O W I after receiving reports of dangerous driving behavior while students were on board.",
+    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-22",
-    "updateDate": "2026-10-22T17:05:15.544Z",
+    "updateDate": "2026-10-22T18:07:32.719Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is the delicious Dark Chocolate PB Crunch, and since the restaurant is open and serving until 10:00 PM, you have plenty of time to stop by for a scoop.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: Dark Chocolate PB Crunch. The restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
