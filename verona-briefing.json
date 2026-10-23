@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-23",
-    "updateDate": "2026-10-23T22:05:33.455Z",
+    "updateDate": "2026-10-23T23:05:22.865Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: skies are clear at Fireman's Park with a temperature of 69 degrees, though the air quality index is at a moderate 82. The ISS passes overhead tonight, but you won't be able to see it due to the clouds. Tonight's low will be 51 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. It is 65 degrees with clear skies near the Military Ridge State Trail, but we have a moderate air quality alert with an index of 82. The ISS will pass overhead tonight, but you will not be able to see it due to the clouds. Tonight's low will reach 51 degrees, and no rain is expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-23",
-    "updateDate": "2026-10-23T22:05:33.455Z",
+    "updateDate": "2026-10-23T23:05:22.865Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has released information regarding the upcoming Plan Commission meeting on November 4th, which will cover various site plans and plat proposals, including projects at Ardent Glen and Milky Way. Additionally, residents can look forward to property tax bills arriving by December 15th.",
+    "mainText": "City officials are busy with the upcoming November 4th Plan Commission meeting, which will cover several proposals including a final plat for 80 lots at Ardent Glen, certified survey maps for Jenna Drive and Range Trail, and a site plan for 1979 Milky Way.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-23",
-    "updateDate": "2026-10-23T22:05:33.455Z",
+    "updateDate": "2026-10-23T23:05:22.865Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Live music is playing at Bailey's Run today and Wisconsin Brewing Company today, followed by the Dane County Farmers' Market and music at Paddy Mac's tomorrow.",
+    "mainText": "There is plenty to do in the area, starting with live music today at Bailey's Run Vineyard and Lake Lou-ee. Tomorrow, you can head downtown for the Dane County Farmer's Market or catch music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-23",
-    "updateDate": "2026-10-23T22:05:33.455Z",
+    "updateDate": "2026-10-23T23:05:22.865Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department issued a report regarding an incident on Thursday, October 15th, where a school bus driver was arrested for operating while impaired. No injuries were reported to any students or bystanders.",
+    "mainText": "On October 15th, the Verona Police Department arrested a school bus driver for O W I after reports of dangerous driving. No injuries were reported, and the department is currently investigating a possible collision with a traffic sign.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-23",
-    "updateDate": "2026-10-23T22:05:33.455Z",
+    "updateDate": "2026-10-23T23:05:22.865Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Peanut Butter Fudge Brownie. The restaurant is currently open, so feel free to stop by before they close at 10:30 PM.",
+    "mainText": "Today's flavor of the day is the delicious Crazy for Cookie Dough. Culver's is currently open and will be serving up treats until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
