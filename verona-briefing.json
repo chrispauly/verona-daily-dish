@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-23",
-    "updateDate": "2026-10-23T17:04:41.514Z",
+    "updateDate": "2026-10-23T18:07:05.810Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish. It is a clear 67 degrees at Fireman's Park with an air quality index of 77, which is in the moderate range today.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. We have clear skies at Verona Area High School with a temperature of 69 degrees and a moderate air quality index of 78.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-23",
-    "updateDate": "2026-10-23T17:04:41.514Z",
+    "updateDate": "2026-10-23T18:07:05.810Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is hosting a Plan Commission meeting on November 4th to discuss several projects including the Ardent Glen Third Addition and site plans for Milky Way. Additionally, residents are reminded that property tax bills will be mailed by December 15th.",
+    "mainText": "In city news, the Finance Department has released the 2027 proposed budget and 2025 financial statements online. Additionally, the Plan Commission will meet on November 4th at 6:30 p.m. to discuss developments including Ardent Glen, Jenna Drive, and a site plan for 1979 Milky Way.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-23",
-    "updateDate": "2026-10-23T17:04:41.514Z",
+    "updateDate": "2026-10-23T18:07:05.810Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today features live music at Bailey's Run Vineyard and the Wisconsin Brewing Company. Looking ahead, the Dane County Farmer's Market is tomorrow, followed by trivia nights starting Monday at the Hop Haus and Wisconsin Brewing Company.",
+    "mainText": "We have a packed schedule with live music at Bailey's Run Vineyard and the Wisconsin Brewing Company today, followed by the Dane County Farmer's Market tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-23",
-    "updateDate": "2026-10-23T17:04:41.514Z",
+    "updateDate": "2026-10-23T18:07:05.810Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department released a report regarding an incident on Thursday October 15th, where officers arrested a school bus driver for O W I. Authorities confirmed that no students or bystanders were injured during the incident.",
+    "mainText": "Regarding local safety, on October 15, the Verona Police Department arrested a school bus driver for O W I after reports of dangerous driving.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-23",
-    "updateDate": "2026-10-23T17:04:41.514Z",
+    "updateDate": "2026-10-23T18:07:05.810Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Peanut Butter Fudge Brownie. Culver's is currently open and serving until 10:30 PM tonight, so stop by and grab a scoop.",
+    "mainText": "Today's flavor of the day at Culver's is Peanut Butter Fudge Brownie. The restaurant is currently open, so stop by anytime before they close at 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
