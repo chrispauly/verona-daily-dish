@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-23",
-    "updateDate": "2026-10-23T15:06:23.415Z",
+    "updateDate": "2026-10-23T16:06:26.506Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: the temperature is 59 degrees at Badger Prairie County Park with clear skies, though please be aware of the elevated air quality.",
+    "mainText": "Hello, Verona! At 11 AM, we are seeing clear skies near the Verona Public Library with a temperature of 64 degrees, but please be aware the air quality index is elevated at 76.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-23",
-    "updateDate": "2026-10-23T15:06:23.415Z",
+    "updateDate": "2026-10-23T16:06:26.506Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Plan Commission has an agenda for November 4th including a final plat for 80 lots at Ardent Glen and site plans for the 1979 Milky Way development. Also, property tax bills will arrive by December 15th.",
+    "mainText": "The City of Verona is currently reviewing development projects including the Ardent Glen third addition and new site plans on Milky Way, while property tax bills are expected in your mail by December 15th.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-23",
-    "updateDate": "2026-10-23T15:06:23.415Z",
+    "updateDate": "2026-10-23T16:06:26.506Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy time in Verona with live music at Bailey's Run and Wisconsin Brewing Company today, followed by the Dane County Farmers' Market and music at Paddy Mac's tomorrow.",
+    "mainText": "Enjoy live music at Bailey's Run and Lake Lou-ee today, followed by the Dane County Farmers Market and music at Paddy Mac's tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-23",
-    "updateDate": "2026-10-23T15:06:23.415Z",
+    "updateDate": "2026-10-23T16:06:26.506Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported that on Thursday, October 15th, they arrested a school bus driver for operating a vehicle while impaired after receiving reports of dangerous driving.",
+    "mainText": "The Verona Police Department reported that on Thursday, October 15th, they arrested a school bus driver for O W I after receiving reports of dangerous driving behavior.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-23",
-    "updateDate": "2026-10-23T15:06:23.415Z",
+    "updateDate": "2026-10-23T16:06:26.506Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Peanut Butter Fudge Brownie. The Culver's of Verona is open until 10:30 PM tonight, so there is plenty of time to stop by for a treat.",
+    "mainText": "Today's flavor of the day is Peanut Butter Fudge Brownie, and since the restaurant is open until 10:30 PM, you have plenty of time to stop in for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
