@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-24",
-    "updateDate": "2026-10-24T01:18:18.380Z",
+    "updateDate": "2026-10-24T02:08:12.055Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. Temperatures are at 60 degrees under clear skies along the Military Ridge State Trail. The air quality index is at 82, so keep that in mind. We have a waxing gibbous moon, and while the ISS passes overhead tonight, we will not be able to see it due to the clouds. Tonight will cool down to a low of 53 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. Over at Harriet Park, it is currently 59 degrees with overcast skies. Note: Air quality is Moderate with an AQI of 82. The overnight low will be around 53 degrees, with rain unlikely. Tonight we have a Waxing Gibbous. The ISS will pass overhead tonight starting at 5:01 AM for 1 minutes, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-24",
-    "updateDate": "2026-10-24T01:18:18.380Z",
+    "updateDate": "2026-10-24T02:08:12.055Z",
     "titleText": "Verona City News",
-    "mainText": "City Hall is busy with the upcoming November 4 Plan Commission meeting. Officials will review several proposals, including the Ardent Glen development and a new site plan at 1979 Milky Way. Additionally, tax bills will be mailed out by December 15, and residents are reminded of the two-installment payment options available through the City Treasurer.",
+    "mainText": "In city affairs, the latest update is: Finance Department.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-24",
-    "updateDate": "2026-10-24T01:18:18.380Z",
+    "updateDate": "2026-10-24T02:08:12.055Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today features live music at Bailey's Run and Lake Lou-ee. Tomorrow, the Dane County Farmers' Market returns to the Square in Madison, and Paddy Mac's continues its music series. Looking further ahead, mark your calendar for trivia nights at various local venues starting next week.",
+    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Bailey's Run Today at Bailey's Run Vineyard.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-24",
-    "updateDate": "2026-10-24T01:18:18.380Z",
+    "updateDate": "2026-10-24T02:08:12.055Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 15, the Verona Police Department responded to a report of dangerous driving involving a school bus. Officers successfully arrested the driver for O W I. No injuries were reported, and the department is currently investigating a potential collision with a traffic sign.",
+    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-24",
-    "updateDate": "2026-10-24T01:18:18.380Z",
+    "updateDate": "2026-10-24T02:08:12.055Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Our flavor of the day is the delicious Peanut Butter Fudge Brownie. Culver's of Verona is currently open and serving until 10:30 PM tonight, so stop by soon to grab a treat before we close.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: Peanut Butter Fudge Brownie. The restaurant is open until 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
