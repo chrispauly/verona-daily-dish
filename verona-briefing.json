@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-24",
-    "updateDate": "2026-10-24T02:08:12.055Z",
+    "updateDate": "2026-10-24T03:06:46.210Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. Over at Harriet Park, it is currently 59 degrees with overcast skies. Note: Air quality is Moderate with an AQI of 82. The overnight low will be around 53 degrees, with rain unlikely. Tonight we have a Waxing Gibbous. The ISS will pass overhead tonight starting at 5:01 AM for 1 minutes, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. It is 57 degrees at Verona City Hall with a waxing gibbous moon, an air quality index of 82, and the ISS passes overhead, though you won't be able to see it due to the clouds. The overnight low will be 52 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-24",
-    "updateDate": "2026-10-24T02:08:12.055Z",
+    "updateDate": "2026-10-24T03:06:46.210Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Finance Department.",
+    "mainText": "The City of Verona is accepting feedback on several developments, including the Ardent Glen subdivision and site plans for Milky Way, which will be discussed on November 4th. Additionally, residents are reminded that tax bills will arrive by December 15th.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-24",
-    "updateDate": "2026-10-24T02:08:12.055Z",
+    "updateDate": "2026-10-24T03:06:46.210Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Bailey's Run Today at Bailey's Run Vineyard.",
+    "mainText": "There is plenty to do in Verona, starting with live music today at Bailey's Run. Tomorrow, visit the Dane County Farmer's Market at the Capitol or enjoy the music series at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-24",
-    "updateDate": "2026-10-24T02:08:12.055Z",
+    "updateDate": "2026-10-24T03:06:46.210Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
+    "mainText": "On October 15th, the Verona Police Department responded to a report of dangerous driving and arrested a bus driver for operating while impaired, also known as O W I.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-24",
-    "updateDate": "2026-10-24T02:08:12.055Z",
+    "updateDate": "2026-10-24T03:06:46.210Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Peanut Butter Fudge Brownie. The restaurant is open until 10:30 PM.",
+    "mainText": "Today's flavor of the day is Peanut Butter Fudge Brownie. The store is currently open but will be closing soon in 24 minutes, so be sure to stop by before they shut their doors for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
