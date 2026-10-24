@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-24",
-    "updateDate": "2026-10-24T06:09:12.931Z",
+    "updateDate": "2026-10-24T07:08:48.067Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish. It is 55 degrees at Verona Community Park with clear skies, but keep in mind the air quality index is at 80. The moon is a waxing gibbous, and while the space station will pass overhead, you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish. We are seeing 54 degrees at Verona Community Park under clear skies with a waxing gibbous moon, though the air quality index is at 79. The International Space Station will pass overhead tonight, but you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-24",
-    "updateDate": "2026-10-24T06:09:12.931Z",
+    "updateDate": "2026-10-24T07:08:48.067Z",
     "titleText": "Verona City News",
-    "mainText": "The city has proposed the 2027 budget and is preparing for a November 4th plan commission meeting where they will review projects such as the Ardent Glen addition and site plans for Milky Way and Range Trail.",
+    "mainText": "The City of Verona has several projects under review, including an Ardent Glen addition and site plans for Milky Way and Liberty Business Park, with a Plan Commission meeting scheduled for November 4th. Additionally, property tax bills will be mailed by December 15th.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-24",
-    "updateDate": "2026-10-24T06:09:12.931Z",
+    "updateDate": "2026-10-24T07:08:48.067Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy weekend ahead with the Dane County Farmers Market today, plus live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company. Looking ahead, yoga begins on October 26, and trivia nights return on October 27 and 28.",
+    "mainText": "There is plenty to do with the Dane County Farmers Market happening today, alongside live music today at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company. Looking ahead, you can catch yoga on October 26th, trivia at Hop Haus and Lake Lou-ee on October 27th, and more trivia and pizza events on October 28th.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-24",
-    "updateDate": "2026-10-24T06:09:12.931Z",
+    "updateDate": "2026-10-24T07:08:48.067Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 15, the Verona Police Department arrested a school bus driver for O W I. Officers located the bus near Whalen Road and Fairview Terrace, and thankfully, no students or members of the public were injured during the incident.",
+    "mainText": "On October 15th, the Verona Police Department arrested a school bus driver for O W I following a report of dangerous driving, though no injuries were reported.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-24",
-    "updateDate": "2026-10-24T06:09:12.931Z",
+    "updateDate": "2026-10-24T07:08:48.067Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day for a scoop of Turtle flavor. The shop is currently closed, but they will be ready to serve you when they open today at 10:00 AM.",
+    "mainText": "Today's flavor is the delicious Turtle, and the shop opens today at 10:00 AM so you can satisfy your craving.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
