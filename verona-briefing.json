@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-25",
-    "updateDate": "2026-10-25T16:05:44.170Z",
+    "updateDate": "2026-10-25T17:05:00.120Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: expect overcast skies with a temperature of 64 degrees around Badger Ridge Middle School.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish. Over at Verona Public Library, it is currently 67 degrees with mainly clear skies.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-25",
-    "updateDate": "2026-10-25T16:05:44.170Z",
+    "updateDate": "2026-10-25T17:05:00.120Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Finance Department has published the proposed 2027 annual budget. You can review the full budget documents and 2025 financial statements on the city website or visit City Hall on Lincoln Street during their business hours.",
+    "mainText": "In city affairs, the latest update is: Finance Department.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-25",
-    "updateDate": "2026-10-25T16:05:44.170Z",
+    "updateDate": "2026-10-25T17:05:00.120Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule! Today features live music at both Bailey's Run and Wisconsin Brewing Company. Tomorrow, check out yoga at Insight Wellness, and mark your calendars for trivia starting this Monday at Hop Haus and Lake Lou-ee.",
+    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Bailey's Run Today at Bailey's Run Vineyard.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-25",
-    "updateDate": "2026-10-25T16:05:44.170Z",
+    "updateDate": "2026-10-25T17:05:00.120Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Wednesday, October 15, the Verona Police Department arrested a school bus driver for O W I. Fortunately, no injuries were reported, and the department is currently investigating a collision with a traffic sign.",
+    "mainText": "From the police department weekly log: on Thursday, Incident Date October 15 2026Release Date October 15 2026Incident number VE26099.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-25",
-    "updateDate": "2026-10-25T16:05:44.170Z",
+    "updateDate": "2026-10-25T17:05:00.120Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delicious Snickers Swirl. The store is currently open and will remain open until 10:00 PM tonight, so stop by and enjoy a scoop.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: Snickers Swirl. The restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
