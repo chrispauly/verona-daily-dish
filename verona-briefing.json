@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-10-24",
-    "updateDate": "2026-10-24T23:04:48.859Z",
+    "uid": "verona-balanced-weather-2026-10-25",
+    "updateDate": "2026-10-25T00:16:12.036Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. We have clear skies at Badger Prairie County Park tonight with a full moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds. The temperature will dip to an overnight low of 53 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 7 PM, we have clear skies with a full moon visible over Verona City Hall. The ISS will pass overhead tonight, but you will not be able to see it due to the clouds. Overnight, temperatures will drop to 53 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-10-24",
-    "updateDate": "2026-10-24T23:04:48.859Z",
+    "uid": "verona-balanced-news-2026-10-25",
+    "updateDate": "2026-10-25T00:16:12.036Z",
     "titleText": "Verona City News",
-    "mainText": "City officials are busy preparing for upcoming meetings. On November 4th at 6:30 PM, the Plan Commission will review developments including the Ardent Glen third addition, site plans for 1979 Milky Way, and various certified survey maps.",
+    "mainText": "The City of Verona has released information regarding the upcoming Plan Commission meeting on November 4th. Proposals include the Ardent Glen development, site plans for 1979 Milky Way, and various certified survey maps. Additionally, property tax bills will be mailed by December 15th.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-10-24",
-    "updateDate": "2026-10-24T23:04:48.859Z",
+    "uid": "verona-balanced-events-2026-10-25",
+    "updateDate": "2026-10-25T00:16:12.036Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy day for local fun! Today you can visit the Dane County Farmers Market or catch live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking ahead, you can enjoy yoga at Insight Wellness on October 26th or trivia nights starting October 27th.",
+    "mainText": "There is plenty to do in our area. Today, you can visit the Dane County Farmers Market or catch live music at Bailey's Run, Paddy Mac's, and Wisconsin Brewing Company. Looking ahead, yoga is scheduled at Insight Wellness on October 26th, and trivia nights are happening at local favorites throughout next week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-10-24",
-    "updateDate": "2026-10-24T23:04:48.859Z",
+    "uid": "verona-balanced-police-2026-10-25",
+    "updateDate": "2026-10-25T00:16:12.036Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported an incident from October 15th, where a school bus driver was arrested for O W I. Officers confirmed that alcohol was not a factor, and no students were injured during the event.",
+    "mainText": "On October 15th, the Verona Police Department arrested a school bus driver for O W I. Officers identified the driver after receiving reports of dangerous behavior, and although a traffic sign was struck, no injuries were reported.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-10-24",
-    "updateDate": "2026-10-24T23:04:48.859Z",
+    "uid": "verona-balanced-culvers-2026-10-25",
+    "updateDate": "2026-10-25T00:16:12.036Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by for a scoop of today's flavor, Turtle. We are currently open until our closing time of 10:30 PM, so there is plenty of time to grab a treat this evening.",
+    "mainText": "Today's delicious flavor of the day at Culver's is Turtle. The restaurant is currently open for business until their closing time of 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
