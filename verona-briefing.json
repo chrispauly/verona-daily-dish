@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-25",
-    "updateDate": "2026-10-25T10:05:15.939Z",
+    "updateDate": "2026-10-25T11:05:18.529Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish. We are seeing overcast skies and 54 degrees at Badger Prairie County Park under a full moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: we are seeing 53 degrees with overcast skies near Badger Ridge Middle School and the full moon is visible for early risers.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-25",
-    "updateDate": "2026-10-25T10:05:15.939Z",
+    "updateDate": "2026-10-25T11:05:18.529Z",
     "titleText": "Verona City News",
-    "mainText": "City officials are reviewing several development projects this week, including the final plat for Ardent Glen and site plans at 1979 Milky Way. Also, remember that property tax bills will be mailed out by December 15.",
+    "mainText": "City updates include important tax information as property tax bills will be mailed by December 15th, and the Plan Commission is meeting on November 4th to discuss several developments including projects at Ardent Glen and 1979 Milky Way.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-25",
-    "updateDate": "2026-10-25T10:05:15.939Z",
+    "updateDate": "2026-10-25T11:05:18.529Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule with live music at Bailey's Run Vineyard today, followed by yoga at Insight Wellness tomorrow and several trivia nights occurring throughout the week.",
+    "mainText": "Enjoy a variety of local entertainment including Live Music at Bailey's Run today, Yoga at Insight Wellness tomorrow, and several trivia nights starting on October 27th.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-25",
-    "updateDate": "2026-10-25T10:05:15.939Z",
+    "updateDate": "2026-10-25T11:05:18.529Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported an incident on October 15 where a school bus driver was arrested for O W I after officers received reports of dangerous driving behavior.",
+    "mainText": "Regarding the weekly police report, an incident occurred on October 15th where a school bus driver was arrested for O W I after reports of dangerous driving, though no injuries were reported.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-25",
-    "updateDate": "2026-10-25T10:05:15.939Z",
+    "updateDate": "2026-10-25T11:05:18.529Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy the Snickers Swirl flavor of the day at Culver's, which opens today at 10:00 AM.",
+    "mainText": "The Culver's flavor of the day is Snickers Swirl, and the restaurant will open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
