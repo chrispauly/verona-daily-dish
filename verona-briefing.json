@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-26",
-    "updateDate": "2026-10-26T16:09:14.710Z",
+    "updateDate": "2026-10-26T17:06:41.371Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: it is 54 degrees under overcast skies at Fireman's Park with a full moon visible tonight.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish. We are seeing overcast skies at Reddan Soccer Park with a temperature of 56 degrees that feels more like 47 degrees out there today.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-26",
-    "updateDate": "2026-10-26T16:09:14.710Z",
+    "updateDate": "2026-10-26T17:06:41.371Z",
     "titleText": "Verona City News",
-    "mainText": "The city is currently processing the proposed 2027 annual budget while the Plan Commission prepares to review various local developments, including plats and site plans, on November 4th.",
+    "mainText": "The latest Verona city news recap highlights several recent police calls, including traffic citations, domestic disturbances, and business assistance calls reported throughout the week.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-26",
-    "updateDate": "2026-10-26T16:09:14.710Z",
+    "updateDate": "2026-10-26T17:06:41.371Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule ahead starting with yoga today, followed by multiple trivia nights tomorrow, Wednesday, and Thursday, plus the community Trick or Treat event on October 29th.",
+    "mainText": "There is plenty to do in our community. We have Yoga at Insight Wellness today, followed by several trivia nights and live music options starting tomorrow, plus our Main Street Trick or Treat event coming up on October 29.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-26",
-    "updateDate": "2026-10-26T16:09:14.710Z",
+    "updateDate": "2026-10-26T17:06:41.371Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Thursday, October 15th, the Verona Police Department arrested a school bus driver for O W I following a report of erratic driving while transporting students.",
+    "mainText": "In a notable report from October 25, Verona police officers responded to an intersection where they discovered a driver passed out and subsequently conducted an arrest for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-26",
-    "updateDate": "2026-10-26T16:09:14.710Z",
+    "updateDate": "2026-10-26T17:06:41.371Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Pumpkin Pecan and the restaurant is currently open, so feel free to stop by anytime before they close at 10:00 PM.",
+    "mainText": "Culver's of Verona is currently open until 10 PM tonight, and they are serving up the delicious Pumpkin Pecan flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
