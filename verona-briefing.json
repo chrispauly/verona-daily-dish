@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-26",
-    "updateDate": "2026-10-26T10:09:28.437Z",
+    "updateDate": "2026-10-26T11:06:06.240Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish. Over near Fireman's Park, it is currently 50 degrees with overcast skies, feeling like 43 degrees. Tonight features a full moon, and although the International Space Station passes overhead tonight, you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: it is 50 degrees with overcast skies near the Verona Public Library. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-26",
-    "updateDate": "2026-10-26T10:09:28.437Z",
+    "updateDate": "2026-10-26T11:06:06.240Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Plan Commission is set to review multiple development projects on Wednesday, November 4th, including the Ardent Glen addition and pending plans for Sub-Zero. Also, property tax bills will be mailed out by December 15th, with payment options available online, by mail, or via drop boxes.",
+    "mainText": "The Finance Department has released the 2027 proposed budget for public review. Additionally, the Plan Commission is set to meet on November 4th to discuss various development projects, including the Ardent Glen third addition and new site plans for Milky Way.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-26",
-    "updateDate": "2026-10-26T10:09:28.437Z",
+    "updateDate": "2026-10-26T11:06:06.240Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at local events, you can attend drop-in Yoga at Insight Wellness today. Tomorrow brings Hop Haus Trivia and Quizmasters Trivia at Lake Lou-ee, and mark your calendars for the Main Street Trick or Treat on Thursday, October 29th.",
+    "mainText": "Today you can join Yoga at Insight Wellness. Tomorrow features Hop Haus Trivia and Quizmasters Trivia at Wisconsin Brewing Company. Looking ahead, Wednesday has pizza and a pitcher at Lake Lou-ee plus trivia at the Bogey Factory, followed by the Main Street Trick or Treat and Art House 360 this Thursday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-26",
-    "updateDate": "2026-10-26T10:09:28.437Z",
+    "updateDate": "2026-10-26T11:06:06.240Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly police recap, Verona Police arrested a school bus driver on Thursday afternoon for an O W I after receiving reports of dangerous driving. No students or bystanders were injured, and police are continuing to investigate the situation.",
+    "mainText": "On October 15, the Verona Police Department arrested a school bus driver for O W I following a report of dangerous driving; no injuries were reported.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-26",
-    "updateDate": "2026-10-26T10:09:28.437Z",
+    "updateDate": "2026-10-26T11:06:06.240Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "To wrap things up with a treat, Culver's opens today at 10:00 AM, featuring Pumpkin Pecan as today's flavor of the day.",
+    "mainText": "Today's delicious flavor is Pumpkin Pecan. The restaurant is currently closed but will be ready to serve you when it opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
