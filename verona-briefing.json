@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-10-25",
-    "updateDate": "2026-10-25T23:05:06.357Z",
+    "uid": "verona-balanced-weather-2026-10-26",
+    "updateDate": "2026-10-26T00:15:36.886Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: it is 68 degrees at Harriet Park under a full moon, with an overnight low of 50 degrees and no rain expected. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 64 degrees with overcast skies at Fireman's Park. We have a full moon tonight, and while the ISS is passing by, you will not be able to see it due to the clouds. The overnight low will reach 50 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-10-25",
-    "updateDate": "2026-10-25T23:05:06.357Z",
+    "uid": "verona-balanced-news-2026-10-26",
+    "updateDate": "2026-10-26T00:15:36.886Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is accepting feedback on several proposed developments, including the Ardent Glen project, ahead of the November 4th Plan Commission meeting.",
+    "mainText": "The Plan Commission has an agenda for November 4th featuring several projects like Ardent Glen and site plans for 1979 Milky Way. Additionally, tax bill information is available with payments due in two installments starting in January.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-10-25",
-    "updateDate": "2026-10-25T23:05:06.357Z",
+    "uid": "verona-balanced-events-2026-10-26",
+    "updateDate": "2026-10-26T00:15:36.886Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy weekend ahead, starting with live music at Bailey's Run and Wisconsin Brewing Company today, followed by yoga tomorrow and the Main Street Trick or Treat this Wednesday.",
+    "mainText": "There is live music today at Bailey's Run Vineyard and Wisconsin Brewing Company. Tomorrow, check out yoga at Insight Wellness. Plus, mark your calendars for the Main Street Trick or Treat happening on Wednesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-10-25",
-    "updateDate": "2026-10-25T23:05:06.357Z",
+    "uid": "verona-balanced-police-2026-10-26",
+    "updateDate": "2026-10-26T00:15:36.886Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Thursday, October 15, the Verona Police Department conducted an investigation that led to the arrest of a school bus driver for O W I.",
+    "mainText": "On October 15th, the Verona Police Department arrested a school bus driver for O W I. The incident occurred near Whalen Road and Fairview Terrace, but no injuries were reported.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-10-25",
-    "updateDate": "2026-10-25T23:05:06.357Z",
+    "uid": "verona-balanced-culvers-2026-10-26",
+    "updateDate": "2026-10-26T00:15:36.886Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's today for the Snickers Swirl flavor of the day; they are open until 10:00 PM tonight.",
+    "mainText": "Today's flavor of the day at Culver's is Snickers Swirl. The store is currently open and will remain open until 10:00 PM tonight, so there is still plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
