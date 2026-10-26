@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-26",
-    "updateDate": "2026-10-26T18:09:42.611Z",
+    "updateDate": "2026-10-26T19:07:59.945Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. Expect overcast skies around Verona Area High School with temperatures sitting at 57 degrees.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. It is currently 60 degrees near Fireman's Park under partly cloudy skies, though winds make it feel closer to 52 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-10-26",
-    "updateDate": "2026-10-26T18:09:42.611Z",
+    "updateDate": "2026-10-26T19:07:59.945Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Police Department released its weekly recap summarizing notable calls, including crash investigations, medical assists, traffic citations, and warrant arrests across the city.",
+    "mainText": "The city news includes the latest weekly recap from the Verona Police Department, outlining preliminary details from recent officer investigations and calls for service.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-10-26",
-    "updateDate": "2026-10-26T18:09:42.611Z",
+    "updateDate": "2026-10-26T19:07:59.945Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking for local plans? You can drop in for Yoga at Insight Wellness today, or head out for pub trivia tomorrow night at Hop Haus Brewing or Lake Lou-ee.",
+    "mainText": "You can catch Yoga at Insight Wellness today. Looking ahead, Hop Haus Trivia is on tap for tomorrow, and Main Street Trick Or Treat is coming up on October 29th for local families.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-10-26",
-    "updateDate": "2026-10-26T18:09:42.611Z",
+    "updateDate": "2026-10-26T19:07:59.945Z",
     "titleText": "Verona Police Report",
-    "mainText": "In notable calls, on Saturday at 5:34 AM, officers responded to Plympton Street and Rita Avenue for a driver passed out behind the wheel, leading to an arrest for an O W I first offence.",
+    "mainText": "In police news, on Saturday morning, officers responded to Plympton Street and Rita Avenue for a vehicle sitting in the intersection for 20 minutes, where a 40-year-old Verona man was found passed out and arrested for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-26",
-    "updateDate": "2026-10-26T18:09:42.611Z",
+    "updateDate": "2026-10-26T19:07:59.945Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Cap off your day with a sweet treat at Culver's, where today's Flavor of the Day is Pumpkin Pecan. The location is open tonight until 10 PM.",
+    "mainText": "Culver's is currently open until 10:00 PM today, serving up Pumpkin Pecan as their daily custard flavor.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.5-flash"
   }
