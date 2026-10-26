@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-26",
-    "updateDate": "2026-10-26T09:12:47.350Z",
+    "updateDate": "2026-10-26T10:09:28.437Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: it is 51 degrees and overcast near the Verona Public Library. The air quality index is at 51, so please be aware of the moderate alert. We also have a full moon tonight, and while the space station will be passing overhead, you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish. Over near Fireman's Park, it is currently 50 degrees with overcast skies, feeling like 43 degrees. Tonight features a full moon, and although the International Space Station passes overhead tonight, you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-10-26",
-    "updateDate": "2026-10-26T09:12:47.350Z",
+    "updateDate": "2026-10-26T10:09:28.437Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is preparing for a Plan Commission meeting on November 4th to discuss various development projects, including the Ardent Glen third addition, new lots on Jenna Drive, and a site plan for Milky Way. Additionally, tax bill information is available, with bills mailing by December 15th.",
+    "mainText": "In city news, the Plan Commission is set to review multiple development projects on Wednesday, November 4th, including the Ardent Glen addition and pending plans for Sub-Zero. Also, property tax bills will be mailed out by December 15th, with payment options available online, by mail, or via drop boxes.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-10-26",
-    "updateDate": "2026-10-26T09:12:47.350Z",
+    "updateDate": "2026-10-26T10:09:28.437Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can join Yoga at Insight Wellness. Tomorrow, we have a packed schedule with Hop Haus Trivia, Quizmasters Trivia at Lake Lou-ee, and more throughout the week, leading up to the Main Street Trick or Treat on October 29th.",
+    "mainText": "Looking at local events, you can attend drop-in Yoga at Insight Wellness today. Tomorrow brings Hop Haus Trivia and Quizmasters Trivia at Lake Lou-ee, and mark your calendars for the Main Street Trick or Treat on Thursday, October 29th.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-10-26",
-    "updateDate": "2026-10-26T09:12:47.350Z",
+    "updateDate": "2026-10-26T10:09:28.437Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 15th, the Verona Police Department arrested a school bus driver for operating while impaired after reports of dangerous driving. The investigation confirmed impairment, though alcohol was ruled out, and no injuries were reported.",
+    "mainText": "In the weekly police recap, Verona Police arrested a school bus driver on Thursday afternoon for an O W I after receiving reports of dangerous driving. No students or bystanders were injured, and police are continuing to investigate the situation.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-26",
-    "updateDate": "2026-10-26T09:12:47.350Z",
+    "updateDate": "2026-10-26T10:09:28.437Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Pumpkin Pecan. The store is currently closed, but it opens today at 10:00 AM.",
+    "mainText": "To wrap things up with a treat, Culver's opens today at 10:00 AM, featuring Pumpkin Pecan as today's flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
