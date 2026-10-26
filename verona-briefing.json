@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-26",
-    "updateDate": "2026-10-26T17:06:41.371Z",
+    "updateDate": "2026-10-26T18:09:42.611Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish. We are seeing overcast skies at Reddan Soccer Park with a temperature of 56 degrees that feels more like 47 degrees out there today.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. Expect overcast skies around Verona Area High School with temperatures sitting at 57 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-10-26",
-    "updateDate": "2026-10-26T17:06:41.371Z",
+    "updateDate": "2026-10-26T18:09:42.611Z",
     "titleText": "Verona City News",
-    "mainText": "The latest Verona city news recap highlights several recent police calls, including traffic citations, domestic disturbances, and business assistance calls reported throughout the week.",
+    "mainText": "The Verona Police Department released its weekly recap summarizing notable calls, including crash investigations, medical assists, traffic citations, and warrant arrests across the city.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-10-26",
-    "updateDate": "2026-10-26T17:06:41.371Z",
+    "updateDate": "2026-10-26T18:09:42.611Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community. We have Yoga at Insight Wellness today, followed by several trivia nights and live music options starting tomorrow, plus our Main Street Trick or Treat event coming up on October 29.",
+    "mainText": "Looking for local plans? You can drop in for Yoga at Insight Wellness today, or head out for pub trivia tomorrow night at Hop Haus Brewing or Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-10-26",
-    "updateDate": "2026-10-26T17:06:41.371Z",
+    "updateDate": "2026-10-26T18:09:42.611Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable report from October 25, Verona police officers responded to an intersection where they discovered a driver passed out and subsequently conducted an arrest for an O W I.",
+    "mainText": "In notable calls, on Saturday at 5:34 AM, officers responded to Plympton Street and Rita Avenue for a driver passed out behind the wheel, leading to an arrest for an O W I first offence.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-26",
-    "updateDate": "2026-10-26T17:06:41.371Z",
+    "updateDate": "2026-10-26T18:09:42.611Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently open until 10 PM tonight, and they are serving up the delicious Pumpkin Pecan flavor of the day.",
+    "mainText": "Cap off your day with a sweet treat at Culver's, where today's Flavor of the Day is Pumpkin Pecan. The location is open tonight until 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
