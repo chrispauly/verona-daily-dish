@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-26",
-    "updateDate": "2026-10-26T15:28:56.679Z",
+    "updateDate": "2026-10-26T16:09:14.710Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, we are seeing overcast skies over Badger Prairie County Park with a temperature of 54 degrees, though it feels a bit cooler at 46.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: it is 54 degrees under overcast skies at Fireman's Park with a full moon visible tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-26",
-    "updateDate": "2026-10-26T15:28:56.679Z",
+    "updateDate": "2026-10-26T16:09:14.710Z",
     "titleText": "Verona City News",
-    "mainText": "The city is currently reviewing several development projects for an upcoming meeting, including the Ardent Glen addition, while property tax bills are being prepared for a mid-December mail date.",
+    "mainText": "The city is currently processing the proposed 2027 annual budget while the Plan Commission prepares to review various local developments, including plats and site plans, on November 4th.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-26",
-    "updateDate": "2026-10-26T15:28:56.679Z",
+    "updateDate": "2026-10-26T16:09:14.710Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Enjoy some relaxation today with Yoga at Insight Wellness, and look forward to trivia throughout the week at Hop Haus, Lake Lou-ee, and The Bogey Factory.",
+    "mainText": "We have a busy schedule ahead starting with yoga today, followed by multiple trivia nights tomorrow, Wednesday, and Thursday, plus the community Trick or Treat event on October 29th.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-26",
-    "updateDate": "2026-10-26T15:28:56.679Z",
+    "updateDate": "2026-10-26T16:09:14.710Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local safety, the Verona Police Department reported that on Thursday, October 15, a school bus driver was arrested for O W I after dangerous driving was observed.",
+    "mainText": "On Thursday, October 15th, the Verona Police Department arrested a school bus driver for O W I following a report of erratic driving while transporting students.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-26",
-    "updateDate": "2026-10-26T15:28:56.679Z",
+    "updateDate": "2026-10-26T16:09:14.710Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy the Pumpkin Pecan flavor of the day at Culver's, which is currently open and serving until 10:00 PM tonight.",
+    "mainText": "Today's flavor of the day is Pumpkin Pecan and the restaurant is currently open, so feel free to stop by anytime before they close at 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
