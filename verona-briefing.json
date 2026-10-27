@@ -1,15 +1,15 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-27",
-    "updateDate": "2026-10-27T14:07:58.087Z",
+    "updateDate": "2026-10-27T15:08:15.196Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish. Over at Verona Public Library, it is currently 52 degrees with overcast skies.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. Over at Harriet Park, it is currently 55 degrees with overcast skies.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-27",
-    "updateDate": "2026-10-27T14:07:58.087Z",
+    "updateDate": "2026-10-27T15:08:15.196Z",
     "titleText": "Verona City News",
     "mainText": "In city affairs, the latest update is: Engineering Updates.",
     "redirectionUrl": "https://veronawi.gov/",
@@ -17,7 +17,7 @@
   },
   {
     "uid": "verona-balanced-events-2026-10-27",
-    "updateDate": "2026-10-27T14:07:58.087Z",
+    "updateDate": "2026-10-27T15:08:15.196Z",
     "titleText": "Verona Upcoming Events",
     "mainText": "If you are planning your week, we have local events coming up, including Hop Haus Trivia Today at Hop Haus Brewing Co..",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
@@ -25,7 +25,7 @@
   },
   {
     "uid": "verona-balanced-police-2026-10-27",
-    "updateDate": "2026-10-27T14:07:58.087Z",
+    "updateDate": "2026-10-27T15:08:15.196Z",
     "titleText": "Verona Police Report",
     "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
@@ -33,9 +33,9 @@
   },
   {
     "uid": "verona-balanced-culvers-2026-10-27",
-    "updateDate": "2026-10-27T14:07:58.087Z",
+    "updateDate": "2026-10-27T15:08:15.196Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Culver's Flavor of the Day is Chocolate Caramel Twist. The restaurant opens today at 10:00 AM.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: Chocolate Caramel Twist. The restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "Local Fallback Template"
   }
