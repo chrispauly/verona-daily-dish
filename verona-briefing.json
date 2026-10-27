@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-27",
-    "updateDate": "2026-10-27T18:05:47.788Z",
+    "updateDate": "2026-10-27T19:03:52.585Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: expect overcast skies with a temperature of 64 degrees near Reddan Soccer Park.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We are seeing overcast skies near Harriet Park and a lovely Full Moon tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-27",
-    "updateDate": "2026-10-27T18:05:47.788Z",
+    "updateDate": "2026-10-27T19:03:52.585Z",
     "titleText": "Verona City News",
-    "mainText": "The city is moving forward with engineering services through AECOM Inc, and the Wisconsin Department of Transportation has announced upcoming meetings to discuss the US 18/151 corridor study, which includes a virtual option on November 19.",
+    "mainText": "City engineering updates continue as the city contracts with AECOM for ongoing reports. Additionally, WisDOT is hosting meetings on November 18 and 19 regarding the US 18/151 Corridor Study, including initial design concepts for the stretch between Dodgeville and Fitchburg.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-27",
-    "updateDate": "2026-10-27T18:05:47.788Z",
+    "updateDate": "2026-10-27T19:03:52.585Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You have plenty of ways to stay busy with Hop Haus Trivia and Quizmasters Trivia both taking place today, followed by Dream Day Trivia at Paddy Mac's tomorrow.",
+    "mainText": "We have plenty of fun coming up in Verona. Trivia is happening today at Hop Haus and Lake Lou-ee, with Dream Day Trivia at Paddy Mac's tomorrow. Plus, look forward to yoga tomorrow and the Main Street Trick or Treat this Thursday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-27",
-    "updateDate": "2026-10-27T18:05:47.788Z",
+    "updateDate": "2026-10-27T19:03:52.585Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a recent report, officers stopped a vehicle on October 23 and cited the driver for operating while suspended and possession of marijuana.",
+    "mainText": "In a noteworthy call for service on October 23, officers made contact with two 13-year-olds on eMotos, which resulted in citations for their parents for permitting a minor to drive a motor vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-27",
-    "updateDate": "2026-10-27T18:05:47.788Z",
+    "updateDate": "2026-10-27T19:03:52.585Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Chocolate Caramel Twist. The restaurant is currently open and serving until 10:00 PM, so stop by for a treat.",
+    "mainText": "The Culver's flavor of the day is a tasty Chocolate Caramel Twist. The restaurant is currently open, so stop by before they close at 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
