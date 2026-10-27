@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-27",
-    "updateDate": "2026-10-27T19:03:52.585Z",
+    "updateDate": "2026-10-27T20:04:55.894Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We are seeing overcast skies near Harriet Park and a lovely Full Moon tonight.",
+    "mainText": "Hello, Verona! At 3 PM, we are looking at 65 degrees under overcast skies near Reddan Soccer Park, with a full moon rising tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-27",
-    "updateDate": "2026-10-27T19:03:52.585Z",
+    "updateDate": "2026-10-27T20:04:55.894Z",
     "titleText": "Verona City News",
-    "mainText": "City engineering updates continue as the city contracts with AECOM for ongoing reports. Additionally, WisDOT is hosting meetings on November 18 and 19 regarding the US 18/151 Corridor Study, including initial design concepts for the stretch between Dodgeville and Fitchburg.",
+    "mainText": "The City of Verona continues its partnership with AECOM for engineering services, and the Wisconsin Department of Transportation is seeking public input on the US 18/151 Corridor study with meetings scheduled for November 18 and 19.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-27",
-    "updateDate": "2026-10-27T19:03:52.585Z",
+    "updateDate": "2026-10-27T20:04:55.894Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of fun coming up in Verona. Trivia is happening today at Hop Haus and Lake Lou-ee, with Dream Day Trivia at Paddy Mac's tomorrow. Plus, look forward to yoga tomorrow and the Main Street Trick or Treat this Thursday.",
+    "mainText": "We have plenty to look forward to, including trivia today at Hop Haus and Wisconsin Brewing Company, plus activities like yoga and live music tomorrow, and the annual Main Street Trick or Treat this Thursday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-27",
-    "updateDate": "2026-10-27T19:03:52.585Z",
+    "updateDate": "2026-10-27T20:04:55.894Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call for service on October 23, officers made contact with two 13-year-olds on eMotos, which resulted in citations for their parents for permitting a minor to drive a motor vehicle.",
+    "mainText": "On October 25, officers arrested a man for an O W I offence after finding him passed out behind the wheel at the intersection of Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-27",
-    "updateDate": "2026-10-27T19:03:52.585Z",
+    "updateDate": "2026-10-27T20:04:55.894Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is a tasty Chocolate Caramel Twist. The restaurant is currently open, so stop by before they close at 10:00 PM tonight.",
+    "mainText": "Today's flavor at Culver's is the delicious Chocolate Caramel Twist. The store is open and serving until 10 PM tonight, so stop in for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
