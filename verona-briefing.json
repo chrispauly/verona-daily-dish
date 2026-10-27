@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-27",
-    "updateDate": "2026-10-27T01:22:48.452Z",
+    "updateDate": "2026-10-27T02:13:11.284Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, we are seeing 51 degree temperatures with overcast skies near Reddan Soccer Park. The Full Moon is out tonight, and while the ISS is passing overhead, you will not be able to see it due to the clouds. The overnight low will drop to 47 degrees, and we have no rain in the forecast.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. Over at Verona City Hall, it is currently 50 degrees with overcast skies. The overnight low will be around 47 degrees, with rain unlikely. Tonight we have a Full Moon. The ISS will pass overhead tonight starting at 5:50 AM for 4 minutes, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-27",
-    "updateDate": "2026-10-27T01:22:48.452Z",
+    "updateDate": "2026-10-27T02:13:11.284Z",
     "titleText": "Verona City News",
-    "mainText": "The Wisconsin Department of Transportation is hosting meetings to discuss the US 18/151 Corridor Study, which covers the area from Dodgeville to the McKee Road interchange in Fitchburg. They are looking for public feedback on initial design concepts, with both in-person and virtual meeting options available.",
+    "mainText": "In city affairs, the latest update is: WisDOT US 18151 Corridor Study.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-27",
-    "updateDate": "2026-10-27T01:22:48.452Z",
+    "updateDate": "2026-10-27T02:13:11.284Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona starting with Yoga at Insight Wellness today. Tomorrow, you can test your knowledge at Hop Haus Trivia or Quizmasters Trivia at Lake Lou-ee.",
+    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-27",
-    "updateDate": "2026-10-27T01:22:48.452Z",
+    "updateDate": "2026-10-27T02:13:11.284Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from October 21, officers from the Verona Police Department assisted at a residence on Basswood Avenue for a witnessed cardiac arrest, where their AED was successfully deployed before the patient was transported to the hospital.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-27",
-    "updateDate": "2026-10-27T01:22:48.452Z",
+    "updateDate": "2026-10-27T02:13:11.284Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the seasonal favorite, Pumpkin Pecan. The store is currently open and serving until 10 PM tonight, so stop by and enjoy a treat.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: Pumpkin Pecan. The restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
