@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-27",
-    "updateDate": "2026-10-27T16:07:50.878Z",
+    "updateDate": "2026-10-27T17:04:25.224Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. Over at Verona Area High School, it is currently 58 degrees with overcast skies.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we have overcast skies at Badger Prairie County Park with a temperature of 61 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-27",
-    "updateDate": "2026-10-27T16:07:50.878Z",
+    "updateDate": "2026-10-27T17:04:25.224Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Engineering Updates.",
+    "mainText": "The city has released an update regarding engineering services with AECOM Incorporated. Additionally, the Wisconsin Department of Transportation is inviting residents to public meetings for the US 18/151 Corridor Study, with an in-person meeting on November 18 and a virtual option on November 19 to discuss design concepts.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-27",
-    "updateDate": "2026-10-27T16:07:50.878Z",
+    "updateDate": "2026-10-27T17:04:25.224Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Hop Haus Trivia Today at Hop Haus Brewing Co..",
+    "mainText": "We have a busy schedule ahead. Today you can enjoy Hop Haus Trivia or Quizmasters Trivia at Lake Lou-ee. Tomorrow brings Dream Day Trivia, live music at Paddy Mac's, yoga at Insight Wellness, pizza and a pitcher at Lake Lou-ee, and trivia night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-27",
-    "updateDate": "2026-10-27T16:07:50.878Z",
+    "updateDate": "2026-10-27T17:04:25.224Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "Regarding local activity, on October 23, officers made contact with two 13-year-old juveniles riding prohibited eMotos on Ashton Drive, resulting in citations for their parents.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-27",
-    "updateDate": "2026-10-27T16:07:50.878Z",
+    "updateDate": "2026-10-27T17:04:25.224Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Chocolate Caramel Twist. The restaurant is open until 10:00 PM.",
+    "mainText": "Today's flavor of the day is Chocolate Caramel Twist. The restaurant is currently open, so you have until 10:00 PM tonight to stop by and enjoy a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
