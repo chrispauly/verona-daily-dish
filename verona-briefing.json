@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-27",
-    "updateDate": "2026-10-27T06:10:34.039Z",
+    "updateDate": "2026-10-27T07:14:18.889Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish. It is 47 degrees with overcast skies near Reddan Soccer Park. The full moon is out, and although the ISS will pass overhead tonight, it will not be visible due to the cloud cover.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish. We are looking at 47 degrees with overcast skies near the Verona Public Library and a full moon tonight. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-27",
-    "updateDate": "2026-10-27T06:10:34.039Z",
+    "updateDate": "2026-10-27T07:14:18.889Z",
     "titleText": "Verona City News",
-    "mainText": "The Wisconsin Department of Transportation is holding public meetings for the US 18/151 Corridor Study to gather feedback on initial design concepts. You can attend in person at Mount Horeb High School on November 18 or join virtually on November 19.",
+    "mainText": "The Wisconsin Department of Transportation is seeking public feedback on the US 18/151 Corridor Study between Dodgeville and Fitchburg. You can attend an in-person meeting on November 18 at Mount Horeb High School or join the virtual session on November 19 to review design concepts and share your thoughts.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-27",
-    "updateDate": "2026-10-27T06:10:34.039Z",
+    "updateDate": "2026-10-27T07:14:18.889Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of fun ahead. Today features trivia at both Hop Haus and Wisconsin Brewing Company. Tomorrow, you can enjoy yoga at Insight Wellness, more trivia at The Bogey Factory, or pizza and a pitcher at Lake Lou-ee.",
+    "mainText": "There is a lot of local fun happening. Today you can find trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's. Tomorrow, check out live music at Paddy Mac's, yoga at Insight Wellness, pizza at Lake Lou-ee, or trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-27",
-    "updateDate": "2026-10-27T06:10:34.039Z",
+    "updateDate": "2026-10-27T07:14:18.889Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from October 25, officers found a man passed out behind the wheel at Plympton Street and Rita Avenue, resulting in an arrest for O W I.",
+    "mainText": "In a recent incident on October 23, two 13-year-olds were observed riding prohibited eMotos. Officers made contact with the juveniles, who had been previously warned, and subsequently cited their parents for permitting a minor to drive a motor vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-27",
-    "updateDate": "2026-10-27T06:10:34.039Z",
+    "updateDate": "2026-10-27T07:14:18.889Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Chocolate Caramel Twist. The restaurant is currently closed but will open today at 10:00 AM to serve you.",
+    "mainText": "If you are craving something sweet, today's flavor is Chocolate Caramel Twist. The store is currently closed, but you can head over when they open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
