@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-27",
-    "updateDate": "2026-10-27T22:04:45.788Z",
+    "updateDate": "2026-10-27T23:03:46.638Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: it is 62 degrees with overcast conditions at Verona Community Park. Under the full moon, temperatures will drop to an overnight low of 49 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 6 PM, it is 59 degrees under overcast skies near Badger Ridge Middle School with a full moon tonight. The ISS passes overhead, but you won't be able to see it due to the clouds. The overnight low will be 48 degrees, and there is no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-27",
-    "updateDate": "2026-10-27T22:04:45.788Z",
+    "updateDate": "2026-10-27T23:03:46.638Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona continues to maintain its infrastructure, with recent engineering reports filed by AECOM Inc. Additionally, the Wisconsin Department of Transportation is seeking community input on the US 18/151 Corridor Study with upcoming public meetings in Mount Horeb and virtually.",
+    "mainText": "The City of Verona has updated its engineering services reports, which are reviewed at each Council meeting, with the most recent report from October 26. Additionally, WisDOT is hosting meetings on the US 18/151 Corridor Study to gather public feedback on design concepts.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-27",
-    "updateDate": "2026-10-27T22:04:45.788Z",
+    "updateDate": "2026-10-27T23:03:46.638Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule ahead. Today, you can catch trivia at Hop Haus or Lake Lou-ee. Tomorrow, activities include trivia at The Bogey Factory and pizza at Wisconsin Brewing Company, followed by the Main Street Trick or Treat this Thursday.",
+    "mainText": "We have a busy couple of days ahead with Hop Haus Trivia and Quizmasters Trivia both taking place today. Looking forward to tomorrow, you can enjoy pizza and a pitcher at Lake Lou-ee, trivia at The Bogey Factory, or yoga at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-27",
-    "updateDate": "2026-10-27T22:04:45.788Z",
+    "updateDate": "2026-10-27T23:03:46.638Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering October 18 to October 25, officers noted an incident on Monday, October 19, where a 49-year-old Verona man was taken into custody on an active arrest warrant during a traffic stop for a suspended license.",
+    "mainText": "In a noteworthy call from October 19, officers stopped a 49-year-old local man for driving with a suspended license, which led to his arrest on an active warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-27",
-    "updateDate": "2026-10-27T22:04:45.788Z",
+    "updateDate": "2026-10-27T23:03:46.638Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor is the delicious Chocolate Caramel Twist. The restaurant is currently open and will be serving until 10:00 PM, so stop by soon to enjoy your treat.",
+    "mainText": "Culver's is currently open until 10:00 PM, so stop by to enjoy today's featured flavor, Chocolate Caramel Twist.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
