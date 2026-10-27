@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-27",
-    "updateDate": "2026-10-27T02:13:11.284Z",
+    "updateDate": "2026-10-27T03:08:11.576Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. Over at Verona City Hall, it is currently 50 degrees with overcast skies. The overnight low will be around 47 degrees, with rain unlikely. Tonight we have a Full Moon. The ISS will pass overhead tonight starting at 5:50 AM for 4 minutes, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: it is 49 degrees with overcast skies near the Military Ridge State Trail and a full moon phase. The overnight low will be 46 degrees with no rain predicted, and the ISS is passing overhead tonight, though you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-27",
-    "updateDate": "2026-10-27T02:13:11.284Z",
+    "updateDate": "2026-10-27T03:08:11.576Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: WisDOT US 18151 Corridor Study.",
+    "mainText": "The Wisconsin Department of Transportation is inviting residents to share feedback on the US 18/151 Corridor Study. There are two opportunities to participate, including an in-person meeting on November 18 at Mount Horeb High School and a virtual meeting on November 19, both starting at 5:30 p.m.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-27",
-    "updateDate": "2026-10-27T02:13:11.284Z",
+    "updateDate": "2026-10-27T03:08:11.576Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
+    "mainText": "We have a busy week ahead starting with Yoga at Insight Wellness today. Tomorrow, you can test your knowledge at Hop Haus or Lake Lou-ee, followed by more trivia and live music throughout the week and our annual Main Street Trick or Treat this Wednesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-27",
-    "updateDate": "2026-10-27T02:13:11.284Z",
+    "updateDate": "2026-10-27T03:08:11.576Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "In our weekly police report, on October 25, officers were dispatched to the intersection of Plympton Street and Rita Avenue where they located a 40-year-old man passed out behind the wheel and arrested him for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-27",
-    "updateDate": "2026-10-27T02:13:11.284Z",
+    "updateDate": "2026-10-27T03:08:11.576Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Pumpkin Pecan. The restaurant is open until 10:00 PM.",
+    "mainText": "Today's flavor of the day was Pumpkin Pecan. The restaurant is currently closed for the night, but we will be back tomorrow morning at 10:00 AM serving up the Chocolate Caramel Twist.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
