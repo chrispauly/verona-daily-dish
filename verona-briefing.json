@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-10-26",
-    "updateDate": "2026-10-26T23:04:48.053Z",
+    "uid": "verona-balanced-weather-2026-10-27",
+    "updateDate": "2026-10-27T00:14:36.479Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: we have partly cloudy skies at Badger Prairie County Park with a current temperature of 55 degrees. Under the Full Moon, the ISS will pass overhead tonight, though you won't be able to see it due to the clouds. Expect an overnight low of 46 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 7 PM, we are looking at overcast skies near Verona Area High School under the Full Moon. The overnight low will hit 46 degrees with no rain in the forecast. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-10-26",
-    "updateDate": "2026-10-26T23:04:48.053Z",
+    "uid": "verona-balanced-news-2026-10-27",
+    "updateDate": "2026-10-27T00:14:36.479Z",
     "titleText": "Verona City News",
-    "mainText": "The Wisconsin Department of Transportation is seeking community input on the US 18/151 Corridor Study. You can attend an in-person meeting on November 18 at Mount Horeb High School or join the virtual session on November 19 to review initial design concepts.",
+    "mainText": "WisDOT is holding public meetings for the US 18/151 Corridor Study covering the stretch from Dodgeville to Fitchburg. They will share initial design concepts and gather public feedback, with both an in-person session at Mount Horeb High School on November 18 and a virtual meeting on November 19.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-10-26",
-    "updateDate": "2026-10-26T23:04:48.053Z",
+    "uid": "verona-balanced-events-2026-10-27",
+    "updateDate": "2026-10-27T00:14:36.479Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today features Yoga at Insight Wellness, followed by a busy day tomorrow including trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music and pizza specials around town.",
+    "mainText": "We have a full schedule ahead. Yoga at Insight Wellness is happening today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, plus live music and pizza specials.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-10-26",
-    "updateDate": "2026-10-26T23:04:48.053Z",
+    "uid": "verona-balanced-police-2026-10-27",
+    "updateDate": "2026-10-27T00:14:36.479Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 25, officers responded to Plympton Street and Rita Avenue where they discovered a man passed out behind the wheel of his vehicle, resulting in an arrest for O W I.",
+    "mainText": "Looking at the weekly report, on October 25, officers were dispatched to Plympton Street and Rita Avenue where they located a man who had been stationary for at least 20 minutes; he was subsequently arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-10-26",
-    "updateDate": "2026-10-26T23:04:48.053Z",
+    "uid": "verona-balanced-culvers-2026-10-27",
+    "updateDate": "2026-10-27T00:14:36.479Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can grab the delicious Pumpkin Pecan flavor of the day at Culver's until they close at 10 PM tonight.",
+    "mainText": "Today's flavor is the seasonal favorite, Pumpkin Pecan. Culver's is currently open until 10:00 PM, so there is still plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
