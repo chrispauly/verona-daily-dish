@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-28",
-    "updateDate": "2026-10-28T18:05:46.999Z",
+    "updateDate": "2026-10-28T19:04:03.048Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, we are enjoying clear skies at Reddan Soccer Park with a comfortable temperature of 69 degrees.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: it is a pleasant 72 degrees with clear skies by City Hall and the moon is in a Waning Gibbous phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-28",
-    "updateDate": "2026-10-28T18:05:46.999Z",
+    "updateDate": "2026-10-28T19:04:03.048Z",
     "titleText": "Verona City News",
-    "mainText": "The city has released extensive engineering reports for the community, and the Wisconsin Department of Transportation is inviting residents to public meetings on November 18 and 19 to discuss design concepts for the US 18/151 corridor.",
+    "mainText": "The city has shared upcoming public meeting dates for the US 18/151 Corridor Study, which runs from Dodgeville to Fitchburg. These meetings will cover initial design concepts and allow for public feedback. Additionally, the city continues its regular engineering reporting through its contract with AECOM Inc.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-28",
-    "updateDate": "2026-10-28T18:05:46.999Z",
+    "updateDate": "2026-10-28T19:04:03.048Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with trivia at The Bogey Factory or live music at Paddy Mac's today. Tomorrow, be sure to bring the family to the Main Street Trick or Treat for some local fun.",
+    "mainText": "There is plenty to do in Verona! Today, you can catch live music at Paddy Mac, enjoy pizza at Lake Lou-ee, or head to the Bogey Factory for trivia. Tomorrow, the festivities continue with the Main Street Trick or Treat and Thursday Night at Art House.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-28",
-    "updateDate": "2026-10-28T18:05:46.999Z",
+    "updateDate": "2026-10-28T19:04:03.048Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 25, officers conducted a welfare check at the intersection of Plympton Street and Rita Avenue, which resulted in a 40-year-old man being arrested for an O W I offence.",
+    "mainText": "In our weekly report, on October 25, officers responded to a call regarding a vehicle stopped at the intersection of Plympton Street and Rita Avenue. A 40-year-old man was found inside and was subsequently arrested for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-28",
-    "updateDate": "2026-10-28T18:05:46.999Z",
+    "updateDate": "2026-10-28T19:04:03.048Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Chocolate Heath Crunch. The restaurant is currently open to serve you until 10 PM tonight, so stop by for a treat.",
+    "mainText": "Today is the perfect day to stop by Culver's for the flavor of the day, Chocolate Heath Crunch. The shop is open until 10 PM tonight, so make sure to get there before they close.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
