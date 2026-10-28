@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-10-27",
-    "updateDate": "2026-10-27T23:03:46.638Z",
+    "uid": "verona-balanced-weather-2026-10-28",
+    "updateDate": "2026-10-28T00:11:32.651Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, it is 59 degrees under overcast skies near Badger Ridge Middle School with a full moon tonight. The ISS passes overhead, but you won't be able to see it due to the clouds. The overnight low will be 48 degrees, and there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. We are looking at 58 degrees under overcast skies near Fireman's Park. The moon is in a waning gibbous phase, and the ISS passes overhead tonight, but you won't be able to see it due to the clouds. Expect an overnight low of 48 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-10-27",
-    "updateDate": "2026-10-27T23:03:46.638Z",
+    "uid": "verona-balanced-news-2026-10-28",
+    "updateDate": "2026-10-28T00:11:32.651Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has updated its engineering services reports, which are reviewed at each Council meeting, with the most recent report from October 26. Additionally, WisDOT is hosting meetings on the US 18/151 Corridor Study to gather public feedback on design concepts.",
+    "mainText": "In city news, Verona continues its long-term partnership with AECOM for engineering services, with regular reports provided to the City Council. Additionally, the Wisconsin Department of Transportation is seeking community feedback on the US 18/151 corridor study, with meetings scheduled for November 18 and 19.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-10-27",
-    "updateDate": "2026-10-27T23:03:46.638Z",
+    "uid": "verona-balanced-events-2026-10-28",
+    "updateDate": "2026-10-28T00:11:32.651Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead with Hop Haus Trivia and Quizmasters Trivia both taking place today. Looking forward to tomorrow, you can enjoy pizza and a pitcher at Lake Lou-ee, trivia at The Bogey Factory, or yoga at Insight Wellness.",
+    "mainText": "There is plenty to do in town over the next few days. Today, join us for trivia at Hop Haus or Lake Lou-ee. Tomorrow, check out Paddy Mac's for live music, head to Insight Wellness for yoga, or stop by The Bogey Factory for trivia. Later this week, look forward to the Main Street Trick or Treat and ART House 360 events on Thursday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-10-27",
-    "updateDate": "2026-10-27T23:03:46.638Z",
+    "uid": "verona-balanced-police-2026-10-28",
+    "updateDate": "2026-10-28T00:11:32.651Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from October 19, officers stopped a 49-year-old local man for driving with a suspended license, which led to his arrest on an active warrant.",
+    "mainText": "In our weekly report, officers handled several calls for service. One notable incident occurred on October 25, when police located a 40-year-old man who had been stopped at an intersection for twenty minutes, leading to an arrest for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-10-27",
-    "updateDate": "2026-10-27T23:03:46.638Z",
+    "uid": "verona-balanced-culvers-2026-10-28",
+    "updateDate": "2026-10-28T00:11:32.651Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently open until 10:00 PM, so stop by to enjoy today's featured flavor, Chocolate Caramel Twist.",
+    "mainText": "Treat yourself to today's delicious flavor of the day, Chocolate Caramel Twist. Our doors are open until 10 PM tonight, so stop by to enjoy a scoop before we head home for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
