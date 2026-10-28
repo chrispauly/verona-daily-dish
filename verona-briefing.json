@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-28",
-    "updateDate": "2026-10-28T02:06:43.760Z",
+    "updateDate": "2026-10-28T03:05:23.292Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: it is 59 degrees with overcast skies near the public library, and tonight's ISS pass will be obscured by the clouds. The overnight low will be 49 degrees with no rain predicted, all under a waning gibbous moon.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. We are seeing overcast skies near the Verona Public Library with a Waning Gibbous moon. The overnight low will drop to 49 degrees with no rain in the forecast. Please note that the ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-28",
-    "updateDate": "2026-10-28T02:06:43.760Z",
+    "updateDate": "2026-10-28T03:05:23.292Z",
     "titleText": "Verona City News",
-    "mainText": "The city is actively reviewing engineering reports from AECOM, and the Wisconsin Department of Transportation is seeking community feedback on the US 18/151 Corridor Study during upcoming public meetings in November.",
+    "mainText": "In city news, the engineering reports for the City of Verona remain ongoing through our partners at AECOM. Additionally, the Wisconsin Department of Transportation is seeking community feedback on the US 18/151 Corridor Study with meetings scheduled for November 18 and 19.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-28",
-    "updateDate": "2026-10-28T02:06:43.760Z",
+    "updateDate": "2026-10-28T03:05:23.292Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule starting with trivia today at Hop Haus and Lake Lou-ee, more trivia at Paddy Mac's tomorrow, and the annual Main Street Trick or Treat coming up on October 29.",
+    "mainText": "We have a busy schedule ahead. Today you can enjoy trivia at Hop Haus or Wisconsin Brewing Company. Tomorrow, we have yoga at Insight Wellness, pizza at Lake Lou-ee, and trivia night at The Bogey Factory. Looking ahead, don't miss the Main Street Trick or Treat on October 29.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-28",
-    "updateDate": "2026-10-28T02:06:43.760Z",
+    "updateDate": "2026-10-28T03:05:23.292Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report of noteworthy calls from October 18 to 24, officers arrested a 40-year-old man for an O W I on October 25 after he was found unresponsive in his vehicle.",
+    "mainText": "On October 22, a vehicle crash occurred involving a Metro Bus on West Verona Avenue, resulting in a citation for failure to yield the right of way.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-28",
-    "updateDate": "2026-10-28T02:06:43.760Z",
+    "updateDate": "2026-10-28T03:05:23.292Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Chocolate Caramel Twist. Our doors are currently open but will be closing in 54 minutes, so please stop by soon to grab your treat before we wrap up for the night.",
+    "mainText": "While today's flavor of Chocolate Caramel Twist has come to an end, you can look forward to tomorrow's flavor, which is Chocolate Heath Crunch. The store will open tomorrow at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
