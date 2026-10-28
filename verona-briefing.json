@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-28",
-    "updateDate": "2026-10-28T01:05:26.002Z",
+    "updateDate": "2026-10-28T02:06:43.760Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: current temperatures are 59 degrees at Verona Community Park under overcast skies. The moon is in its Waning Gibbous phase. We have an ISS flyover tonight, but you will not be able to see it due to the clouds. Tonight will cool down to an overnight low of 48 degrees, and no rain is expected.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: it is 59 degrees with overcast skies near the public library, and tonight's ISS pass will be obscured by the clouds. The overnight low will be 49 degrees with no rain predicted, all under a waning gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-28",
-    "updateDate": "2026-10-28T01:05:26.002Z",
+    "updateDate": "2026-10-28T02:06:43.760Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona continues to maintain its infrastructure through contracts with AECOM for regular engineering services. Additionally, WisDOT is holding public meetings on November 18 and 19 regarding the US 18/151 Corridor Study, offering both in-person and virtual options to discuss future design concepts.",
+    "mainText": "The city is actively reviewing engineering reports from AECOM, and the Wisconsin Department of Transportation is seeking community feedback on the US 18/151 Corridor Study during upcoming public meetings in November.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-28",
-    "updateDate": "2026-10-28T01:05:26.002Z",
+    "updateDate": "2026-10-28T02:06:43.760Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Trivia is happening today at Hop Haus and Lake Lou-ee. Tomorrow, look forward to pizza and a pitcher at Lake Lou-ee, trivia at The Bogey Factory, and live music at Paddy Mac's. Mark your calendars for the Main Street Trick or Treat event on October 29.",
+    "mainText": "We have a busy schedule starting with trivia today at Hop Haus and Lake Lou-ee, more trivia at Paddy Mac's tomorrow, and the annual Main Street Trick or Treat coming up on October 29.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-28",
-    "updateDate": "2026-10-28T01:05:26.002Z",
+    "updateDate": "2026-10-28T02:06:43.760Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department reported a variety of calls last week. On October 22, a vehicle crash occurred between a car and a Metro bus near Todd Street, resulting in a citation for failure to yield the right of way.",
+    "mainText": "In a report of noteworthy calls from October 18 to 24, officers arrested a 40-year-old man for an O W I on October 25 after he was found unresponsive in his vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-28",
-    "updateDate": "2026-10-28T01:05:26.002Z",
+    "updateDate": "2026-10-28T02:06:43.760Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor at the Culver's of Verona is Chocolate Caramel Twist. The restaurant is currently open and serving until 10:00 PM, so there is still plenty of time to stop by for a sweet treat.",
+    "mainText": "Today's delicious flavor is Chocolate Caramel Twist. Our doors are currently open but will be closing in 54 minutes, so please stop by soon to grab your treat before we wrap up for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
