@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-28",
-    "updateDate": "2026-10-28T03:05:23.292Z",
+    "updateDate": "2026-10-28T04:06:24.463Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. We are seeing overcast skies near the Verona Public Library with a Waning Gibbous moon. The overnight low will drop to 49 degrees with no rain in the forecast. Please note that the ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: it is 57 degrees and partly cloudy at Reddan Soccer Park. We are under a Waning Gibbous moon and can look forward to an ISS flyover at 5:05 AM rising over the area of Verona High School and traveling towards the area near Home Depot. The temperature will dip to an overnight low of 49 with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-28",
-    "updateDate": "2026-10-28T03:05:23.292Z",
+    "updateDate": "2026-10-28T04:06:24.463Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the engineering reports for the City of Verona remain ongoing through our partners at AECOM. Additionally, the Wisconsin Department of Transportation is seeking community feedback on the US 18/151 Corridor Study with meetings scheduled for November 18 and 19.",
+    "mainText": "The city has updated its engineering reports, which track contracts with AECOM Inc. Additionally, the Wisconsin Department of Transportation is holding meetings regarding the US 18/151 Corridor Study on November 18 and 19 for those interested in design concepts and providing feedback.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-28",
-    "updateDate": "2026-10-28T03:05:23.292Z",
+    "updateDate": "2026-10-28T04:06:24.463Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule ahead. Today you can enjoy trivia at Hop Haus or Wisconsin Brewing Company. Tomorrow, we have yoga at Insight Wellness, pizza at Lake Lou-ee, and trivia night at The Bogey Factory. Looking ahead, don't miss the Main Street Trick or Treat on October 29.",
+    "mainText": "There is a busy schedule of local events tomorrow including live music at Paddy Mac's, yoga at Insight Wellness, a pizza and pitcher night at Wisconsin Brewing Company, and trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-28",
-    "updateDate": "2026-10-28T03:05:23.292Z",
+    "updateDate": "2026-10-28T04:06:24.463Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 22, a vehicle crash occurred involving a Metro Bus on West Verona Avenue, resulting in a citation for failure to yield the right of way.",
+    "mainText": "On October 25, Verona police officers arrested a 40-year-old man for O W I after he was discovered passed out in his vehicle at the intersection of Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-28",
-    "updateDate": "2026-10-28T03:05:23.292Z",
+    "updateDate": "2026-10-28T04:06:24.463Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "While today's flavor of Chocolate Caramel Twist has come to an end, you can look forward to tomorrow's flavor, which is Chocolate Heath Crunch. The store will open tomorrow at 10:00 AM.",
+    "mainText": "Today's flavor of the day was Chocolate Caramel Twist. As we are currently closed for the night, please join us tomorrow starting at 10:00 AM when we will be serving our flavor of the day, Chocolate Heath Crunch.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
