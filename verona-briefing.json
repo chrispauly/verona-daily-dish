@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-29",
-    "updateDate": "2026-10-29T04:05:40.043Z",
+    "updateDate": "2026-10-29T05:05:03.421Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we are seeing overcast skies near Badger Ridge Middle School under a Waning Gibbous moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds. Overnight, temperatures will drop to 60 degrees, and rain is in the forecast.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. We are seeing 66 degrees under overcast skies near Harriet Park. We have a Waning Gibbous moon tonight, and while the International Space Station passes overhead, you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-29",
-    "updateDate": "2026-10-29T04:05:40.043Z",
+    "updateDate": "2026-10-29T05:05:03.421Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona continues its contract with AECOM for engineering services, with detailed reports presented to the City Council. Additionally, the Wisconsin Department of Transportation is holding public meetings for the US 18/151 Corridor Study on November 18 and 19 to discuss new design concepts.",
+    "mainText": "The city has released a new batch of engineering service reports, and the Wisconsin Department of Transportation is hosting public meetings on November 18 and 19 regarding the US 18/151 corridor study to gather feedback on new design concepts.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-29",
-    "updateDate": "2026-10-29T04:05:40.043Z",
+    "updateDate": "2026-10-29T05:05:03.421Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town this week. Yoga at Insight Wellness is tomorrow, followed by Art House 360 events and trivia at Hop Haus tomorrow. Looking further ahead, we have music at Bailey's Run and the Main Street Trick-Or-Treat event on October 30.",
+    "mainText": "We have a busy schedule ahead. Today you can enjoy yoga at Insight Wellness, ART House 360 Thursday nights, or Hop Haus Trivia. Looking to tomorrow, you can catch live music at Bailey's Run and Lake Lou-ee, or take the family to the Main Street Trick-Or-Treat.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-29",
-    "updateDate": "2026-10-29T04:05:40.043Z",
+    "updateDate": "2026-10-29T05:05:03.421Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on October 25, officers responded to a call where a 40-year-old Verona man was found stopped at an intersection for over 20 minutes. He was taken into custody for an O W I, marking his first offence.",
+    "mainText": "In a recent report, police assisted with two cardiac arrests on October 21, and on that same day, a woman was arrested for a domestic disturbance at a residence on Church Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-29",
-    "updateDate": "2026-10-29T04:05:40.043Z",
+    "updateDate": "2026-10-29T05:05:03.421Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day was Chocolate Heath Crunch. As the store is now closed for the night, you can look forward to the OREO REESE'S Cheesecake flavor tomorrow when the shop opens at 10:00 AM.",
+    "mainText": "The flavor of the day is the delicious OREO REESE'S Cheesecake. The store opens today at 10:00 AM, so be sure to stop by and grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
