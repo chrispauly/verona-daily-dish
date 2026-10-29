@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-29",
-    "updateDate": "2026-10-29T14:05:24.603Z",
+    "updateDate": "2026-10-29T15:05:29.882Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish. We have overcast skies with a temperature of 59 degrees at the Verona Area High School, and the moon is currently in a Waning Gibbous phase.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. We are looking at overcast skies at Verona Area High School with temperatures feeling more like 53 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-29",
-    "updateDate": "2026-10-29T14:05:24.603Z",
+    "updateDate": "2026-10-29T15:05:29.882Z",
     "titleText": "Verona City News",
-    "mainText": "The city has been updating engineering records with AECOM, and residents are encouraged to attend upcoming public meetings for the US 18/151 Corridor Study happening in November to provide feedback on new design concepts.",
+    "mainText": "In city news, there are no new emails or articles to report at this time.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-29",
-    "updateDate": "2026-10-29T14:05:24.603Z",
+    "updateDate": "2026-10-29T15:05:29.882Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, including Yoga at Insight Wellness, ART House 360, and Hop Haus Trivia, all happening today. Looking ahead, tomorrow features live music at Bailey's Run, the Main Street Trick-Or-Treat event, and live music at the Wisconsin Brewing Company.",
+    "mainText": "Today, you can join Yoga at Insight Wellness, check out the activities at ART House 360, or participate in Hop Haus Trivia. Looking ahead to tomorrow, we have live music at Bailey's Run and Lake Lou-ee, plus the Main Street Trick-Or-Treat at Hometown Junction Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-29",
-    "updateDate": "2026-10-29T14:05:24.603Z",
+    "updateDate": "2026-10-29T15:05:29.882Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly police report, on October 25, officers arrested a 40-year-old Verona man for an O W I offence after finding him passed out behind the wheel at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "There is no report from the police department for this week.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-29",
-    "updateDate": "2026-10-29T14:05:24.603Z",
+    "updateDate": "2026-10-29T15:05:29.882Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "If you are craving something sweet, head over to Culver's which opens today at 10:00 AM to serve up today's flavor, OREO REESE'S Cheesecake.",
+    "mainText": "You can enjoy the Oreo Reese's Cheesecake flavor of the day today while the store is open until 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
