@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-29",
-    "updateDate": "2026-10-29T03:05:37.991Z",
+    "updateDate": "2026-10-29T04:05:40.043Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. We are seeing 66 degrees with overcast skies at Fireman's Park. The ISS will pass overhead tonight, but it will be invisible due to the heavy cloud cover. Tonight's moon phase is a waning gibbous, and we are expecting an overnight low of 58 degrees with rain predicted.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we are seeing overcast skies near Badger Ridge Middle School under a Waning Gibbous moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds. Overnight, temperatures will drop to 60 degrees, and rain is in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-29",
-    "updateDate": "2026-10-29T03:05:37.991Z",
+    "updateDate": "2026-10-29T04:05:40.043Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona continues to coordinate engineering services with AECOM, and those reports are available online. Additionally, the Wisconsin Department of Transportation is holding public meetings on November 18 and 19 regarding the US 18/151 corridor study to gather community feedback on new design concepts.",
+    "mainText": "The City of Verona continues its contract with AECOM for engineering services, with detailed reports presented to the City Council. Additionally, the Wisconsin Department of Transportation is holding public meetings for the US 18/151 Corridor Study on November 18 and 19 to discuss new design concepts.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-29",
-    "updateDate": "2026-10-29T03:05:37.991Z",
+    "updateDate": "2026-10-29T04:05:40.043Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a busy schedule today including live music at Paddy Mac's, yoga at Insight Wellness, pizza and a pitcher at Lake Lou-ee, and trivia night at The Bogey Factory. Looking ahead, you can enjoy Thursday night events at ART House 360, more trivia at Hop Haus, and the Main Street Trick-or-Treat event this Thursday.",
+    "mainText": "There is plenty to do in town this week. Yoga at Insight Wellness is tomorrow, followed by Art House 360 events and trivia at Hop Haus tomorrow. Looking further ahead, we have music at Bailey's Run and the Main Street Trick-Or-Treat event on October 30.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-29",
-    "updateDate": "2026-10-29T03:05:37.991Z",
+    "updateDate": "2026-10-29T04:05:40.043Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from October 25, Verona police officers arrested a 40-year-old man for O W I after he was found asleep at the wheel at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "In police news, on October 25, officers responded to a call where a 40-year-old Verona man was found stopped at an intersection for over 20 minutes. He was taken into custody for an O W I, marking his first offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-29",
-    "updateDate": "2026-10-29T03:05:37.991Z",
+    "updateDate": "2026-10-29T04:05:40.043Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Butter Pecan is today's flavor of the day. Culver's is currently open, but please note that they are closing soon in 55 minutes, so be sure to get your scoop before they wrap up for the night.",
+    "mainText": "The Culver's flavor of the day was Chocolate Heath Crunch. As the store is now closed for the night, you can look forward to the OREO REESE'S Cheesecake flavor tomorrow when the shop opens at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
