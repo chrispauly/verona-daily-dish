@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-29",
-    "updateDate": "2026-10-29T00:11:57.906Z",
+    "updateDate": "2026-10-29T01:05:08.572Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, it is 67 degrees with clear skies by Verona City Hall. We are currently under a Waning Gibbous moon. The ISS is passing overhead tonight, but you won't be able to see it due to the clouds. Looking ahead, the temperature will drop to an overnight low of 56 degrees with rain expected.",
+    "mainText": "Hello, Verona! At 8 PM, it is 67 degrees and clear at Fireman's Park under a Waning Gibbous moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds. Expect an overnight low of 56 degrees with rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-29",
-    "updateDate": "2026-10-29T00:11:57.906Z",
+    "updateDate": "2026-10-29T01:05:08.572Z",
     "titleText": "Verona City News",
-    "mainText": "The city has posted a comprehensive list of engineering services reports provided to the City Council. Additionally, the Wisconsin Department of Transportation is holding public meetings on November 18 and 19 regarding the US 18/151 Corridor Study to gather community feedback on new design concepts.",
+    "mainText": "City engineering updates continue with the latest reports from AECOM, while the Wisconsin Department of Transportation is holding meetings regarding the US 18/151 corridor study to gather public feedback.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-29",
-    "updateDate": "2026-10-29T00:11:57.906Z",
+    "updateDate": "2026-10-29T01:05:08.572Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona. Today you can enjoy live music at Paddy Mac's, yoga at Insight Wellness, trivia at The Bogey Factory, or Wednesday Pizza and a Pitcher at Lake Lou-ee. Tomorrow, check out ART House 360 or trivia at Hop Haus, followed by live music and the Main Street Trick or Treat event this Thursday.",
+    "mainText": "We have a busy schedule today including live music at Paddy Mac's, trivia at The Bogey Factory, yoga at Insight Wellness, and pizza at Lake Lou-ee. Tomorrow, look forward to ART House 360 and trivia at Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-29",
-    "updateDate": "2026-10-29T00:11:57.906Z",
+    "updateDate": "2026-10-29T01:05:08.572Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a recent report, officers assisted with two separate cardiac arrest calls on October 21 where life-saving measures were taken and patients were transported to the hospital.",
+    "mainText": "Regarding local activity, on October 25, officers were dispatched to Plympton Street and Rita Avenue where they arrested a 40-year-old man for O W I after he was found asleep in his vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-29",
-    "updateDate": "2026-10-29T00:11:57.906Z",
+    "updateDate": "2026-10-29T01:05:08.572Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the decadent Chocolate Heath Crunch. The restaurant is currently open and will remain open until 10 PM tonight, so there is still time to stop in for a treat.",
+    "mainText": "Today's flavor of the day is Chocolate Heath Crunch. The store is currently open and will remain open until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
