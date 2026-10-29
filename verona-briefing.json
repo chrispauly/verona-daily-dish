@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-29",
-    "updateDate": "2026-10-29T19:04:26.120Z",
+    "updateDate": "2026-10-29T20:05:02.251Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We have clear skies over Verona Community Park with a temperature of 65 degrees.",
+    "mainText": "Hello, Verona! At 3 PM, it is a clear 65 degrees at Badger Prairie County Park. We are under a Waning Gibbous moon tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-29",
-    "updateDate": "2026-10-29T19:04:26.120Z",
+    "updateDate": "2026-10-29T20:05:02.251Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Water Utility is conducting important cross-connection inspections to keep our water supply clean and safe. Also, note that the Verona Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
+    "mainText": "The city reminds residents that alternate side parking rules start November 20 to assist with snow removal, and the Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-29",
-    "updateDate": "2026-10-29T19:04:26.120Z",
+    "updateDate": "2026-10-29T20:05:02.251Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Today, you can check out yoga, ART House 360 events, or trivia at Hop Haus. Tomorrow, look forward to live music at Bailey's Run and Lake Lou-ee, plus the Main Street Trick-Or-Treat event.",
+    "mainText": "We have a busy couple of days! Today features yoga at Insight Wellness, Art House 360 events, and Hop Haus trivia. Tomorrow, check out live music at Bailey's Run or Lake Lou-ee, plus the Main Street Trick-or-Treat at Hometown Junction Park.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-29",
-    "updateDate": "2026-10-29T19:04:26.120Z",
+    "updateDate": "2026-10-29T20:05:02.251Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly police report, on October 25, officers responded to a situation where a 40-year-old man was found passed out behind the wheel and was subsequently arrested for O W I.",
+    "mainText": "Regarding the weekly report, on October 25, officers responded to a situation where a man was found behind the wheel and subsequently arrested for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-29",
-    "updateDate": "2026-10-29T19:04:26.120Z",
+    "updateDate": "2026-10-29T20:05:02.251Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the decadent OREO REESE'S Cheesecake. Culver's of Verona is currently open and serving until 10:00 PM tonight, so it is a great time to stop by for a treat.",
+    "mainText": "The Culver's flavor of the day is Oreo Reese's Cheesecake. The restaurant is currently open and will be serving guests until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
