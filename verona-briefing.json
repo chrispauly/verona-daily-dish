@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-29",
-    "updateDate": "2026-10-29T11:04:29.204Z",
+    "updateDate": "2026-10-29T12:07:22.125Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, we are looking at 59 degrees with overcast skies at Harriet Park under a waning gibbous moon.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we are seeing overcast skies at Badger Prairie County Park with a current temperature of 60 degrees and a Waning Gibbous moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-29",
-    "updateDate": "2026-10-29T11:04:29.204Z",
+    "updateDate": "2026-10-29T12:07:22.125Z",
     "titleText": "Verona City News",
-    "mainText": "The city has published its latest engineering reports, and the Wisconsin Department of Transportation is inviting residents to meetings on November 18 and 19 to review the US 18/151 Corridor Study.",
+    "mainText": "The City of Verona has released engineering reports for ongoing projects, and residents are invited to participate in the upcoming US 18/151 Corridor Study public meetings, with an in-person session on November 18 and a virtual option on November 19 to discuss initial design concepts.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-29",
-    "updateDate": "2026-10-29T11:04:29.204Z",
+    "updateDate": "2026-10-29T12:07:22.125Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule today with Yoga at Insight Wellness, ART House 360 events, and Hop Haus Trivia, followed by live music and the Main Street Trick-Or-Treat tomorrow.",
+    "mainText": "We have plenty of activity in the community, including Yoga at Insight Wellness, ART House 360, and Hop Haus Trivia all taking place today, followed by live music and the Main Street Trick-Or-Treat event tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-29",
-    "updateDate": "2026-10-29T11:04:29.204Z",
+    "updateDate": "2026-10-29T12:07:22.125Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 23, officers made contact with two juveniles on Ashton Drive for riding prohibited e-motorcycles, resulting in their parents receiving citations.",
+    "mainText": "Regarding the weekly safety report, on October 23, officers made contact with two juveniles riding prohibited eMotos, resulting in citations for their parents.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-29",
-    "updateDate": "2026-10-29T11:04:29.204Z",
+    "updateDate": "2026-10-29T12:07:22.125Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is OREO REESE'S Cheesecake, and the store will be open today at 10 AM for you to enjoy a treat.",
+    "mainText": "Today's delicious flavor of the day is OREO REESE'S Cheesecake, and the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
