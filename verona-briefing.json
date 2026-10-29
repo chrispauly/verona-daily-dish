@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-29",
-    "updateDate": "2026-10-29T16:05:28.414Z",
+    "updateDate": "2026-10-29T17:04:07.483Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we have 60 degree temperatures and clear skies at Badger Prairie County Park.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we have clear skies and a temperature of 61 degrees down by the Verona Public Library.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-29",
-    "updateDate": "2026-10-29T16:05:28.414Z",
+    "updateDate": "2026-10-29T17:04:07.483Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona Water Utility is partnering with experts to perform mandatory cross connection inspections to prevent water contamination, and residents are reminded to watch for their notification letters. Additionally, the Wisconsin Department of Transportation is holding meetings regarding the US 18/151 Corridor Study to gather feedback on new design concepts.",
+    "mainText": "In city news, the Verona Senior Center has announced they will be closed for the Thanksgiving holiday on November 26 and 27. Additionally, the Water Utility is working with partners to perform essential cross-connection control inspections to keep our water supply safe, so keep an eye out for a letter in your mail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-29",
-    "updateDate": "2026-10-29T16:05:28.414Z",
+    "updateDate": "2026-10-29T17:04:07.483Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule ahead. Today you can enjoy Yoga at Insight Wellness, ART House 360, and trivia at Hop Haus Brewing. Tomorrow, look forward to live music at Bailey's Run, the Main Street Trick-Or-Treat event, and more live music at Wisconsin Brewing Company.",
+    "mainText": "It is a busy week for events! Today you can check out Yoga at Insight Wellness, ART House 360, or Hop Haus Trivia. Tomorrow brings even more fun with live music at Bailey's Run and Lake Lou-ee, plus the Main Street Trick-Or-Treat event.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-29",
-    "updateDate": "2026-10-29T16:05:28.414Z",
+    "updateDate": "2026-10-29T17:04:07.483Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering October 18 through 24, officers noted that on October 25, a driver was arrested for an O W I offence after being found unresponsive in their vehicle.",
+    "mainText": "Looking at the weekly police report, on October 25, officers were dispatched to the intersection of Plympton Street and Rita Avenue where they located a man passed out behind the wheel and subsequently arrested him for an O W I offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-29",
-    "updateDate": "2026-10-29T16:05:28.414Z",
+    "updateDate": "2026-10-29T17:04:07.483Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy today's delicious flavor of the day, Oreo Reese's Cheesecake, while the store is open until 10 PM tonight.",
+    "mainText": "Today's flavor of the day is the delicious Oreo Reese's Cheesecake. The store is currently open and serving until 10 PM, so there is plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
