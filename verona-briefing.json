@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-29",
-    "updateDate": "2026-10-29T02:06:45.033Z",
+    "updateDate": "2026-10-29T03:05:37.991Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, we have clear skies over Harriet Park with a temperature of 67 degrees. The moon is in a Waning Gibbous phase, and the ISS is set to pass overhead, though cloud cover will hide it from view tonight. Expect a chilly overnight low of 57 degrees with rain in the forecast.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. We are seeing 66 degrees with overcast skies at Fireman's Park. The ISS will pass overhead tonight, but it will be invisible due to the heavy cloud cover. Tonight's moon phase is a waning gibbous, and we are expecting an overnight low of 58 degrees with rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-29",
-    "updateDate": "2026-10-29T02:06:45.033Z",
+    "updateDate": "2026-10-29T03:05:37.991Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona continues to coordinate with AECOM for ongoing engineering services, and residents are invited to provide feedback on the US 18/151 Corridor Study during upcoming public meetings in November.",
+    "mainText": "The City of Verona continues to coordinate engineering services with AECOM, and those reports are available online. Additionally, the Wisconsin Department of Transportation is holding public meetings on November 18 and 19 regarding the US 18/151 corridor study to gather community feedback on new design concepts.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-29",
-    "updateDate": "2026-10-29T02:06:45.033Z",
+    "updateDate": "2026-10-29T03:05:37.991Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town, including Trivia Night at The Bogey Factory today and Pizza and a Pitcher at Lake Lou-ee, also happening today. Tomorrow, you can check out the ART House 360 or play some trivia at Hop Haus.",
+    "mainText": "There is a busy schedule today including live music at Paddy Mac's, yoga at Insight Wellness, pizza and a pitcher at Lake Lou-ee, and trivia night at The Bogey Factory. Looking ahead, you can enjoy Thursday night events at ART House 360, more trivia at Hop Haus, and the Main Street Trick-or-Treat event this Thursday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-29",
-    "updateDate": "2026-10-29T02:06:45.033Z",
+    "updateDate": "2026-10-29T03:05:37.991Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly police report from October 25, officers responded to an intersection where they found a man passed out behind the wheel and subsequently arrested him for an O W I.",
+    "mainText": "In a report from October 25, Verona police officers arrested a 40-year-old man for O W I after he was found asleep at the wheel at the intersection of Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-29",
-    "updateDate": "2026-10-29T02:06:45.033Z",
+    "updateDate": "2026-10-29T03:05:37.991Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Our current flavor of the day is the delightful Chocolate Heath Crunch, but you will need to hurry because we are closing soon at 10 PM.",
+    "mainText": "Butter Pecan is today's flavor of the day. Culver's is currently open, but please note that they are closing soon in 55 minutes, so be sure to get your scoop before they wrap up for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
