@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-30",
-    "updateDate": "2026-10-30T20:05:00.402Z",
+    "updateDate": "2026-10-30T21:04:23.192Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: it is 55 degrees with overcast skies near Verona Area High School, and we are currently seeing a waning gibbous moon.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. Over at Badger Prairie County Park, it is currently 53 degrees with light drizzle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-30",
-    "updateDate": "2026-10-30T20:05:00.402Z",
+    "updateDate": "2026-10-30T21:04:23.192Z",
     "titleText": "Verona City News",
-    "mainText": "The city reminds residents that winter street parking regulations, which help emergency vehicles and snow plows, begin November 20 and run until April 1, and please note the Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
+    "mainText": "In city affairs, the latest update is: Refuse  Recycling.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-30",
-    "updateDate": "2026-10-30T20:05:00.402Z",
+    "updateDate": "2026-10-30T21:04:23.192Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of community fun starting today with Main Street Trick-Or-Treat and live music at Bailey's Run and the Wisconsin Brewing Company, followed by the Dane County Farmer's Market tomorrow.",
+    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Bailey's Run Today at Bailey's Run Vineyard.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-30",
-    "updateDate": "2026-10-30T20:05:00.402Z",
+    "updateDate": "2026-10-30T21:04:23.192Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly recap, on October 25, officers responded to a report of a vehicle stopped at an intersection where a man was arrested for an O W I.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-30",
-    "updateDate": "2026-10-30T20:05:00.402Z",
+    "updateDate": "2026-10-30T21:04:23.192Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor is Chocolate Covered Strawberry, and since the store is open, you should stop by before we close at 10:30 PM.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: Turtle Dove. The restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
