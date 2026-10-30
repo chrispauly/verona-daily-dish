@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-30",
-    "updateDate": "2026-10-30T17:03:52.302Z",
+    "updateDate": "2026-10-30T18:05:32.770Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we have overcast skies at the Verona Area High School with temperatures holding steady at 51 degrees.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: it is 54 degrees with clear skies at the Military Ridge State Trail and a Waning Gibbous moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-30",
-    "updateDate": "2026-10-30T17:03:52.302Z",
+    "updateDate": "2026-10-30T18:05:32.770Z",
     "titleText": "Verona City News",
-    "mainText": "City officials are reminding everyone that winter parking rules start November 20. Additionally, please keep an eye on your mail for upcoming cross-connection water inspections as the city updates safety measures.",
+    "mainText": "We have no new city news or important email updates to share with you at this time.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-30",
-    "updateDate": "2026-10-30T17:03:52.302Z",
+    "updateDate": "2026-10-30T18:05:32.770Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Today, bring the family to the Main Street Trick or Treat at Hometown Junction Park and catch live music at Bailey's Run Vineyard or the Wisconsin Brewing Company. Tomorrow, check out the Dane County Farmers' Market at the Capitol or live music at Paddy Mac's.",
+    "mainText": "There is plenty to do in our community. Today, bring the family to the Main Street Trick-Or-Treat or enjoy live music at Bailey's Run and Lake Lou-ee. Tomorrow, you can visit the Dane County Farmer's Market or catch more live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-30",
-    "updateDate": "2026-10-30T17:03:52.302Z",
+    "updateDate": "2026-10-30T18:05:32.770Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable call from October 25, a 40-year-old man was arrested for an O W I offence after being found stopped at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "We do not have a specific incident to review from the Verona Police Department for this week.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-30",
-    "updateDate": "2026-10-30T17:03:52.302Z",
+    "updateDate": "2026-10-30T18:05:32.770Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the decadent Chocolate Covered Strawberry. The restaurant is open and serving until 10:30 PM, so there is plenty of time to stop by for a treat.",
+    "mainText": "Culver's of Verona is currently open until 10:30 PM, and they are serving the delicious Chocolate Covered Strawberry flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
