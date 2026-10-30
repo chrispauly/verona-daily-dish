@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-30",
-    "updateDate": "2026-10-30T13:04:46.183Z",
+    "updateDate": "2026-10-30T14:05:01.216Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we have overcast skies at Verona Community Park with a temperature of 39 degrees, though it feels like 33.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: it is 43 degrees with overcast skies at Reddan Soccer Park, and the moon is in a waning gibbous phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-30",
-    "updateDate": "2026-10-30T13:04:46.183Z",
+    "updateDate": "2026-10-30T14:05:01.216Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, please remember that winter parking regulations are in effect from November 20 through April 1, requiring you to park on alternating sides of the street overnight. Also, the Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
+    "mainText": "The city reminds residents that Pellitteri Waste Systems handles all curbside refuse and recycling, and you can use their app or website for schedules. Also, remember that winter alternate-side parking starts on November 20, requiring you to park on even or odd sides of the street depending on the date to ensure snow removal access.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-30",
-    "updateDate": "2026-10-30T13:04:46.183Z",
+    "updateDate": "2026-10-30T14:05:01.216Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, including the Main Street Trick-Or-Treat happening today at Hometown Junction Park. Tomorrow, head downtown for the Dane County Farmers Market at the Capitol, or check out live music at Paddy Mac's.",
+    "mainText": "There is plenty to do, including the Main Street Trick-or-Treat today, live music at Bailey's Run Vineyard today, and the Dane County Farmers' Market happening tomorrow on the Square.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-30",
-    "updateDate": "2026-10-30T13:04:46.183Z",
+    "updateDate": "2026-10-30T14:05:01.216Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local safety, on October 25, officers located a driver who was arrested for O W I, which stands for operating while intoxicated, after he was found unresponsive in his vehicle.",
+    "mainText": "Regarding the police report, on Sunday, October 25, officers were dispatched to Plympton Street and Rita Avenue where they found a man asleep behind the wheel, resulting in an arrest for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-30",
-    "updateDate": "2026-10-30T13:04:46.183Z",
+    "updateDate": "2026-10-30T14:05:01.216Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delicious Chocolate Covered Strawberry. The store opens today at 10:00 AM, so be sure to stop by and grab a scoop.",
+    "mainText": "Culver's of Verona is currently closed but will open today at 10:00 AM with their featured flavor of the day, so make sure to stop by and grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
