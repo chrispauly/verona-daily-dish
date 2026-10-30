@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-30",
-    "updateDate": "2026-10-30T12:06:52.458Z",
+    "updateDate": "2026-10-30T13:04:46.183Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: it is 39 degrees under overcast skies at Harriet Park with a Waning Gibbous moon visible in the early morning sky.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we have overcast skies at Verona Community Park with a temperature of 39 degrees, though it feels like 33.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-30",
-    "updateDate": "2026-10-30T12:06:52.458Z",
+    "updateDate": "2026-10-30T13:04:46.183Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, please remember that winter parking rules start November 20 to help with snow removal, and the Verona Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
+    "mainText": "In city news, please remember that winter parking regulations are in effect from November 20 through April 1, requiring you to park on alternating sides of the street overnight. Also, the Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-30",
-    "updateDate": "2026-10-30T12:06:52.458Z",
+    "updateDate": "2026-10-30T13:04:46.183Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with the Main Street Trick-Or-Treat happening today, plus live music at Bailey's Run and Lake Lou-ee. Looking ahead, the Dane County Farmers' Market returns tomorrow at the Capitol Square.",
+    "mainText": "There is plenty to do, including the Main Street Trick-Or-Treat happening today at Hometown Junction Park. Tomorrow, head downtown for the Dane County Farmers Market at the Capitol, or check out live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-30",
-    "updateDate": "2026-10-30T12:06:52.458Z",
+    "updateDate": "2026-10-30T13:04:46.183Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at recent police activity, on October 25, officers located a driver at the intersection of Plympton Street and Rita Avenue who was arrested for an O W I offence.",
+    "mainText": "Regarding local safety, on October 25, officers located a driver who was arrested for O W I, which stands for operating while intoxicated, after he was found unresponsive in his vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-30",
-    "updateDate": "2026-10-30T12:06:52.458Z",
+    "updateDate": "2026-10-30T13:04:46.183Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's flavor of the day, which is Chocolate Covered Strawberry. The restaurant is currently closed but will open today at 10:00 AM.",
+    "mainText": "Today's flavor is the delicious Chocolate Covered Strawberry. The store opens today at 10:00 AM, so be sure to stop by and grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
