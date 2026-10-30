@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-30",
-    "updateDate": "2026-10-30T04:05:40.564Z",
+    "updateDate": "2026-10-30T05:04:44.946Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we have clear skies at Harriet Park with a temperature of 46 degrees. The moon is a Waning Gibbous, and the ISS will be visible tomorrow morning starting at 5:07 AM, rising over Verona High School and traveling toward Fitchburg. Overnight, we will drop to a low of 39 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we have clear skies near the Military Ridge State Trail and a Waning Gibbous moon. Also, the International Space Station will be visible tonight for two minutes starting at 5:07 AM, appearing over Middleton and the high school before passing toward Fitchburg and Madison.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-30",
-    "updateDate": "2026-10-30T04:05:40.564Z",
+    "updateDate": "2026-10-30T05:04:44.946Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona reminds everyone that winter street parking rules begin on November 20, requiring alternate-side parking to assist with snow removal. Additionally, please be aware the Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
+    "mainText": "The city reminds everyone that alternate-side winter parking starts November 20 to ensure snow removal access. Additionally, the Water Utility is performing cross-connection inspections, so please watch your mail for scheduling information.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-30",
-    "updateDate": "2026-10-30T04:05:40.564Z",
+    "updateDate": "2026-10-30T05:04:44.946Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of fun on the horizon with Main Street Trick-or-Treat happening tomorrow at Hometown Junction Park, along with live music at Bailey's Run. Plus, the Dane County Farmers' Market returns to the Capitol Square this Friday.",
+    "mainText": "There is plenty to do today with live music at Bailey's Run and Wisconsin Brewing Company, plus the festive Main Street Trick-or-Treat. Tomorrow, you can visit the Dane County Farmers Market at the Capitol or catch live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-30",
-    "updateDate": "2026-10-30T04:05:40.564Z",
+    "updateDate": "2026-10-30T05:04:44.946Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from October 25, officers responded to a vehicle stopped at an intersection for 20 minutes, which resulted in the driver being arrested for O W I.",
+    "mainText": "In our weekly police report, on Sunday October 25, officers found a man passed out behind the wheel at Plympton and Rita, leading to an arrest for O W I, first offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-30",
-    "updateDate": "2026-10-30T04:05:40.564Z",
+    "updateDate": "2026-10-30T05:04:44.946Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona has wrapped up today's service, so we look forward to tomorrow's flavor, Chocolate Covered Strawberry, when the doors open again at 10 AM.",
+    "mainText": "Today's featured flavor is Chocolate Covered Strawberry. The shop is closed currently but will be open today at 10:00 AM for you to enjoy.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
