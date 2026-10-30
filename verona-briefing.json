@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-30",
-    "updateDate": "2026-10-30T01:07:07.487Z",
+    "updateDate": "2026-10-30T02:06:18.199Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: the temperature is 53 degrees with clear skies near the Verona Public Library. We have a waning gibbous moon tonight, and the ISS will be visible for 2 minutes starting at 5:07 AM, traveling from over Middleton and Verona High School toward the Fitchburg and Madison area, reaching halfway up the sky. The overnight low will hit 40 degrees with no rain expected.",
+    "mainText": "Hello, Verona! At 9 PM, we have clear conditions near City Hall under a waning gibbous moon. The ISS will be visible tomorrow morning at 5:07 AM, rising over Middleton near Verona High School and heading toward Fitchburg and Madison, reaching halfway up the sky. The overnight low will hit 40 degrees, and we are not expecting any rain.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-30",
-    "updateDate": "2026-10-30T01:07:07.487Z",
+    "updateDate": "2026-10-30T02:06:18.199Z",
     "titleText": "Verona City News",
-    "mainText": "We have no new city news or important emails to update you on this evening.",
+    "mainText": "The City of Verona has announced that alternate-side winter parking rules apply from November 20 through April 1, requiring you to park on even or odd sides of the street depending on the date. Also, remember that the Verona Senior Center will be closed on November 26 and 27 for Thanksgiving.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-30",
-    "updateDate": "2026-10-30T01:07:07.487Z",
+    "updateDate": "2026-10-30T02:06:18.199Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy time for local activities in Verona. Today you can participate in Yoga at Insight Wellness, enjoy the Thursday night festivities at ART House 360, or join the fun at Hop Haus Trivia. Looking ahead to tomorrow, there will be live music at Bailey's Run and Wisconsin Brewing Company, plus the Main Street Trick-Or-Treat event at Hometown Junction Park.",
+    "mainText": "There is plenty to do in town today, including yoga at Insight Wellness, ART House 360 activities, and trivia at Hop Haus Brewing Company. Looking ahead, tomorrow features live music at Bailey's Run and Lake Lou-ee, plus the Main Street Trick-Or-Treat event.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-30",
-    "updateDate": "2026-10-30T01:07:07.487Z",
+    "updateDate": "2026-10-30T02:06:18.199Z",
     "titleText": "Verona Police Report",
-    "mainText": "There is no police incident report available to summarize for this week.",
+    "mainText": "In a report from October 25, officers found a man passed out behind the wheel at Plympton Street and Rita Avenue, resulting in an arrest for O W I, first offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-30",
-    "updateDate": "2026-10-30T01:07:07.487Z",
+    "updateDate": "2026-10-30T02:06:18.199Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day at Culver's is OREO REESE'S Cheesecake. The restaurant is currently open for your enjoyment and will remain open until 10:00 PM tonight.",
+    "mainText": "The delicious flavor of the day is OREO REESE'S Cheesecake. The store is currently open but will be closing its doors in less than an hour, so try to make it there before they finish up for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
