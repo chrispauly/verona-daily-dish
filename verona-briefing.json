@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-30",
-    "updateDate": "2026-10-30T18:05:32.770Z",
+    "updateDate": "2026-10-30T19:03:51.059Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: it is 54 degrees with clear skies at the Military Ridge State Trail and a Waning Gibbous moon overhead.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We are seeing 56 degrees under mainly clear skies at the Verona Area High School, with the moon currently in a waning gibbous phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-30",
-    "updateDate": "2026-10-30T18:05:32.770Z",
+    "updateDate": "2026-10-30T19:03:51.059Z",
     "titleText": "Verona City News",
-    "mainText": "We have no new city news or important email updates to share with you at this time.",
+    "mainText": "In city news, please be advised that alternate-side winter parking regulations begin November 20. Additionally, the Verona Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-30",
-    "updateDate": "2026-10-30T18:05:32.770Z",
+    "updateDate": "2026-10-30T19:03:51.059Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community. Today, bring the family to the Main Street Trick-Or-Treat or enjoy live music at Bailey's Run and Lake Lou-ee. Tomorrow, you can visit the Dane County Farmer's Market or catch more live music at Paddy Mac's.",
+    "mainText": "There is plenty to do in town, starting with the Main Street Trick-Or-Treat taking place today at Hometown Junction Park. Looking ahead, you can visit the Dane County Farmers Market tomorrow at the Capitol Square, or enjoy yoga at Insight Wellness on November 2.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-30",
-    "updateDate": "2026-10-30T18:05:32.770Z",
+    "updateDate": "2026-10-30T19:03:51.059Z",
     "titleText": "Verona Police Report",
-    "mainText": "We do not have a specific incident to review from the Verona Police Department for this week.",
+    "mainText": "In our weekly look at local safety, on October 23, officers made contact with two juveniles riding eMotos on Ashton Drive, leading to citations for their parents for allowing the minors to operate the vehicles.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-30",
-    "updateDate": "2026-10-30T18:05:32.770Z",
+    "updateDate": "2026-10-30T19:03:51.059Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently open until 10:30 PM, and they are serving the delicious Chocolate Covered Strawberry flavor of the day.",
+    "mainText": "Today's flavor of the day is the delightful Chocolate Covered Strawberry. The restaurant is currently open and will remain so until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
