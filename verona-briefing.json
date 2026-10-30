@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-30",
-    "updateDate": "2026-10-30T22:03:39.266Z",
+    "updateDate": "2026-10-30T23:03:48.562Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: it is 53 degrees with overcast skies at Verona Community Park. The moon is in its Waning Gibbous phase, and you can expect an overnight low of 49 degrees with rain likely before morning.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. We have overcast skies at Verona City Hall with a temperature of 51 degrees under a Waning Gibbous moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds. We are looking at an overnight low of 48 degrees with rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-30",
-    "updateDate": "2026-10-30T22:03:39.266Z",
+    "updateDate": "2026-10-30T23:03:48.562Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Public Works Department reminds residents that refuse and recycling are managed by Pellitteri Waste Systems, and you can find your specific collection schedule on their website. Also, remember that alternate-side winter parking regulations take effect from November 20 through April 1 to help with snow removal.",
+    "mainText": "Regarding city services, remember that refuse and recycling are handled by Pellitteri Waste Systems, and you can find your collection schedule on their app. Also, please note that winter parking rules begin on November 20.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-30",
-    "updateDate": "2026-10-30T22:03:39.266Z",
+    "updateDate": "2026-10-30T23:03:48.562Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty going on in the community. Today, you can catch live music at Bailey's Run and Wisconsin Brewing Company, plus the Main Street Trick-Or-Treat at Hometown Junction Park. Tomorrow, the Dane County Farmer's Market takes over the Capitol Square.",
+    "mainText": "There is plenty to do, including the Main Street Trick-Or-Treat today, live music at Bailey's Run and Wisconsin Brewing Company today, and the Dane County Farmer's Market tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-30",
-    "updateDate": "2026-10-30T22:03:39.266Z",
+    "updateDate": "2026-10-30T23:03:48.562Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly police report, on October 25, officers were dispatched to Plympton Street and Rita Avenue where they arrested a 40-year-old man for an O W I offence.",
+    "mainText": "In a report from October 25, officers arrested a 40-year-old Verona man for an O W I after he was discovered stopped in an intersection for twenty minutes.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-30",
-    "updateDate": "2026-10-30T22:03:39.266Z",
+    "updateDate": "2026-10-30T23:03:48.562Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Chocolate Covered Strawberry. The Culver's of Verona is currently open and will remain open until 10:30 PM tonight, so there is still plenty of time to stop by for a treat.",
+    "mainText": "Today's flavor of the day is the delicious Chocolate Covered Strawberry. The store is currently open and will be serving until 10:30 PM tonight, so there is still plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
