@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-31",
-    "updateDate": "2026-10-31T05:05:17.785Z",
+    "updateDate": "2026-10-31T06:05:42.859Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. Overcast skies cover Verona Community Park with a temperature of 51 degrees, feeling like 48. We have a waning gibbous moon tonight, and while the International Space Station passes overhead, clouds will keep it out of view.",
+    "mainText": "Hello, Verona! At 1 AM, we are looking at 49 degrees with overcast skies at Verona Area High School. We also have a waning gibbous moon, and while the ISS passes overhead tonight, you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-31",
-    "updateDate": "2026-10-31T05:05:17.785Z",
+    "updateDate": "2026-10-31T06:05:42.859Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, alternate-side winter parking regulations take effect from November 20th through April 1st between 1 AM and 6 AM. Additionally, Public Works reminds residents that curbside collection is handled by Pellitteri Waste Systems, with drop-off options available for yard waste and e-waste.",
+    "mainText": "Important reminders for today: The City has contracted with Pellitteri for refuse and recycling, so check their app for your schedule. Also, winter parking regulations are now in effect, meaning you must park on the even or odd side of the street depending on the date.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-31",
-    "updateDate": "2026-10-31T05:05:17.785Z",
+    "updateDate": "2026-10-31T06:05:42.859Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "For local events, you can visit the Dane County Farmers Market or catch live music at Paddy Macs and Baileys Run today. Looking ahead, yoga classes at Insight Wellness take place on Monday, November 2nd.",
+    "mainText": "There is plenty to do! Today, visit the Dane County Farmers Market or catch live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company. Looking ahead, yoga is scheduled for November 2, and trivia nights begin November 4 at various local spots.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-31",
-    "updateDate": "2026-10-31T05:05:17.785Z",
+    "updateDate": "2026-10-31T06:05:42.859Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on Monday, officers responded to a two-vehicle crash with roadway blockage at Old PB and East Verona Avenue after both drivers entered the intersection on a yellow signal.",
+    "mainText": "On October 25, officers arrested a 40-year-old Verona man for O W I after finding his vehicle stopped at an intersection for over 20 minutes.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-31",
-    "updateDate": "2026-10-31T05:05:17.785Z",
+    "updateDate": "2026-10-31T06:05:42.859Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Over at Culver's, today's flavor of the day is Mint Explosion. The restaurant opens today at 10:00 AM so you can stop by for a fresh scoop.",
+    "mainText": "Today's flavor of the day is Mint Explosion. The store opens today at 10:00 AM, so be sure to stop by and enjoy a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
