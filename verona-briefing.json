@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-31",
-    "updateDate": "2026-10-31T00:09:51.431Z",
+    "updateDate": "2026-10-31T01:04:34.418Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: current temperatures are holding at 50 degrees at Verona Community Park under a Waning Gibbous moon. Looking ahead, the overnight low will reach 49 degrees with rain in the forecast. Additionally, the ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: we have overcast skies near Badger Ridge Middle School and a Waning Gibbous moon overhead. Please note that the ISS will pass overhead tonight, but you will not be able to see it due to the clouds. Tonight will bring an overnight low of 49 degrees with rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-31",
-    "updateDate": "2026-10-31T00:09:51.431Z",
+    "updateDate": "2026-10-31T01:04:34.418Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona reminds residents that winter parking rules are starting soon, requiring alternate-side parking from November 20 through April 1 to assist with snow removal. Also, please note that the Senior Center will be closed for the upcoming Thanksgiving holiday on November 26 and 27.",
+    "mainText": "The city has a few updates to keep you informed. Alternate-side winter parking regulations take effect from November 20 through April 1 to assist with snow removal, and the Verona Senior Center will be closed on November 26 and 27 for Thanksgiving.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-31",
-    "updateDate": "2026-10-31T00:09:51.431Z",
+    "updateDate": "2026-10-31T01:04:34.418Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town, starting with the Main Street Trick-Or-Treat taking place today. Tomorrow, you can head downtown for the Dane County Farmers' Market, and looking further ahead, check out Trivia nights at local breweries starting on November 4.",
+    "mainText": "There is plenty happening in town! We have Main Street Trick-or-Treat happening today at Hometown Junction Park, plus live music at Bailey's Run and Wisconsin Brewing Company. Tomorrow, check out the Dane County Farmer's Market or live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-31",
-    "updateDate": "2026-10-31T00:09:51.431Z",
+    "updateDate": "2026-10-31T01:04:34.418Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local public safety, officers handled a call on October 25 where a 40-year-old man was taken into custody for an O W I after being located at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "In our weekly police report, on October 25, officers responded to a vehicle stopped at Plympton Street and Rita Avenue where they arrested a 40-year-old man for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-31",
-    "updateDate": "2026-10-31T00:09:51.431Z",
+    "updateDate": "2026-10-31T01:04:34.418Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor is Chocolate Covered Strawberry. The restaurant is currently open and will be serving until 10:30 PM tonight.",
+    "mainText": "If you are looking for a dessert, head over to Culver's to try the Chocolate Covered Strawberry flavor of the day. The store is currently open and will be serving guests until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
