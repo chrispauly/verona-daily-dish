@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-31",
-    "updateDate": "2026-10-31T14:03:30.684Z",
+    "updateDate": "2026-10-31T15:03:49.334Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish. We have overcast skies at Verona Community Park with a temperature of 52 degrees and a moon phase of Waning Gibbous.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we are seeing overcast skies at Reddan Soccer Park with temperatures at 53 degrees under a waning gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-31",
-    "updateDate": "2026-10-31T14:03:30.684Z",
+    "updateDate": "2026-10-31T15:03:49.334Z",
     "titleText": "Verona City News",
-    "mainText": "City officials want to remind you that Pellitteri Waste Systems handles all refuse and recycling collection, and you can download their app for schedule updates. Additionally, winter parking regulations begin November 20, requiring alternate side parking through April 1.",
+    "mainText": "City news today includes a reminder from the public works department regarding the Pellitteri refuse and recycling collection contract and a notice about upcoming cross-connection water inspections.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-31",
-    "updateDate": "2026-10-31T14:03:30.684Z",
+    "updateDate": "2026-10-31T15:03:49.334Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, with the Dane County Farmers Market happening today, plus live music performances taking place today at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company.",
+    "mainText": "We have a busy schedule with the Dane County Farmers Market today, live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company, plus upcoming yoga sessions on November 2 and trivia nights starting November 4.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-31",
-    "updateDate": "2026-10-31T14:03:30.684Z",
+    "updateDate": "2026-10-31T15:03:49.334Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from October 25, officers arrested a man for an O W I after he was found unresponsive behind the wheel at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "On October 25, officers arrested a man for an O W I offence after finding him in his vehicle at the intersection of Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-31",
-    "updateDate": "2026-10-31T14:03:30.684Z",
+    "updateDate": "2026-10-31T15:03:49.334Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Mint Explosion. The restaurant opens today at 10:00 AM and will remain open until 10:30 PM this evening.",
+    "mainText": "Today's flavor of the day is Mint Explosion, and you can enjoy it at Culver's until they close at 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
