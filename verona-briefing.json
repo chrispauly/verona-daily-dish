@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-31",
-    "updateDate": "2026-10-31T04:04:23.824Z",
+    "updateDate": "2026-10-31T05:05:17.785Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. We have overcast skies at Verona City Hall with a Waning Gibbous moon phase. Please note the ISS passes overhead tonight, but you won't be able to see it due to the clouds. We are looking at an overnight low of 49 degrees with rain in the forecast.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. Overcast skies cover Verona Community Park with a temperature of 51 degrees, feeling like 48. We have a waning gibbous moon tonight, and while the International Space Station passes overhead, clouds will keep it out of view.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-10-31",
-    "updateDate": "2026-10-31T04:04:23.824Z",
+    "updateDate": "2026-10-31T05:05:17.785Z",
     "titleText": "Verona City News",
-    "mainText": "City residents should remember that refuse and recycling is handled by Pellitteri Waste Systems, and you can find your specific collection calendar on the city website. Also, please note that the Verona Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
+    "mainText": "In city news, alternate-side winter parking regulations take effect from November 20th through April 1st between 1 AM and 6 AM. Additionally, Public Works reminds residents that curbside collection is handled by Pellitteri Waste Systems, with drop-off options available for yard waste and e-waste.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-10-31",
-    "updateDate": "2026-10-31T04:04:23.824Z",
+    "updateDate": "2026-10-31T05:05:17.785Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our area. Tomorrow, you can enjoy the Dane County Farmer's Market or catch live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking ahead, we have Yoga at Insight Wellness on November 2, followed by trivia nights at Hop Haus, the Wisconsin Brewing Company, and Paddy Mac's on November 4.",
+    "mainText": "For local events, you can visit the Dane County Farmers Market or catch live music at Paddy Macs and Baileys Run today. Looking ahead, yoga classes at Insight Wellness take place on Monday, November 2nd.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-10-31",
-    "updateDate": "2026-10-31T04:04:23.824Z",
+    "updateDate": "2026-10-31T05:05:17.785Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, we noted an incident from October 25 where officers were dispatched to a vehicle stopped at an intersection, resulting in an arrest for O W I.",
+    "mainText": "In police news, on Monday, officers responded to a two-vehicle crash with roadway blockage at Old PB and East Verona Avenue after both drivers entered the intersection on a yellow signal.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-31",
-    "updateDate": "2026-10-31T04:04:23.824Z",
+    "updateDate": "2026-10-31T05:05:17.785Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day was Chocolate Covered Strawberry. The store is now closed for the night, but we look forward to seeing you tomorrow at 10:00 AM when our flavor of the day will be Mint Explosion.",
+    "mainText": "Over at Culver's, today's flavor of the day is Mint Explosion. The restaurant opens today at 10:00 AM so you can stop by for a fresh scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
