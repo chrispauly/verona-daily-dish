@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-31",
-    "updateDate": "2026-10-31T12:06:44.463Z",
+    "updateDate": "2026-10-31T13:03:30.566Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. Over at Reddan Soccer Park, it is currently 51 degrees with light drizzle. Tonight we have a Waning Gibbous.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: it is 52 degrees with overcast conditions at Badger Prairie County Park.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-31",
-    "updateDate": "2026-10-31T12:06:44.463Z",
+    "updateDate": "2026-10-31T13:03:30.566Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Refuse  Recycling.",
+    "mainText": "The city wants to remind everyone about two important updates. First, winter street parking rules start November 20, requiring alternate-side parking until April. Second, the Verona Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-31",
-    "updateDate": "2026-10-31T12:06:44.463Z",
+    "updateDate": "2026-10-31T13:03:30.566Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Dane County Farmer's Market Today at Wisconsin State Capitol.",
+    "mainText": "There is plenty to do, with the Dane County Farmers Market happening today, along with live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking ahead, you can join in for trivia at Hop Haus, the Wisconsin Brewing Company, or Paddy Mac's this coming Tuesday, November 4.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-31",
-    "updateDate": "2026-10-31T12:06:44.463Z",
+    "updateDate": "2026-10-31T13:03:30.566Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "In a note regarding public safety, on October 23, officers made contact with two juveniles riding eMotos on Ashton Drive, resulting in citations for their parents.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-31",
-    "updateDate": "2026-10-31T12:06:44.463Z",
+    "updateDate": "2026-10-31T13:03:30.566Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Culver's Flavor of the Day is Chocolate Volcano. The restaurant opens today at 10:00 AM.",
+    "mainText": "Culver's will be serving up their delicious Mint Explosion today, so be sure to stop by when they open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
