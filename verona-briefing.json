@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-31",
-    "updateDate": "2026-10-31T11:03:24.103Z",
+    "updateDate": "2026-10-31T12:06:44.463Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish. We have overcast skies and a temperature of 51 degrees near the Military Ridge State Trail, under a waning gibbous moon.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. Over at Reddan Soccer Park, it is currently 51 degrees with light drizzle. Tonight we have a Waning Gibbous.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-31",
-    "updateDate": "2026-10-31T11:03:24.103Z",
+    "updateDate": "2026-10-31T12:06:44.463Z",
     "titleText": "Verona City News",
-    "mainText": "The city is preparing for winter with alternate-side parking rules beginning November 20, and don't forget the Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
+    "mainText": "In city affairs, the latest update is: Refuse  Recycling.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-31",
-    "updateDate": "2026-10-31T11:03:24.103Z",
+    "updateDate": "2026-10-31T12:06:44.463Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today, including the Dane County Farmers Market and live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking ahead, you can check out yoga at Insight Wellness on November 2 or test your knowledge at various trivia nights starting November 4.",
+    "mainText": "If you are planning your week, we have local events coming up, including Dane County Farmer's Market Today at Wisconsin State Capitol.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-31",
-    "updateDate": "2026-10-31T11:03:24.103Z",
+    "updateDate": "2026-10-31T12:06:44.463Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on Sunday, October 25, officers responded to Plympton Street and Rita Avenue where they arrested a 40-year-old man for O W I after he was discovered stopped at the intersection for an extended period.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-31",
-    "updateDate": "2026-10-31T11:03:24.103Z",
+    "updateDate": "2026-10-31T12:06:44.463Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor is Mint Explosion. The Culver's of Verona opens today at 10:00 AM, so be sure to stop by and enjoy your day.",
+    "mainText": "Today's Culver's Flavor of the Day is Chocolate Volcano. The restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
