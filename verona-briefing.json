@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-31",
-    "updateDate": "2026-10-31T18:04:16.591Z",
+    "updateDate": "2026-10-31T19:03:32.580Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we have 55 degree weather with overcast skies surrounding the Verona Public Library.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we have overcast skies and a temperature of 58 degrees at Fireman's Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-31",
-    "updateDate": "2026-10-31T18:04:16.591Z",
+    "updateDate": "2026-10-31T19:03:32.580Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona Water Utility is partnering with HydroCorp to perform cross-connection inspections to keep our water supply safe, so keep an eye on your mail for an appointment request letter.",
+    "mainText": "The city has two important reminders. First, Pellitteri Waste Systems handles all curbside recycling and refuse, so check their app for schedules. Second, the Verona Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-31",
-    "updateDate": "2026-10-31T18:04:16.591Z",
+    "updateDate": "2026-10-31T19:03:32.580Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town, including the Dane County Farmers Market today, along with live music performances at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do in our area today, including the Dane County Farmer's Market in Madison and live music performances happening throughout the day at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-31",
-    "updateDate": "2026-10-31T18:04:16.591Z",
+    "updateDate": "2026-10-31T19:03:32.580Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly report, on October 22, a vehicle crash occurred on West Verona Avenue near Todd Street involving a Metro Bus, resulting in a citation for failure to yield.",
+    "mainText": "In a notable incident on October 22, a two-vehicle crash occurred on CTH PB at American Way, resulting in minor injuries and a citation for the driver who failed to yield from a stop sign.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-31",
-    "updateDate": "2026-10-31T18:04:16.591Z",
+    "updateDate": "2026-10-31T19:03:32.580Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy today's delicious flavor, Mint Explosion, at Culver's, which is currently open and serving guests until 10:30 PM tonight.",
+    "mainText": "It is a perfect day for a treat, and Culver's is currently serving their delicious Mint Explosion. Stop by anytime before they close at 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
