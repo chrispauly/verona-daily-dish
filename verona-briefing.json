@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-31",
-    "updateDate": "2026-10-31T19:03:32.580Z",
+    "updateDate": "2026-10-31T20:04:15.849Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we have overcast skies and a temperature of 58 degrees at Fireman's Park.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. We have overcast skies with a temperature of 57 degrees, though it feels a bit cooler at 54 near the Verona Area High School.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-31",
-    "updateDate": "2026-10-31T19:03:32.580Z",
+    "updateDate": "2026-10-31T20:04:15.849Z",
     "titleText": "Verona City News",
-    "mainText": "The city has two important reminders. First, Pellitteri Waste Systems handles all curbside recycling and refuse, so check their app for schedules. Second, the Verona Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
+    "mainText": "In local updates, there have been no new emails or city news articles reported for the Verona area today.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-31",
-    "updateDate": "2026-10-31T19:03:32.580Z",
+    "updateDate": "2026-10-31T20:04:15.849Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our area today, including the Dane County Farmer's Market in Madison and live music performances happening throughout the day at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company.",
+    "mainText": "We have a busy schedule! Today, you can visit the Dane County Farmer's Market at the State Capitol, or catch live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company. Looking ahead, join us for yoga at Insight Wellness on November 2, and trivia nights at Hop Haus, the Wisconsin Brewing Company, and Paddy Mac's on November 4, followed by trivia at The Bogey Factory on November 5.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-31",
-    "updateDate": "2026-10-31T19:03:32.580Z",
+    "updateDate": "2026-10-31T20:04:15.849Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident on October 22, a two-vehicle crash occurred on CTH PB at American Way, resulting in minor injuries and a citation for the driver who failed to yield from a stop sign.",
+    "mainText": "Regarding the weekly report, there were no incidents recorded by the Verona Police Department this week.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-31",
-    "updateDate": "2026-10-31T19:03:32.580Z",
+    "updateDate": "2026-10-31T20:04:15.849Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "It is a perfect day for a treat, and Culver's is currently serving their delicious Mint Explosion. Stop by anytime before they close at 10:30 PM.",
+    "mainText": "For dessert, Culver's is serving Mint Explosion today. They are open until 10:30 PM, so there is plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
