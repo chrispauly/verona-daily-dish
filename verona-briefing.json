@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-31",
-    "updateDate": "2026-10-31T15:03:49.334Z",
+    "updateDate": "2026-10-31T16:03:59.367Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we are seeing overcast skies at Reddan Soccer Park with temperatures at 53 degrees under a waning gibbous moon.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. Over at Badger Ridge Middle School, it is currently 54 degrees with overcast skies.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-10-31",
-    "updateDate": "2026-10-31T15:03:49.334Z",
+    "updateDate": "2026-10-31T16:03:59.367Z",
     "titleText": "Verona City News",
-    "mainText": "City news today includes a reminder from the public works department regarding the Pellitteri refuse and recycling collection contract and a notice about upcoming cross-connection water inspections.",
+    "mainText": "In city affairs, the latest update is: Refuse  Recycling.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-10-31",
-    "updateDate": "2026-10-31T15:03:49.334Z",
+    "updateDate": "2026-10-31T16:03:59.367Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule with the Dane County Farmers Market today, live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company, plus upcoming yoga sessions on November 2 and trivia nights starting November 4.",
+    "mainText": "If you are planning your week, we have local events coming up, including Dane County Farmer's Market Today at Wisconsin State Capitol.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-10-31",
-    "updateDate": "2026-10-31T15:03:49.334Z",
+    "updateDate": "2026-10-31T16:03:59.367Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 25, officers arrested a man for an O W I offence after finding him in his vehicle at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-31",
-    "updateDate": "2026-10-31T15:03:49.334Z",
+    "updateDate": "2026-10-31T16:03:59.367Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Mint Explosion, and you can enjoy it at Culver's until they close at 10:30 PM tonight.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: Mint Explosion. The restaurant is open until 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
