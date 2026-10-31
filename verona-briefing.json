@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-10-31",
-    "updateDate": "2026-10-31T07:12:36.996Z",
+    "updateDate": "2026-10-31T08:04:44.763Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: we are seeing overcast skies and 50 degree temperatures near the Verona Public Library with a waning gibbous moon overhead. Please note that the ISS passes overhead tonight, but you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish. It is a cool 50 degrees under overcast skies near Badger Prairie County Park. We are under a Waning Gibbous moon, and while the ISS passes overhead tonight, you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-10-31",
-    "updateDate": "2026-10-31T07:12:36.996Z",
+    "updateDate": "2026-10-31T08:04:44.763Z",
     "titleText": "Verona City News",
-    "mainText": "We have no new major city news articles or urgent emails to bring to your attention this morning.",
+    "mainText": "City residents should note that Pellitteri Waste Systems manages our refuse and recycling, with schedules available on the city website. Also, remember that the Verona Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-10-31",
-    "updateDate": "2026-10-31T07:12:36.996Z",
+    "updateDate": "2026-10-31T08:04:44.763Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend, starting with the Dane County Farmers Market today at the Capitol. You can also find live music at Baileys Run, Paddy Mac's, and the Wisconsin Brewing Company all happening today.",
+    "mainText": "There is plenty to do in our area, starting with the Dane County Farmers Market happening today at the State Capitol. You can also catch live music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company throughout the day.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-10-31",
-    "updateDate": "2026-10-31T07:12:36.996Z",
+    "updateDate": "2026-10-31T08:04:44.763Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly look at police activity, on October 25, officers arrested a man for an O W I offence after finding him in his vehicle at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "In a report from October 25, local officers conducted a welfare check at a street intersection and ultimately arrested a 40-year-old Verona man for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-10-31",
-    "updateDate": "2026-10-31T07:12:36.996Z",
+    "updateDate": "2026-10-31T08:04:44.763Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We are looking forward to a great day at Culver's, where today's featured flavor is Mint Explosion. The store opens today at 10:00 AM, so be sure to stop by for your favorite treat.",
+    "mainText": "Today's delicious flavor of the day is Mint Explosion. The store opens today at 10:00 AM, so stop by to enjoy a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
