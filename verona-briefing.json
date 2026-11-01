@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-01",
-    "updateDate": "2026-11-01T05:06:41.286Z",
+    "updateDate": "2026-11-01T06:06:24.318Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. We currently have overcast skies and 50 degrees near the Military Ridge State Trail under a Third Quarter moon. The International Space Station will pass overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: it is 49 degrees with overcast skies near Badger Ridge Middle School and a third quarter moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-01",
-    "updateDate": "2026-11-01T05:06:41.286Z",
+    "updateDate": "2026-11-01T06:06:24.318Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, alternate-side winter street parking regulations will be in effect from November 20th through April 1st between 1:00 AM and 6:00 AM to keep roads clear for snow plows. Additionally, the City Water Utility is partnering with HydroCorp to conduct routine cross-connection control inspections to ensure municipal drinking water safety.",
+    "mainText": "The City of Verona wants to remind you that alternate-side parking rules begin November 20, meaning you must park on specific sides of the street based on the calendar date through April 1. Additionally, the Senior Center will be closed for Thanksgiving on November 26 and 27.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-01",
-    "updateDate": "2026-11-01T05:06:41.286Z",
+    "updateDate": "2026-11-01T06:06:24.318Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "For local events, enjoy live music today at Bailey's Run Vineyard, or head to Wisconsin Brewing Company tomorrow for more live music. Hop Haus Brewing will also host trivia night later this week.",
+    "mainText": "There is plenty to do this weekend, starting with live music at Bailey's Run today and more live music at the Wisconsin Brewing Company tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-01",
-    "updateDate": "2026-11-01T05:06:41.286Z",
+    "updateDate": "2026-11-01T06:06:24.318Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on Sunday morning officers responded to the intersection of Plympton Street and Rita Avenue for a vehicle stopped in the roadway and arrested a driver for an O W I first offence.",
+    "mainText": "Looking at the weekly report, officers made contact with two 13-year-olds on October 23 who were riding prohibited eMotos after previously being warned, resulting in citations for their parents.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-01",
-    "updateDate": "2026-11-01T05:06:41.286Z",
+    "updateDate": "2026-11-01T06:06:24.318Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Over at Culver's, doors open today at 10:00 AM featuring Caramel Fudge Cookie Dough as today's flavor of the day.",
+    "mainText": "You can look forward to the delicious Caramel Fudge Cookie Dough today. Please note that Culver's opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
