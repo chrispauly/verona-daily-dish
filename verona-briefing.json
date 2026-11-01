@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-01",
-    "updateDate": "2026-11-01T02:06:27.427Z",
+    "updateDate": "2026-11-01T03:05:39.528Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. Current conditions show 50 degrees and overcast skies near Verona City Hall, with temperatures dropping to an overnight low of 49 degrees and no rain predicted. Tonight features a Third Quarter moon, and while an ISS pass occurs tonight, you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: it is 51 degrees with overcast skies near Fireman's Park. The moon is in its third quarter phase and the ISS will pass overhead tonight, but you will not be able to see it due to the clouds. Tonight's low will be 48 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-01",
-    "updateDate": "2026-11-01T02:06:27.427Z",
+    "updateDate": "2026-11-01T03:05:39.528Z",
     "titleText": "Verona City News",
-    "mainText": "In city updates, alternate-side winter street parking regulations run from November 20th to April 1st to keep roads safe and clear for snow removal. Additionally, the Water Utility has partnered with HydroCorp to conduct residential and commercial cross-connection control inspections to protect community drinking water.",
+    "mainText": "The city reminds residents that alternate-side winter parking takes effect November 20 through April 1 to assist with snow removal, and the Senior Center will be closed November 26 and 27 for Thanksgiving.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-01",
-    "updateDate": "2026-11-01T02:06:27.427Z",
+    "updateDate": "2026-11-01T03:05:39.528Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Happening today, residents can visit the Dane County Farmers Market at the Capitol Square or enjoy live music at local spots including Bailey's Run and Paddy Mac's. Looking ahead, trivia enthusiasts can join the fun at Hop Haus Brewing Co on Wednesday, November 4th.",
+    "mainText": "Today you can catch the Dane County Farmer's Market or live music at various local spots including Bailey's Run and Paddy Mac's, with trivia events picking back up on Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-01",
-    "updateDate": "2026-11-01T02:06:27.427Z",
+    "updateDate": "2026-11-01T03:05:39.528Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on Saturday, October 25th, officers located a vehicle stopped for twenty minutes at Plympton Street and Rita Avenue and arrested the driver for an O W I first offence.",
+    "mainText": "In a noteworthy call from October 23, two juveniles were cited for operating prohibited eMotos after being warned previously.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-01",
-    "updateDate": "2026-11-01T02:06:27.427Z",
+    "updateDate": "2026-11-01T03:05:39.528Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is open until 10:30 PM tonight, giving you plenty of time to stop by for today's flavor of the day, Mint Explosion.",
+    "mainText": "Today's flavor is Mint Explosion and the shop is open right now until 10:30 PM, so make sure to get there soon as they are closing in 24 minutes.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
