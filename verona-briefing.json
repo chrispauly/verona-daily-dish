@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-01",
-    "updateDate": "2026-11-01T19:03:49.656Z",
+    "updateDate": "2026-11-01T20:03:59.577Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we are seeing clear skies over Reddan Soccer Park with a temperature of 67 degrees and a moderate air quality index of 57.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we are seeing overcast skies at Reddan Soccer Park with a temperature of 67 degrees and a moderate air quality index of 57.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-01",
-    "updateDate": "2026-11-01T19:03:49.656Z",
+    "updateDate": "2026-11-01T20:03:59.577Z",
     "titleText": "Verona City News",
-    "mainText": "For city news, the Public Works Department reminds residents that Pellitteri Waste Systems handles all residential trash and recycling, and you can use the online Waste Wizard to categorize items correctly.",
+    "mainText": "The city contracts with Pellitteri Waste Systems for residential refuse and recycling, and residents are encouraged to use the Waste Wizard tool on the city website to determine the proper disposal method for specific items.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-01",
-    "updateDate": "2026-11-01T19:03:49.656Z",
+    "updateDate": "2026-11-01T20:03:59.577Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a full calendar starting with live music today at Baileys Run Vineyard, followed by yoga at Insight Wellness tomorrow, and trivia nights at local spots like Hop Haus and Paddy Macs starting on November 4.",
+    "mainText": "There is plenty to do this week, starting with live music at Bailey's Run Vineyard today, followed by yoga at Insight Wellness tomorrow, and several trivia nights scheduled for Tuesday at local venues like Hop Haus and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-01",
-    "updateDate": "2026-11-01T19:03:49.656Z",
+    "updateDate": "2026-11-01T20:03:59.577Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from the weekly report, on October 25, officers located a man passed out at an intersection and subsequently arrested him for an O W I.",
+    "mainText": "In a notable incident from the weekly report, officers arrested a man on October 25th for an O W I after finding him unresponsive in his vehicle at the intersection of Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-01",
-    "updateDate": "2026-11-01T19:03:49.656Z",
+    "updateDate": "2026-11-01T20:03:59.577Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by for a scoop of Caramel Fudge Cookie Dough, as the store is open today until 10 PM.",
+    "mainText": "The Culver's flavor of the day is Caramel Fudge Cookie Dough, and since the store is currently open until 10:00 PM, you have plenty of time to stop in for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
