@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-01",
-    "updateDate": "2026-11-01T18:04:34.120Z",
+    "updateDate": "2026-11-01T19:03:49.656Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish on the weather. We are seeing clear skies over Badger Prairie County Park with a temperature of 65 degrees and an air quality index of 57.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we are seeing clear skies over Reddan Soccer Park with a temperature of 67 degrees and a moderate air quality index of 57.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-01",
-    "updateDate": "2026-11-01T18:04:34.120Z",
+    "updateDate": "2026-11-01T19:03:49.656Z",
     "titleText": "Verona City News",
-    "mainText": "We have no new city news articles or incoming emails to report to you at this time.",
+    "mainText": "For city news, the Public Works Department reminds residents that Pellitteri Waste Systems handles all residential trash and recycling, and you can use the online Waste Wizard to categorize items correctly.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-01",
-    "updateDate": "2026-11-01T18:04:34.120Z",
+    "updateDate": "2026-11-01T19:03:49.656Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town, starting with live music today at Bailey's Run Vineyard, followed by yoga tomorrow at Insight Wellness and a variety of trivia nights starting this Tuesday.",
+    "mainText": "We have a full calendar starting with live music today at Baileys Run Vineyard, followed by yoga at Insight Wellness tomorrow, and trivia nights at local spots like Hop Haus and Paddy Macs starting on November 4.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-01",
-    "updateDate": "2026-11-01T18:04:34.120Z",
+    "updateDate": "2026-11-01T19:03:49.656Z",
     "titleText": "Verona Police Report",
-    "mainText": "We have no specific incidents to report from the Verona Police Department's weekly recap at this time.",
+    "mainText": "In a noteworthy call from the weekly report, on October 25, officers located a man passed out at an intersection and subsequently arrested him for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-01",
-    "updateDate": "2026-11-01T18:04:34.120Z",
+    "updateDate": "2026-11-01T19:03:49.656Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "If you are looking for a snack, today's flavor at Culver's is Caramel Fudge Cookie Dough, and the restaurant remains open for you until 10:00 PM.",
+    "mainText": "Stop by for a scoop of Caramel Fudge Cookie Dough, as the store is open today until 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
