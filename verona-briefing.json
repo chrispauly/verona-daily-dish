@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-10-31",
-    "updateDate": "2026-10-31T23:03:42.646Z",
+    "uid": "verona-balanced-weather-2026-11-01",
+    "updateDate": "2026-11-01T00:12:19.890Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. We have overcast skies near the Military Ridge State Trail under a third quarter moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds. Expect an overnight low of 48 degrees, with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 7 PM, we are looking at 52 degrees with overcast skies near Fireman's Park. We are in the third quarter moon phase tonight, and please note that the ISS will be passing overhead, though it will unfortunately not be visible due to our current cloud cover. Looking toward the overnight hours, we will hit a low of 49 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-10-31",
-    "updateDate": "2026-10-31T23:03:42.646Z",
+    "uid": "verona-balanced-news-2026-11-01",
+    "updateDate": "2026-11-01T00:12:19.890Z",
     "titleText": "Verona City News",
-    "mainText": "The city has two important updates. First, winter street parking rules begin on November 20, requiring alternate side parking between 1 AM and 6 AM. Second, the Verona Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
+    "mainText": "Looking at our inbox and city reports, there are currently no new city news articles or official emails to share with residents this evening.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-10-31",
-    "updateDate": "2026-10-31T23:03:42.646Z",
+    "uid": "verona-balanced-events-2026-11-01",
+    "updateDate": "2026-11-01T00:12:19.890Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our area today, including the Dane County Farmers Market and live music at Baileys Run, Paddy Macs, and the Wisconsin Brewing Company. Looking ahead, you can enjoy yoga at Insight Wellness on November 2 or test your knowledge at various trivia nights starting November 4.",
+    "mainText": "There is plenty to do this weekend! Today you can find the Dane County Farmer's Market at the Capitol, plus live music at Bailey's Run and Paddy Mac's. Looking ahead, you can enjoy yoga at Insight Wellness on November 2, and a variety of trivia nights starting November 4 at Hop Haus, Lake Lou-ee, and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-10-31",
-    "updateDate": "2026-10-31T23:03:42.646Z",
+    "uid": "verona-balanced-police-2026-11-01",
+    "updateDate": "2026-11-01T00:12:19.890Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on October 25, officers responded to the intersection of Plympton Street and Rita Avenue where they arrested a 40-year-old man for O W I after he was found asleep behind the wheel.",
+    "mainText": "The Verona Police Department did not provide an update for this week, so we have no specific incidents to report.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-10-31",
-    "updateDate": "2026-10-31T23:03:42.646Z",
+    "uid": "verona-balanced-culvers-2026-11-01",
+    "updateDate": "2026-11-01T00:12:19.890Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day at the Verona Culver's is Mint Explosion. The store is currently open and will remain open until 10:30 PM tonight, so there is plenty of time to stop by for a treat.",
+    "mainText": "Today's flavor of the day at Culver's is Mint Explosion. The restaurant is currently open and will be serving up treats until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
