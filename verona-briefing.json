@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-01",
-    "updateDate": "2026-11-01T01:03:57.808Z",
+    "updateDate": "2026-11-01T02:06:27.427Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: it is 51 degrees and overcast at Badger Prairie County Park. We are under a third quarter moon, and although the ISS passes overhead, you won't be able to see it due to the clouds. Expect an overnight low of 49 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. Current conditions show 50 degrees and overcast skies near Verona City Hall, with temperatures dropping to an overnight low of 49 degrees and no rain predicted. Tonight features a Third Quarter moon, and while an ISS pass occurs tonight, you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-01",
-    "updateDate": "2026-11-01T01:03:57.808Z",
+    "updateDate": "2026-11-01T02:06:27.427Z",
     "titleText": "Verona City News",
-    "mainText": "The city reminds you that winter street parking regulations begin November 20 through April 1, requiring you to park on alternating sides of the street overnight. Also, the Water Utility is partnering with agencies to conduct important cross-connection control inspections, so please watch your mail for a request to schedule an appointment.",
+    "mainText": "In city updates, alternate-side winter street parking regulations run from November 20th to April 1st to keep roads safe and clear for snow removal. Additionally, the Water Utility has partnered with HydroCorp to conduct residential and commercial cross-connection control inspections to protect community drinking water.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-01",
-    "updateDate": "2026-11-01T01:03:57.808Z",
+    "updateDate": "2026-11-01T02:06:27.427Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is packed with local music at Bailey's Run, Paddy Mac's, and the Wisconsin Brewing Company, plus the Dane County Farmer's Market. Looking ahead, you can join trivia nights at Hop Haus, the Wisconsin Brewing Company, and Paddy Mac's starting on November 4.",
+    "mainText": "Happening today, residents can visit the Dane County Farmers Market at the Capitol Square or enjoy live music at local spots including Bailey's Run and Paddy Mac's. Looking ahead, trivia enthusiasts can join the fun at Hop Haus Brewing Co on Wednesday, November 4th.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-01",
-    "updateDate": "2026-11-01T01:03:57.808Z",
+    "updateDate": "2026-11-01T02:06:27.427Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a recent report, officers noted that on October 25, a 40-year-old man was arrested for his first offence of O W I after being found stopped in an intersection.",
+    "mainText": "In police news, on Saturday, October 25th, officers located a vehicle stopped for twenty minutes at Plympton Street and Rita Avenue and arrested the driver for an O W I first offence.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-01",
-    "updateDate": "2026-11-01T01:03:57.808Z",
+    "updateDate": "2026-11-01T02:06:27.427Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Chocolate Volcano. The store is currently open and will be serving up scoops until 11:00 PM tonight.",
+    "mainText": "Culver's is open until 10:30 PM tonight, giving you plenty of time to stop by for today's flavor of the day, Mint Explosion.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
