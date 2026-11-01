@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-01",
-    "updateDate": "2026-11-01T12:05:29.659Z",
+    "updateDate": "2026-11-01T13:04:35.555Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: we have clear skies with a temperature of 50 degrees near Verona Area High School, a third quarter moon, and an air quality index of 54, which is in the moderate range.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we are seeing overcast skies at Reddan Soccer Park with temperatures at 52 degrees and a moderate air quality index of 55.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-01",
-    "updateDate": "2026-11-01T12:05:29.659Z",
+    "updateDate": "2026-11-01T13:04:35.555Z",
     "titleText": "Verona City News",
-    "mainText": "City officials want to remind you that Pellitteri Waste Systems handles all residential refuse and recycling, and you can download their app for collection schedules. Also, alternate side parking begins November 20 to help with snow removal, and the Senior Center will be closed for Thanksgiving on November 26 and 27.",
+    "mainText": "The city wants to remind everyone about two important updates: winter parking regulations will be in effect from November 20 through April 1, and the Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-01",
-    "updateDate": "2026-11-01T12:05:29.659Z",
+    "updateDate": "2026-11-01T13:04:35.555Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a full slate of activities starting with live music at Bailey's Run today and at Wisconsin Brewing Company tomorrow. Looking ahead, you can enjoy trivia at Hop Haus and Paddy Mac's on November 4, or join the ART House 360 events on November 5.",
+    "mainText": "There is plenty to do in Verona! You can catch live music today at Bailey's Run Vineyard, enjoy some yoga at Insight Wellness tomorrow, or head to the Wisconsin Brewing Company on November 4 for trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-01",
-    "updateDate": "2026-11-01T12:05:29.659Z",
+    "updateDate": "2026-11-01T13:04:35.555Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from October 25, officers responded to a vehicle stopped in an intersection and arrested the driver for O W I.",
+    "mainText": "In our weekly report, on October 25, officers arrested a man for his first offence O W I after locating him behind the wheel at the intersection of Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-01",
-    "updateDate": "2026-11-01T12:05:29.659Z",
+    "updateDate": "2026-11-01T13:04:35.555Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is a delicious Caramel Fudge Cookie Dough. The store opens today at 10:00 AM, so be sure to stop by and satisfy your sweet tooth.",
+    "mainText": "Today's flavor of the day is the delicious Caramel Fudge Cookie Dough. The store opens today at 10:00 AM and will remain open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
