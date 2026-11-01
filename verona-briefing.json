@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-01",
-    "updateDate": "2026-11-01T22:03:28.354Z",
+    "updateDate": "2026-11-01T23:03:36.680Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. We have clear skies along the Military Ridge State Trail with an air quality index of 56.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: it is 62 degrees with clear skies at City Hall, but with an air quality index of 56, it is currently elevated. We are under a third quarter moon, and while the ISS passes overhead tonight, you won't be able to see it due to the clouds. The temperature will drop to an overnight low of 55 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-01",
-    "updateDate": "2026-11-01T22:03:28.354Z",
+    "updateDate": "2026-11-01T23:03:36.680Z",
     "titleText": "Verona City News",
-    "mainText": "The Public Works Department reminds residents that Pellitteri Waste Systems handles all residential refuse and recycling. You can find collection maps and the 2026 calendar on the city website.",
+    "mainText": "For city news, the Public Works Department handles refuse and recycling through Pellitteri Waste Systems for residential properties. You can visit their website for the 2026 and 2027 collection calendars, use the Waste Wizard tool for disposal questions, or call them directly if you ever have a missed pickup.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-01",
-    "updateDate": "2026-11-01T22:03:28.354Z",
+    "updateDate": "2026-11-01T23:03:36.680Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Enjoy live music today at Bailey's Run. Tomorrow, you can check out yoga at Insight Wellness, followed by a busy week of trivia nights and performances starting Tuesday.",
+    "mainText": "There is plenty to do this week in Verona. Today we have live music at Bailey's Run. Tomorrow, check out Yoga at Insight Wellness. Later this week, you can test your knowledge at Hop Haus trivia, Lake Lou-ee quiz nights, or Paddy Mac's, plus enjoy music and art at the ART House 360 events on Thursday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-01",
-    "updateDate": "2026-11-01T22:03:28.354Z",
+    "updateDate": "2026-11-01T23:03:36.680Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly report, on October 23, officers made contact with two juveniles riding eMotos, leading to citations for their parents for permitting the use of prohibited motor vehicles.",
+    "mainText": "In our weekly police report, on Saturday, October 25, officers responded to the intersection of Plympton Street and Rita Avenue where they found a man passed out behind the wheel. The individual was subsequently arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-01",
-    "updateDate": "2026-11-01T22:03:28.354Z",
+    "updateDate": "2026-11-01T23:03:36.680Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Enjoy a scoop of today's flavor, Caramel Fudge Cookie Dough. The shop is currently open until 10:00 PM, so there is plenty of time to stop by for a treat.",
+    "mainText": "Today's flavor of the day is the delicious Caramel Fudge Cookie Dough. The store is currently open and will remain open until 10:00 PM tonight, so there is still plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
