@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-01",
-    "updateDate": "2026-11-01T04:05:15.528Z",
+    "updateDate": "2026-11-01T05:06:41.286Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. Overcast skies hang over the Verona Public Library with temperatures at 50 degrees, feeling like 47 degrees under tonight's Third Quarter moon. The International Space Station will pass overhead tonight, though cloud cover will block the view. Expect an overnight low of 50 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. We currently have overcast skies and 50 degrees near the Military Ridge State Trail under a Third Quarter moon. The International Space Station will pass overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-01",
-    "updateDate": "2026-11-01T04:05:15.528Z",
+    "updateDate": "2026-11-01T05:06:41.286Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona reminds residents that alternate-side winter street parking regulations go into effect from November 20th through April 1st between 1 AM and 6 AM. Additionally, the Verona Water Utility is partnering with HydroCorp to conduct required cross-connection control inspections, so watch your mail for appointment scheduling letters.",
+    "mainText": "In city news, alternate-side winter street parking regulations will be in effect from November 20th through April 1st between 1:00 AM and 6:00 AM to keep roads clear for snow plows. Additionally, the City Water Utility is partnering with HydroCorp to conduct routine cross-connection control inspections to ensure municipal drinking water safety.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-01",
-    "updateDate": "2026-11-01T04:05:15.528Z",
+    "updateDate": "2026-11-01T05:06:41.286Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Tomorrow, enjoy live music performances at both Bailey's Run Vineyard and Lake Lou-ee Brewing. Looking ahead to next week, trivia lovers can check out Hop Haus Brewing and Paddy Mac's on Tuesday.",
+    "mainText": "For local events, enjoy live music today at Bailey's Run Vineyard, or head to Wisconsin Brewing Company tomorrow for more live music. Hop Haus Brewing will also host trivia night later this week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-01",
-    "updateDate": "2026-11-01T04:05:15.528Z",
+    "updateDate": "2026-11-01T05:06:41.286Z",
     "titleText": "Verona Police Report",
-    "mainText": "In weekly police news, officers responded on Saturday, October 25th to the intersection of Plympton Street and Rita Avenue for a vehicle stopped for over 20 minutes, where a 40-year-old Verona man was arrested for an O W I first offence.",
+    "mainText": "In police news, on Sunday morning officers responded to the intersection of Plympton Street and Rita Avenue for a vehicle stopped in the roadway and arrested a driver for an O W I first offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-01",
-    "updateDate": "2026-11-01T04:05:15.528Z",
+    "updateDate": "2026-11-01T05:06:41.286Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is now closed for the night following today's Mint Explosion flavor. Doors open tomorrow at 10:00 AM featuring the Caramel Fudge Cookie Dough flavor of the day.",
+    "mainText": "Over at Culver's, doors open today at 10:00 AM featuring Caramel Fudge Cookie Dough as today's flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.5-flash"
   }
