@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-01",
-    "updateDate": "2026-11-01T15:03:37.632Z",
+    "updateDate": "2026-11-01T16:03:43.714Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we are seeing overcast skies at Fireman Park with a moderate air quality index of 56.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have overcast skies at Verona City Hall and a moderate air quality alert in effect.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-01",
-    "updateDate": "2026-11-01T15:03:37.632Z",
+    "updateDate": "2026-11-01T16:03:43.714Z",
     "titleText": "Verona City News",
-    "mainText": "The city reminds residents that winter street parking regulations begin November 20, requiring vehicles to park on specific sides of the street overnight to assist with snow removal. Additionally, the Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
+    "mainText": "The city wants to remind you that winter parking rules start November 20, requiring parking on alternating sides of the street overnight, and the Senior Center will be closed for the Thanksgiving holiday on November 26 and 27.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-01",
-    "updateDate": "2026-11-01T15:03:37.632Z",
+    "updateDate": "2026-11-01T16:03:43.714Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There are currently no events listed on the community calendar for the next 30 days, so enjoy a quiet month in Verona.",
+    "mainText": "There is plenty to do this week, including live music at Bailey's Run Vineyard today, yoga at Insight Wellness tomorrow, and trivia nights starting this Tuesday at multiple local venues.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-01",
-    "updateDate": "2026-11-01T15:03:37.632Z",
+    "updateDate": "2026-11-01T16:03:43.714Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from October 22, a local man was cited for failure to yield the right of way after a collision between a vehicle and a Metro Bus on West Verona Avenue.",
+    "mainText": "On October 23, Verona police officers cited the parents of two juveniles who were caught operating e-motorcycles in the street after having previously received warnings.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-01",
-    "updateDate": "2026-11-01T15:03:37.632Z",
+    "updateDate": "2026-11-01T16:03:43.714Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can look forward to a scoop of Caramel Fudge Cookie Dough today, as the restaurant opens its doors today at 10:00 AM.",
+    "mainText": "You can grab the flavor of the day, Caramel Fudge Cookie Dough, at Culver's today, as they are currently open until 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
