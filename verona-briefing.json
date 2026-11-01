@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-01",
-    "updateDate": "2026-11-01T03:05:39.528Z",
+    "updateDate": "2026-11-01T04:05:15.528Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: it is 51 degrees with overcast skies near Fireman's Park. The moon is in its third quarter phase and the ISS will pass overhead tonight, but you will not be able to see it due to the clouds. Tonight's low will be 48 degrees with no rain expected.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. Overcast skies hang over the Verona Public Library with temperatures at 50 degrees, feeling like 47 degrees under tonight's Third Quarter moon. The International Space Station will pass overhead tonight, though cloud cover will block the view. Expect an overnight low of 50 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-01",
-    "updateDate": "2026-11-01T03:05:39.528Z",
+    "updateDate": "2026-11-01T04:05:15.528Z",
     "titleText": "Verona City News",
-    "mainText": "The city reminds residents that alternate-side winter parking takes effect November 20 through April 1 to assist with snow removal, and the Senior Center will be closed November 26 and 27 for Thanksgiving.",
+    "mainText": "The City of Verona reminds residents that alternate-side winter street parking regulations go into effect from November 20th through April 1st between 1 AM and 6 AM. Additionally, the Verona Water Utility is partnering with HydroCorp to conduct required cross-connection control inspections, so watch your mail for appointment scheduling letters.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-01",
-    "updateDate": "2026-11-01T03:05:39.528Z",
+    "updateDate": "2026-11-01T04:05:15.528Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can catch the Dane County Farmer's Market or live music at various local spots including Bailey's Run and Paddy Mac's, with trivia events picking back up on Tuesday.",
+    "mainText": "Tomorrow, enjoy live music performances at both Bailey's Run Vineyard and Lake Lou-ee Brewing. Looking ahead to next week, trivia lovers can check out Hop Haus Brewing and Paddy Mac's on Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-01",
-    "updateDate": "2026-11-01T03:05:39.528Z",
+    "updateDate": "2026-11-01T04:05:15.528Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from October 23, two juveniles were cited for operating prohibited eMotos after being warned previously.",
+    "mainText": "In weekly police news, officers responded on Saturday, October 25th to the intersection of Plympton Street and Rita Avenue for a vehicle stopped for over 20 minutes, where a 40-year-old Verona man was arrested for an O W I first offence.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-01",
-    "updateDate": "2026-11-01T03:05:39.528Z",
+    "updateDate": "2026-11-01T04:05:15.528Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Mint Explosion and the shop is open right now until 10:30 PM, so make sure to get there soon as they are closing in 24 minutes.",
+    "mainText": "Culver's is now closed for the night following today's Mint Explosion flavor. Doors open tomorrow at 10:00 AM featuring the Caramel Fudge Cookie Dough flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
