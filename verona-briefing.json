@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-02",
-    "updateDate": "2026-11-02T00:11:41.155Z",
+    "updateDate": "2026-11-02T01:04:36.281Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: the temperature is a comfortable 60 degrees near the Military Ridge State Trail with clear skies, though the air quality index is 56. We are under a third quarter moon, and the ISS will pass overhead tonight, but you will not be able to see it due to the clouds. Tonight's low will be 53 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: we have clear skies and a temperature of 58 degrees at Badger Prairie County Park, with an air quality index of 56. We are in the third quarter moon phase, and you can spot the International Space Station crossing the sky tomorrow at 4:57 AM, rising near Cross Plains and heading toward the Oregon area. Tonight, the temperature will dip to a low of 52 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-02",
-    "updateDate": "2026-11-02T00:11:41.155Z",
+    "updateDate": "2026-11-02T01:04:36.281Z",
     "titleText": "Verona City News",
-    "mainText": "We have no new city news articles or important emails from the city to share with you at this time.",
+    "mainText": "In city news, the Public Works Department reminds residents that Pellitteri Waste Systems handles our refuse and recycling. Please visit their website to access the 2026 and 2027 collection calendars and download their mobile app.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-02",
-    "updateDate": "2026-11-02T00:11:41.155Z",
+    "updateDate": "2026-11-02T01:04:36.281Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town today, starting with live music at Bailey's Run Vineyard. Looking ahead, you can enjoy yoga tomorrow at Insight Wellness, and later this week there are several trivia nights and live music performances at venues like Hop Haus, Wisconsin Brewing Company, and Paddy Mac's.",
+    "mainText": "We have a busy lineup including Live Music at Bailey's Run today, Yoga at Insight Wellness tomorrow, and various trivia nights and music events throughout the coming week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-02",
-    "updateDate": "2026-11-02T00:11:41.155Z",
+    "updateDate": "2026-11-02T01:04:36.281Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department did not issue a report for any incidents this week.",
+    "mainText": "Regarding local safety, the police department reported that on October 25, a 40-year-old man was taken into custody for an O W I after being found unresponsive in his vehicle at an intersection.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-02",
-    "updateDate": "2026-11-02T00:11:41.155Z",
+    "updateDate": "2026-11-02T01:04:36.281Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is Caramel Fudge Cookie Dough. The store is currently open and serving until 10 PM, so there is plenty of time to stop by for a scoop.",
+    "mainText": "The flavor of the day is the delicious Caramel Fudge Cookie Dough. The store is currently open and will remain open until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
