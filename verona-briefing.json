@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-02",
-    "updateDate": "2026-11-02T01:04:36.281Z",
+    "updateDate": "2026-11-02T02:06:03.485Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: we have clear skies and a temperature of 58 degrees at Badger Prairie County Park, with an air quality index of 56. We are in the third quarter moon phase, and you can spot the International Space Station crossing the sky tomorrow at 4:57 AM, rising near Cross Plains and heading toward the Oregon area. Tonight, the temperature will dip to a low of 52 degrees with no rain expected.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have clear skies at Firemans Park with an air quality index of 55, a third quarter moon, and an overnight low of 52 degrees with no rain predicted. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-02",
-    "updateDate": "2026-11-02T01:04:36.281Z",
+    "updateDate": "2026-11-02T02:06:03.485Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Public Works Department reminds residents that Pellitteri Waste Systems handles our refuse and recycling. Please visit their website to access the 2026 and 2027 collection calendars and download their mobile app.",
+    "mainText": "The Public Works Department handles refuse and recycling through Pellitteri Waste Systems. Weekly refuse and biweekly recycling are provided for residential properties, and you can utilize the Waste Wizard tool on the city website to determine proper disposal for various household items.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-02",
-    "updateDate": "2026-11-02T01:04:36.281Z",
+    "updateDate": "2026-11-02T02:06:03.485Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy lineup including Live Music at Bailey's Run today, Yoga at Insight Wellness tomorrow, and various trivia nights and music events throughout the coming week.",
+    "mainText": "There is a busy schedule of events ahead, starting with live music at Baileys Run Vineyard today. Looking forward, we have yoga at Insight Wellness tomorrow, followed by a full slate of trivia and entertainment at local favorites like Hop Haus, Paddy Macs, and the Wisconsin Brewing Company throughout the week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-02",
-    "updateDate": "2026-11-02T01:04:36.281Z",
+    "updateDate": "2026-11-02T02:06:03.485Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local safety, the police department reported that on October 25, a 40-year-old man was taken into custody for an O W I after being found unresponsive in his vehicle at an intersection.",
+    "mainText": "In a report covering October 18 through October 24, officers responded to various calls, including an incident on October 21 where police assisted emergency services at a residence on Basswood Avenue for a cardiac arrest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-02",
-    "updateDate": "2026-11-02T01:04:36.281Z",
+    "updateDate": "2026-11-02T02:06:03.485Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is the delicious Caramel Fudge Cookie Dough. The store is currently open and will remain open until 10 PM tonight.",
+    "mainText": "The Culver's flavor of the day is the delightful Caramel Fudge Cookie Dough. The shop is currently open until 10 PM tonight, so there is still plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
