@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-02",
-    "updateDate": "2026-11-02T02:06:03.485Z",
+    "updateDate": "2026-11-02T03:05:43.648Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have clear skies at Firemans Park with an air quality index of 55, a third quarter moon, and an overnight low of 52 degrees with no rain predicted. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: skies are clear near City Hall under a third quarter moon, though we do have an elevated air quality index of 55. We also have a clear view of the International Space Station tonight, rising in the west northwest near Cross Plains and traveling toward the southeast near Oregon, reaching about halfway up the sky. Overnight, temperatures will drop to 52 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-02",
-    "updateDate": "2026-11-02T02:06:03.485Z",
+    "updateDate": "2026-11-02T03:05:43.648Z",
     "titleText": "Verona City News",
-    "mainText": "The Public Works Department handles refuse and recycling through Pellitteri Waste Systems. Weekly refuse and biweekly recycling are provided for residential properties, and you can utilize the Waste Wizard tool on the city website to determine proper disposal for various household items.",
+    "mainText": "In city news, the Public Works Department wants to remind residents that all curbside refuse and recycling services are handled by Pellitteri Waste Systems. You can find your collection calendar, sign up for delay alerts, or use their app to handle any missed pickups, and the city website offers a Waste Wizard tool to help you dispose of items properly.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-02",
-    "updateDate": "2026-11-02T02:06:03.485Z",
+    "updateDate": "2026-11-02T03:05:43.648Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a busy schedule of events ahead, starting with live music at Baileys Run Vineyard today. Looking forward, we have yoga at Insight Wellness tomorrow, followed by a full slate of trivia and entertainment at local favorites like Hop Haus, Paddy Macs, and the Wisconsin Brewing Company throughout the week.",
+    "mainText": "There is a lot happening in our community. We have live music at Bailey's Run today, followed by yoga at Insight Wellness tomorrow. Looking ahead to Tuesday, you can enjoy trivia at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's, along with live music at Paddy Mac's and pizza specials at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-02",
-    "updateDate": "2026-11-02T02:06:03.485Z",
+    "updateDate": "2026-11-02T03:05:43.648Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering October 18 through October 24, officers responded to various calls, including an incident on October 21 where police assisted emergency services at a residence on Basswood Avenue for a cardiac arrest.",
+    "mainText": "In a note on public safety, the police department reported that on October 25, officers were dispatched to an intersection where a 40-year-old man was found passed out behind the wheel, resulting in an arrest for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-02",
-    "updateDate": "2026-11-02T02:06:03.485Z",
+    "updateDate": "2026-11-02T03:05:43.648Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is the delightful Caramel Fudge Cookie Dough. The shop is currently open until 10 PM tonight, so there is still plenty of time to stop by for a scoop.",
+    "mainText": "The Culver's flavor of the day is Caramel Fudge Cookie Dough. The shop is currently open, but please note that they will be closing in 55 minutes, so make sure to get there soon if you want to enjoy a treat before they wrap up for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
