@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-02",
-    "updateDate": "2026-11-02T13:04:50.472Z",
+    "updateDate": "2026-11-02T14:07:23.029Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we are looking at 57 degree overcast skies over at Badger Ridge Middle School with a moderate air quality index of 55, and the moon is in the third quarter phase.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish. Expect overcast skies around Badger Ridge Middle School today with temperatures around 57 degrees, feeling like 53. Our air quality index is currently at 55, which places us in a moderate air quality alert.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-02",
-    "updateDate": "2026-11-02T13:04:50.472Z",
+    "updateDate": "2026-11-02T14:07:23.029Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona contracts with Pellitteri Waste Systems for residential trash and recycling collection. You can find detailed collection maps, calendars, and a Waste Wizard tool on the city website to help identify how to dispose of specific items.",
+    "mainText": "The City of Verona Public Works Department reminds residents that residential refuse and recycling is contracted through Pellitteri Waste Systems, offering weekly trash pick up and biweekly recycling. Residents can also drop off yard waste at 2959 Range Trail or drop off e-waste for a fee at the Verona Recycling Center on Investment Court.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-02",
-    "updateDate": "2026-11-02T13:04:50.472Z",
+    "updateDate": "2026-11-02T14:07:23.029Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this week, starting with yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's, plus live music at Paddy Mac's.",
+    "mainText": "Looking at local events, you can drop in for Yoga at Insight Wellness today. Tomorrow brings a full night of trivia across town, including Hop Haus Trivia, Quizmasters Trivia at Lake Lou-ee, and Dream Day Trivia at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-02",
-    "updateDate": "2026-11-02T13:04:50.472Z",
+    "updateDate": "2026-11-02T14:07:23.029Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 25, a 40-year-old Verona man was arrested for an O W I offence after being found unresponsive in his vehicle at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "In police news, officers made contact with two juveniles on Thursday on Ashton Drive riding prohibited eMotos, which resulted in both parents receiving citations for permitting a minor to drive a motor vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-02",
-    "updateDate": "2026-11-02T13:04:50.472Z",
+    "updateDate": "2026-11-02T14:07:23.029Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day for a Peanut Butter Fudge Brownie treat, and you can head over to Culver's when they open today at 10:00 AM.",
+    "mainText": "Culver's opens today at 10:00 AM, featuring Peanut Butter Fudge Brownie as today's flavor of the day. They will remain open until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
