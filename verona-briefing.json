@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-02",
-    "updateDate": "2026-11-02T06:08:39.130Z",
+    "updateDate": "2026-11-02T07:04:49.409Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we have mainly clear skies at Fireman's Park with a temperature of 56 degrees and a moderate air quality index of 55. We are under a Third Quarter moon, and while the ISS passes overhead tonight, you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we are seeing 55 degrees with overcast skies at Verona Community Park and an air quality index of 54. The moon is in its third quarter phase, and the ISS will pass overhead tonight, but you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-02",
-    "updateDate": "2026-11-02T06:08:39.130Z",
+    "updateDate": "2026-11-02T07:04:49.409Z",
     "titleText": "Verona City News",
-    "mainText": "The Public Works Department reminds residents that Pellitteri Waste Systems handles all curbside refuse and recycling. You can find collection schedules or use their Waste Wizard tool on the city website to properly dispose of any item.",
+    "mainText": "The city contracts with Pellitteri Waste Systems for residential refuse and recycling services. Residents can check the Pellitteri website for schedules and use the Waste Wizard tool to determine how to dispose of specific items.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-02",
-    "updateDate": "2026-11-02T06:08:39.130Z",
+    "updateDate": "2026-11-02T07:04:49.409Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a great lineup of events starting with Yoga at Insight Wellness today. Tomorrow, you can test your knowledge at trivia nights at Hop Haus, Lake Lou-ee, or Paddy Mac's, and catch live music at Paddy Mac's throughout the week.",
+    "mainText": "We have a busy schedule ahead. Yoga at Insight Wellness is happening today. Tomorrow, you can catch trivia at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's, plus live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-02",
-    "updateDate": "2026-11-02T06:08:39.130Z",
+    "updateDate": "2026-11-02T07:04:49.409Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from October 21, the Verona Police Department assisted emergency responders during a witnessed cardiac arrest on Batker Court.",
+    "mainText": "In a noteworthy call from October 23, Verona police contacted two thirteen-year-old juveniles riding prohibited eMotos, resulting in their parents receiving citations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-02",
-    "updateDate": "2026-11-02T06:08:39.130Z",
+    "updateDate": "2026-11-02T07:04:49.409Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Peanut Butter Fudge Brownie. Culver's opens today at 10:00 AM, so stop by to enjoy a scoop later this morning.",
+    "mainText": "Today's delicious flavor of the day is Peanut Butter Fudge Brownie. The restaurant is currently closed but will open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
