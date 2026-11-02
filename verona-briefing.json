@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-02",
-    "updateDate": "2026-11-02T15:05:20.306Z",
+    "updateDate": "2026-11-02T16:04:42.680Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: expect overcast skies and 57 degrees along the Military Ridge State Trail. Note that an air quality alert is in effect today with a moderate AQI of 55.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. Expect overcast skies around Reddan Soccer Park with temperatures at 57 degrees, feeling like 52 degrees. An elevated air quality alert is also in effect with an index of 54.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-02",
-    "updateDate": "2026-11-02T15:05:20.306Z",
+    "updateDate": "2026-11-02T16:04:42.680Z",
     "titleText": "Verona City News",
-    "mainText": "City news highlights that curbside refuse and recycling are contracted with Pellitteri Waste Systems, offering weekly trash pick-up and biweekly recycling. Residents can also use drop-off sites on Range Trail and Investment Court, or consult the online Waste Wizard tool for item disposal guidance.",
+    "mainText": "As winter approaches, the city reminds residents that alternate-side street parking takes effect November 20 through April 1 to keep roads clear for snow removal. Additionally, the Verona Water Utility is partnering with HydroCorp to conduct residential and commercial cross-connection control inspections to ensure a clean public water supply.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-02",
-    "updateDate": "2026-11-02T15:05:20.306Z",
+    "updateDate": "2026-11-02T16:04:42.680Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at upcoming events, you can drop in for Yoga at Insight Wellness today. Tomorrow brings multiple trivia options including Hop Haus Brewing, Quizmasters Trivia at Lake Lou-ee, and Dream Day Trivia at Paddy Mac's, followed by ART House 360 community events on Thursday.",
+    "mainText": "You can stretch and unwind with Yoga at Insight Wellness happening today. Tomorrow, test your knowledge at local trivia nights hosted at Hop Haus Brewing Company, Lake Lou-ee, and Paddy Macs. Looking ahead to the weekend, live music kicks off at Baileys Run Vineyard on Friday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-02",
-    "updateDate": "2026-11-02T15:05:20.306Z",
+    "updateDate": "2026-11-02T16:04:42.680Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on Wednesday, October 22nd, officers responded to a vehicle crash involving a Metro Bus on West Verona Avenue near Todd Street, where one driver was cited for failing to yield.",
+    "mainText": "In this weeks police recap, officers responded to Ashton Drive on Thursday after observing two 13-year-olds riding prohibited e-motos. Because the youth had been previously warned, both parents were cited for permitting a minor to operate the vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-02",
-    "updateDate": "2026-11-02T15:05:20.306Z",
+    "updateDate": "2026-11-02T16:04:42.680Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "At Culver's, doors open today at 10:00 AM featuring today's flavor of the day, Peanut Butter Fudge Brownie.",
+    "mainText": "Culvers is open today until 10:00 PM, featuring Peanut Butter Fudge Brownie as the flavor of the day. Tomorrow, look out for Turtle Cheesecake.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.5-flash"
   }
