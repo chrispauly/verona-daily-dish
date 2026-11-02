@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-02",
-    "updateDate": "2026-11-02T04:05:14.059Z",
+    "updateDate": "2026-11-02T05:04:21.095Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: conditions are 57 degrees with clear skies near Verona Community Park, beneath a third quarter moon. Air quality is moderate with an AQI of 55. Expect an overnight low of 53 degrees with no rain predicted. The International Space Station makes a pass tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we are seeing overcast skies at Reddan Soccer Park with an air quality index of 55. The moon is in its third quarter phase, and while the ISS passes overhead tonight, you won't be able to see it due to the clouds. Tonight will reach a low of 54 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-02",
-    "updateDate": "2026-11-02T04:05:14.059Z",
+    "updateDate": "2026-11-02T05:04:21.095Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Public Works reminds residents that curbside trash and biweekly recycling collections are handled through Pellitteri Waste Systems. You can utilize the city's online Waste Wizard tool to figure out proper e-waste disposal or visit the Verona Recycling Center on Investment Court.",
+    "mainText": "City residents should know that the Public Works Department manages refuse and recycling contracts through Pellitteri Waste Systems. You can find collection schedules or use the Waste Wizard tool on the city website to determine how to dispose of specific items properly.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-02",
-    "updateDate": "2026-11-02T04:05:14.059Z",
+    "updateDate": "2026-11-02T05:04:21.095Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at upcoming events, you can catch live music happening today at Bailey's Run Vineyard, or drop in tomorrow for yoga at Insight Wellness. Looking ahead to next week, trivia nights will be hosted on Tuesday at Hop Haus Brewing Company and Lake Lou-ee.",
+    "mainText": "It is a busy week in Verona. You can catch Yoga at Insight Wellness tomorrow. Starting Tuesday, you have plenty of trivia options including Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's and Wednesday pizza specials.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-02",
-    "updateDate": "2026-11-02T04:05:14.059Z",
+    "updateDate": "2026-11-02T05:04:21.095Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on Saturday morning officers responded to Plympton Street and Rita Avenue for a vehicle stopped at the intersection, where a 40-year-old Verona man was arrested for an O W I first offence.",
+    "mainText": "In a report regarding service calls, on October 25, police arrested a 40-year-old man for his first offence of O W I after he was discovered asleep in his vehicle at an intersection.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-02",
-    "updateDate": "2026-11-02T04:05:14.059Z",
+    "updateDate": "2026-11-02T05:04:21.095Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Finally, Culver's is closed for the night after serving up Caramel Fudge Cookie Dough. The doors open tomorrow at 10:00 AM, featuring tomorrow's flavor of the day, Peanut Butter Fudge Brownie.",
+    "mainText": "Today's flavor of the day was the delicious Caramel Fudge Cookie Dough. Since the store is now closed for the night, we look forward to serving up the Peanut Butter Fudge Brownie when we open tomorrow at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
