@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-02",
-    "updateDate": "2026-11-02T20:03:51.695Z",
+    "updateDate": "2026-11-02T21:04:09.251Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we have overcast skies at Fireman's Park with a temperature of 56 degrees and an air quality index of 53, which is in the moderate range.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: expect overcast skies at the Verona Area High School with a temperature of 56 degrees and an air quality index of 52.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-02",
-    "updateDate": "2026-11-02T20:03:51.695Z",
+    "updateDate": "2026-11-02T21:04:09.251Z",
     "titleText": "Verona City News",
-    "mainText": "City residents should be aware that refuse and recycling services are provided by Pellitteri Waste Systems. Please ensure your carts are at the curb by 7 AM with proper spacing, and check their app or website for collection calendars and e-waste disposal info.",
+    "mainText": "The city is excited to welcome Deputy Chief Liz Gay who brings extensive experience in EMS and administration to her new role as of November 2. Also, remember that Pellitteri Waste Systems handles our weekly refuse and biweekly recycling, so be sure to check their app for collection schedules.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-02",
-    "updateDate": "2026-11-02T20:03:51.695Z",
+    "updateDate": "2026-11-02T21:04:09.251Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty happening in town. Today, you can catch a class at Insight Wellness. Tomorrow, we have a variety of trivia nights at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus live music at Paddy Mac's.",
+    "mainText": "There is a lot to do this week, starting with Yoga at Insight Wellness today. Tomorrow, you can test your knowledge at Hop Haus Trivia, Quizmasters at Lake Lou-ee, or Dream Day Trivia at Paddy Mac's, plus enjoy live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-02",
-    "updateDate": "2026-11-02T20:03:51.695Z",
+    "updateDate": "2026-11-02T21:04:09.251Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a note from the weekly report, on October 23, officers observed two 13-year-olds riding e-motorcycles on Ashton Drive. Since they had been previously warned, their parents were cited for allowing the minors to operate the prohibited vehicles.",
+    "mainText": "Looking at the latest reports, on October 25 officers found a 40-year-old man behind the wheel and he was arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-02",
-    "updateDate": "2026-11-02T20:03:51.695Z",
+    "updateDate": "2026-11-02T21:04:09.251Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Peanut Butter Fudge Brownie. Culver's is currently open and will remain open until 10 PM tonight, so there is plenty of time to stop by for a scoop.",
+    "mainText": "Stop by today to enjoy the delicious Peanut Butter Fudge Brownie flavor of the day. The store is currently open and will remain open for you until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
