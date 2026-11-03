@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-03",
-    "updateDate": "2026-11-03T00:09:44.261Z",
+    "updateDate": "2026-11-03T01:04:32.109Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: it is 58 degrees at Verona Area High School with light drizzle and an air quality index of 51. We are under a Third Quarter moon, and while the International Space Station passes overhead tonight, you will not be able to see it due to the clouds. Tonight's low will be 58 degrees with rain predicted.",
+    "mainText": "Hello, Verona! At 7 PM, it is 58 degrees with overcast skies at the high school, under the third quarter moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds. Tonight's low will be 58 degrees, and we are expecting rain.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-03",
-    "updateDate": "2026-11-03T00:09:44.261Z",
+    "updateDate": "2026-11-03T01:04:32.109Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced the hiring of Liz Gay as the new EMS Deputy Chief, effective November 2. She brings extensive experience in emergency operations and healthcare instruction. Additionally, residents are reminded that Pellitteri Waste Systems handles local refuse and recycling, with specific guidelines for cart placement and bulk waste available on the city website.",
+    "mainText": "The city has officially welcomed Liz Gay as the new EMS Deputy Chief of Administration. She brings a strong background in public safety leadership and emergency operations to our community. Also, a reminder that the city contracts with Pellitteri for all refuse and recycling needs, so be sure to check their app for schedules.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-03",
-    "updateDate": "2026-11-03T00:09:44.261Z",
+    "updateDate": "2026-11-03T01:04:32.109Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can head to Insight Wellness for yoga. Tomorrow, the town is buzzing with trivia options including Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's and pizza night at Lake Lou-ee.",
+    "mainText": "Today you can join Yoga at Insight Wellness. Tomorrow is packed with trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's and pizza night at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-03",
-    "updateDate": "2026-11-03T00:09:44.261Z",
+    "updateDate": "2026-11-03T01:04:32.109Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable report, officers were dispatched to the intersection of Plympton Street and Rita Avenue on October 25, where they found a man passed out behind the wheel and arrested him for an O W I.",
+    "mainText": "In a recent report, officers arrested a 40-year-old man for O W I on October 25 after he was discovered passed out in his vehicle at the intersection of Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-03",
-    "updateDate": "2026-11-03T00:09:44.261Z",
+    "updateDate": "2026-11-03T01:04:32.109Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's to enjoy the Peanut Butter Fudge Brownie flavor of the day before they close their doors at 10:00 PM.",
+    "mainText": "Today is the perfect time to try the Peanut Butter Fudge Brownie flavor of the day. The store is currently open and will be serving guests until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
