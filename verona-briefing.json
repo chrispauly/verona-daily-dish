@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-03",
-    "updateDate": "2026-11-03T06:07:12.097Z",
+    "updateDate": "2026-11-03T07:04:24.917Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. Expect overcast skies and temperatures around 61 degrees near Fireman's Park under a third quarter moon. The space station passes overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish. We are seeing 62 degrees with a light drizzle near the Military Ridge State Trail. We are currently under a third quarter moon, and although the ISS passes overhead tonight, you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-03",
-    "updateDate": "2026-11-03T06:07:12.097Z",
+    "updateDate": "2026-11-03T07:04:24.917Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is welcoming Deputy Chief Liz Gay to Fitch-Rona EMS, where she will oversee administration and employee development. Residents are also reminded to place refuse and recycling carts out before 7 AM on collection days.",
+    "mainText": "The City of Verona is proud to welcome Deputy Chief Liz Gay to the EMS team. Liz brings extensive experience from South Carolina and the Midwest, having served in leadership roles and as a clinical instructor. She will focus on building relationships with our community and staff when she starts on November 2. Also, residents are reminded to visit the Pellitteri website for recycling and refuse schedules.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-03",
-    "updateDate": "2026-11-03T06:07:12.097Z",
+    "updateDate": "2026-11-03T07:04:24.917Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are looking for local entertainment today, trivia nights are taking place at Hop Haus Brewing Company, Wisconsin Brewing Company, and Paddy Mac's. Looking ahead to tomorrow, Paddy Mac's will host live music while Insight Wellness offers yoga classes.",
+    "mainText": "There is plenty of brain-teasing fun today with trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's. Looking ahead, you can enjoy live music at Paddy Mac's tomorrow or try Wednesday Pizza and a Pitcher at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-03",
-    "updateDate": "2026-11-03T06:07:12.097Z",
+    "updateDate": "2026-11-03T07:04:24.917Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on Tuesday officers assisted emergency personnel with a witnessed cardiac arrest on Basswood Avenue, deploying an A E D before the patient was transported to a local hospital.",
+    "mainText": "In a noteworthy call from our weekly report, on October 25, officers located a 40-year-old man passed out in his vehicle at the intersection of Plympton Street and Rita Avenue. The man was subsequently arrested for an O W I first offence.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-03",
-    "updateDate": "2026-11-03T06:07:12.097Z",
+    "updateDate": "2026-11-03T07:04:24.917Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Culver's flavor of the day is Turtle Cheesecake. The restaurant is currently closed for the morning and will open today at 10:00 AM.",
+    "mainText": "Enjoy the delicious Turtle Cheesecake flavor of the day today. The store opens today at 10:00 AM and will remain open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
