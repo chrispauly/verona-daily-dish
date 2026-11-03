@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-03",
-    "updateDate": "2026-11-03T18:04:49.111Z",
+    "updateDate": "2026-11-03T19:03:44.262Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: it is 64 degrees with a light drizzle near City Hall under a third quarter moon.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. It is 64 degrees under overcast skies near the Verona Public Library. The moon is in its third quarter phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-03",
-    "updateDate": "2026-11-03T18:04:49.111Z",
+    "updateDate": "2026-11-03T19:03:44.262Z",
     "titleText": "Verona City News",
-    "mainText": "The city is launching pavement repairs on November 9 and 10 on North Nine Mound Road and surrounding streets, while we also celebrate the arrival of our new EMS Deputy Chief, Liz Gay.",
+    "mainText": "City crews are prepping for asphalt repairs on November 9 and 10, affecting streets like North Nine Mound Road and Mozart Street, so keep an eye out for parking signs. Also, we are thrilled to welcome new EMS Deputy Chief Liz Gay, who joins us with a strong background in public safety.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-03",
-    "updateDate": "2026-11-03T18:04:49.111Z",
+    "updateDate": "2026-11-03T19:03:44.262Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule with trivia tonight at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music and yoga sessions happening tomorrow.",
+    "mainText": "There is plenty to do this week, starting with trivia tonight at Hop Haus, Lake Lou-ee, and Paddy Mac's. Tomorrow you can enjoy live music at Paddy Mac's or yoga at Insight Wellness, followed by more trivia at The Bogey Factory on Wednesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-03",
-    "updateDate": "2026-11-03T18:04:49.111Z",
+    "updateDate": "2026-11-03T19:03:44.262Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from October 25, officers arrested a man for O W I after discovering him unresponsive in his vehicle at a local intersection.",
+    "mainText": "On October 25, a 40-year-old man was arrested for O W I after being found in his vehicle at the intersection of Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-03",
-    "updateDate": "2026-11-03T18:04:49.111Z",
+    "updateDate": "2026-11-03T19:03:44.262Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Turtle Cheesecake, and with the restaurant currently open until 10 PM, you have plenty of time to stop by for a treat.",
+    "mainText": "The flavor of the day is the delightful Turtle Cheesecake. The restaurant is currently open and will remain so until 10:00 PM tonight, so stop by for a scoop before they close.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
