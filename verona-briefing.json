@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-03",
-    "updateDate": "2026-11-03T09:04:48.708Z",
+    "updateDate": "2026-11-03T10:04:48.910Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish. Over at Verona Area High School, it is currently 63 degrees with light drizzle. Tonight we have a Third Quarter. The ISS will pass overhead tonight starting at 4:12 AM for 1 minutes, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish. We currently have overcast skies and a temperature of 63 degrees near Badger Ridge Middle School under a Third Quarter moon. There is an International Space Station pass tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-03",
-    "updateDate": "2026-11-03T09:04:48.708Z",
+    "updateDate": "2026-11-03T10:04:48.910Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Welcome EMS Deputy Chief Liz Gay.",
+    "mainText": "In city news, Liz Gay has been named the new Fitch-Rona E M S Deputy Chief of Administration, bringing extensive emergency operations and training experience to the community. Additionally, residents are reminded that Pellitteri Waste Systems provides weekly refuse and biweekly recycling collection for the city.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-03",
-    "updateDate": "2026-11-03T09:04:48.708Z",
+    "updateDate": "2026-11-03T10:04:48.910Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Hop Haus Trivia Today at Hop Haus Brewing Co..",
+    "mainText": "For local events, today features trivia nights at Hop Haus Brewing Co, Wisconsin Brewing Company, and Paddy Mac's. Tomorrow, you can enjoy live music at Paddy Mac's, yoga at Insight Wellness, or trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-03",
-    "updateDate": "2026-11-03T09:04:48.708Z",
+    "updateDate": "2026-11-03T10:04:48.910Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "In the weekly police recap, on Saturday, October 25th at 5:34 AM, officers were dispatched to Plympton Street and Rita Avenue for a vehicle stopped at the intersection for over 20 minutes, where a 40-year-old Verona man was found passed out behind the wheel and arrested for an O W I first offence.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-03",
-    "updateDate": "2026-11-03T09:04:48.708Z",
+    "updateDate": "2026-11-03T10:04:48.910Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Culver's Flavor of the Day is Turtle Cheesecake. The restaurant opens today at 10:00 AM.",
+    "mainText": "Over at Culver's, doors open today at 10:00 AM. Stop by to enjoy today's featured Flavor of the Day, Turtle Cheesecake.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
