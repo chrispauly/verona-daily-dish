@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-03",
-    "updateDate": "2026-11-03T22:03:50.353Z",
+    "updateDate": "2026-11-03T23:04:14.007Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, we have overcast skies and a temperature of 64 degrees at Badger Ridge Middle School, which feels like 61 degrees.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: it is 63 degrees at Reddan Soccer Park with overcast skies, a third quarter moon, an overnight low of 56 degrees, and rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-03",
-    "updateDate": "2026-11-03T22:03:50.353Z",
+    "updateDate": "2026-11-03T23:04:14.007Z",
     "titleText": "Verona City News",
-    "mainText": "The city is highlighting new requirements for erosion and stormwater management permits, while paving work is scheduled for November 9 and 10 on North Nine Mound Road and several other local streets.",
+    "mainText": "The city is preparing for pavement repairs on November 9 and 10, impacting Nine Mound Road and several other streets, so please watch for no parking signs. Additionally, the city has updated the permit process for erosion control and stormwater management for construction projects.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-03",
-    "updateDate": "2026-11-03T22:03:50.353Z",
+    "updateDate": "2026-11-03T23:04:14.007Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with trivia night happening today at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, followed by live music and yoga sessions throughout the rest of the week.",
+    "mainText": "There is plenty to do, with trivia happening today at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's. Looking ahead, you can enjoy live music at Paddy Mac's tomorrow or take part in Wednesday trivia at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-03",
-    "updateDate": "2026-11-03T22:03:50.353Z",
+    "updateDate": "2026-11-03T23:04:14.007Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local activity, on October 19, a 49-year-old Verona man was stopped for driving with a suspended license and was subsequently taken into custody for an active arrest warrant.",
+    "mainText": "Looking at the weekly report, on October 23, two thirteen-year-old juveniles were caught riding prohibited eMotos, resulting in citations for their parents.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-03",
-    "updateDate": "2026-11-03T22:03:50.353Z",
+    "updateDate": "2026-11-03T23:04:14.007Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy today's flavor of the day, which is Turtle Cheesecake, as the local Culver's is currently open and will remain so until 10 PM this evening.",
+    "mainText": "Today's delicious Flavor of the Day is Turtle Cheesecake. The restaurant is currently open and serving until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
