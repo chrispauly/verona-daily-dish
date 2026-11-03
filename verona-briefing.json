@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-03",
-    "updateDate": "2026-11-03T14:04:30.261Z",
+    "updateDate": "2026-11-03T15:05:43.327Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we are seeing overcast skies with a temperature of 63 degrees near Harriet Park.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish. Over at Fireman's Park, it is currently 65 degrees with overcast skies.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-11-03",
-    "updateDate": "2026-11-03T14:04:30.261Z",
+    "updateDate": "2026-11-03T15:05:43.327Z",
     "titleText": "Verona City News",
-    "mainText": "In local news, we have no new emails or city updates for the city of Verona today, allowing us to keep a close eye on our local community events.",
+    "mainText": "In city affairs, the latest update is: Welcome EMS Deputy Chief Liz Gay.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-11-03",
-    "updateDate": "2026-11-03T14:04:30.261Z",
+    "updateDate": "2026-11-03T15:05:43.327Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a lot of activity today, with trivia nights at Hop Haus, Lake Lou-ee, and Paddy Mac's. Looking ahead to tomorrow, you can catch live music at Paddy Mac's, yoga at Insight Wellness, or Wednesday pizza and a pitcher at Lake Lou-ee.",
+    "mainText": "If you are planning your week, we have local events coming up, including Hop Haus Trivia Today at Hop Haus Brewing Co..",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-11-03",
-    "updateDate": "2026-11-03T14:04:30.261Z",
+    "updateDate": "2026-11-03T15:05:43.327Z",
     "titleText": "Verona Police Report",
-    "mainText": "There were no police incidents reported for this week, meaning everything is clear for our residents.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-03",
-    "updateDate": "2026-11-03T14:04:30.261Z",
+    "updateDate": "2026-11-03T15:05:43.327Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Turtle Cheesecake. Please note that the store is currently closed, but it will be open today at 10:00 AM to serve you.",
+    "mainText": "Today's Culver's Flavor of the Day is Turtle Cheesecake. The restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
