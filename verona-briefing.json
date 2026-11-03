@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-11-02",
-    "updateDate": "2026-11-02T23:03:59.554Z",
+    "uid": "verona-balanced-weather-2026-11-03",
+    "updateDate": "2026-11-03T00:09:44.261Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: it is 58 degrees and overcast at Reddan Soccer Park. The air quality index is at 51, we are in a third quarter moon phase, and while the ISS passes overhead tonight, you won't be able to see it due to the clouds. Overnight, temperatures will sit at 58 with rain predicted.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: it is 58 degrees at Verona Area High School with light drizzle and an air quality index of 51. We are under a Third Quarter moon, and while the International Space Station passes overhead tonight, you will not be able to see it due to the clouds. Tonight's low will be 58 degrees with rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-11-02",
-    "updateDate": "2026-11-02T23:03:59.554Z",
+    "uid": "verona-balanced-news-2026-11-03",
+    "updateDate": "2026-11-03T00:09:44.261Z",
     "titleText": "Verona City News",
-    "mainText": "Verona officially welcomes Deputy Chief Liz Gay to the EMS team. Liz brings extensive experience in emergency operations and healthcare education to her new role. Also, a reminder that Pellitteri Waste Systems handles our refuse and recycling, so be sure to check their app for collection schedules and proper cart placement.",
+    "mainText": "The City of Verona has announced the hiring of Liz Gay as the new EMS Deputy Chief, effective November 2. She brings extensive experience in emergency operations and healthcare instruction. Additionally, residents are reminded that Pellitteri Waste Systems handles local refuse and recycling, with specific guidelines for cart placement and bulk waste available on the city website.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-11-02",
-    "updateDate": "2026-11-02T23:03:59.554Z",
+    "uid": "verona-balanced-events-2026-11-03",
+    "updateDate": "2026-11-03T00:09:44.261Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can join Yoga at Insight Wellness. Tomorrow, we have a packed slate with trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's and pizza and a pitcher at Lake Lou-ee.",
+    "mainText": "Today, you can head to Insight Wellness for yoga. Tomorrow, the town is buzzing with trivia options including Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's and pizza night at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-11-02",
-    "updateDate": "2026-11-02T23:03:59.554Z",
+    "uid": "verona-balanced-police-2026-11-03",
+    "updateDate": "2026-11-03T00:09:44.261Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 25, officers located a 40-year-old man behind the wheel at Plympton Street and Rita Avenue, resulting in an arrest for O W I.",
+    "mainText": "In a notable report, officers were dispatched to the intersection of Plympton Street and Rita Avenue on October 25, where they found a man passed out behind the wheel and arrested him for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-11-02",
-    "updateDate": "2026-11-02T23:03:59.554Z",
+    "uid": "verona-balanced-culvers-2026-11-03",
+    "updateDate": "2026-11-03T00:09:44.261Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Peanut Butter Fudge Brownie. The store is currently open until 10 PM, making it the perfect time to stop by for a treat.",
+    "mainText": "Stop by Culver's to enjoy the Peanut Butter Fudge Brownie flavor of the day before they close their doors at 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
