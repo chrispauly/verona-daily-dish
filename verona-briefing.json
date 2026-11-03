@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-03",
-    "updateDate": "2026-11-03T16:04:47.263Z",
+    "updateDate": "2026-11-03T17:04:19.594Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, the temperature is 64 degrees under moderate rain at Reddan Soccer Park.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. Over at Fireman's Park, it is currently 64 degrees with slight rain.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-11-03",
-    "updateDate": "2026-11-03T16:04:47.263Z",
+    "updateDate": "2026-11-03T17:04:19.594Z",
     "titleText": "Verona City News",
-    "mainText": "The city is excited to welcome Liz Gay as the new Deputy Chief of Administration for EMS. She joins us with an extensive background in emergency services and public safety leadership. Additionally, the Public Works Department reminds residents that Pellitteri Waste Systems handles local refuse and recycling, so be sure to check your collection schedules and cart placement rules online.",
+    "mainText": "In city affairs, the latest update is: Welcome EMS Deputy Chief Liz Gay.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-11-03",
-    "updateDate": "2026-11-03T16:04:47.263Z",
+    "updateDate": "2026-11-03T17:04:19.594Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule of trivia tonight with events at Hop Haus, Lake Lou-ee, and Paddy Mac's all happening today. Looking ahead, you can catch live music at Paddy Mac's and yoga at Insight Wellness tomorrow.",
+    "mainText": "If you are planning your week, we have local events coming up, including Hop Haus Trivia Today at Hop Haus Brewing Co..",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-11-03",
-    "updateDate": "2026-11-03T16:04:47.263Z",
+    "updateDate": "2026-11-03T17:04:19.594Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a recent report, officers noted that on October 23, two thirteen-year-old juveniles were cited for riding prohibited eMotos on Ashton Drive after previously being warned.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-03",
-    "updateDate": "2026-11-03T16:04:47.263Z",
+    "updateDate": "2026-11-03T17:04:19.594Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Turtle Cheesecake. The Culver's of Verona is currently open and serving guests until 10 PM tonight.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: Turtle Cheesecake. The restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
