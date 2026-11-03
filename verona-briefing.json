@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-03",
-    "updateDate": "2026-11-03T08:12:16.326Z",
+    "updateDate": "2026-11-03T09:04:48.708Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: we are seeing a light drizzle near the Verona Area High School under a third quarter moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish. Over at Verona Area High School, it is currently 63 degrees with light drizzle. Tonight we have a Third Quarter. The ISS will pass overhead tonight starting at 4:12 AM for 1 minutes, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-11-03",
-    "updateDate": "2026-11-03T08:12:16.326Z",
+    "updateDate": "2026-11-03T09:04:48.708Z",
     "titleText": "Verona City News",
-    "mainText": "We have no new city news or emails to report this morning, so we are keeping a close watch on local developments for you.",
+    "mainText": "In city affairs, the latest update is: Welcome EMS Deputy Chief Liz Gay.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-11-03",
-    "updateDate": "2026-11-03T08:12:16.326Z",
+    "updateDate": "2026-11-03T09:04:48.708Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today is a great day for trivia with events at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's. Looking ahead, you can catch live music at Paddy Mac's tomorrow or try some yoga at Insight Wellness.",
+    "mainText": "If you are planning your week, we have local events coming up, including Hop Haus Trivia Today at Hop Haus Brewing Co..",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-11-03",
-    "updateDate": "2026-11-03T08:12:16.326Z",
+    "updateDate": "2026-11-03T09:04:48.708Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on October 25, officers located a driver passed out at an intersection, resulting in an arrest for O W I.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-03",
-    "updateDate": "2026-11-03T08:12:16.326Z",
+    "updateDate": "2026-11-03T09:04:48.708Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Turtle Cheesecake. The store opens today at 10:00 AM and will be serving up treats until 10:00 PM.",
+    "mainText": "Today's Culver's Flavor of the Day is Turtle Cheesecake. The restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
