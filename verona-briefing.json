@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-04",
-    "updateDate": "2026-11-04T16:04:13.248Z",
+    "updateDate": "2026-11-04T17:03:31.016Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have overcast skies near Badger Ridge Middle School.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we are seeing overcast skies with a temperature of 53 degrees at Harriet Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-04",
-    "updateDate": "2026-11-04T16:04:13.248Z",
+    "updateDate": "2026-11-04T17:03:31.016Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced updated requirements for erosion control and stormwater management permits for developers, while also welcoming Deputy Chief Liz Gay to the EMS team starting this month.",
+    "mainText": "The city is highlighting new stormwater and erosion control permit requirements for developers. Additionally, pavement repairs are scheduled for November 9 and 10 on North Nine Mound Road and surrounding streets.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-04",
-    "updateDate": "2026-11-04T16:04:13.248Z",
+    "updateDate": "2026-11-04T17:03:31.016Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this week, including live music today at Paddy Mac's, yoga today at Insight Wellness, and trivia night tomorrow at The Bogey Factory.",
+    "mainText": "It is a busy week for events. Today, you can enjoy live music at Paddy Mac's, yoga at Insight Wellness, or Wednesday Pizza and a Pitcher at Lake Lou-ee. Tomorrow, look out for Trivia Night at the Bogey Factory, Thursday Night Art House, and Hop Haus Trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-04",
-    "updateDate": "2026-11-04T16:04:13.248Z",
+    "updateDate": "2026-11-04T17:03:31.016Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident from October 25, a driver was arrested for an O W I offence after being found stopped at a local intersection.",
+    "mainText": "Regarding local activity, on October 23, officers made contact with two 13-year-old juveniles riding e-motorcycles on Ashton Drive and their parents were cited for allowing the operation of a motor vehicle by a minor.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-04",
-    "updateDate": "2026-11-04T16:04:13.248Z",
+    "updateDate": "2026-11-04T17:03:31.016Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by for today's flavor, Dark Chocolate PB Crunch, at Culver's, which is currently open and serving until 10 PM.",
+    "mainText": "Today is a great day to visit Culver's for the Dark Chocolate PB Crunch flavor of the day. The restaurant is currently open and will remain so until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
