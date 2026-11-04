@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-04",
-    "updateDate": "2026-11-04T01:03:55.818Z",
+    "updateDate": "2026-11-04T02:08:48.235Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 64 degrees with moderate drizzle at Reddan Soccer Park under a third quarter moon, and you should prepare for an overnight low of 55 degrees with rain expected.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. Over at Reddan Soccer Park, it is currently 64 degrees with overcast skies. The overnight low will be around 55 degrees, with rain likely. Tonight we have a Third Quarter.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-11-04",
-    "updateDate": "2026-11-04T01:03:55.818Z",
+    "updateDate": "2026-11-04T02:08:48.235Z",
     "titleText": "Verona City News",
-    "mainText": "The city has provided guidance on erosion control and stormwater management permits, which are required for projects disturbing over 4,000 square feet or significant earth movement. Additionally, please be aware of upcoming pavement repairs scheduled for November 9 and 10 on various local streets.",
+    "mainText": "In city affairs, the latest update is: No new city alerts.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-11-04",
-    "updateDate": "2026-11-04T01:03:55.818Z",
+    "updateDate": "2026-11-04T02:08:48.235Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town with trivia happening today at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, followed by music and wellness events tomorrow.",
+    "mainText": "If you are planning your week, we have local events coming up, including Hop Haus Trivia Today at Hop Haus Brewing Co..",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-11-04",
-    "updateDate": "2026-11-04T01:03:55.818Z",
+    "updateDate": "2026-11-04T02:08:48.235Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local public safety, on October 25, officers located a driver at Plympton Street and Rita Avenue who was arrested for an O W I.",
+    "mainText": "From the police department weekly log: recently, No updates from the police department.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-04",
-    "updateDate": "2026-11-04T01:03:55.818Z",
+    "updateDate": "2026-11-04T02:08:48.235Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Flavor of the Day is the delicious Turtle Cheesecake, and since the restaurant is open until 10:00 PM, there is still time to stop by for a treat.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: Turtle Cheesecake. The restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
