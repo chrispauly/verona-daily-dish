@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-04",
-    "updateDate": "2026-11-04T20:04:09.732Z",
+    "updateDate": "2026-11-04T21:03:54.007Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we are seeing overcast skies at Reddan Soccer Park with a temperature of 51 degrees.",
+    "mainText": "Hello, Verona! At 3 PM, it is 51 degrees with overcast skies by the Verona Area High School, and we are currently seeing a waning crescent moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-04",
-    "updateDate": "2026-11-04T20:04:09.732Z",
+    "updateDate": "2026-11-04T21:03:54.007Z",
     "titleText": "Verona City News",
-    "mainText": "The Public Works Department is currently focused on essential city maintenance, including road repairs scheduled for November 9 and 10. Additionally, the city invites residents to subscribe to the digital newsletter to stay informed about local programs.",
+    "mainText": "The city has shared important reminders about stormwater management permits for developers and is inviting everyone to subscribe to the city newsletter for the latest updates on city projects.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-04",
-    "updateDate": "2026-11-04T20:04:09.732Z",
+    "updateDate": "2026-11-04T21:03:54.007Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule! Today, catch live music at Paddy Mac's, yoga at Insight Wellness, and pizza at Lake Lou-ee. Tomorrow, enjoy trivia at The Bogey Factory or check out the art events at ART House 360.",
+    "mainText": "Today offers a variety of local activities including live music at Paddy Mac's, a yoga session at Insight Wellness, and the Pizza and a Pitcher event at Lake Lou-ee. Tomorrow, you can look forward to trivia night at the Bogey Factory and Thursday night festivities at ART House.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-04",
-    "updateDate": "2026-11-04T20:04:09.732Z",
+    "updateDate": "2026-11-04T21:03:54.007Z",
     "titleText": "Verona Police Report",
-    "mainText": "The police department reports that on October 25, a 40-year-old man was taken into custody for his first O W I offence after being discovered by officers while passed out behind the wheel at a local intersection.",
+    "mainText": "On October 23, officers made contact with two 13-year-olds riding eMotos on Ashton Drive, resulting in citations for their parents for permitting a minor to operate a motor vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-04",
-    "updateDate": "2026-11-04T20:04:09.732Z",
+    "updateDate": "2026-11-04T21:03:54.007Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Dark Chocolate PB Crunch. The restaurant is currently open, so you can head over anytime until they close at 10:00 PM tonight.",
+    "mainText": "Today's delicious flavor of the day is Dark Chocolate PB Crunch. The store is currently open and will remain open until 10:00 PM tonight, so stop by and enjoy a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
