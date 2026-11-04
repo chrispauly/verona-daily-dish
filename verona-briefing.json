@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-04",
-    "updateDate": "2026-11-04T06:07:47.652Z",
+    "updateDate": "2026-11-04T07:04:25.941Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: it is currently 63 degrees with slight rain near the Verona Public Library, and under a third quarter moon, the space station passes overhead tonight, though you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish. It is 62 degrees with a light drizzle near the Verona Public Library. The moon is currently in its third quarter. The ISS will be passing overhead tonight, but unfortunately, you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-04",
-    "updateDate": "2026-11-04T06:07:47.652Z",
+    "updateDate": "2026-11-04T07:04:25.941Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has updated its permit requirements for erosion control and stormwater management for any projects disturbing over 4,000 square feet. Additionally, pavement repairs are scheduled for various locations this Monday and Tuesday.",
+    "mainText": "The City of Verona has announced that a contractor will begin asphalt repairs on November 9 and 10 on North Nine Mound Road and several other streets. Additionally, please remember that the city requires specific permits for any erosion control or stormwater management projects to ensure environmental compliance.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-04",
-    "updateDate": "2026-11-04T06:07:47.652Z",
+    "updateDate": "2026-11-04T07:04:25.941Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with live music at Paddy Mac's today, yoga classes at Insight Wellness today, Wednesday trivia at The Bogey Factory, and ART House 360 events happening tomorrow.",
+    "mainText": "There is plenty to do this week in Verona. Today, enjoy live music at Paddy Mac's, yoga at Insight Wellness, or the Pizza and a Pitcher event at Lake Lou-ee. Looking ahead, head to The Bogey Factory tomorrow for trivia night, and check out ART House 360 for Thursday night fun.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-04",
-    "updateDate": "2026-11-04T06:07:47.652Z",
+    "updateDate": "2026-11-04T07:04:25.941Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly report, on October 25, officers arrested a 40-year-old Verona man for O W I after he was discovered stopped at an intersection for an extended period.",
+    "mainText": "Regarding the weekly police report, on October 21, officers were dispatched to a residence on Basswood Avenue for a witnessed cardiac arrest, where they successfully applied an A E D before the patient was transported to the hospital.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-04",
-    "updateDate": "2026-11-04T06:07:47.652Z",
+    "updateDate": "2026-11-04T07:04:25.941Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Dark Chocolate PB Crunch. The store is currently closed but will open today at 10:00 AM.",
+    "mainText": "You are in for a treat with today's flavor, which is Dark Chocolate PB Crunch. The store is currently closed, but you can head over when it opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
