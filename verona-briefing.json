@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-04",
-    "updateDate": "2026-11-04T04:04:49.224Z",
+    "updateDate": "2026-11-04T05:04:31.533Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: current conditions are 64 degrees with overcast skies near Reddan Soccer Park. We have a Third Quarter moon tonight, with an overnight low dropping to 56 degrees and rain predicted. The ISS passes overhead tonight, though you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we are seeing overcast skies near Harriet Park. The moon is currently in its Third Quarter phase, and although the ISS is passing overhead, you won't be able to see it because of the cloud cover. Tonight will cool down to a low of 55 degrees, and rain is in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-04",
-    "updateDate": "2026-11-04T04:04:49.224Z",
+    "updateDate": "2026-11-04T05:04:31.533Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, asphalt repair work is scheduled to begin on Monday, November 9th, affecting areas near North Nine Mound Road and Mozart Street. Additionally, Verona welcomed Liz Gay as the new EMS Deputy Chief for Fitch-Rona EMS.",
+    "mainText": "The City of Verona has announced that new asphalt repairs will begin this Monday and Tuesday on N Nine Mound Road, Morningside Boulevard, and Mozart Street. Additionally, the city has updated the permit application process for developers regarding erosion control and stormwater management.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-04",
-    "updateDate": "2026-11-04T04:04:49.224Z",
+    "updateDate": "2026-11-04T05:04:31.533Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "For local events today, options include Hop Haus Trivia and Quizmasters Trivia at Lake Lou-ee. Looking ahead to tomorrow, Paddy Mac's will host live music and Lake Lou-ee will host Wednesday Pizza and a Pitcher.",
+    "mainText": "There is plenty to do around town. Tomorrow, you can enjoy live music at Paddy Mac's, attend yoga at Insight Wellness, or head to the Wisconsin Brewing Company for Pizza and a Pitcher. Looking ahead, The Bogey Factory hosts trivia on Wednesday, and ART House 360 begins their Thursday night series.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-04",
-    "updateDate": "2026-11-04T04:04:49.224Z",
+    "updateDate": "2026-11-04T05:04:31.533Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly police recap, on Sunday at 5:34 AM, officers responded to Plympton Street and Rita Avenue for a vehicle stopped at the intersection, arresting a 40-year-old Verona man for O W I first offence after finding him passed out behind the wheel.",
+    "mainText": "In a report from October 25, officers were dispatched to the intersection of Plympton Street and Rita Avenue where they located a 40-year-old man passed out behind the wheel, resulting in an arrest for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-04",
-    "updateDate": "2026-11-04T04:04:49.224Z",
+    "updateDate": "2026-11-04T05:04:31.533Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is now closed for the evening after serving Turtle Cheesecake today. Be sure to stop by tomorrow at 10:00 AM when they open with tomorrow's flavor, Dark Chocolate PB Crunch.",
+    "mainText": "Today's flavor was Turtle Cheesecake. Since the store is now closed for the night, we look ahead to tomorrow's flavor, which is Dark Chocolate PB Crunch. The store will open again tomorrow at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
