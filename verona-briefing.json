@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-04",
-    "updateDate": "2026-11-04T09:04:56.757Z",
+    "updateDate": "2026-11-04T10:04:29.934Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish. We are seeing overcast skies and 60 degrees near Verona City Hall under a third quarter moon. The Space Station passes overhead tonight, but unfortunately you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: it is 58 degrees at Reddan Soccer Park under overcast skies with a waning crescent moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-04",
-    "updateDate": "2026-11-04T09:04:56.757Z",
+    "updateDate": "2026-11-04T10:04:29.934Z",
     "titleText": "Verona City News",
-    "mainText": "In city updates, Verona welcomes Liz Gay as the new EMS Deputy Chief of Administration. Additionally, Public Works announced street pavement repairs beginning November 9th along Nine Mound Road, Morningside Boulevard, and Mozart Street.",
+    "mainText": "City news today includes new guidance for erosion control and stormwater management permits for developers, alongside the exciting announcement that Deputy Chief Liz Gay has officially joined the team at Fitch-Rona EMS.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-04",
-    "updateDate": "2026-11-04T09:04:56.757Z",
+    "updateDate": "2026-11-04T10:04:29.934Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "For local outings, enjoy Yoga at Insight Wellness or live music at Paddy Mac's happening today. Tomorrow, ART House 360 hosts its Thursday night social hour and comedy, and Hop Haus Trivia takes place tomorrow evening.",
+    "mainText": "There is plenty happening around town, including live music at Paddy Mac's today and yoga at Insight Wellness, followed by trivia at the Bogey Factory tomorrow and ART House 360 events coming up tomorrow as well.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-04",
-    "updateDate": "2026-11-04T09:04:56.757Z",
+    "updateDate": "2026-11-04T10:04:29.934Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly police recap, on Wednesday, October 21st, officers responded to a domestic disturbance on Church Avenue where a Madison woman was arrested for disorderly conduct.",
+    "mainText": "Looking at the weekly police report, officers responded to a call on October 25 involving a driver who was taken into custody for O W I after being found at a local intersection.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-04",
-    "updateDate": "2026-11-04T09:04:56.757Z",
+    "updateDate": "2026-11-04T10:04:29.934Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Over at Culver's, today's flavor of the day is Dark Chocolate PB Crunch. The restaurant opens today at 10:00 AM to satisfy your sweet tooth.",
+    "mainText": "The Culver's flavor of the day is Dark Chocolate PB Crunch. The store is currently closed, but it will be ready to serve you when it opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
