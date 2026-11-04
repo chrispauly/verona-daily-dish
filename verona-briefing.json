@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-04",
-    "updateDate": "2026-11-04T17:03:31.016Z",
+    "updateDate": "2026-11-04T18:11:12.891Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we are seeing overcast skies with a temperature of 53 degrees at Harriet Park.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we have overcast skies around Verona Area High School with a temperature of 52 degrees, feeling like 46, accompanied by a waning crescent moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-04",
-    "updateDate": "2026-11-04T17:03:31.016Z",
+    "updateDate": "2026-11-04T18:11:12.891Z",
     "titleText": "Verona City News",
-    "mainText": "The city is highlighting new stormwater and erosion control permit requirements for developers. Additionally, pavement repairs are scheduled for November 9 and 10 on North Nine Mound Road and surrounding streets.",
+    "mainText": "In city news, Fitch-Rona EMS welcomed Liz Gay as the new Deputy Chief of Administration. Additionally, Public Works announced that street milling and pavement repair work will take place on select city streets on November 9th and 10th.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-04",
-    "updateDate": "2026-11-04T17:03:31.016Z",
+    "updateDate": "2026-11-04T18:11:12.891Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy week for events. Today, you can enjoy live music at Paddy Mac's, yoga at Insight Wellness, or Wednesday Pizza and a Pitcher at Lake Lou-ee. Tomorrow, look out for Trivia Night at the Bogey Factory, Thursday Night Art House, and Hop Haus Trivia.",
+    "mainText": "Looking at upcoming local events, you can catch Wednesday Pizza and a Pitcher at Lake Lou-ee today, check out ART House 360 and Trivia Night at The Bogey Factory tomorrow, and join Hop Haus Trivia on Friday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-04",
-    "updateDate": "2026-11-04T17:03:31.016Z",
+    "updateDate": "2026-11-04T18:11:12.891Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local activity, on October 23, officers made contact with two 13-year-old juveniles riding e-motorcycles on Ashton Drive and their parents were cited for allowing the operation of a motor vehicle by a minor.",
+    "mainText": "In this week's police recap, officers responded on Sunday morning to the intersection of Plympton Street and Rita Avenue, where a driver was found passed out behind the wheel and arrested for an O W I first offence.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-04",
-    "updateDate": "2026-11-04T17:03:31.016Z",
+    "updateDate": "2026-11-04T18:11:12.891Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is a great day to visit Culver's for the Dark Chocolate PB Crunch flavor of the day. The restaurant is currently open and will remain so until 10 PM tonight.",
+    "mainText": "Culver's is open today until 10 PM, so head over to enjoy today's flavor of the day, Dark Chocolate PB Crunch. Tomorrow's flavor will be Chocolate Covered Strawberry.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
