@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-04",
-    "updateDate": "2026-11-04T19:03:46.738Z",
+    "updateDate": "2026-11-04T20:04:09.732Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, we are seeing overcast skies with temperatures at 50 degrees near Reddan Soccer Park.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we are seeing overcast skies at Reddan Soccer Park with a temperature of 51 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-04",
-    "updateDate": "2026-11-04T19:03:46.738Z",
+    "updateDate": "2026-11-04T20:04:09.732Z",
     "titleText": "Verona City News",
-    "mainText": "The city is busy with scheduled pavement repairs on November 9 and 10, affecting Nine Mound Road and surrounding areas, while our Public Works team continues to oversee local infrastructure and utilities.",
+    "mainText": "The Public Works Department is currently focused on essential city maintenance, including road repairs scheduled for November 9 and 10. Additionally, the city invites residents to subscribe to the digital newsletter to stay informed about local programs.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-04",
-    "updateDate": "2026-11-04T19:03:46.738Z",
+    "updateDate": "2026-11-04T20:04:09.732Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can enjoy pizza and a pitcher at the Wisconsin Brewing Company, or stop by for yoga at Insight Wellness; tomorrow, join the fun for trivia at Hop Haus or check out the ART House 360 events.",
+    "mainText": "We have a busy schedule! Today, catch live music at Paddy Mac's, yoga at Insight Wellness, and pizza at Lake Lou-ee. Tomorrow, enjoy trivia at The Bogey Factory or check out the art events at ART House 360.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-04",
-    "updateDate": "2026-11-04T19:03:46.738Z",
+    "updateDate": "2026-11-04T20:04:09.732Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 21, officers assisted FitchRona EMS with two separate cardiac arrest calls, utilizing AED equipment during the responses.",
+    "mainText": "The police department reports that on October 25, a 40-year-old man was taken into custody for his first O W I offence after being discovered by officers while passed out behind the wheel at a local intersection.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-04",
-    "updateDate": "2026-11-04T19:03:46.738Z",
+    "updateDate": "2026-11-04T20:04:09.732Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is Dark Chocolate PB Crunch, and the store is currently open until 10 PM tonight.",
+    "mainText": "Today's delicious flavor of the day is Dark Chocolate PB Crunch. The restaurant is currently open, so you can head over anytime until they close at 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
