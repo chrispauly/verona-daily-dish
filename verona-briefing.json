@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-04",
-    "updateDate": "2026-11-04T07:04:25.941Z",
+    "updateDate": "2026-11-04T08:07:39.639Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish. It is 62 degrees with a light drizzle near the Verona Public Library. The moon is currently in its third quarter. The ISS will be passing overhead tonight, but unfortunately, you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: it is 61 degrees and overcast by the Verona Public Library. The moon is in its third quarter phase. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-04",
-    "updateDate": "2026-11-04T07:04:25.941Z",
+    "updateDate": "2026-11-04T08:07:39.639Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that a contractor will begin asphalt repairs on November 9 and 10 on North Nine Mound Road and several other streets. Additionally, please remember that the city requires specific permits for any erosion control or stormwater management projects to ensure environmental compliance.",
+    "mainText": "The city has released updated permit processes for erosion control and stormwater management to ensure new developments meet our environmental standards. Also, please be aware that asphalt repairs are scheduled for November 9 and 10 on streets including Morningside Boulevard and Mozart Street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-04",
-    "updateDate": "2026-11-04T07:04:25.941Z",
+    "updateDate": "2026-11-04T08:07:39.639Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this week in Verona. Today, enjoy live music at Paddy Mac's, yoga at Insight Wellness, or the Pizza and a Pitcher event at Lake Lou-ee. Looking ahead, head to The Bogey Factory tomorrow for trivia night, and check out ART House 360 for Thursday night fun.",
+    "mainText": "There is a busy schedule ahead for Verona. Today, you can enjoy Live Music at Paddy Mac's, Yoga at Insight Wellness, or the Wednesday Pizza and a Pitcher special at Wisconsin Brewing Company. Tomorrow, check out Trivia Night at The Bogey Factory, the ART House 360 Thursday night festivities, or Hop Haus Trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-04",
-    "updateDate": "2026-11-04T07:04:25.941Z",
+    "updateDate": "2026-11-04T08:07:39.639Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly police report, on October 21, officers were dispatched to a residence on Basswood Avenue for a witnessed cardiac arrest, where they successfully applied an A E D before the patient was transported to the hospital.",
+    "mainText": "In a notable incident from October 23, two 13-year-olds were cited for riding eMotos after previously being warned that they were prohibited on city streets.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-04",
-    "updateDate": "2026-11-04T07:04:25.941Z",
+    "updateDate": "2026-11-04T08:07:39.639Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You are in for a treat with today's flavor, which is Dark Chocolate PB Crunch. The store is currently closed, but you can head over when it opens today at 10:00 AM.",
+    "mainText": "You are going to love today's flavor, Dark Chocolate PB Crunch. The store opens today at 10:00 AM so you can satisfy your craving.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
