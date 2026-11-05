@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-05",
-    "updateDate": "2026-11-05T03:04:41.130Z",
+    "updateDate": "2026-11-05T04:04:39.380Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, conditions are 50 degrees with overcast skies at Fireman's Park. Looking ahead, the temperature will drop to an overnight low of 46 degrees, and we are expecting a dry night with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 10 PM, the temperature is 49 degrees under overcast skies near Harriet Park, with the waning crescent moon hidden above. The overnight low will reach 47 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-05",
-    "updateDate": "2026-11-05T03:04:41.130Z",
+    "updateDate": "2026-11-05T04:04:39.380Z",
     "titleText": "Verona City News",
-    "mainText": "The Public Works Department reminds residents that they handle maintenance for our streets and utilities, and you can keep up with their latest updates by subscribing to the city newsletter. Additionally, the city has updated its requirements for erosion control and stormwater management permits for any upcoming construction projects.",
+    "mainText": "The City of Verona is updating residents on the permit process for stormwater management and erosion control, requiring pre-application meetings for new projects. Additionally, we are welcoming EMS Deputy Chief Liz Gay to the city administration.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-05",
-    "updateDate": "2026-11-05T03:04:41.130Z",
+    "updateDate": "2026-11-05T04:04:39.380Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona! Today, you can enjoy live music at Paddy Mac's, yoga at Insight Wellness, or Wednesday pizza and a pitcher at Lake Lou-ee. Tomorrow, look forward to more fun with trivia at The Bogey Factory, ART House 360 events, or Hop Haus trivia.",
+    "mainText": "There is plenty to do this week, including live music at Paddy Mac's today, yoga at Insight Wellness today, and Trivia Night at The Bogey Factory tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-05",
-    "updateDate": "2026-11-05T03:04:41.130Z",
+    "updateDate": "2026-11-05T04:04:39.380Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from October 25, officers handled a situation at Plympton Street and Rita Avenue where they located a man passed out behind the wheel, which resulted in an arrest for O W I.",
+    "mainText": "Regarding the weekly report, on October 25, officers responded to the intersection of Plympton Street and Rita Avenue where they arrested a 40-year-old man for O W I after he was found unresponsive in his vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-05",
-    "updateDate": "2026-11-05T03:04:41.130Z",
+    "updateDate": "2026-11-05T04:04:39.380Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Dark Chocolate PB Crunch. The store is currently open but will be closing soon in 55 minutes, so be sure to get there quickly if you want a treat tonight.",
+    "mainText": "Culver's of Verona is currently closed for the night. Tomorrow, be sure to stop by when they open at 10:00 AM to enjoy the flavor of the day, which is Chocolate Covered Strawberry.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
