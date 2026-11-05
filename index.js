@@ -46,8 +46,10 @@ function fixPronunciations(text) {
     .replace(/\bOWI\b/gi, "O W I")
     .replace(/\btrishaws\b/gi, "tri-shaws")
     .replace(/\btrishaw\b/gi, "tri-shaw")
-    .replace(/\bLake Louie\b/gi, "Lake Lou-ee")
-    .replace(/\bLouie\b/gi, "Lou-ee")
+    .replace(/\bLake L(?:ouie|ouis|ooey)\b/gi, "Lake Louey")
+    .replace(/\bL(?:ouie|ooey)\b/gi, "Louey")
+    .replace(/\bArt[-\s]?house\s*360\b/gi, "Art-house Three-Sixty")
+    .replace(/\bArthouse\b/gi, "Art-house")
     .replace(/\boffenses\b/gi, "offences")
     .replace(/\boffense\b/gi, "offence");
 }
