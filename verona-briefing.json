@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-05",
-    "updateDate": "2026-11-05T00:10:57.551Z",
+    "updateDate": "2026-11-05T01:05:01.827Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. Over at Harriet Park, it is currently 50 degrees with overcast skies. The overnight low will be around 47 degrees, with rain unlikely. Tonight we have a Waning Crescent.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. Overcast skies cover the city with a current temperature of 49 degrees near Fireman's Park, feeling a bit cooler at 42. Under a waning crescent moon tonight, temperatures will fall to an overnight low of 47 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-05",
-    "updateDate": "2026-11-05T00:10:57.551Z",
+    "updateDate": "2026-11-05T01:05:01.827Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Public Works.",
+    "mainText": "In city news, Verona officially welcomed Liz Gay as the new EMS Deputy Chief of Administration this week. Additionally, Public Works announced that asphalt repair contractors will be milling and patching several city streets, including Nine Mound Road and Mozart Street, on November 9th and 10th.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-05",
-    "updateDate": "2026-11-05T00:10:57.551Z",
+    "updateDate": "2026-11-05T01:05:01.827Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Live Music at Paddy Mac's Today at Paddy Mac's.",
+    "mainText": "Local events featured today include live music at Paddy Mac's and Pizza and a Pitcher at Lake Lou-ee. Looking ahead to tomorrow, ART House 360 kicks off its Thursday night entertainment series in Verona.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-05",
-    "updateDate": "2026-11-05T00:10:57.551Z",
+    "updateDate": "2026-11-05T01:05:01.827Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "In the police recap, on Thursday, October 22nd, officers responded to a vehicle collision involving a Metro Bus on West Verona Avenue near Todd Street, where a driver was cited for failure to yield the right of way.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-05",
-    "updateDate": "2026-11-05T00:10:57.551Z",
+    "updateDate": "2026-11-05T01:05:01.827Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Dark Chocolate PB Crunch. The restaurant is open until 10:00 PM.",
+    "mainText": "Culver's is open tonight until 10:00 PM, featuring Dark Chocolate PB Crunch as today's Flavor of the Day. Tomorrow's featured flavor will be Chocolate Covered Strawberry.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
