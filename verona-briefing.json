@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-05",
-    "updateDate": "2026-11-05T06:06:29.171Z",
+    "updateDate": "2026-11-05T07:04:14.269Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: it is 48 degrees with overcast skies at Harriet Park and a waning crescent moon visible in the night sky.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: current temperatures are 48 degrees with a wind chill making it feel like 42 under overcast skies near Badger Ridge Middle School, all under a waning crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-05",
-    "updateDate": "2026-11-05T06:06:29.171Z",
+    "updateDate": "2026-11-05T07:04:14.269Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is reminding residents to subscribe to their digital newsletter for updates on local projects, while also noting that upcoming asphalt repair work is scheduled for November 9 and 10 on Nine Mound Road and surrounding areas.",
+    "mainText": "The city is staying busy with pavement repairs happening November 9 and 10 on Nine Mound Road, Morningside Boulevard, and Mozart Street. Also, the Public Works department is reminding residents to subscribe to their newsletter for important updates on street and utility work.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-05",
-    "updateDate": "2026-11-05T06:06:29.171Z",
+    "updateDate": "2026-11-05T07:04:14.269Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule ahead, with Yoga at Insight Wellness happening today, Hop Haus trivia on Thursday, and the Dane County Farmers' Market on Saturday.",
+    "mainText": "There is a lot going on in town, starting with Yoga at Insight Wellness and ART House 360 events today. Tomorrow, you can check out Hop Haus Trivia or live music at Bailey's Run Vineyard.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-05",
-    "updateDate": "2026-11-05T06:06:29.171Z",
+    "updateDate": "2026-11-05T07:04:14.269Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 25, officers arrested a 40-year-old Verona man for an O W I after he was found unresponsive in his vehicle.",
+    "mainText": "In a noteworthy call from October 25, officers arrested a 40-year-old Verona man for his first O W I offence after finding him passed out behind the wheel at Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-05",
-    "updateDate": "2026-11-05T06:06:29.171Z",
+    "updateDate": "2026-11-05T07:04:14.269Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Chocolate Covered Strawberry, and our local Culver's team will be ready to serve you when they open today at 10:00 AM.",
+    "mainText": "We are looking forward to a great day with Chocolate Covered Strawberry as the flavor of the day. Culver's opens today at 10:00 AM for all your cravings.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
