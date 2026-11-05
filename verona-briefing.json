@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-05",
-    "updateDate": "2026-11-05T21:04:13.466Z",
+    "updateDate": "2026-11-05T22:04:47.024Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish on the weather, which is currently 49 degrees and overcast near the Verona Area High School.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. We have overcast skies and a temperature of 49 degrees near Reddan Soccer Park, with a waning crescent moon visible tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-05",
-    "updateDate": "2026-11-05T21:04:13.466Z",
+    "updateDate": "2026-11-05T22:04:47.024Z",
     "titleText": "Verona City News",
-    "mainText": "There are no new city news articles or important emails to update you on this afternoon.",
+    "mainText": "We have no new city news or important emails to report at this time, so all remains quiet across our local departments.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-05",
-    "updateDate": "2026-11-05T21:04:13.466Z",
+    "updateDate": "2026-11-05T22:04:47.024Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a full schedule for you, starting with Yoga at Insight Wellness happening today and ART House 360 also taking place today.",
+    "mainText": "Looking at the calendar, we have Yoga at Insight Wellness happening today, plus ART House 360 is hosting their Thursday night event. Tomorrow, look out for live music at Bailey's Run and at the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-05",
-    "updateDate": "2026-11-05T21:04:13.466Z",
+    "updateDate": "2026-11-05T22:04:47.024Z",
     "titleText": "Verona Police Report",
-    "mainText": "There was no noteworthy police activity reported for this week.",
+    "mainText": "In our weekly look at local public safety, there are no specific incidents or reports to share for this week.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-05",
-    "updateDate": "2026-11-05T21:04:13.466Z",
+    "updateDate": "2026-11-05T22:04:47.024Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor at Culver's is Chocolate Covered Strawberry, and they are open and serving until 10 PM tonight.",
+    "mainText": "Today's flavor of the day is Chocolate Covered Strawberry. The store is currently open and will remain open until 10:00 PM, so stop by whenever you are ready.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
