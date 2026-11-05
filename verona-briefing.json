@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-05",
-    "updateDate": "2026-11-05T02:09:55.661Z",
+    "updateDate": "2026-11-05T03:04:41.130Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: we have overcast skies at Harriet Park and a waning crescent moon phase. The temperature is 49 degrees, and we anticipate an overnight low of 46 degrees with rain in the forecast.",
+    "mainText": "Hello, Verona! At 9 PM, conditions are 50 degrees with overcast skies at Fireman's Park. Looking ahead, the temperature will drop to an overnight low of 46 degrees, and we are expecting a dry night with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-05",
-    "updateDate": "2026-11-05T02:09:55.661Z",
+    "updateDate": "2026-11-05T03:04:41.130Z",
     "titleText": "Verona City News",
-    "mainText": "City officials are busy with asphalt repairs scheduled for November 9 and 10 on North Nine Mound Road, Morningside Boulevard, and Mozart Street. Also, the Public Works Department encourages residents to subscribe to the City of Verona digital newsletter to stay informed on local projects and programs.",
+    "mainText": "The Public Works Department reminds residents that they handle maintenance for our streets and utilities, and you can keep up with their latest updates by subscribing to the city newsletter. Additionally, the city has updated its requirements for erosion control and stormwater management permits for any upcoming construction projects.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-05",
-    "updateDate": "2026-11-05T02:09:55.661Z",
+    "updateDate": "2026-11-05T03:04:41.130Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with Live Music at Paddy Mac's, Yoga at Insight Wellness, and Wednesday Pizza and a Pitcher at Lake Lou-ee, all taking place today. Looking ahead, you can enjoy Trivia Night at The Bogey Factory tomorrow.",
+    "mainText": "There is plenty to do in Verona! Today, you can enjoy live music at Paddy Mac's, yoga at Insight Wellness, or Wednesday pizza and a pitcher at Lake Lou-ee. Tomorrow, look forward to more fun with trivia at The Bogey Factory, ART House 360 events, or Hop Haus trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-05",
-    "updateDate": "2026-11-05T02:09:55.661Z",
+    "updateDate": "2026-11-05T03:04:41.130Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 25, the Verona Police Department responded to a report of a vehicle stopped at the intersection of Plympton Street and Rita Avenue, resulting in the arrest of a 40-year-old man for O W I.",
+    "mainText": "In a report from October 25, officers handled a situation at Plympton Street and Rita Avenue where they located a man passed out behind the wheel, which resulted in an arrest for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-05",
-    "updateDate": "2026-11-05T02:09:55.661Z",
+    "updateDate": "2026-11-05T03:04:41.130Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Dark Chocolate PB Crunch. The store is currently open and will be serving customers until 10:00 PM, so there is still plenty of time to stop by for a treat.",
+    "mainText": "Today's flavor of the day is Dark Chocolate PB Crunch. The store is currently open but will be closing soon in 55 minutes, so be sure to get there quickly if you want a treat tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
