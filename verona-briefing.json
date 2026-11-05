@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-05",
-    "updateDate": "2026-11-05T14:04:20.002Z",
+    "updateDate": "2026-11-05T15:04:10.858Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, we are seeing overcast skies with a temperature of 48 degrees out at Reddan Soccer Park.",
+    "mainText": "Hello, Verona! At 9 AM, it is 49 degrees with overcast skies near the Verona Public Library.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-05",
-    "updateDate": "2026-11-05T14:04:20.002Z",
+    "updateDate": "2026-11-05T15:04:10.858Z",
     "titleText": "Verona City News",
-    "mainText": "Public Works reminds residents to check the city newsletter for updates, and please be aware that asphalt milling and paving will take place on November 9 and 10.",
+    "mainText": "The city is reminding residents about upcoming pavement repairs scheduled for November 9 and 10, which will involve milling and paving on streets including Nine Mound Road, Morningside Boulevard, and Mozart Street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-05",
-    "updateDate": "2026-11-05T14:04:20.002Z",
+    "updateDate": "2026-11-05T15:04:10.858Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do today, including yoga at Insight Wellness and Thursday night events at ART House 360, plus don't forget trivia at Hop Haus tomorrow.",
+    "mainText": "We have a busy schedule ahead with Yoga at Insight Wellness happening today, ART House 360 events tonight, and Hop Haus Trivia coming up tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-05",
-    "updateDate": "2026-11-05T14:04:20.002Z",
+    "updateDate": "2026-11-05T15:04:10.858Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 25, officers located a 40-year-old man behind the wheel at an intersection and subsequently arrested him for O W I.",
+    "mainText": "On October 25, officers responded to a report of a vehicle stopped at an intersection where they arrested a 40-year-old man for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-05",
-    "updateDate": "2026-11-05T14:04:20.002Z",
+    "updateDate": "2026-11-05T15:04:10.858Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Chocolate Covered Strawberry, and you can pick up a scoop when the store opens today at 10:00 AM.",
+    "mainText": "Today's delicious flavor of the day is Mint Explosion, and the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
