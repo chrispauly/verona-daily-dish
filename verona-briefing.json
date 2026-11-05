@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-05",
-    "updateDate": "2026-11-05T22:04:47.024Z",
+    "updateDate": "2026-11-05T23:03:53.088Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. We have overcast skies and a temperature of 49 degrees near Reddan Soccer Park, with a waning crescent moon visible tonight.",
+    "mainText": "Hello, Verona! At 5 PM, conditions at the Military Ridge State Trail are overcast with a temperature of 47 degrees. Tonight, the moon is in a waning crescent phase, the overnight low will be 33 degrees, and there is no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-05",
-    "updateDate": "2026-11-05T22:04:47.024Z",
+    "updateDate": "2026-11-05T23:03:53.088Z",
     "titleText": "Verona City News",
-    "mainText": "We have no new city news or important emails to report at this time, so all remains quiet across our local departments.",
+    "mainText": "The Plan Commission will review a site plan for Sub-Zero at Liberty Business Park on December 7th. Additionally, the city continues to provide ongoing engineering reports from AECOM and keeps residents updated on public works through their digital newsletter.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-05",
-    "updateDate": "2026-11-05T22:04:47.024Z",
+    "updateDate": "2026-11-05T23:03:53.088Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at the calendar, we have Yoga at Insight Wellness happening today, plus ART House 360 is hosting their Thursday night event. Tomorrow, look out for live music at Bailey's Run and at the Wisconsin Brewing Company.",
+    "mainText": "Enjoy your week with Yoga at Insight Wellness happening today, followed by Hop Haus trivia tonight, and live music at Bailey's Run tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-05",
-    "updateDate": "2026-11-05T22:04:47.024Z",
+    "updateDate": "2026-11-05T23:03:53.088Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly look at local public safety, there are no specific incidents or reports to share for this week.",
+    "mainText": "On October 23rd, police cited the parents of two juveniles who were caught riding prohibited eMotos on Ashton Drive after previously receiving warnings.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-05",
-    "updateDate": "2026-11-05T22:04:47.024Z",
+    "updateDate": "2026-11-05T23:03:53.088Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Chocolate Covered Strawberry. The store is currently open and will remain open until 10:00 PM, so stop by whenever you are ready.",
+    "mainText": "Enjoy a scoop of today's Flavor of the Day, Chocolate Covered Strawberry. We are open until 10 PM tonight, so stop by and grab a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
