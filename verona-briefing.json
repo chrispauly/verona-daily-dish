@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-06",
-    "updateDate": "2026-11-06T11:03:45.411Z",
+    "updateDate": "2026-11-06T12:06:19.652Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish. We are looking at a chilly 33 degrees at Harriet Park under clear skies with a Waning Crescent moon visible.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish. It is a clear 32 degrees at Fireman's Park under a Waning Crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-06",
-    "updateDate": "2026-11-06T11:03:45.411Z",
+    "updateDate": "2026-11-06T12:06:19.652Z",
     "titleText": "Verona City News",
-    "mainText": "The Plan Commission meets this Monday to discuss several pending projects, including a site plan and conditional use permit for Sub-Zero in the Liberty Business Park. Additionally, the city is consistently updating engineering reports through AECOM to ensure our infrastructure remains in top shape.",
+    "mainText": "The city is busy with updates as the Plan Commission prepares for their meeting on Monday to discuss project plans for the Liberty Business Park, while Public Works continues to manage street and utility maintenance across the city.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-06",
-    "updateDate": "2026-11-06T11:03:45.411Z",
+    "updateDate": "2026-11-06T12:06:19.652Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our area, starting with Live Music at Bailey's Run today. Tomorrow, you can head over to the Dane County Farmers Market at the Capitol Square.",
+    "mainText": "There is plenty to do in town with live music at Bailey's Run today, music at Lake Lou-ee and Paddy Mac's tomorrow, and the Dane County Farmers Market on the Square tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-06",
-    "updateDate": "2026-11-06T11:03:45.411Z",
+    "updateDate": "2026-11-06T12:06:19.652Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable call from the past week, on Sunday, October 19, officers took a 49-year-old man into custody during a traffic stop for a suspended license and an outstanding warrant.",
+    "mainText": "In a notable call for service on October 19, a 49-year-old Verona man was taken into custody on an active arrest warrant after being stopped for driving with a suspended license.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-06",
-    "updateDate": "2026-11-06T11:03:45.411Z",
+    "updateDate": "2026-11-06T12:06:19.652Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Chocolate Volcano, which is always a local favorite. The store opens today at 10:00 AM, so be sure to stop by and satisfy your cravings.",
+    "mainText": "Today's flavor of the day is the rich Chocolate Volcano. The store is closed right now but opens today at 10:00 AM for your enjoyment.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
