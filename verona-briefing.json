@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-06",
-    "updateDate": "2026-11-06T14:04:18.617Z",
+    "updateDate": "2026-11-06T15:03:57.599Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we are seeing clear skies and 34 degrees out near Badger Prairie County Park with a Waning Crescent moon phase visible.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: it is 36 degrees under clear skies at Reddan Soccer Park with a waning crescent moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-06",
-    "updateDate": "2026-11-06T14:04:18.617Z",
+    "updateDate": "2026-11-06T15:03:57.599Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is reviewing several pending projects, including a site plan and traffic impact analysis for Sub-Zero at Liberty Business Park, which will be discussed at the December 7th Plan Commission meeting.",
+    "mainText": "Pavement repairs are planned for November 10 and 11 across several local streets, so please watch for no parking signs between 7 AM and 7 PM. Additionally, the Plan Commission is meeting on December 7 to discuss pending projects like the Sub-Zero expansion at Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-06",
-    "updateDate": "2026-11-06T14:04:18.617Z",
+    "updateDate": "2026-11-06T15:03:57.599Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule with live music at Bailey's Run Vineyard happening today, followed by music at Lake Lou-ee and Paddy Mac's tomorrow, and the Dane County Farmer's Market taking over the Capitol Square tomorrow as well.",
+    "mainText": "We have a packed schedule with live music at Bailey's Run Vineyard today, and tomorrow brings the Dane County Farmers Market at the Capitol along with live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-06",
-    "updateDate": "2026-11-06T14:04:18.617Z",
+    "updateDate": "2026-11-06T15:03:57.599Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from the Verona Police Department, officers responded to a call on October 25th where a man was arrested for his first O W I offence after being found behind the wheel at an intersection.",
+    "mainText": "On October 23, officers made contact with two juveniles riding eMotos on Ashton Drive and their parents were cited for permitting a minor to drive a motor vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-06",
-    "updateDate": "2026-11-06T14:04:18.617Z",
+    "updateDate": "2026-11-06T15:03:57.599Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "It is a great day to grab a scoop, and our local Culver's will be opening today at 10:00 AM with the delicious Chocolate Volcano flavor of the day.",
+    "mainText": "Today's flavor is the delightful Chocolate Volcano. Culver's opens today at 10:00 AM, so be sure to stop by and satisfy your craving.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
