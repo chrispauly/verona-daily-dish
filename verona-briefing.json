@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-06",
-    "updateDate": "2026-11-06T06:07:13.318Z",
+    "updateDate": "2026-11-06T07:04:15.340Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, conditions are clear at Verona City Hall under a waning crescent moon.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we are seeing 36 degrees under clear skies at Badger Ridge Middle School with a waning crescent moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-06",
-    "updateDate": "2026-11-06T06:07:13.318Z",
+    "updateDate": "2026-11-06T07:04:15.340Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Plan Commission has a meeting scheduled for December 7th to discuss site plans for Sub-Zero at Liberty Business Park, while the Public Works department reminds residents to subscribe to their newsletter for updates on street maintenance and utility projects.",
+    "mainText": "The Verona Plan Commission is holding a meeting on December 7th to discuss several development projects, including the site plan, survey map, and lighting plans for the Sub-Zero project at Liberty Business Park. Additionally, residents are encouraged to stay updated on city programs by subscribing to the official digital newsletter.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-06",
-    "updateDate": "2026-11-06T06:07:13.318Z",
+    "updateDate": "2026-11-06T07:04:15.340Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You can catch live music at Bailey's Run Vineyard today, followed by the Dane County Farmers' Market and live music at Paddy Mac's tomorrow.",
+    "mainText": "We have a great lineup of local entertainment. Live Music at Bailey's Run is happening today. Tomorrow, you can visit the Dane County Farmer's Market at the Capitol Square or catch the music series at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-06",
-    "updateDate": "2026-11-06T06:07:13.318Z",
+    "updateDate": "2026-11-06T07:04:15.340Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 25th, local law enforcement responded to a report of a vehicle stationary for over 20 minutes, leading to the arrest of a 40-year-old man for O W I.",
+    "mainText": "In our weekly look at noteworthy calls, police reported that on October 25th, officers arrested a 40-year-old man for O W I after he was found unresponsive in his vehicle at the intersection of Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-06",
-    "updateDate": "2026-11-06T06:07:13.318Z",
+    "updateDate": "2026-11-06T07:04:15.340Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We are looking forward to a great treat today, and you can head over when the doors open today at 10:00 AM to enjoy the flavor of the day.",
+    "mainText": "It is going to be a sweet day. Culver's opens today at 10:00 AM, and you can stop by to enjoy the Chocolate Volcano flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
