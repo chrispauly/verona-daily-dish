@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-06",
-    "updateDate": "2026-11-06T00:11:10.329Z",
+    "updateDate": "2026-11-06T01:04:36.416Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: it is 46 degrees with overcast skies at Badger Prairie County Park. Expect the temperature to dip to an overnight low of 34 degrees with no rain in the forecast, under a waning crescent moon.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: we are looking at 45 degree temperatures with overcast skies near Harriet Park and a Waning Crescent moon phase. The overnight low will drop to 33 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-06",
-    "updateDate": "2026-11-06T00:11:10.329Z",
+    "updateDate": "2026-11-06T01:04:36.416Z",
     "titleText": "Verona City News",
-    "mainText": "There are no new city news articles or important emails to share with you today, as everything remains quiet across our local departments.",
+    "mainText": "We have no breaking city news or urgent emails to share with you this evening, keeping your inbox clear.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-06",
-    "updateDate": "2026-11-06T00:11:10.329Z",
+    "updateDate": "2026-11-06T01:04:36.416Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community today, including Yoga at Insight Wellness, the ART House 360 event, and Hop Haus Trivia. Looking ahead to tomorrow, you can catch live music at Bailey's Run Vineyard and the Wisconsin Brewing Company.",
+    "mainText": "There is plenty to do in our community today, starting with Yoga at Insight Wellness or the Thursday night festivities at ART House 360. Looking ahead, you can enjoy trivia at Hop Haus Brewing Company tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-06",
-    "updateDate": "2026-11-06T00:11:10.329Z",
+    "updateDate": "2026-11-06T01:04:36.416Z",
     "titleText": "Verona Police Report",
-    "mainText": "There are no incidents or activity reports provided by the Verona Police Department for this week.",
+    "mainText": "There was no police department report filed for this week, so our streets remain calm.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-06",
-    "updateDate": "2026-11-06T00:11:10.329Z",
+    "updateDate": "2026-11-06T01:04:36.416Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Chocolate Covered Strawberry. The store is currently open and serving until 10 PM tonight, so stop by and enjoy a scoop.",
+    "mainText": "Stop by Culver's today to enjoy the Chocolate Covered Strawberry flavor of the day. They remain open until 10:00 PM, so there is still time to grab a scoop before they close for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
