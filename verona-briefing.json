@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-06",
-    "updateDate": "2026-11-06T03:04:48.587Z",
+    "updateDate": "2026-11-06T04:04:33.634Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. We have overcast skies at Verona City Hall under a waning crescent moon. Temperatures will drop to an overnight low of 33 degrees, and we are not expecting any rain tonight.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: current temperatures are 41 degrees under overcast skies near Verona Community Park, with a waning crescent moon visible. Tonight's low will hit 33 degrees and we are not expecting any rain.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-06",
-    "updateDate": "2026-11-06T03:04:48.587Z",
+    "updateDate": "2026-11-06T04:04:33.634Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Plan Commission is set to discuss the Liberty Business Park project this Monday. Additionally, the Public Works department is reminding everyone they can stay informed on city infrastructure by subscribing to the official digital newsletter.",
+    "mainText": "The Plan Commission meets December 7th to discuss new projects, including the Sub-Zero expansion at Liberty Business Park. Meanwhile, the city continues to update engineering reports and reminds everyone to subscribe to the digital newsletter for all municipal news.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-06",
-    "updateDate": "2026-11-06T03:04:48.587Z",
+    "updateDate": "2026-11-06T04:04:33.634Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty going on in town. Today features Yoga at Insight Wellness and Thursday night fun at ART House 360. Tomorrow, you can enjoy live music at Bailey's Run Vineyard.",
+    "mainText": "There is plenty to do, with yoga happening today and ART House 360 opening its doors today as well. Looking ahead, you can catch Hop Haus Trivia tomorrow, plus live music at Bailey's Run Vineyard and Lake Lou-ee both tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-06",
-    "updateDate": "2026-11-06T03:04:48.587Z",
+    "updateDate": "2026-11-06T04:04:33.634Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 25, Verona police officers conducted a welfare check at an intersection which led to the arrest of a 40-year-old Verona man for O W I.",
+    "mainText": "Regarding the latest police report, on October 25th, officers conducted an O W I arrest after discovering an individual unresponsive in a vehicle at the intersection of Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-06",
-    "updateDate": "2026-11-06T03:04:48.587Z",
+    "updateDate": "2026-11-06T04:04:33.634Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Chocolate Covered Strawberry. The store is currently open but will be closing soon in 55 minutes, so there is still time to grab a scoop before the doors lock at 10 PM.",
+    "mainText": "Since Culver's is closed for the evening, today's flavor of the day is done for now. Be sure to stop by tomorrow morning starting at 10:00 AM to enjoy the Chocolate Volcano flavor.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
