@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-06",
-    "updateDate": "2026-11-06T12:06:19.652Z",
+    "updateDate": "2026-11-06T13:04:08.358Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish. It is a clear 32 degrees at Fireman's Park under a Waning Crescent moon.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. It is a clear and cold 32 degrees, though it feels like 24 out by the Verona Area High School. We have a waning crescent moon lighting the sky this morning.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-06",
-    "updateDate": "2026-11-06T12:06:19.652Z",
+    "updateDate": "2026-11-06T13:04:08.358Z",
     "titleText": "Verona City News",
-    "mainText": "The city is busy with updates as the Plan Commission prepares for their meeting on Monday to discuss project plans for the Liberty Business Park, while Public Works continues to manage street and utility maintenance across the city.",
+    "mainText": "The Plan Commission is meeting this Monday to discuss site plans and architectural designs for the Sub-Zero project at Liberty Business Park. Also, the Public Works Department continues to manage our city infrastructure and encourages residents to subscribe to their digital newsletter for updates.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-06",
-    "updateDate": "2026-11-06T12:06:19.652Z",
+    "updateDate": "2026-11-06T13:04:08.358Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town with live music at Bailey's Run today, music at Lake Lou-ee and Paddy Mac's tomorrow, and the Dane County Farmers Market on the Square tomorrow.",
+    "mainText": "There is plenty to do this week, starting with live music today at Bailey's Run Vineyard. Tomorrow, you can head downtown for the Dane County Farmers Market or catch live music at Paddy Mac's. Looking ahead, mark your calendars for trivia night starting next week at Hop Haus, Lake Lou-ee, and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-06",
-    "updateDate": "2026-11-06T12:06:19.652Z",
+    "updateDate": "2026-11-06T13:04:08.358Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable call for service on October 19, a 49-year-old Verona man was taken into custody on an active arrest warrant after being stopped for driving with a suspended license.",
+    "mainText": "In a notable call from our police department, officers responded early on Saturday, October 25, to an intersection where a driver was found to be operating while intoxicated, leading to an arrest for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-06",
-    "updateDate": "2026-11-06T12:06:19.652Z",
+    "updateDate": "2026-11-06T13:04:08.358Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the rich Chocolate Volcano. The store is closed right now but opens today at 10:00 AM for your enjoyment.",
+    "mainText": "Today's delicious flavor is Chocolate Volcano. The store is currently closed, but they open today at 10:00 AM, so make sure to stop by and satisfy that craving.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
