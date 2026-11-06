@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-06",
-    "updateDate": "2026-11-06T01:04:36.416Z",
+    "updateDate": "2026-11-06T02:05:49.782Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: we are looking at 45 degree temperatures with overcast skies near Harriet Park and a Waning Crescent moon phase. The overnight low will drop to 33 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: we have overcast skies and 44-degree temperatures over Badger Prairie County Park. The moon is in a waning crescent phase, and we expect an overnight low of 33 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-06",
-    "updateDate": "2026-11-06T01:04:36.416Z",
+    "updateDate": "2026-11-06T02:05:49.782Z",
     "titleText": "Verona City News",
-    "mainText": "We have no breaking city news or urgent emails to share with you this evening, keeping your inbox clear.",
+    "mainText": "In city news, the Plan Commission is set to review projects at the Liberty Business Park on December 7th. Additionally, the City of Verona continues to coordinate with AECOM for ongoing engineering services, while the Public Works Department remains busy with routine maintenance of our streets and utilities.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-06",
-    "updateDate": "2026-11-06T01:04:36.416Z",
+    "updateDate": "2026-11-06T02:05:49.782Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community today, starting with Yoga at Insight Wellness or the Thursday night festivities at ART House 360. Looking ahead, you can enjoy trivia at Hop Haus Brewing Company tomorrow.",
+    "mainText": "We have a busy schedule ahead. Today features Yoga at Insight Wellness. Looking toward tomorrow, you can catch live music at Bailey's Run or head to the Capitol Square for the Dane County Farmer's Market.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-06",
-    "updateDate": "2026-11-06T01:04:36.416Z",
+    "updateDate": "2026-11-06T02:05:49.782Z",
     "titleText": "Verona Police Report",
-    "mainText": "There was no police department report filed for this week, so our streets remain calm.",
+    "mainText": "In a noteworthy call from our weekly report, on October 25, officers arrested a 40-year-old local man for O W I after he was discovered asleep behind the wheel at an intersection.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-06",
-    "updateDate": "2026-11-06T01:04:36.416Z",
+    "updateDate": "2026-11-06T02:05:49.782Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's today to enjoy the Chocolate Covered Strawberry flavor of the day. They remain open until 10:00 PM, so there is still time to grab a scoop before they close for the night.",
+    "mainText": "Today's flavor at Culver's is the delicious Chocolate Covered Strawberry. The store is currently open, so stop by before they close at 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
