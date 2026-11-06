@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-06",
-    "updateDate": "2026-11-06T17:03:56.386Z",
+    "updateDate": "2026-11-06T18:06:19.692Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we have mainly clear skies at Badger Prairie County Park and a temperature of 40 degrees.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish. We have clear skies at Verona City Hall and the moon is in a waning crescent phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-06",
-    "updateDate": "2026-11-06T17:03:56.386Z",
+    "updateDate": "2026-11-06T18:06:19.692Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that asphalt repair work will take place on November 10 and 11, affecting areas like Nine Mound Road and Morningside Boulevard, where no parking will be enforced from 7 AM to 7 PM.",
+    "mainText": "The city has announced pavement repairs on N Nine Mound Road, Morningside Boulevard, and Mozart Street for November 10 and 11, and the Plan Commission will meet December 7 to review development projects.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-06",
-    "updateDate": "2026-11-06T17:03:56.386Z",
+    "updateDate": "2026-11-06T18:06:19.692Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community, starting with live music today at Bailey's Run, followed by the Dane County Farmers Market tomorrow and trivia events next week.",
+    "mainText": "We have a busy schedule with live music at Bailey's Run Vineyard today, followed by events at Lake Lou-ee and the Dane County Farmers Market happening tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-06",
-    "updateDate": "2026-11-06T17:03:56.386Z",
+    "updateDate": "2026-11-06T18:06:19.692Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call, the Verona Police Department arrested a 40-year-old man for O W I on October 25 after he was found unresponsive in his vehicle at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "In police news, officers responded on October 25 to a report of a vehicle stationary in an intersection, resulting in an arrest for operating while intoxicated, or O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-06",
-    "updateDate": "2026-11-06T17:03:56.386Z",
+    "updateDate": "2026-11-06T18:06:19.692Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Satisfy your sweet tooth with today's flavor of the day, Caramel Fudge Cookie Dough; the restaurant is currently open and will remain so until 11:00 PM tonight.",
+    "mainText": "Today's flavor of the day at Culver's is Chocolate Volcano, and since the store is open until 10:30 PM tonight, there is plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
