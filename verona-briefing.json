@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-07",
-    "updateDate": "2026-11-07T21:03:17.681Z",
+    "updateDate": "2026-11-07T22:03:59.517Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: skies are clear over Harriet Park with a temperature of 50 degrees, though it feels like 42 degrees outside.",
+    "mainText": "Hello, Verona! At 4 PM, conditions at Verona Community Park are clear with a temperature of 47 degrees, though it feels a bit cooler at 40 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-07",
-    "updateDate": "2026-11-07T21:03:17.681Z",
+    "updateDate": "2026-11-07T22:03:59.517Z",
     "titleText": "Verona City News",
-    "mainText": "Public works has announced asphalt repairs starting November 10 near Nine Mound Road and Mozart Street, while the plan commission is reviewing development projects including Sub-Zero at Liberty Business Park on December 7.",
+    "mainText": "There is no new city news or important email communication to share with residents at this time.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-07",
-    "updateDate": "2026-11-07T21:03:17.681Z",
+    "updateDate": "2026-11-07T22:03:59.517Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can head to the Dane County Farmer's Market or catch live music at Bailey's Run and Paddy Mac's, with more events like trivia and yoga scheduled throughout the coming week.",
+    "mainText": "There is plenty to do this weekend, starting with the Dane County Farmers Market happening today. You can also catch live music at Baileys Run today or check out Paddy Macs for their music series, also happening today.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-07",
-    "updateDate": "2026-11-07T21:03:17.681Z",
+    "updateDate": "2026-11-07T22:03:59.517Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local activity, on October 25, a driver was arrested for O W I after being found stopped at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "The Verona Police Department has not released any incident reports for this week.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-07",
-    "updateDate": "2026-11-07T21:03:17.681Z",
+    "updateDate": "2026-11-07T22:03:59.517Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day to enjoy the Really Reese's flavor at Culver's, and since they are open until 10:30 PM, you have plenty of time to stop by for a scoop.",
+    "mainText": "Make sure to stop by Culver's to enjoy the Really Reese's flavor of the day while they are open until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
