@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-07",
-    "updateDate": "2026-11-07T04:04:28.145Z",
+    "updateDate": "2026-11-07T05:03:56.628Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. It is a clear 33 degrees down at Fireman's Park under a waning crescent moon. The temperature will drop to an overnight low of 32 degrees, and there is no rain expected overnight.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: it is 32 degrees with clear skies observed at Verona Area High School. We are currently under a waning crescent moon phase, and with no rain expected overnight, temperatures will reach a low of 31 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-07",
-    "updateDate": "2026-11-07T04:04:28.145Z",
+    "updateDate": "2026-11-07T05:03:56.628Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced pavement repairs starting this Tuesday, November 10, and continuing through Wednesday, November 11. Crews will be milling and patching streets including North Nine Mound Road and Morningside Boulevard, with no parking allowed from 7 AM to 7 PM.",
+    "mainText": "Public works officials have announced that pavement repairs are scheduled for November 10 and 11. Crews will be milling and patching several streets, including Morningside Boulevard and Mozart Street, so please watch for temporary parking restrictions from 7 AM to 7 PM.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-07",
-    "updateDate": "2026-11-07T04:04:28.145Z",
+    "updateDate": "2026-11-07T05:03:56.628Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a full slate of local events coming up, including live music at Bailey's Run today and at Lake Lou-ee tomorrow. You can also visit the Dane County Farmers' Market tomorrow at the Capitol Square or check out Yoga at Insight Wellness this Sunday.",
+    "mainText": "Looking ahead, tomorrow features the Dane County Farmers Market as well as live music at Bailey's Run and Paddy Mac's. Looking further into next week, you can join us for trivia on November 11 at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-07",
-    "updateDate": "2026-11-07T04:04:28.145Z",
+    "updateDate": "2026-11-07T05:03:56.628Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report regarding noteworthy calls from last month, on October 25, officers responded to a vehicle stopped at the intersection of Plympton Street and Rita Avenue. A man was taken into custody for an O W I offence.",
+    "mainText": "In a recent report, officers handled a variety of calls including one on October 25 where a man was arrested for O W I after being located at the intersection of Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-07",
-    "updateDate": "2026-11-07T04:04:28.145Z",
+    "updateDate": "2026-11-07T05:03:56.628Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day at Culver's is the delicious Chocolate Volcano. The store is currently open but will be closing soon in 26 minutes, so head over now if you want to grab a scoop before they shut down for the night.",
+    "mainText": "Today was a treat with the Chocolate Volcano flavor, but since we are closed for the night, we look forward to serving you the Andes Mint Avalanche when we open tomorrow at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
