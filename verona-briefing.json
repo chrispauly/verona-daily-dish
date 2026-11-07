@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-07",
-    "updateDate": "2026-11-07T02:06:41.510Z",
+    "updateDate": "2026-11-07T03:04:15.436Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, temperatures are sitting at 36 degrees with clear skies over Fireman's Park and a Waning Crescent moon visible. The overnight low will be 32 degrees, and there is no rain expected overnight.",
+    "mainText": "Hello, Verona! At 9 PM, we are looking at clear conditions near City Hall under a waning crescent moon. Temperatures will drop to an overnight low of 32 degrees, and happily, there is no rain expected overnight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-07",
-    "updateDate": "2026-11-07T02:06:41.510Z",
+    "updateDate": "2026-11-07T03:04:15.436Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced pavement repairs for November 10 and 11, affecting areas like North Nine Mound Road and Morningside Boulevard. Additionally, the Plan Commission will review development projects for the Liberty Business Park on December 7.",
+    "mainText": "The city announced that pavement repairs will take place on November 10 and 11, affecting streets like North Nine Mound Road and Morningside Boulevard. Please note that no parking will be allowed from 7 AM to 7 PM while crews complete this work.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-07",
-    "updateDate": "2026-11-07T02:06:41.510Z",
+    "updateDate": "2026-11-07T03:04:15.436Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to enjoy in town, starting with live music at Bailey's Run today. Looking ahead to tomorrow, check out the Dane County Farmers' Market at the Capitol or catch live music at Paddy Mac's.",
+    "mainText": "There is plenty to do in our community. Catch live music at Bailey's Run Vineyard today, visit the Dane County Farmer's Market tomorrow, or join trivia at Paddy Mac's on November 11.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-07",
-    "updateDate": "2026-11-07T02:06:41.510Z",
+    "updateDate": "2026-11-07T03:04:15.436Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering October 18 through October 24, officers responded to a variety of calls, including a traffic stop on October 25 where a driver was arrested for O W I.",
+    "mainText": "Regarding local safety, on Sunday, October 25, police responded to a report of a vehicle stopped in an intersection, resulting in an O W I arrest for a 40-year-old Verona man.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-07",
-    "updateDate": "2026-11-07T02:06:41.510Z",
+    "updateDate": "2026-11-07T03:04:15.436Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor is the delicious Chocolate Volcano. The restaurant is currently open and will be serving up treats until 10:30 PM tonight.",
+    "mainText": "You can enjoy today's delicious flavor of the day, Chocolate Volcano. The Verona Culver's is open until 10:30 PM tonight, so there is still plenty of time to stop by for a sweet treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
