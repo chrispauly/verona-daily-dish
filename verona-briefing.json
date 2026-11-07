@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-07",
-    "updateDate": "2026-11-07T07:03:50.692Z",
+    "updateDate": "2026-11-07T08:05:40.304Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: expect 32 degree temperatures at Reddan Soccer Park, feeling like 26 under a waning crescent moon.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish. It is currently 31 degrees with clear skies outside Verona City Hall, feeling like 25 degrees under a waning crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-07",
-    "updateDate": "2026-11-07T07:03:50.692Z",
+    "updateDate": "2026-11-07T08:05:40.304Z",
     "titleText": "Verona City News",
-    "mainText": "The city is gearing up for pavement repairs on November 10 and 11, affecting areas like North Nine Mound Road and Morningside Boulevard, so please note the no-parking signs from 7 AM to 7 PM.",
+    "mainText": "There are no new city news articles or email announcements to report at this time.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-07",
-    "updateDate": "2026-11-07T07:03:50.692Z",
+    "updateDate": "2026-11-07T08:05:40.304Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with the Dane County Farmers Market today, live music at Bailey's Run Vineyard and Paddy Mac's today, plus trivia events scheduled for November 11 and 12.",
+    "mainText": "Looking at events, you can visit the Dane County Farmers Market today on the Capitol Square, or enjoy live music today at Baileys Run Vineyard and Paddy Macs. Looking ahead to next week, trivia nights return to Hop Haus brewing and Lake Lou-ee on Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-07",
-    "updateDate": "2026-11-07T07:03:50.692Z",
+    "updateDate": "2026-11-07T08:05:40.304Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident on October 25, Verona police arrested a 40-year-old man for O W I after he was discovered unresponsive in his vehicle at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "The Verona Police Department has not released a weekly recap today, reflecting a quiet period across the city.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-07",
-    "updateDate": "2026-11-07T07:03:50.692Z",
+    "updateDate": "2026-11-07T08:05:40.304Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Andes Mint Avalanche. The store is currently closed, but will open today at 10:00 AM.",
+    "mainText": "Culvers opens today at 10:00 AM, and today's featured flavor of the day is Andes Mint Avalanche.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
