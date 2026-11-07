@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-07",
-    "updateDate": "2026-11-07T08:05:40.304Z",
+    "updateDate": "2026-11-07T09:03:55.664Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish. It is currently 31 degrees with clear skies outside Verona City Hall, feeling like 25 degrees under a waning crescent moon.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: it is a clear 31 degrees at Fireman's Park, with a waning crescent moon visible in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-07",
-    "updateDate": "2026-11-07T08:05:40.304Z",
+    "updateDate": "2026-11-07T09:03:55.664Z",
     "titleText": "Verona City News",
-    "mainText": "There are no new city news articles or email announcements to report at this time.",
+    "mainText": "Regarding city updates, road crews will be performing asphalt repairs on November 10 and 11, which will affect parking on several streets including North Nine Mound Road and Morningside Boulevard from 7 AM to 7 PM. Additionally, the Plan Commission is set to review various development projects, including the Sub-Zero expansion at Liberty Business Park, during their meeting on December 7.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-07",
-    "updateDate": "2026-11-07T08:05:40.304Z",
+    "updateDate": "2026-11-07T09:03:55.664Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at events, you can visit the Dane County Farmers Market today on the Capitol Square, or enjoy live music today at Baileys Run Vineyard and Paddy Macs. Looking ahead to next week, trivia nights return to Hop Haus brewing and Lake Lou-ee on Tuesday.",
+    "mainText": "We have a busy schedule ahead, starting with the Dane County Farmer's Market today. You can also catch live music at Bailey's Run and Paddy Mac's today, followed by live music at the Wisconsin Brewing Company tomorrow and yoga at Insight Wellness on November 9.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-07",
-    "updateDate": "2026-11-07T08:05:40.304Z",
+    "updateDate": "2026-11-07T09:03:55.664Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department has not released a weekly recap today, reflecting a quiet period across the city.",
+    "mainText": "Looking at the latest police report, officers responded on October 25 to a report of a vehicle stopped at the intersection of Plympton Street and Rita Avenue, where a man was taken into custody for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-07",
-    "updateDate": "2026-11-07T08:05:40.304Z",
+    "updateDate": "2026-11-07T09:03:55.664Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culvers opens today at 10:00 AM, and today's featured flavor of the day is Andes Mint Avalanche.",
+    "mainText": "Stop by for today's flavor of the day, which is the delicious Andes Mint Avalanche. The store is closed right now, but it opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
