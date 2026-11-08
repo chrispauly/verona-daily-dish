@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-08",
-    "updateDate": "2026-11-08T13:04:06.285Z",
+    "updateDate": "2026-11-08T14:04:05.144Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: it is 38 degrees with clear skies by the Military Ridge State Trail, though it feels a bit colder at 32 degrees.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we have clear skies near Verona Area High School with an actual temperature of 42 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-08",
-    "updateDate": "2026-11-08T13:04:06.285Z",
+    "updateDate": "2026-11-08T14:04:05.144Z",
     "titleText": "Verona City News",
-    "mainText": "Looking at the latest updates, there are no new city news articles or important emails to share at this time.",
+    "mainText": "There are no new city news updates or emails to report at this time.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-08",
-    "updateDate": "2026-11-08T13:04:06.285Z",
+    "updateDate": "2026-11-08T14:04:05.144Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, starting with live music at Bailey's Run happening today, followed by live music at Wisconsin Brewing Company tomorrow, and yoga at Insight Wellness also taking place tomorrow.",
+    "mainText": "You have plenty to look forward to with live music today at Bailey's Run Vineyard and tomorrow at Wisconsin Brewing Company, plus yoga classes happening tomorrow at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-08",
-    "updateDate": "2026-11-08T13:04:06.285Z",
+    "updateDate": "2026-11-08T14:04:05.144Z",
     "titleText": "Verona Police Report",
-    "mainText": "There is currently no report available from the Verona Police Department regarding weekly incidents.",
+    "mainText": "We do not have a police department weekly report available to share at this time.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-08",
-    "updateDate": "2026-11-08T13:04:06.285Z",
+    "updateDate": "2026-11-08T14:04:05.144Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "For dessert lovers, today's flavor is Snickers Swirl and the shop opens today at 10:00 AM.",
+    "mainText": "For a sweet start to your day, head over to Culver's when they open today at 10:00 AM to grab today's flavor, Snickers Swirl.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
