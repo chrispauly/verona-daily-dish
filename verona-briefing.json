@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-08",
-    "updateDate": "2026-11-08T19:04:35.778Z",
+    "updateDate": "2026-11-08T20:03:38.485Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. Clear skies bring a temperature of 59 degrees near Badger Ridge Middle School, with a feels-like temperature of 50 degrees.",
+    "mainText": "Hello, Verona! At 2 PM, we are seeing a pleasant 60 degrees with clear conditions at Harriet Park, though it feels a bit brisk at 50 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-08",
-    "updateDate": "2026-11-08T19:04:35.778Z",
+    "updateDate": "2026-11-08T20:03:38.485Z",
     "titleText": "Verona City News",
-    "mainText": "City Public Works announced road work starting Tuesday, November 10th. Milling will take place on North Nine Mound Road, Morningside Boulevard, and Mozart Street, followed by paving on November 11th. Temporary no parking restrictions will be in effect from 7 AM to 7 PM.",
+    "mainText": "The city has announced pavement repairs starting Tuesday, November 10, and Wednesday, November 11. Crews will be milling near Nine Mound Road and Mozart Street on Tuesday, with paving following on Wednesday. Please keep an eye out for no parking signs between 7 AM and 7 PM.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-08",
-    "updateDate": "2026-11-08T19:04:35.778Z",
+    "updateDate": "2026-11-08T20:03:38.485Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at upcoming events, you can catch live music at Bailey's Run Vineyard today. Tomorrow features yoga at Insight Wellness, and Hop Haus Trivia is coming up on November 11th.",
+    "mainText": "There is a great lineup of local entertainment. Live music is happening at Bailey's Run Vineyard today. Looking ahead, yoga is scheduled for tomorrow at Insight Wellness, followed by a busy November 11 featuring trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's and pizza night at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-08",
-    "updateDate": "2026-11-08T19:04:35.778Z",
+    "updateDate": "2026-11-08T20:03:38.485Z",
     "titleText": "Verona Police Report",
-    "mainText": "In this week's police recap, officers responded on Sunday, October 25th to a vehicle stopped at Plympton Street and Rita Avenue, where a local man was arrested for a first-offence O W I.",
+    "mainText": "Turning to our weekly report, on October 21, officers assisted EMS and the fire department at a business on Batker Court for a witnessed cardiac arrest, where the patient was successfully transported to the hospital.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-08",
-    "updateDate": "2026-11-08T19:04:35.778Z",
+    "updateDate": "2026-11-08T20:03:38.485Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "At Culver's, today's flavor of the day is Snickers Swirl. The restaurant is open today until 10 PM for your sweet treat cravings.",
+    "mainText": "Today's featured flavor at Culver's is the delicious Snickers Swirl. The restaurant is currently open and will be serving guests until 10 PM tonight, so there is plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
