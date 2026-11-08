@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-11-07",
-    "updateDate": "2026-11-07T23:03:34.324Z",
+    "uid": "verona-balanced-weather-2026-11-08",
+    "updateDate": "2026-11-08T00:11:14.418Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, conditions at Fireman's Park are clear and 44 degrees under a waning crescent moon. Tonight, the temperature will drop to a low of 38 degrees, and there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 6 PM, the temperature is 43 degrees under clear skies at Fireman's Park, with a Waning Crescent moon above, an overnight low of 38 degrees, and no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-11-07",
-    "updateDate": "2026-11-07T23:03:34.324Z",
+    "uid": "verona-balanced-news-2026-11-08",
+    "updateDate": "2026-11-08T00:11:14.418Z",
     "titleText": "Verona City News",
-    "mainText": "Public works will be performing pavement repairs on November 10 and 11, affecting Morningside Boulevard and Mozart Street, with no parking allowed from 7 AM to 7 PM. Additionally, the Plan Commission is reviewing new development projects for the Liberty Business Park at their December 7 meeting.",
+    "mainText": "City officials have announced that pavement repairs will take place on November 10 and 11, affecting areas like Morningside Boulevard and Mozart Street, with no parking allowed from 7 AM to 7 PM; also, the Plan Commission will meet December 7 to discuss new development projects.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-11-07",
-    "updateDate": "2026-11-07T23:03:34.324Z",
+    "uid": "verona-balanced-events-2026-11-08",
+    "updateDate": "2026-11-08T00:11:14.418Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can visit the Dane County Farmer's Market or enjoy music at Bailey's Run and Paddy Mac's. Looking ahead, you can catch live music at the Wisconsin Brewing Company tomorrow, or check out yoga at Insight Wellness on November 9.",
+    "mainText": "There is a busy weekend ahead, starting with the Dane County Farmer's Market today, live music at Bailey's Run and Paddy Mac's today, plus live music at Wisconsin Brewing Company tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-11-07",
-    "updateDate": "2026-11-07T23:03:34.324Z",
+    "uid": "verona-balanced-police-2026-11-08",
+    "updateDate": "2026-11-08T00:11:14.418Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 25, officers arrested a 40-year-old man for an O W I first offence after finding him in his vehicle at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "In a report regarding a noteworthy call for service on October 25, officers arrested a 40-year-old man for O W I after he was discovered stopped at an intersection for an extended period.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-11-07",
-    "updateDate": "2026-11-07T23:03:34.324Z",
+    "uid": "verona-balanced-culvers-2026-11-08",
+    "updateDate": "2026-11-08T00:11:14.418Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Really Reese's. Culver's is open right now and will be serving guests until 10:30 PM tonight, so stop in for a treat.",
+    "mainText": "Today's flavor of the day is the delicious Really Reese's, and since the store is open until 10:30 PM, you have plenty of time to visit before they close for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
