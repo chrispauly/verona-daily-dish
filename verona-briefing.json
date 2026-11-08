@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-08",
-    "updateDate": "2026-11-08T15:03:19.948Z",
+    "updateDate": "2026-11-08T16:03:40.412Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we are seeing clear skies and a temperature of 49 degrees at Verona City Hall.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we are looking at clear skies and 52 degrees outside of Verona City Hall.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-08",
-    "updateDate": "2026-11-08T15:03:19.948Z",
+    "updateDate": "2026-11-08T16:03:40.412Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Public Works has announced pavement repairs for November 10 and 11, which will impact parking near Nine Mound Road, Morningside Boulevard, and Mozart Street. Also, the Plan Commission is reviewing new development projects, including a site plan for Sub-Zero at Liberty Business Park for their December meeting.",
+    "mainText": "City officials have announced that pavement repairs will take place this Tuesday and Wednesday. Work includes milling and patching on Morningside Boulevard, Mozart Street, and several other locations, so please plan your travels accordingly.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-08",
-    "updateDate": "2026-11-08T15:03:19.948Z",
+    "updateDate": "2026-11-08T16:03:40.412Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town. We have live music today at Bailey's Run Vineyard, and tomorrow you can head to Insight Wellness for yoga. Looking ahead, Tuesday is a busy night with trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's.",
+    "mainText": "Looking at the local calendar, we have live music at Bailey's Run Vineyard today, and tomorrow you can head to Insight Wellness for a yoga session.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-08",
-    "updateDate": "2026-11-08T15:03:19.948Z",
+    "updateDate": "2026-11-08T16:03:40.412Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly report, officers handled several calls recently, including an incident on October 25 where a man was taken into custody for O W I after being found stopped at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "In our police report for October 19, officers conducted a traffic stop that resulted in an arrest after it was discovered the individual had an active arrest warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-08",
-    "updateDate": "2026-11-08T15:03:19.948Z",
+    "updateDate": "2026-11-08T16:03:40.412Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "For those with a sweet tooth, today's flavor at Culver's is Snickers Swirl. The store is currently getting ready for the day and will open to the public today at 10 AM.",
+    "mainText": "Stop by Culver's of Verona today to enjoy the delicious Snickers Swirl flavor of the day, as the restaurant is currently open and will be serving guests until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
