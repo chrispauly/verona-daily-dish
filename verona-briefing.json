@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-08",
-    "updateDate": "2026-11-08T05:03:49.079Z",
+    "updateDate": "2026-11-08T06:05:54.776Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. It is a clear night near the Verona Area High School with a temperature of 39 degrees. We are currently seeing a New Moon, and you can expect an overnight low of 38 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: skies are clear near Verona City Hall with a temperature of 39 degrees under a new moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-08",
-    "updateDate": "2026-11-08T05:03:49.079Z",
+    "updateDate": "2026-11-08T06:05:54.776Z",
     "titleText": "Verona City News",
-    "mainText": "For our city news, please be advised that asphalt pavement repairs are planned for November 10 and 11. Crews will be milling and patching various streets including Morningside Boulevard and Todd Street. Parking will be restricted in these areas from 7 AM to 7 PM.",
+    "mainText": "The city has announced pavement repairs on Tuesday, November 10, and Wednesday, November 11, affecting Morningside Boulevard and several other streets with parking restrictions in place from 7 AM to 7 PM.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-08",
-    "updateDate": "2026-11-08T05:03:49.079Z",
+    "updateDate": "2026-11-08T06:05:54.776Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town over the next couple of days. Tomorrow, you can catch live music at both Bailey's Run Vineyard and the Wisconsin Brewing Company. Looking ahead to November 11, we have trivia nights at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus pizza and a pitcher specials at Wisconsin Brewing Company.",
+    "mainText": "Enjoy live music at Bailey's Run today, check out music at Wisconsin Brewing Company tomorrow, and look forward to trivia nights beginning this Tuesday at locations like Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-08",
-    "updateDate": "2026-11-08T05:03:49.079Z",
+    "updateDate": "2026-11-08T06:05:54.776Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on October 25, officers were dispatched to the intersection of Plympton Street and Rita Avenue where they located a 40-year-old man passed out behind the wheel; he was subsequently arrested for O W I.",
+    "mainText": "Looking at the weekly report, on October 21, police and emergency crews responded to a cardiac arrest incident on Basswood Avenue where they successfully utilized an AED.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-08",
-    "updateDate": "2026-11-08T05:03:49.079Z",
+    "updateDate": "2026-11-08T06:05:54.776Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day was Really Reese's. Please note that the store is now closed for the night. We look forward to seeing you tomorrow at 10 AM when we will be featuring the Snickers Swirl as our flavor of the day.",
+    "mainText": "Today's Flavor of the Day is the tasty Snickers Swirl, and you can stop by when the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
