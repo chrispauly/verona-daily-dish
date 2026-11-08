@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-08",
-    "updateDate": "2026-11-08T03:05:00.945Z",
+    "updateDate": "2026-11-08T04:04:02.659Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: skies are clear near Verona City Hall at 39 degrees. We expect an overnight low of 38 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: skies are clear near Badger Ridge Middle School. We are looking at an overnight low of 37 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-08",
-    "updateDate": "2026-11-08T03:05:00.945Z",
+    "updateDate": "2026-11-08T04:04:02.659Z",
     "titleText": "Verona City News",
-    "mainText": "City news includes upcoming pavement work on Tuesday and Wednesday at several local streets including Nine Mound Road and Edward Street, plus the Plan Commission is reviewing new development projects at Liberty Business Park.",
+    "mainText": "The City of Verona has announced asphalt repair work for November 10 and 11. Crews will be milling and patching areas near Nine Mound Road, Morningside Boulevard, and Mozart Street, so expect no-parking signs between 7 AM and 7 PM.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-08",
-    "updateDate": "2026-11-08T03:05:00.945Z",
+    "updateDate": "2026-11-08T04:04:02.659Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with the Dane County Farmers Market today, live music at Bailey's Run and Paddy Mac's today, and local trivia nights coming up at Hop Haus and Lake Lou-ee next Tuesday.",
+    "mainText": "There is plenty to do in town, starting with the Dane County Farmers Market today. You can also catch live music at Bailey's Run and Paddy Mac's, while tomorrow offers more live music over at the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-08",
-    "updateDate": "2026-11-08T03:05:00.945Z",
+    "updateDate": "2026-11-08T04:04:02.659Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on October 25, officers arrested a 40-year-old Verona man for an O W I after he was found stopped at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "Looking at the weekly report, on October 25, officers responded to a situation where a driver was found in their vehicle at an intersection and subsequently arrested for an O W I offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-08",
-    "updateDate": "2026-11-08T03:05:00.945Z",
+    "updateDate": "2026-11-08T04:04:02.659Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "It is a great day to stop by for a scoop of Really Reese's. The shop is open until 10:30 PM tonight, so stop in before they close for the evening.",
+    "mainText": "The Really Reese's flavor is the highlight today, but since we are within the final half-hour of business, you will want to head over to the shop right away before they close for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
