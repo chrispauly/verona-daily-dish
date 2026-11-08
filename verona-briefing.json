@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-08",
-    "updateDate": "2026-11-08T06:05:54.776Z",
+    "updateDate": "2026-11-08T07:04:46.809Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: skies are clear near Verona City Hall with a temperature of 39 degrees under a new moon.",
+    "mainText": "Hello, Verona! At 1 AM, we are looking at clear skies and a temperature of 39 degrees around City Hall with a new moon visible in the night sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-08",
-    "updateDate": "2026-11-08T06:05:54.776Z",
+    "updateDate": "2026-11-08T07:04:46.809Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced pavement repairs on Tuesday, November 10, and Wednesday, November 11, affecting Morningside Boulevard and several other streets with parking restrictions in place from 7 AM to 7 PM.",
+    "mainText": "City news includes a reminder about pavement repairs taking place Tuesday, November 10 and Wednesday, November 11. Work is focused on several streets including Nine Mound Road, Morningside Boulevard, and Mozart Street, with no parking signs enforced from 7 AM to 7 PM. Additionally, the Plan Commission is reviewing development projects, including a site plan for Sub-Zero at Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-08",
-    "updateDate": "2026-11-08T06:05:54.776Z",
+    "updateDate": "2026-11-08T07:04:46.809Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Enjoy live music at Bailey's Run today, check out music at Wisconsin Brewing Company tomorrow, and look forward to trivia nights beginning this Tuesday at locations like Hop Haus.",
+    "mainText": "You have a great selection of events starting with live music today at Bailey's Run Vineyard and more music tomorrow at Wisconsin Brewing Company. Looking ahead, next Tuesday is packed with trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus pizza specials at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-08",
-    "updateDate": "2026-11-08T06:05:54.776Z",
+    "updateDate": "2026-11-08T07:04:46.809Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly report, on October 21, police and emergency crews responded to a cardiac arrest incident on Basswood Avenue where they successfully utilized an AED.",
+    "mainText": "In a noteworthy update, on October 23, officers made contact with two 13-year-olds riding eMotos on Ashton Drive, resulting in citations for their parents for permitting the use of prohibited vehicles.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-08",
-    "updateDate": "2026-11-08T06:05:54.776Z",
+    "updateDate": "2026-11-08T07:04:46.809Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Flavor of the Day is the tasty Snickers Swirl, and you can stop by when the store opens today at 10:00 AM.",
+    "mainText": "Today's delicious flavor is Snickers Swirl, and the team will be ready to serve you when they open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
