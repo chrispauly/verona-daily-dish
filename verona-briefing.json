@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-09",
-    "updateDate": "2026-11-09T08:09:49.060Z",
+    "updateDate": "2026-11-09T09:06:43.822Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: the temperature is 38 degrees under clear skies near Verona Area High School, with a beautiful New Moon overhead.",
+    "mainText": "Hello, Verona! At 3 AM, we are looking at clear skies at Verona Community Park with a temperature of 37 degrees and a new moon in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-09",
-    "updateDate": "2026-11-09T08:09:49.060Z",
+    "updateDate": "2026-11-09T09:06:43.822Z",
     "titleText": "Verona City News",
-    "mainText": "The city announced pavement repairs will take place on November 10 and 11. Crews will be working on Nine Mound Road, Morningside Boulevard, and Mozart Street, with parking restrictions in place from 7 AM to 7 PM.",
+    "mainText": "There are currently no new city news articles or official emails to report for our community this morning.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-09",
-    "updateDate": "2026-11-09T08:09:49.060Z",
+    "updateDate": "2026-11-09T09:06:43.822Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can join Yoga at Insight Wellness. Tomorrow, there are several events to choose from, including Hop Haus Trivia, Quizmasters Trivia at Lake Lou-ee, Dream Day Trivia at Paddy Mac's, and the Pizza and a Pitcher special at Lake Lou-ee.",
+    "mainText": "Today you can enjoy Yoga at Insight Wellness. Looking ahead to tomorrow, there is a variety of trivia options at Hop Haus, Lake Lou-ee, and Paddy Mac's, in addition to live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-09",
-    "updateDate": "2026-11-09T08:09:49.060Z",
+    "updateDate": "2026-11-09T09:06:43.822Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy incident on October 25, a man was arrested for O W I after being found stopped in an intersection.",
+    "mainText": "There are no reports from the Verona Police Department available for this week.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-09",
-    "updateDate": "2026-11-09T08:09:49.060Z",
+    "updateDate": "2026-11-09T09:06:43.822Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Georgia Peach. The store is currently closed, but you can head over when it opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is Georgia Peach. The store is currently closed, but they will be ready to serve you when they open today at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
