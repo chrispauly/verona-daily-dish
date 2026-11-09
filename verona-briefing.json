@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-11-08",
-    "updateDate": "2026-11-08T23:03:42.481Z",
+    "uid": "verona-balanced-weather-2026-11-09",
+    "updateDate": "2026-11-09T00:10:43.198Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, we are looking at clear skies near Verona Area High School. Under the light of the New Moon, temperatures will drop to an overnight low of 35 degrees, and you will be happy to hear there is no rain in the forecast for tonight.",
+    "mainText": "Hello, Verona! At 6 PM, the current temperature is 49 degrees with clear skies at the Verona Public Library and a new moon phase visible tonight. The temperature will drop to an overnight low of 36 degrees, and there is no rain predicted for the evening.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-11-08",
-    "updateDate": "2026-11-08T23:03:42.481Z",
+    "uid": "verona-balanced-news-2026-11-09",
+    "updateDate": "2026-11-09T00:10:43.198Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced pavement repairs for Tuesday, November 10 and Wednesday, November 11. Crews will be milling and patching streets including Morningside Boulevard and Mozart Street, with paving to follow the next day. Please keep an eye out for no parking signs between 7 AM and 7 PM.",
+    "mainText": "The City of Verona has announced that pavement repair work will take place on November 10 and 11. No parking signs will be placed on several streets, including portions of Nine Mound Road, Morningside Boulevard, and Mozart Street, between 7 AM and 7 PM during these repairs.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-11-08",
-    "updateDate": "2026-11-08T23:03:42.481Z",
+    "uid": "verona-balanced-events-2026-11-09",
+    "updateDate": "2026-11-09T00:10:43.198Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy week ahead! You can catch live music at Bailey's Run Vineyard today. Looking to tomorrow, yoga is happening at Insight Wellness. On Wednesday, you have plenty of options including trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's and Pizza and a Pitcher at Lake Lou-ee.",
+    "mainText": "There is plenty to do in our community. We have live music today at Bailey's Run Vineyard. Looking ahead, you can enjoy yoga tomorrow at Insight Wellness, or participate in various trivia nights and live music performances at Hop Haus, Paddy Mac's, and the Wisconsin Brewing Company this coming Wednesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-11-08",
-    "updateDate": "2026-11-08T23:03:42.481Z",
+    "uid": "verona-balanced-police-2026-11-09",
+    "updateDate": "2026-11-09T00:10:43.198Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report regarding an incident on October 25, the Verona Police Department arrested a 40-year-old local man for an O W I after he was discovered stopped at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "In a report from October 25, Verona police officers arrested a 40-year-old man for a first offence O W I after he was discovered passed out behind the wheel at the intersection of Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-11-08",
-    "updateDate": "2026-11-08T23:03:42.481Z",
+    "uid": "verona-balanced-culvers-2026-11-09",
+    "updateDate": "2026-11-09T00:10:43.198Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Snickers Swirl. The store is currently open and serving until 10:00 PM tonight, so there is still plenty of time to stop by for a treat.",
+    "mainText": "Today's flavor is the fan-favorite Snickers Swirl. The restaurant is currently open to serve you and will remain open until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
