@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-09",
-    "updateDate": "2026-11-09T14:04:06.809Z",
+    "updateDate": "2026-11-09T15:06:00.440Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: it is 33 degrees with foggy conditions reported near Harriet Park, and we are currently under a New Moon.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we have a temperature of 41 degrees and clear skies out at Badger Prairie County Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-09",
-    "updateDate": "2026-11-09T14:04:06.809Z",
+    "updateDate": "2026-11-09T15:06:00.440Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Verona Recreation Department has published updated standings and schedules for men's, women's, and coed leagues, while also providing details for the upcoming November volleyball season at Sugar Creek Elementary.",
+    "mainText": "The City of Verona Parks and Recreation department is currently finalizing league schedules and standings for various sports, including adult volleyball at Sugar Creek Elementary, which is set to begin in November.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-09",
-    "updateDate": "2026-11-09T14:04:06.809Z",
+    "updateDate": "2026-11-09T15:06:00.440Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, starting with yoga today at Insight Wellness, followed by a busy Tuesday tomorrow featuring trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus live music at Paddy Mac's.",
+    "mainText": "We have Yoga at Insight Wellness taking place today. Looking ahead, tomorrow is packed with options including trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, along with live music at Paddy Mac's and pizza night at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-09",
-    "updateDate": "2026-11-09T14:04:06.809Z",
+    "updateDate": "2026-11-09T15:06:00.440Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly police recap, on October 19, officers arrested a 49-year-old local man for operating while suspended after he was stopped and found to have an active arrest warrant.",
+    "mainText": "Looking at the weekly report, on October 21, Verona Police assisted fire and rescue services with a medical emergency at a business located in the 1000 block of Batker Court.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-09",
-    "updateDate": "2026-11-09T14:04:06.809Z",
+    "updateDate": "2026-11-09T15:06:00.440Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Enjoy the Georgia Peach flavor today at Culver's, which opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is Georgia Peach, and the Culver's of Verona will open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
