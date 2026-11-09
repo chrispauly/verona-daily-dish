@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-09",
-    "updateDate": "2026-11-09T05:04:27.534Z",
+    "updateDate": "2026-11-09T06:08:43.717Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: it is 41 degrees with clear skies by the Military Ridge State Trail and a New Moon overhead, with an overnight low of 36 degrees and no rain in the forecast.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: skies are currently clear with a temperature of 40 degrees near the Military Ridge State Trail under a New Moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-09",
-    "updateDate": "2026-11-09T05:04:27.534Z",
+    "updateDate": "2026-11-09T06:08:43.717Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced pavement repair work for November 10 and 11. Crews will be milling and patching areas on North Nine Mound Road, Morningside Boulevard, Mozart Street, Todd Street, Edward Street, and near Hemlock Drive, so please watch for no parking signs between 7 AM and 7 PM.",
+    "mainText": "The City of Verona has announced that pavement repairs will take place on Tuesday, November 10, and Wednesday, November 11. Contractors will be milling and patching several roads including North Nine Mound Road and Morningside Boulevard, with paving to follow. No parking signs will be enforced from 7 AM to 7 PM on both days.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-09",
-    "updateDate": "2026-11-09T05:04:27.534Z",
+    "updateDate": "2026-11-09T06:08:43.717Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy week ahead starting with Yoga at Insight Wellness tomorrow. Tuesday features a packed schedule of trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus live music at Paddy Mac's and pizza and a pitcher specials at Lake Lou-ee.",
+    "mainText": "Today you can join Yoga at Insight Wellness. Looking ahead, tomorrow is a busy day with trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's and pizza at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-09",
-    "updateDate": "2026-11-09T05:04:27.534Z",
+    "updateDate": "2026-11-09T06:08:43.717Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly report, on October 25, officers located a 40-year-old Verona man passed out behind the wheel at Plympton Street and Rita Avenue, resulting in an arrest for an O W I, first offence.",
+    "mainText": "In a report regarding service calls, officers dealt with an incident on October 25 where a 40-year-old man was located in his vehicle at an intersection and subsequently arrested for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-09",
-    "updateDate": "2026-11-09T05:04:27.534Z",
+    "updateDate": "2026-11-09T06:08:43.717Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona has finished their day with today's flavor, Snickers Swirl. We look forward to seeing everyone tomorrow for the Georgia Peach flavor of the day when the store opens at 10:00 AM.",
+    "mainText": "Today's delicious flavor of the day is Georgia Peach. The Culver's in Verona opens today at 10:00 AM, so be sure to stop by once they open.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
