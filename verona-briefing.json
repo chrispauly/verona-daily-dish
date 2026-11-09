@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-09",
-    "updateDate": "2026-11-09T15:06:00.440Z",
+    "updateDate": "2026-11-09T16:04:23.608Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we have a temperature of 41 degrees and clear skies out at Badger Prairie County Park.",
+    "mainText": "Hello, Verona! At 10 AM, we are seeing clear skies down at Fireman's Park with a temperature of 46 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-09",
-    "updateDate": "2026-11-09T15:06:00.440Z",
+    "updateDate": "2026-11-09T16:04:23.608Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona Parks and Recreation department is currently finalizing league schedules and standings for various sports, including adult volleyball at Sugar Creek Elementary, which is set to begin in November.",
+    "mainText": "The Mark Drive Reconstruction Project is moving forward with water main and sewer updates, as well as new sidewalks. City officials recently held a public information meeting to discuss the second phase of the construction schedule.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-09",
-    "updateDate": "2026-11-09T15:06:00.440Z",
+    "updateDate": "2026-11-09T16:04:23.608Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have Yoga at Insight Wellness taking place today. Looking ahead, tomorrow is packed with options including trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, along with live music at Paddy Mac's and pizza night at Lake Lou-ee.",
+    "mainText": "There is plenty to do in town, starting with Yoga at Insight Wellness today. Tomorrow is packed with activities, including trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-09",
-    "updateDate": "2026-11-09T15:06:00.440Z",
+    "updateDate": "2026-11-09T16:04:23.608Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly report, on October 21, Verona Police assisted fire and rescue services with a medical emergency at a business located in the 1000 block of Batker Court.",
+    "mainText": "On October 25, officers found a man passed out in his vehicle at the intersection of Plympton Street and Rita Avenue, which resulted in an arrest for an O W I offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-09",
-    "updateDate": "2026-11-09T15:06:00.440Z",
+    "updateDate": "2026-11-09T16:04:23.608Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Georgia Peach, and the Culver's of Verona will open today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is Caramel Fudge Cookie Dough. The store is currently open and serving until 10 PM, so make sure to stop by and treat yourself.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
