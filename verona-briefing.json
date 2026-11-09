@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-09",
-    "updateDate": "2026-11-09T10:08:15.387Z",
+    "updateDate": "2026-11-09T11:04:11.343Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, we have clear skies with a temperature of 36 degrees near the Military Ridge State Trail and a New Moon in the sky.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: it is 35 degrees with clear skies at Badger Prairie County Park and a New Moon visible.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-09",
-    "updateDate": "2026-11-09T10:08:15.387Z",
+    "updateDate": "2026-11-09T11:04:11.343Z",
     "titleText": "Verona City News",
-    "mainText": "City news is quiet this morning, with no new articles or important emails to share regarding local operations.",
+    "mainText": "City crews are focusing on road maintenance this Tuesday and Wednesday. Work includes milling near North Nine Mound Road and Morningside Boulevard, followed by paving the next day. Please clear your cars from these areas between 7 AM and 7 PM.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-09",
-    "updateDate": "2026-11-09T10:08:15.387Z",
+    "updateDate": "2026-11-09T11:04:11.343Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of activities starting today with Yoga at Insight Wellness, followed by a busy tomorrow featuring trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music and fun throughout the week.",
+    "mainText": "Join us today for Yoga at Insight Wellness. Looking ahead, tomorrow is busy with trivia options at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-09",
-    "updateDate": "2026-11-09T10:08:15.387Z",
+    "updateDate": "2026-11-09T11:04:11.343Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department has not issued a weekly report, so there are no specific incidents to detail for this timeframe.",
+    "mainText": "On October 25, local officers handled a situation where a driver was found stationary at the intersection of Plympton Street and Rita Avenue, which resulted in an arrest for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-09",
-    "updateDate": "2026-11-09T10:08:15.387Z",
+    "updateDate": "2026-11-09T11:04:11.343Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor at Culver's is Georgia Peach. The restaurant will be opening for the day at 10:00 AM.",
+    "mainText": "Today's delicious flavor is Georgia Peach. The store is currently closed but will open today at 10:00 AM for you to enjoy a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
