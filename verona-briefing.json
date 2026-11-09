@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-09",
-    "updateDate": "2026-11-09T19:04:05.394Z",
+    "updateDate": "2026-11-09T20:03:57.117Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. We have clear skies and a temperature of 58 degrees at the Verona Public Library.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: it is 60 degrees with clear skies near the Verona Public Library.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-09",
-    "updateDate": "2026-11-09T19:04:05.394Z",
+    "updateDate": "2026-11-09T20:03:57.117Z",
     "titleText": "Verona City News",
-    "mainText": "In local updates, there are no new city news articles or important emails to report at this time.",
+    "mainText": "The city is currently working on the Mark Drive and Rita Avenue reconstruction project. Crews are finishing up concrete work this week and preparing the base for new asphalt, with full road completion expected in 2026.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-09",
-    "updateDate": "2026-11-09T19:04:05.394Z",
+    "updateDate": "2026-11-09T20:03:57.117Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at your schedule, you can catch Yoga at Insight Wellness today. Tomorrow, there are plenty of options, including trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's and Pizza and a Pitcher at Lake Lou-ee.",
+    "mainText": "We have plenty happening locally, starting with Yoga at Insight Wellness today. Looking ahead to tomorrow, residents can enjoy trivia at Hop Haus Brewing Company, Wisconsin Brewing Company, or Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-09",
-    "updateDate": "2026-11-09T19:04:05.394Z",
+    "updateDate": "2026-11-09T20:03:57.117Z",
     "titleText": "Verona Police Report",
-    "mainText": "There were no police incidents reported in the weekly recap for this week.",
+    "mainText": "Looking at recent reports, on October 25, officers responded to a call at Plympton Street and Rita Avenue, resulting in an arrest for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-09",
-    "updateDate": "2026-11-09T19:04:05.394Z",
+    "updateDate": "2026-11-09T20:03:57.117Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day at Culver's is Caramel Fudge Cookie Dough. The shop is currently open and serving until 10 PM tonight.",
+    "mainText": "Today's delicious flavor of the day is Caramel Fudge Cookie Dough. The store is currently open and will remain open until 10:00 PM, so stop by soon to grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
