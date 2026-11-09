@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-09",
-    "updateDate": "2026-11-09T13:03:59.998Z",
+    "updateDate": "2026-11-09T14:04:06.809Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we have a chilly 33 degrees with overcast conditions near Badger Prairie County Park.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: it is 33 degrees with foggy conditions reported near Harriet Park, and we are currently under a New Moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-09",
-    "updateDate": "2026-11-09T13:03:59.998Z",
+    "updateDate": "2026-11-09T14:04:06.809Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced pavement repairs for November 10 and 11. Crews will be milling and paving streets including North Nine Mound Road and Morningside Boulevard, so please note that no parking signs will be enforced from 7 AM to 7 PM.",
+    "mainText": "In city news, the Verona Recreation Department has published updated standings and schedules for men's, women's, and coed leagues, while also providing details for the upcoming November volleyball season at Sugar Creek Elementary.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-09",
-    "updateDate": "2026-11-09T13:03:59.998Z",
+    "updateDate": "2026-11-09T14:04:06.809Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can join a session at Yoga at Insight Wellness. Looking ahead to tomorrow, there is plenty to do with trivia nights at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's and pizza and a pitcher at Lake Lou-ee.",
+    "mainText": "There is plenty to do, starting with yoga today at Insight Wellness, followed by a busy Tuesday tomorrow featuring trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-09",
-    "updateDate": "2026-11-09T13:03:59.998Z",
+    "updateDate": "2026-11-09T14:04:06.809Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, officers noted that on October 25, a 40-year-old man was taken into custody for O W I after being found stopped at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "Regarding the weekly police recap, on October 19, officers arrested a 49-year-old local man for operating while suspended after he was stopped and found to have an active arrest warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-09",
-    "updateDate": "2026-11-09T13:03:59.998Z",
+    "updateDate": "2026-11-09T14:04:06.809Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by for a sweet treat today, as Culver's opens at 10:00 AM serving the delicious Devil's Food Cake flavor of the day.",
+    "mainText": "Enjoy the Georgia Peach flavor today at Culver's, which opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
