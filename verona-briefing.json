@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-11-09",
-    "updateDate": "2026-11-09T23:03:36.122Z",
+    "uid": "verona-balanced-weather-2026-11-10",
+    "updateDate": "2026-11-10T00:09:28.911Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: it is 53 degrees with clear skies by the Military Ridge State Trail and a New Moon tonight. The temperature will dip to an overnight low of 37 degrees, with no rain expected.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: current conditions at Reddan Soccer Park are clear with a temperature of 53 degrees. We are currently under a new moon phase, and tonight's low will reach 38 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-11-09",
-    "updateDate": "2026-11-09T23:03:36.122Z",
+    "uid": "verona-balanced-news-2026-11-10",
+    "updateDate": "2026-11-10T00:09:28.911Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is moving forward with the Mark Drive reconstruction project between North Nine Mound Road and Westlawn Avenue, focusing on utility upgrades and new sidewalk infrastructure. Additionally, the Parks and Recreation department continues to update standings for various local men's, women's, and coed sports leagues.",
+    "mainText": "The city is moving forward with the Mark Drive reconstruction project. This phase includes updating water and sewer utilities and adding new concrete sidewalks between Nine Mound Road and Westlawn Avenue, with tree planting to follow construction.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-11-09",
-    "updateDate": "2026-11-09T23:03:36.122Z",
+    "uid": "verona-balanced-events-2026-11-10",
+    "updateDate": "2026-11-10T00:09:28.911Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can head over to Insight Wellness for yoga. Looking ahead to tomorrow, there are plenty of options, including trivia nights at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's.",
+    "mainText": "Yoga at Insight Wellness is happening today. Looking ahead, you have plenty of options with trivia events tomorrow at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus live music at Paddy Mac's tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-11-09",
-    "updateDate": "2026-11-09T23:03:36.122Z",
+    "uid": "verona-balanced-police-2026-11-10",
+    "updateDate": "2026-11-10T00:09:28.911Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on October 25, officers responded to the intersection of Plympton Street and Rita Avenue, where they arrested a 40-year-old man for O W I after he was discovered passed out in his vehicle.",
+    "mainText": "In our weekly look at local reports, on October 25, police responded to a report of a vehicle stopped for twenty minutes at Plympton Street and Rita Avenue, resulting in an arrest for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-11-09",
-    "updateDate": "2026-11-09T23:03:36.122Z",
+    "uid": "verona-balanced-culvers-2026-11-10",
+    "updateDate": "2026-11-10T00:09:28.911Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Flavor of the Day is the wonderful Caramel Fudge Cookie Dough. The store is currently open and serving until 10:00 PM, so there is plenty of time to stop by for a treat.",
+    "mainText": "You can enjoy the flavor of the day, Caramel Fudge Cookie Dough, at our local Culver's, which is currently open and serving guests until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
