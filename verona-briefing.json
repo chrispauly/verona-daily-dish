@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-10",
-    "updateDate": "2026-11-10T04:04:04.865Z",
+    "updateDate": "2026-11-10T05:04:37.039Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: current temperatures are 48 degrees under clear skies by the Verona Public Library. The moon is currently in a new moon phase, and we expect a chilly overnight low of 39 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. We currently have clear skies and 47 degrees near Badger Prairie County Park under a New Moon. The overnight low will drop to 39 degrees with no rain predicted overnight.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-10",
-    "updateDate": "2026-11-10T04:04:04.865Z",
+    "updateDate": "2026-11-10T05:04:37.039Z",
     "titleText": "Verona City News",
-    "mainText": "Regarding city infrastructure, the Mark Drive Reconstruction Project is underway. Improvements include new water mains, sanitary and storm sewers, and asphalt pavement between Nine Mound Road and Westlawn Avenue, with tree planting and sidewalk installations following the construction.",
+    "mainText": "In city news, Phase 2 of the Mark Drive reconstruction project is progressing between North Nine Mound Road and Westlawn Avenue. Contractors are wrapping up concrete curb, sidewalk, and driveway installation while preparing the roadway for its base layer of asphalt.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-10",
-    "updateDate": "2026-11-10T04:04:04.865Z",
+    "updateDate": "2026-11-10T05:04:37.039Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty to look forward to, starting with yoga at Insight Wellness today. Tomorrow, you can test your knowledge at trivia events at Hop Haus, Lake Lou-ee, or Paddy Mac's, and enjoy live music at Paddy Mac's as well.",
+    "mainText": "Looking at upcoming events, you can play trivia tomorrow at Hop Haus Brewing Co, Lake Lou-ee, or Paddy Mac's. Later in the week, check out Trivia Night at The Mill on November 12th or live music at Bailey's Run Vineyard on November 13th.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-10",
-    "updateDate": "2026-11-10T04:04:04.865Z",
+    "updateDate": "2026-11-10T05:04:37.039Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 25, officers responded to the intersection of Plympton Street and Rita Avenue, where a 40-year-old man was arrested for his first O W I offence.",
+    "mainText": "In the weekly police report, officers responded early Saturday morning to Plympton Street and Rita Avenue regarding a vehicle stopped in the intersection, which led to the arrest of a 40-year-old Verona man for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-10",
-    "updateDate": "2026-11-10T04:04:04.865Z",
+    "updateDate": "2026-11-10T05:04:37.039Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We have finished serving our Caramel Fudge Cookie Dough for the day. We look forward to seeing you tomorrow at 10 AM when we feature our next flavor, Chocolate Heath Crunch.",
+    "mainText": "Culver's is closed for the night after featuring Caramel Fudge Cookie Dough. They will reopen tomorrow at 10:00 AM serving Chocolate Heath Crunch as tomorrow's Flavor of the Day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
