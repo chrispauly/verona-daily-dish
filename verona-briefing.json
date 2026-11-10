@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-10",
-    "updateDate": "2026-11-10T16:04:33.027Z",
+    "updateDate": "2026-11-10T17:04:11.822Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: it is 49 degrees with clear skies near City Hall. We also have a new moon tonight, and while the ISS will pass overhead, you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. Over at Military Ridge State Trail, it is currently 56 degrees with clear skies. The ISS will be visible tonight starting at 6:30 PM for 2 minutes. Look for it rising in the South Southwest (over Belleville) and traveling toward the East Northeast (heading toward Fitchburg / Madison), reaching about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-news-2026-11-10",
-    "updateDate": "2026-11-10T16:04:33.027Z",
+    "updateDate": "2026-11-10T17:04:11.822Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is working on the Mark Drive reconstruction project between North Nine Mound Road and Westlawn Avenue, which involves major utility upgrades and new sidewalk installations.",
+    "mainText": "In city affairs, the latest update is: Mark Drive Reconstruction.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-events-2026-11-10",
-    "updateDate": "2026-11-10T16:04:33.027Z",
+    "updateDate": "2026-11-10T17:04:11.822Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town today with trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus yoga and live music coming up tomorrow.",
+    "mainText": "If you are planning your week, we have local events coming up, including Hop Haus Trivia Today at Hop Haus Brewing Co..",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-police-2026-11-10",
-    "updateDate": "2026-11-10T16:04:33.027Z",
+    "updateDate": "2026-11-10T17:04:11.822Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from October 25, officers arrested a man for an O W I offence after finding him unresponsive in his vehicle at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-10",
-    "updateDate": "2026-11-10T16:04:33.027Z",
+    "updateDate": "2026-11-10T17:04:11.822Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's today to enjoy the Chocolate Heath Crunch, as they are currently open and serving until 10 PM.",
+    "mainText": "We sign off with today's Culver's Flavor of the Day: Chocolate Heath Crunch. The restaurant is open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "Local Fallback Template"
   }
 ]
