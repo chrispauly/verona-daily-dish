@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-10",
-    "updateDate": "2026-11-10T05:04:37.039Z",
+    "updateDate": "2026-11-10T06:06:46.488Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. We currently have clear skies and 47 degrees near Badger Prairie County Park under a New Moon. The overnight low will drop to 39 degrees with no rain predicted overnight.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. We have clear skies and a temperature of 45 degrees near Badger Prairie County Park under a New Moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-10",
-    "updateDate": "2026-11-10T05:04:37.039Z",
+    "updateDate": "2026-11-10T06:06:46.488Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Phase 2 of the Mark Drive reconstruction project is progressing between North Nine Mound Road and Westlawn Avenue. Contractors are wrapping up concrete curb, sidewalk, and driveway installation while preparing the roadway for its base layer of asphalt.",
+    "mainText": "City updates highlight progress on the Mark Drive Reconstruction Project. Phase 2 work is actively replacing concrete curbs, sidewalks, and driveway aprons between North Nine Mound Road and Westlawn Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-10",
-    "updateDate": "2026-11-10T05:04:37.039Z",
+    "updateDate": "2026-11-10T06:06:46.488Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at upcoming events, you can play trivia tomorrow at Hop Haus Brewing Co, Lake Lou-ee, or Paddy Mac's. Later in the week, check out Trivia Night at The Mill on November 12th or live music at Bailey's Run Vineyard on November 13th.",
+    "mainText": "Looking at local events, trivia games are happening today at Hop Haus Brewing Co, Lake Lou-ee, and Paddy Mac's. Tomorrow brings live music to Paddy Mac's and yoga classes at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-10",
-    "updateDate": "2026-11-10T05:04:37.039Z",
+    "updateDate": "2026-11-10T06:06:46.488Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly police report, officers responded early Saturday morning to Plympton Street and Rita Avenue regarding a vehicle stopped in the intersection, which led to the arrest of a 40-year-old Verona man for O W I.",
+    "mainText": "In police news, on Saturday morning officers responded to the intersection of Plympton Street and Rita Avenue for a vehicle stopped in the road, where a driver was arrested for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-10",
-    "updateDate": "2026-11-10T05:04:37.039Z",
+    "updateDate": "2026-11-10T06:06:46.488Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is closed for the night after featuring Caramel Fudge Cookie Dough. They will reopen tomorrow at 10:00 AM serving Chocolate Heath Crunch as tomorrow's Flavor of the Day.",
+    "mainText": "Over at Culver's, doors open today at 10:00 AM with Chocolate Heath Crunch featured as today's flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.5-flash"
   }
