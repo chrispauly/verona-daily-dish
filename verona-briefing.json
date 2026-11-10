@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-10",
-    "updateDate": "2026-11-10T19:04:53.193Z",
+    "updateDate": "2026-11-10T20:03:44.837Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. Over at Harriet Park, it is currently 63 degrees with clear skies. The ISS will be visible tonight starting at 6:30 PM for 2 minutes. Look for it rising in the South Southwest (over Belleville) and traveling toward the East Northeast (heading toward Fitchburg / Madison), reaching about halfway up the sky.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We have clear skies near Harriet Park with a temperature of 64 degrees. If you are a space fan, the International Space Station will be visible tonight starting at 6:30 PM, rising from the direction of Belleville and traveling toward the Fitchburg and Madison area, climbing to about halfway up the sky for two minutes.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-10",
-    "updateDate": "2026-11-10T19:04:53.193Z",
+    "updateDate": "2026-11-10T20:03:44.837Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Mark Drive Reconstruction.",
+    "mainText": "In city news, the Mark Drive reconstruction project is progressing. Construction crews are currently focused on wrapping up concrete curbs, sidewalks, and driveways, with work planned to continue as weather permits. Residents should note that the surface layer of asphalt is expected to be installed next spring.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-10",
-    "updateDate": "2026-11-10T19:04:53.193Z",
+    "updateDate": "2026-11-10T20:03:44.837Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Hop Haus Trivia Today at Hop Haus Brewing Co..",
+    "mainText": "There is plenty happening in Verona to keep you busy. Today, you can catch trivia at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's. Tomorrow, look forward to live music at Paddy Mac's, yoga at Insight Wellness, and pizza with a pitcher at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-10",
-    "updateDate": "2026-11-10T19:04:53.193Z",
+    "updateDate": "2026-11-10T20:03:44.837Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "In our weekly police report, on October 25, officers were dispatched to Plympton Street and Rita Avenue where they located a 40-year-old man who had been stopped at the intersection for some time. The individual was taken into custody and arrested for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-10",
-    "updateDate": "2026-11-10T19:04:53.193Z",
+    "updateDate": "2026-11-10T20:03:44.837Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: Chocolate Heath Crunch. The restaurant is open until 10:00 PM.",
+    "mainText": "Today's featured flavor at Culver's is Chocolate Heath Crunch. The store is currently open for business and will remain open until 10:00 PM tonight, so there is plenty of time to stop by and enjoy a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
