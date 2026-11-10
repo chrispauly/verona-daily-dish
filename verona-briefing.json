@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-10",
-    "updateDate": "2026-11-10T01:04:10.092Z",
+    "updateDate": "2026-11-10T02:05:38.983Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is a clear 52 degrees near Badger Ridge Middle School under a New Moon, with an overnight low of 39 degrees and no rain expected.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have clear skies by Reddan Soccer Park and a new moon phase tonight. You can expect an overnight low of 39 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-10",
-    "updateDate": "2026-11-10T01:04:10.092Z",
+    "updateDate": "2026-11-10T02:05:38.983Z",
     "titleText": "Verona City News",
-    "mainText": "Regarding city infrastructure, the Mark Drive Reconstruction project is currently in Phase 2. Contractors are busy finishing concrete curbs and sidewalks, with the next layer of asphalt expected to be laid before winter weather sets in, while final landscaping and the top layer of asphalt are slated for next spring.",
+    "mainText": "The City of Verona is moving ahead with Phase 2 of the Mark Drive reconstruction project. This work includes essential upgrades to water and sewer utilities, along with new curb, gutter, and sidewalk installations to improve local infrastructure.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-10",
-    "updateDate": "2026-11-10T01:04:10.092Z",
+    "updateDate": "2026-11-10T02:05:38.983Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty to look forward to in Verona. You can catch Yoga at Insight Wellness today. Tomorrow, the town comes alive with trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus live music at Paddy Mac's.",
+    "mainText": "Today you can participate in Yoga at Insight Wellness. Looking ahead to tomorrow, there are plenty of ways to play, including trivia nights at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-10",
-    "updateDate": "2026-11-10T01:04:10.092Z",
+    "updateDate": "2026-11-10T02:05:38.983Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, we highlight an incident from October 25 where officers located a 40-year-old man asleep at the wheel at the intersection of Plympton Street and Rita Avenue, resulting in an O W I arrest.",
+    "mainText": "In a notable incident from October 25, local officers conducted a welfare check at the intersection of Plympton Street and Rita Avenue, resulting in the arrest of a 40-year-old man for an O W I offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-10",
-    "updateDate": "2026-11-10T01:04:10.092Z",
+    "updateDate": "2026-11-10T02:05:38.983Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "If you are craving a treat, Culver's is open tonight until 10:00 PM. Stop by to enjoy today's Flavor of the Day while the shop is still serving.",
+    "mainText": "The Culver's flavor of the day is Caramel Fudge Cookie Dough. Since the store is currently open until 10 PM, you have plenty of time to stop by for a sweet treat this evening.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
