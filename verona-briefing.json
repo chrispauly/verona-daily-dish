@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-10",
-    "updateDate": "2026-11-10T12:05:50.230Z",
+    "updateDate": "2026-11-10T13:03:42.518Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, conditions are clear at Reddan Soccer Park with a temperature of 39 degrees under a New Moon.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: the temperature is 38 degrees with clear skies near City Hall. Please note that the ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-10",
-    "updateDate": "2026-11-10T12:05:50.230Z",
+    "updateDate": "2026-11-10T13:03:42.518Z",
     "titleText": "Verona City News",
-    "mainText": "The Mark Drive reconstruction project is in progress, covering water and sewer improvements between Nine Mound Road and Westlawn Avenue, with new sidewalks and landscaping planned.",
+    "mainText": "The City of Verona is moving forward with the Mark Drive Reconstruction Project. Phase two is currently underway, focusing on water main and sanitary sewer improvements, with new concrete sidewalks and landscaping planned to follow.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-10",
-    "updateDate": "2026-11-10T12:05:50.230Z",
+    "updateDate": "2026-11-10T13:03:42.518Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with trivia today at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus live music and yoga starting tomorrow.",
+    "mainText": "It is a busy week for entertainment. Today, you can join trivia at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's. Looking ahead to tomorrow, enjoy live music at Paddy Mac's, yoga at Insight Wellness, or Wednesday pizza and a pitcher at Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-10",
-    "updateDate": "2026-11-10T12:05:50.230Z",
+    "updateDate": "2026-11-10T13:03:42.518Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, officers arrested a 40-year-old man for an O W I on October 25 after he was discovered unresponsive at a local intersection.",
+    "mainText": "Regarding the weekly police report, on October 25, officers located a 40-year-old man passed out behind the wheel at the intersection of Plympton Street and Rita Avenue, leading to an arrest for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-10",
-    "updateDate": "2026-11-10T12:05:50.230Z",
+    "updateDate": "2026-11-10T13:03:42.518Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is Chocolate Heath Crunch, and the store opens today at 10:00 AM to start serving.",
+    "mainText": "The flavor of the day at Culver's is Chocolate Heath Crunch. The restaurant opens today at 10:00 AM, so be sure to stop by and enjoy a scoop later this morning.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
