@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-10",
-    "updateDate": "2026-11-10T09:04:24.385Z",
+    "updateDate": "2026-11-10T10:04:27.089Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: we have clear skies and a temperature of 44 degrees at Verona City Hall, with a New Moon phase tonight.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: we have clear skies over Badger Prairie County Park and are currently experiencing a New Moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-10",
-    "updateDate": "2026-11-10T09:04:24.385Z",
+    "updateDate": "2026-11-10T10:04:27.089Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that the Mark Drive Reconstruction Project is underway, involving essential updates to water mains, storm sewers, and the installation of new concrete sidewalks and driveways to improve local infrastructure.",
+    "mainText": "There are no important city news articles or emails to share with you at this time.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-10",
-    "updateDate": "2026-11-10T09:04:24.385Z",
+    "updateDate": "2026-11-10T10:04:27.089Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of fun on the horizon, starting with trivia today at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's. Looking ahead to tomorrow, enjoy live music at Paddy Mac's, yoga at Insight Wellness, and pizza and a pitcher at Lake Lou-ee.",
+    "mainText": "We have a busy couple of days ahead in Verona. Today, you can join trivia nights at Hop Haus Brewing Co, Wisconsin Brewing Company, or Paddy Mac's. Looking ahead to tomorrow, there is live music at Paddy Mac's, yoga at Insight Wellness, and pizza and a pitcher at Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-10",
-    "updateDate": "2026-11-10T09:04:24.385Z",
+    "updateDate": "2026-11-10T10:04:27.089Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on October 25, officers were dispatched to the intersection of Plympton Street and Rita Avenue where they located a 40-year-old Verona man passed out behind the wheel, resulting in an arrest for an O W I.",
+    "mainText": "There are no incidents to report from the Verona Police Department for this week.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-10",
-    "updateDate": "2026-11-10T09:04:24.385Z",
+    "updateDate": "2026-11-10T10:04:27.089Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Chocolate Heath Crunch. The store opens today at 10:00 AM, so be sure to stop by and enjoy a scoop.",
+    "mainText": "It is a great day to visit the custard stand. Culver's opens today at 10:00 AM with the delicious Chocolate Heath Crunch as the flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
