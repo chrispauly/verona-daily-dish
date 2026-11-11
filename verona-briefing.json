@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-11",
-    "updateDate": "2026-11-11T05:04:05.092Z",
+    "updateDate": "2026-11-11T06:06:30.595Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we have overcast skies and temperatures at 42 degrees near City Hall. We are under a New Moon tonight, and with an overnight low of 42 degrees, you should prepare for rain heading into tomorrow.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: it is 42 degrees under overcast skies near the Military Ridge State Trail, with a new moon phase visible overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-11",
-    "updateDate": "2026-11-11T05:04:05.092Z",
+    "updateDate": "2026-11-11T06:06:30.595Z",
     "titleText": "Verona City News",
-    "mainText": "The Mark Drive Reconstruction project is officially in Phase 2. Contractors are currently wrapping up concrete work for curbs, sidewalks, and driveways, with asphalt work weather-dependent and surface paving planned for next spring.",
+    "mainText": "The City of Verona is currently focused on the Mark Drive reconstruction project, which includes updates to water mains, sanitary sewers, and new sidewalks between Nine Mound Road and Westlawn Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-11",
-    "updateDate": "2026-11-11T05:04:05.092Z",
+    "updateDate": "2026-11-11T06:06:30.595Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Tomorrow, you can enjoy Live Music at Paddy Mac's, Yoga at Insight Wellness, or the Pizza and a Pitcher event at the Wisconsin Brewing Company. On Wednesday, check out Trivia Night at The Mill or The Bogey Factory.",
+    "mainText": "There is plenty to do in town with Live Music at Paddy Mac's, Yoga at Insight Wellness, and Wednesday Pizza and a Pitcher at Lake Lou-ee all happening today.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-11",
-    "updateDate": "2026-11-11T05:04:05.092Z",
+    "updateDate": "2026-11-11T06:06:30.595Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on October 23, officers made contact with two 13-year-olds on eMotos on Ashton Drive, resulting in their parents being cited for permitting them to drive a prohibited motor vehicle.",
+    "mainText": "A notable incident occurred on October 19, when officers conducted a traffic stop on a 49-year-old man and took him into custody due to an active arrest warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-11",
-    "updateDate": "2026-11-11T05:04:05.092Z",
+    "updateDate": "2026-11-11T06:06:30.595Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor was Chocolate Heath Crunch. Since the store is closed for the night, mark your calendars for tomorrow's flavor, Chocolate Caramel Twist, when the doors open at 10:00 AM.",
+    "mainText": "Stop by for today's delicious flavor, Chocolate Caramel Twist, and keep in mind that the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
