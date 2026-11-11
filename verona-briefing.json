@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-11",
-    "updateDate": "2026-11-11T01:04:17.410Z",
+    "updateDate": "2026-11-11T02:05:30.859Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: we have overcast skies and a temperature of 49 degrees near Badger Ridge Middle School. We are currently under a new moon phase, and later tonight, the temperature will drop to an overnight low of 45 degrees with rain in the forecast.",
+    "mainText": "Hello, Verona! At 8 PM, we are seeing overcast skies at Verona Community Park with a temperature of 46 degrees, an overnight low of 43, and rain is expected overnight under our New Moon phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-11",
-    "updateDate": "2026-11-11T01:04:17.410Z",
+    "updateDate": "2026-11-11T02:05:30.859Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Mark Drive reconstruction project is currently underway. Contractors are wrapping up concrete work for curbs, sidewalks, and driveways, with asphalt work currently in progress. Please check the city website for more detailed project schedules.",
+    "mainText": "The City of Verona is working on the Mark Drive Reconstruction project, which includes updates to water mains, sanitary sewers, and new sidewalk installations between Nine Mound Road and Westlawn Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-11",
-    "updateDate": "2026-11-11T01:04:17.410Z",
+    "updateDate": "2026-11-11T02:05:30.859Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty happening in town. Today, you can participate in trivia at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's. Looking ahead to tomorrow, there is live music at Paddy Mac's, yoga sessions at Insight Wellness, and trivia nights at The Mill and The Bogey Factory.",
+    "mainText": "There is plenty to do, with trivia happening today at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music and yoga classes coming up tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-11",
-    "updateDate": "2026-11-11T01:04:17.410Z",
+    "updateDate": "2026-11-11T02:05:30.859Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from October 25, the Verona Police Department arrested a 40-year-old man for an O W I offence after he was found stopped at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "In a noteworthy incident from the past week, officers arrested a man for O W I on October 25 after he was found stopped at the intersection of Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-11",
-    "updateDate": "2026-11-11T01:04:17.410Z",
+    "updateDate": "2026-11-11T02:05:30.859Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Chocolate Heath Crunch. The store is currently open until 10:00 PM, so there is still plenty of time to stop by for a treat.",
+    "mainText": "Stop by for today's Flavor of the Day, Chocolate Heath Crunch; the restaurant is open until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
