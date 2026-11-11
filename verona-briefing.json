@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-11",
-    "updateDate": "2026-11-11T13:03:53.981Z",
+    "updateDate": "2026-11-11T14:04:11.545Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: it is 41 degrees with overcast skies near Badger Ridge Middle School. You can look forward to an ISS pass tonight, but you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish. We are seeing overcast skies at Harriet Park with a temperature of 44 degrees. It is a New Moon tonight, and if you are looking skyward, the ISS will be visible for 3 minutes starting at 5:43 PM, rising over Belleville and moving toward Fitchburg.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-11",
-    "updateDate": "2026-11-11T13:03:53.981Z",
+    "updateDate": "2026-11-11T14:04:11.545Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is progressing on the Mark Drive reconstruction project, which includes improvements to water mains, sanitary and storm sewers, and new concrete sidewalks. Construction is weather dependent, but the team is currently working on concrete curbs and driveways.",
+    "mainText": "We have checked the latest city reports and emails, and there are no new developments or urgent items to report for the residents of Verona today.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-11",
-    "updateDate": "2026-11-11T13:03:53.981Z",
+    "updateDate": "2026-11-11T14:04:11.545Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a full slate today with Live Music at Paddy Mac's, Yoga at Insight Wellness, and Wednesday Pizza and a Pitcher at Lake Lou-ee. Looking ahead to tomorrow, check out Trivia Night at The Mill, Trivia Night at The Bogey Factory, or ART House 360.",
+    "mainText": "It is a busy day in town. Today, you can catch live music at Paddy Mac, attend a yoga class at Insight Wellness, or enjoy pizza at the Wisconsin Brewing Company. Tomorrow, check out trivia at The Mill or The Bogey Factory, and keep an eye out for Art House 360 events starting tomorrow night.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-11",
-    "updateDate": "2026-11-11T13:03:53.981Z",
+    "updateDate": "2026-11-11T14:04:11.545Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 25, police responded to the intersection of Plympton Street and Rita Avenue where they arrested a 40-year-old man for O W I.",
+    "mainText": "The Verona Police Department did not have any reports of criminal activity or noteworthy incidents to share from this past week.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-11",
-    "updateDate": "2026-11-11T13:03:53.981Z",
+    "updateDate": "2026-11-11T14:04:11.545Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can satisfy your sweet tooth with today's flavor, Chocolate Caramel Twist. The restaurant opens today at 10:00 AM.",
+    "mainText": "Today's featured flavor at Culver's is the Chocolate Caramel Twist. The store is currently closed, but they will open today at 10:00 AM, so be sure to stop by and satisfy your sweet tooth.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
