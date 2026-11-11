@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-11",
-    "updateDate": "2026-11-11T16:04:06.653Z",
+    "updateDate": "2026-11-11T17:05:44.110Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. It is 49 degrees with light drizzle near the Verona Area High School, and we are currently experiencing a New Moon phase.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. It is a cool 48 degrees with moderate drizzle near Verona City Hall. Under the New Moon, we have a clear sky tonight, which means you can catch the International Space Station passing over for three minutes starting at 5:43 PM; it will rise in the south over Belleville and track east toward Fitchburg, staying low near the horizon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-11",
-    "updateDate": "2026-11-11T16:04:06.653Z",
+    "updateDate": "2026-11-11T17:05:44.110Z",
     "titleText": "Verona City News",
-    "mainText": "Election season is underway as candidate packets are now available for the 2027 Spring Election. Additionally, residents should be aware that a public meeting is scheduled for December 8 at the Senior Center regarding the Military Ridge State Trail paving project.",
+    "mainText": "Important updates for the city include candidate packets for the 2027 Spring Election being available at the Clerk's Office. Additionally, the Military Ridge State Trail paving project continues, with a public meeting regarding the design and trail closures scheduled for December 8 at the Verona Senior Center.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-11",
-    "updateDate": "2026-11-11T16:04:06.653Z",
+    "updateDate": "2026-11-11T17:05:44.110Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community. Today we have live music at Paddy Mac, yoga at Insight Wellness, and a pizza and pitcher special at Wisconsin Brewing Company. Looking ahead, tomorrow features trivia at The Mill and The Bogey Factory.",
+    "mainText": "There is plenty to do in town. Today, you can catch live music at Paddy Mac's, attend yoga at Insight Wellness, or enjoy Pizza and a Pitcher at Lake Lou-ee. Tomorrow, look forward to Trivia Night at both The Mill and The Bogey Factory, plus Art House 360 events.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-11",
-    "updateDate": "2026-11-11T16:04:06.653Z",
+    "updateDate": "2026-11-11T17:05:44.110Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable call from October 25, officers responded to a situation where a driver was arrested for an O W I after being located at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "Looking at recent reports, on October 25, officers located a 40-year-old man passed out behind the wheel at the intersection of Plympton Street and Rita Avenue, resulting in an arrest for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-11",
-    "updateDate": "2026-11-11T16:04:06.653Z",
+    "updateDate": "2026-11-11T17:05:44.110Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the decadent Chocolate Caramel Twist. Our doors are open and we are serving until 10:00 PM tonight, so stop by soon to grab your favorite treat.",
+    "mainText": "Today's flavor of the day is the delicious Chocolate Caramel Twist. The restaurant is currently open, so make sure to stop by before closing time at 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
