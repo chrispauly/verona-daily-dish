@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-11",
-    "updateDate": "2026-11-11T11:03:51.503Z",
+    "updateDate": "2026-11-11T12:06:07.397Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: it is 41 degrees with overcast skies at Verona City Hall and we are currently in a new moon phase.",
+    "mainText": "Hello, Verona! At 6 AM, it is a brisk 43 degrees and overcast near the Verona Public Library. We are in a new moon phase, and while the ISS passes overhead tonight, you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-11",
-    "updateDate": "2026-11-11T11:03:51.503Z",
+    "updateDate": "2026-11-11T12:06:07.397Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is moving forward with the Mark Drive Reconstruction Project. Phase two is currently underway, with contractors focusing on concrete curbs, sidewalks, and preparing the roadway for asphalt.",
+    "mainText": "The City of Verona is moving ahead with Phase 2 of the Mark Drive reconstruction project. This phase includes finishing concrete curbs and sidewalks, with the asphalt base being prepared for final paving next spring.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-11",
-    "updateDate": "2026-11-11T11:03:51.503Z",
+    "updateDate": "2026-11-11T12:06:07.397Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Today, you can catch live music at Paddy Mac's, take a yoga class at Insight Wellness, or grab pizza and a pitcher at Lake Lou-ee. Tomorrow, join the fun with trivia at The Mill, The Bogey Factory, or the ART House 360 events.",
+    "mainText": "There is a busy schedule of events in our community. Today, you can catch Live Music at Paddy Mac's, yoga at Insight Wellness, or Wednesday pizza and a pitcher at Lake Lou-ee. Tomorrow, look forward to Trivia Night at The Mill, Trivia Night at The Bogey Factory, and even more fun starting at ART House.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-11",
-    "updateDate": "2026-11-11T11:03:51.503Z",
+    "updateDate": "2026-11-11T12:06:07.397Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a recent report, on October 25, officers responded to the intersection of Plympton Street and Rita Avenue where they found a man passed out behind the wheel. The individual was taken into custody for an O W I offence.",
+    "mainText": "In our weekly police report, on October 23, officers stopped two juveniles on Ashton Drive who were riding prohibited electric motorcycles after previously being warned, resulting in citations for their parents.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-11",
-    "updateDate": "2026-11-11T11:03:51.503Z",
+    "updateDate": "2026-11-11T12:06:07.397Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is the decadent Chocolate Caramel Twist. The restaurant opens today at 10:00 AM, so plan your visit accordingly.",
+    "mainText": "Today is the perfect day to enjoy the Chocolate Caramel Twist at Culver's. The store opens today at 10:00 AM, so head on over to satisfy your cravings.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
