@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-12",
-    "updateDate": "2026-11-12T13:03:58.771Z",
+    "updateDate": "2026-11-12T14:04:10.014Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: it is 36 degrees with clear skies at Verona City Hall. Also, the ISS will pass overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: it is a clear 37 degrees at Verona Community Park with a waxing crescent moon in the sky. The ISS is set to pass overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-12",
-    "updateDate": "2026-11-12T13:03:58.771Z",
+    "updateDate": "2026-11-12T14:04:10.014Z",
     "titleText": "Verona City News",
-    "mainText": "The city is working on the Military Ridge State Trail paving project to improve accessibility, with a public meeting scheduled for December 8. Additionally, the municipal court wants to clarify that while many traffic tickets can be paid online or by phone, those with O W I tickets must schedule an appointment with the city attorney.",
+    "mainText": "In city news, the Municipal Court notes that many tickets can be settled online to avoid a court date, and the City Clerk has released candidate packets for the 2027 election with a submission deadline of January 5.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-12",
-    "updateDate": "2026-11-12T13:03:58.771Z",
+    "updateDate": "2026-11-12T14:04:10.014Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our area, starting with yoga sessions today. Looking ahead, ART House 360 hosts events this Thursday, Hop Haus Brewing has trivia this Thursday, and the high school is hosting a music tribute to John Denver this Saturday.",
+    "mainText": "Today, you can join Yoga at Insight Wellness, and later this evening, ART House 360 is hosting their Thursday night event. Tomorrow, look out for live music at Bailey's Run and Lake Lou-ee, along with the Dane County Farmers' Market.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-12",
-    "updateDate": "2026-11-12T13:03:58.771Z",
+    "updateDate": "2026-11-12T14:04:10.014Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly look at police activity, on October 23, an officer stopped two 13-year-olds on eMotos, leading to their parents receiving citations for allowing the prohibited use of the devices.",
+    "mainText": "On October 23, officers made contact with two juveniles riding prohibited eMotos on Ashton Drive, resulting in their parents being cited for the violation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-12",
-    "updateDate": "2026-11-12T13:03:58.771Z",
+    "updateDate": "2026-11-12T14:04:10.014Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The delicious flavor of the day today is Devil's Food Cake. The restaurant opens today at 10:00 AM, and we hope you can stop by to grab a scoop.",
+    "mainText": "Today's flavor of the day is the delightful Devil's Food Cake, and you can stop by when the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
