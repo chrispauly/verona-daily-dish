@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-12",
-    "updateDate": "2026-11-12T15:05:08.556Z",
+    "updateDate": "2026-11-12T16:04:23.130Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, we are seeing 37 degrees with clear skies at Harriet Park and a waxing crescent moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have mainly clear skies over the Verona Area High School with temperatures at 38 degrees. Keep in mind the ISS will be passing by tonight, starting at 6:31 PM; it will rise in the West Southwest over Mount Horeb and travel toward the East Northeast over Fitchburg and Madison, appearing almost directly overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-12",
-    "updateDate": "2026-11-12T15:05:08.556Z",
+    "updateDate": "2026-11-12T16:04:23.130Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Plan Commission is meeting on December 7 to discuss development projects like the Sub-Zero expansion. Additionally, the City Clerk has released the 2027 municipal candidate packets for those looking to run for local office.",
+    "mainText": "The City of Verona has several updates, including a Plan Commission meeting on December 7th to review site plans for the Liberty Business Park project. Additionally, the Municipal Court has provided new guidance on paying traffic citations, noting that you can now utilize online payment options or submit a plea sheet to avoid appearing in court for non-mandatory cases.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-12",
-    "updateDate": "2026-11-12T15:05:08.556Z",
+    "updateDate": "2026-11-12T16:04:23.130Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy lineup with Yoga at Insight Wellness today, Thursday night festivities at ART House 360, and Hop Haus trivia happening this Thursday.",
+    "mainText": "There is a great lineup of local activities, starting with Yoga at Insight Wellness today. You can also look forward to ART House 360 events this evening, and Hop Haus Trivia tomorrow night.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-12",
-    "updateDate": "2026-11-12T15:05:08.556Z",
+    "updateDate": "2026-11-12T16:04:23.130Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 25, Verona Police responded to a report of a vehicle stopped at the intersection of Plympton Street and Rita Avenue, where a man was subsequently arrested for an O W I.",
+    "mainText": "In a noteworthy call from October 23, officers made contact with two 13-year-olds on eMotos who had been previously warned, resulting in their parents receiving citations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-12",
-    "updateDate": "2026-11-12T15:05:08.556Z",
+    "updateDate": "2026-11-12T16:04:23.130Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by for a scoop of today's flavor, Devil's Food Cake, and note that the store opens today at 10:00 AM.",
+    "mainText": "The Culver's flavor of the day is the delicious Devil's Food Cake. The store is currently open and will remain open until 10:00 PM tonight, so stop by soon to grab your scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
