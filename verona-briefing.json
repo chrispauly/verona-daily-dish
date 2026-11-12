@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-12",
-    "updateDate": "2026-11-12T03:04:56.609Z",
+    "updateDate": "2026-11-12T04:04:22.064Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: expect overcast skies and 45 degrees at Fireman's Park. The overnight low will drop to 37 degrees with no rain predicted for the rest of the night.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: we have mainly clear skies near Badger Prairie County Park, a waxing crescent moon, and an overnight low of 36 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-12",
-    "updateDate": "2026-11-12T03:04:56.609Z",
+    "updateDate": "2026-11-12T04:04:22.064Z",
     "titleText": "Verona City News",
-    "mainText": "The city is currently working on the Military Ridge State Trail paving project to improve year-round access for everyone, and officials are also accepting candidate registration for the upcoming 2027 Spring Election.",
+    "mainText": "The City of Verona is moving forward with the Military Ridge State Trail paving project to ensure year-round accessibility, with a public information meeting scheduled for December 8 at the Senior Center.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-12",
-    "updateDate": "2026-11-12T03:04:56.609Z",
+    "updateDate": "2026-11-12T04:04:22.064Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today features live music at Paddy Mac's and yoga at Insight Wellness. Looking ahead to tomorrow, you can enjoy trivia at The Mill and The Bogey Factory, or head to the ART House for their Thursday night series.",
+    "mainText": "We have a busy schedule ahead, including Yoga at Insight Wellness and Wednesday Pizza and a Pitcher at Lake Lou-ee both happening today, plus trivia events tomorrow and live music at Bailey's Run on Thursday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-12",
-    "updateDate": "2026-11-12T03:04:56.609Z",
+    "updateDate": "2026-11-12T04:04:22.064Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 25, officers responded to an intersection where they found a 40-year-old man behind the wheel, resulting in an arrest for his first O W I offence.",
+    "mainText": "In a recent report, on October 25, officers arrested a 40-year-old man for an O W I offence after finding him in his vehicle at the intersection of Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-12",
-    "updateDate": "2026-11-12T03:04:56.609Z",
+    "updateDate": "2026-11-12T04:04:22.064Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Chocolate Caramel Twist. The store is currently open, but please note that they will be closing soon at 10 PM tonight.",
+    "mainText": "Culver's has wrapped up its service for the night, but be sure to head over when they open tomorrow at 10:00 AM to enjoy tomorrow's flavor of the day, which is Devil's Food Cake.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
