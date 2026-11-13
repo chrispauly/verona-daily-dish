@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-13",
-    "updateDate": "2026-11-13T02:05:10.449Z",
+    "updateDate": "2026-11-13T03:04:59.474Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, it is 37 degrees and clear near Reddan Soccer Park. We have a waxing crescent moon in the sky, and we are expecting an overnight low of 31 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: skies are clear near Badger Ridge Middle School with the temperature at 35 degrees, but it feels like 25. We have a waxing crescent moon out, and overnight, expect the mercury to dip to 31 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-13",
-    "updateDate": "2026-11-13T02:05:10.449Z",
+    "updateDate": "2026-11-13T03:04:59.474Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has released general election notices for the upcoming year, and the Plan Commission is preparing to review several development proposals including a site plan and traffic impact analysis for the Sub-Zero project at Liberty Business Park on December 7th.",
+    "mainText": "The City of Verona is accepting public comment on several upcoming projects before the Plan Commission, including the proposed Sub-Zero expansion at Liberty Business Park. Additionally, municipal court services are available for those needing to handle traffic citations or ordinance violations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-13",
-    "updateDate": "2026-11-13T02:05:10.449Z",
+    "updateDate": "2026-11-13T03:04:59.474Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule with Yoga at Insight Wellness today, Art House 360 Thursday nights today, and Hop Haus Trivia happening today as well. Looking ahead, enjoy live music at Bailey's Run tomorrow and the Dane County Farmers Market this Saturday.",
+    "mainText": "We have plenty to do, including Yoga at Insight Wellness happening today and ART House 360 hosting Thursday night festivities. Looking ahead, you can catch Hop Haus Trivia tomorrow or enjoy live music at Bailey's Run Vineyard.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-13",
-    "updateDate": "2026-11-13T02:05:10.449Z",
+    "updateDate": "2026-11-13T03:04:59.474Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a recent report, officers noted that on October 25th, they discovered a 40-year-old man who had been stopped at the intersection of Plympton Street and Rita Avenue for over 20 minutes, leading to his arrest for an O W I first offence.",
+    "mainText": "A noteworthy call from the police department occurred on October 25, when officers responded to a report of a vehicle stopped in an intersection, leading to an arrest for a first offence O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-13",
-    "updateDate": "2026-11-13T02:05:10.449Z",
+    "updateDate": "2026-11-13T03:04:59.474Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "It is a great day to stop by the local Culver's to enjoy today's flavor, Devil's Food Cake. The restaurant is currently open and will be serving until 10 PM tonight.",
+    "mainText": "Today's flavor of the day is the rich and tasty Devil's Food Cake. The restaurant is currently open but will be closing its doors for the night in just under an hour, so plan your trip soon.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
