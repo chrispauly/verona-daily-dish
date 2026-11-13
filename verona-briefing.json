@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-13",
-    "updateDate": "2026-11-13T05:04:33.567Z",
+    "updateDate": "2026-11-13T06:06:52.214Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: skies are clear near the Verona Public Library with a temperature of 33 degrees. We are expecting an overnight low of 31 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: expect fair conditions with temperatures holding steady at 70 degrees near Badger Prairie County Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-13",
-    "updateDate": "2026-11-13T05:04:33.567Z",
+    "updateDate": "2026-11-13T06:06:52.214Z",
     "titleText": "Verona City News",
-    "mainText": "In city business, the Plan Commission is set to review the Sub-Zero site plan for Liberty Business Park on December 7th, while the Municipal Court reminds residents that O W I tickets require a personal appearance.",
+    "mainText": "In city news, the Plan Commission is set to review the Liberty Business Park project on December 7th, while Municipal Court continues to process traffic and ordinance citations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-13",
-    "updateDate": "2026-11-13T05:04:33.567Z",
+    "updateDate": "2026-11-13T06:06:52.214Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy lineup ahead with live music at Bailey's Run and Lake Lou-ee tomorrow, the Dane County Farmers' Market on November 14, and an exciting John Denver tribute concert at the High School on November 15.",
+    "mainText": "There is plenty to do this week, starting with live music today at Bailey's Run Vineyard and continuing tomorrow with the Dane County Farmers' Market and performances at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-13",
-    "updateDate": "2026-11-13T05:04:33.567Z",
+    "updateDate": "2026-11-13T06:06:52.214Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at recent reports, on October 22, a vehicle crashed into a Metro bus on West Verona Avenue, resulting in a citation for failure to yield.",
+    "mainText": "On October 19th, the Verona Police Department took a 49-year-old man into custody for operating with a suspended license and an active arrest warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-13",
-    "updateDate": "2026-11-13T05:04:33.567Z",
+    "updateDate": "2026-11-13T06:06:52.214Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor was Devil's Food Cake. Since we are closed for the evening, please join us tomorrow at 10:00 AM when we will be serving Raspberry Cheesecake.",
+    "mainText": "Today's delicious flavor of the day is Raspberry Cheesecake. The restaurant opens today at 10:00 AM, so stop by and grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
