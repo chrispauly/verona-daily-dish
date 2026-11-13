@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-13",
-    "updateDate": "2026-11-13T21:03:40.524Z",
+    "updateDate": "2026-11-13T22:03:45.578Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, we have fair conditions at Fireman's Park with a temperature of 70 degrees. If you look up at 5:43 PM tonight, you will see the International Space Station rising over Mount Horeb and heading toward the Madison area for a five minute show.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we are seeing fair conditions near the Verona Public Library. Also, keep your eyes on the skies tonight at 5:43 PM to spot the International Space Station as it travels from over Mount Horeb toward the Fitchburg area for a 5-minute flyover.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-13",
-    "updateDate": "2026-11-13T21:03:40.524Z",
+    "updateDate": "2026-11-13T22:03:45.578Z",
     "titleText": "Verona City News",
-    "mainText": "The city is preparing for upcoming elections with various public notices now available. Additionally, the Plan Commission is reviewing new development site plans for the Liberty Business Park project.",
+    "mainText": "The Plan Commission has several development projects on the docket for December 7th, while the Municipal Court reminds residents that they can handle non-mandatory citations online or by mail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-13",
-    "updateDate": "2026-11-13T21:03:40.524Z",
+    "updateDate": "2026-11-13T22:03:45.578Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a packed schedule starting with live music at Bailey's Run Vineyard today. Looking ahead, you can enjoy the Dane County Farmers Market tomorrow or catch the music of John Denver at the Verona Area High School Fine Arts Center on November 15.",
+    "mainText": "Today features live music at Bailey's Run Vineyard, with even more music at Paddy Mac's and the Dane County Farmers' Market at the Capitol happening tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-13",
-    "updateDate": "2026-11-13T21:03:40.524Z",
+    "updateDate": "2026-11-13T22:03:45.578Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding recent activity, on October 25, officers arrested a man for his first O W I offence after finding him in his vehicle at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "On October 25th, officers located a driver at Plympton Street and Rita Avenue who was passed out behind the wheel, resulting in an O W I arrest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-13",
-    "updateDate": "2026-11-13T21:03:40.524Z",
+    "updateDate": "2026-11-13T22:03:45.578Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is the delightful Raspberry Cheesecake. The restaurant is currently open and will be serving guests until 10:30 PM tonight.",
+    "mainText": "You can enjoy today's flavor of the day, Raspberry Cheesecake, at Culver's until they close at 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
