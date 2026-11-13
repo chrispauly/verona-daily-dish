@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-13",
-    "updateDate": "2026-11-13T09:04:32.070Z",
+    "updateDate": "2026-11-13T10:04:43.037Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, it is 70 degrees with fair conditions near the Verona Public Library.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: expect fair conditions with a temperature of 70 degrees near the Verona Area High School.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-13",
-    "updateDate": "2026-11-13T09:04:32.070Z",
+    "updateDate": "2026-11-13T10:04:43.037Z",
     "titleText": "Verona City News",
-    "mainText": "City news includes updates on municipal court procedures for handling tickets and an agenda for the upcoming December 7th Plan Commission meeting regarding new development projects.",
+    "mainText": "The city is preparing for upcoming elections with various notices posted, while the Plan Commission is reviewing new site plans for projects in the Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-13",
-    "updateDate": "2026-11-13T09:04:32.070Z",
+    "updateDate": "2026-11-13T10:04:43.037Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is a busy schedule ahead, with Live Music at Bailey's Run today. Tomorrow, you can enjoy music at Lake Lou-ee and Paddy Mac's, or visit the Dane County Farmer's Market.",
+    "mainText": "Today features live music at Bailey's Run, while tomorrow brings the Dane County Farmers' Market and live music at Paddy Mac's, followed by the John Denver music tribute this Saturday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-13",
-    "updateDate": "2026-11-13T09:04:32.070Z",
+    "updateDate": "2026-11-13T10:04:43.037Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a recent report from October 25, officers arrested a man for an O W I after discovering him stopped at an intersection.",
+    "mainText": "In a recent report, officers conducted an O W I arrest on October 25 after finding a driver stationary in the intersection of Plympton and Rita.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-13",
-    "updateDate": "2026-11-13T09:04:32.070Z",
+    "updateDate": "2026-11-13T10:04:43.037Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is a great choice today with their flavor, Raspberry Cheesecake. The store opens today at 10:00 AM.",
+    "mainText": "Today's flavor is Raspberry Cheesecake, which you can pick up starting when the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
