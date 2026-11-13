@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-13",
-    "updateDate": "2026-11-13T15:04:26.441Z",
+    "updateDate": "2026-11-13T16:04:33.689Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we have fair conditions currently near Harriet Park with a temperature of 70 degrees. If you are looking to the stars tonight, the International Space Station will be visible starting at 5:43 PM; it will rise in the southwest over Mount Horeb and track high in the sky toward the Fitchburg and Madison area.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. We have clear skies and a temperature of 35 degrees at Verona Community Park. The waxing crescent moon is visible, and please note that while there is an ISS pass tonight, you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-13",
-    "updateDate": "2026-11-13T15:04:26.441Z",
+    "updateDate": "2026-11-13T16:04:33.689Z",
     "titleText": "Verona City News",
-    "mainText": "The city has a busy agenda ahead with the Plan Commission meeting on December 7th to discuss pending projects like the Liberty Business Park site plan, while the Municipal Court reminds residents that they can handle many traffic citations online or by mail without needing an in-person appearance.",
+    "mainText": "City Hall is busy with election notices and the Plan Commission reviewing site plans for Sub-Zero in the Liberty Business Park. Additionally, remember that the Municipal Court is available for handling citations, though O W I cases require personal attention.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-13",
-    "updateDate": "2026-11-13T15:04:26.441Z",
+    "updateDate": "2026-11-13T16:04:33.689Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town with live music at Bailey's Run Vineyard today, performances at Lake Lou-ee and Paddy Mac's tomorrow, and a special tribute to John Denver taking place at the Verona Area High School Fine Arts Center on November 15th.",
+    "mainText": "There is a lot to do this week. Today, catch live music at Bailey Run Vineyard. Tomorrow, enjoy the Dane County Farmers Market in Madison or live music at Paddy Mac's. On Saturday, take in the music of John Denver at the Verona Area High School Fine Arts Center.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-13",
-    "updateDate": "2026-11-13T15:04:26.441Z",
+    "updateDate": "2026-11-13T16:04:33.689Z",
     "titleText": "Verona Police Report",
-    "mainText": "During the week of October 18th to the 24th, police handled several notable calls, including an incident on October 25th where a driver was taken into custody for an O W I offence.",
+    "mainText": "In a noteworthy call from October 25, the Verona Police Department responded to a report of a vehicle stopped at an intersection where a man was found behind the wheel and subsequently arrested for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-13",
-    "updateDate": "2026-11-13T15:04:26.441Z",
+    "updateDate": "2026-11-13T16:04:33.689Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's delicious Raspberry Cheesecake flavor at Culver's, which opens today at 10:00 AM.",
+    "mainText": "Stop by Culver's of Verona today to enjoy our featured flavor of the day, Raspberry Cheesecake. We are open and serving until 10:30 PM, so come visit us soon.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
