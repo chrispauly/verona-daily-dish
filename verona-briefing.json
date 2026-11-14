@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-14",
-    "updateDate": "2026-11-14T18:04:08.684Z",
+    "updateDate": "2026-11-14T19:03:26.562Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: expect 39-degree temperatures with clear skies at the Verona Area High School. We have an exciting space station sighting tonight starting at 6:32 PM, as it travels from over Mount Horeb toward the Madison area near Home Depot, climbing about halfway up the sky.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: the temperature is a chilly 40 degrees, feeling like 33 with clear skies over the Verona Area High School. We also have a waxing crescent moon, and you can catch the ISS passing overhead at 6:32 PM tonight as it travels from the west over Mount Horeb toward the northeast near Madison.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-14",
-    "updateDate": "2026-11-14T18:04:08.684Z",
+    "updateDate": "2026-11-14T19:03:26.562Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has released a series of election notices regarding the Fall General Election. Additionally, residents can review upcoming development projects, including site plans for the Liberty Business Park, on the city website.",
+    "mainText": "The city has released important notices regarding the November General Election. Additionally, the Plan Commission is preparing to review development projects, including site plans for Sub-Zero at Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-14",
-    "updateDate": "2026-11-14T18:04:08.684Z",
+    "updateDate": "2026-11-14T19:03:26.562Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There are currently no community events scheduled in Verona for the next 30 days.",
+    "mainText": "There are no events listed for the next 30 days, but we will be sure to keep you updated if new community activities are added to the schedule.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-14",
-    "updateDate": "2026-11-14T18:04:08.684Z",
+    "updateDate": "2026-11-14T19:03:26.562Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a weekly report, on Wednesday, two juveniles were cited for riding eMotos on Ashton Drive after receiving previous warnings about operating them.",
+    "mainText": "In our weekly police report, on October 25, officers responded to a situation at Plympton Street and Rita Avenue where a man was arrested for an O W I offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-14",
-    "updateDate": "2026-11-14T18:04:08.684Z",
+    "updateDate": "2026-11-14T19:03:26.562Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Caramel Cashew. The store is currently open and serving customers until 10:30 PM tonight.",
+    "mainText": "Today is the perfect day to enjoy the Caramel Cashew flavor of the day at Culver's. The restaurant is currently open and serving customers until their closing time at 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
