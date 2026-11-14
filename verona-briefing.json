@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-14",
-    "updateDate": "2026-11-14T11:03:24.098Z",
+    "updateDate": "2026-11-14T12:05:27.856Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: it is a brisk 26 degrees under clear skies at the Verona Area High School, with a waxing crescent moon visible overhead.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: it is a clear and cold 26 degrees, feeling like 19, with a waxing crescent moon shining bright over Verona City Hall.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-14",
-    "updateDate": "2026-11-14T11:03:24.098Z",
+    "updateDate": "2026-11-14T12:05:27.856Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has several election notices posted for the 2026 cycles, and the Plan Commission is reviewing new site plans for the Sub-Zero project in the Liberty Business Park.",
+    "mainText": "The city has released updated recreation league standings for both men's and coed teams, and there are several new public notices regarding the fall and spring elections.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-14",
-    "updateDate": "2026-11-14T11:03:24.098Z",
+    "updateDate": "2026-11-14T12:05:27.856Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a full calendar, starting today with the Dane County Farmer's Market and live music at Bailey's Run and Paddy Mac's, followed by the John Denver tribute tomorrow at the High School Fine Arts Center.",
+    "mainText": "We have a busy weekend ahead starting with the Dane County Farmer's Market today, followed by the Music of John Denver at the High School Fine Arts Center tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-14",
-    "updateDate": "2026-11-14T11:03:24.098Z",
+    "updateDate": "2026-11-14T12:05:27.856Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report regarding noteworthy calls, on October 25th, Verona police arrested a 40-year-old man for an O W I offence after finding him unresponsive in his vehicle at an intersection.",
+    "mainText": "In our weekly report, officers noted that on October 25, a 40-year-old man was taken into custody for an O W I offence after being found stopped at the intersection of Plympton and Rita.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-14",
-    "updateDate": "2026-11-14T11:03:24.098Z",
+    "updateDate": "2026-11-14T12:05:27.856Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Caramel Cashew. The store is currently closed but will be ready to serve you when it opens today at 10:00 AM.",
+    "mainText": "You can look forward to the delicious Caramel Cashew flavor today, and the restaurant will be ready for you when it opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
