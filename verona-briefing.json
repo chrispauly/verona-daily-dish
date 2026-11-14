@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-14",
-    "updateDate": "2026-11-14T20:03:41.461Z",
+    "updateDate": "2026-11-14T21:03:30.437Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We have clear skies at Badger Prairie County Park and a temperature of 42 degrees. Look to the sky at 6:32 PM tonight to see the International Space Station passing from the Mount Horeb area toward the Madison direction, reaching about halfway up the sky, all under a beautiful Waxing Crescent moon.",
+    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: it is 43 degrees and clear at Reddan Soccer Park. We have a waxing crescent moon, and the ISS will be visible tonight starting at 6:32 PM, rising in the west over Mount Horeb and traveling toward the northeast near the Home Depot, reaching about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-14",
-    "updateDate": "2026-11-14T20:03:41.461Z",
+    "updateDate": "2026-11-14T21:03:30.437Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Plan Commission is set to discuss several new development projects on December 7, including a site plan and traffic analysis for the Sub-Zero facility in Liberty Business Park. Additionally, the Verona Municipal Court remains available to assist residents with traffic or ordinance citations.",
+    "mainText": "The Plan Commission has several items on their agenda for the December 7th meeting, including plans for Sub-Zero at Liberty Business Park. Additionally, official notices for the upcoming elections are posted at City Hall.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-14",
-    "updateDate": "2026-11-14T20:03:41.461Z",
+    "updateDate": "2026-11-14T21:03:30.437Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend in Verona. Today, enjoy the Dane County Farmers Market or stop by Bailey's Run Vineyard and Paddy Mac's for live music. Tomorrow, head over to the Wisconsin Brewing Company for music or catch the John Denver tribute show at the Verona Area High School Fine Arts Center.",
+    "mainText": "There is plenty to do this weekend, starting with the Dane County Farmers Market today. You can also catch live music at Bailey's Run today and at Paddy Mac's today, while tomorrow features music at Lake Lou-ee and the John Denver tribute show at the high school.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-14",
-    "updateDate": "2026-11-14T20:03:41.461Z",
+    "updateDate": "2026-11-14T21:03:30.437Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly police report, on October 25, officers located a driver at the intersection of Plympton Street and Rita Avenue who was arrested for a first offence O W I after being found unresponsive in his vehicle.",
+    "mainText": "In a recent report, officers responded on October 25th to a vehicle stopped at Plympton Street and Rita Avenue, where a man was arrested for an O W I, his first offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-14",
-    "updateDate": "2026-11-14T20:03:41.461Z",
+    "updateDate": "2026-11-14T21:03:30.437Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Make sure to stop by Culver's of Verona today to enjoy the Flavor of the Day, which is Caramel Cashew. The restaurant is currently open and will remain serving guests until 10:30 PM tonight.",
+    "mainText": "Culver's of Verona is currently open until 10:30 PM today, and they are serving the delicious Caramel Cashew flavor of the day. Be sure to stop by and grab a scoop before they close for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
