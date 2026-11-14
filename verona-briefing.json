@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-14",
-    "updateDate": "2026-11-14T03:04:19.591Z",
+    "updateDate": "2026-11-14T04:04:11.671Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. Clear skies prevail around the Verona Public Library with a temperature of 31 degrees, feeling like 23. You can catch a view of the Waxing Crescent moon tonight, with overnight lows dipping to 30 degrees and no rain expected.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: it is 30 degrees near Badger Ridge Middle School under clear skies with a waxing crescent moon overhead, and we are looking at an overnight low of 30 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-14",
-    "updateDate": "2026-11-14T03:04:19.591Z",
+    "updateDate": "2026-11-14T04:04:11.671Z",
     "titleText": "Verona City News",
-    "mainText": "City updates include an upcoming Plan Commission review of Sub-Zero's site plan for Liberty Business Park. In addition, the Municipal Court reminds residents that non-mandatory citations can be paid online or submitted via plea sheets.",
+    "mainText": "The Verona Plan Commission is meeting on December 7th to review site plans for the Sub-Zero project in the Liberty Business Park, while residents are reminded that election notices for the November general election are now available.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-14",
-    "updateDate": "2026-11-14T03:04:19.591Z",
+    "updateDate": "2026-11-14T04:04:11.671Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There are currently no community events listed on the Verona calendar for the next 30 days.",
+    "mainText": "We have a packed schedule with live music at Bailey's Run today, plus tomorrow you can catch the Dane County Farmer's Market, live music at Paddy Mac's, and the music of John Denver at the Fine Arts Center.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-14",
-    "updateDate": "2026-11-14T03:04:19.591Z",
+    "updateDate": "2026-11-14T04:04:11.671Z",
     "titleText": "Verona Police Report",
-    "mainText": "On Saturday, October 25th, officers responded to a vehicle stopped at an intersection on Plympton Street and arrested a 40-year-old man for an O W I.",
+    "mainText": "On October 25, officers located a driver at the intersection of Plympton Street and Rita Avenue who had been stationary for at least 20 minutes; the individual was subsequently arrested for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-14",
-    "updateDate": "2026-11-14T03:04:19.591Z",
+    "updateDate": "2026-11-14T04:04:11.671Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day at Culver's is Raspberry Cheesecake. The restaurant is open until 10:30 PM tonight, and tomorrow's flavor will be Caramel Cashew.",
+    "mainText": "Today's delicious flavor is Raspberry Cheesecake, and with the store open for another 26 minutes, there is still time to grab a sweet treat before they close for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
