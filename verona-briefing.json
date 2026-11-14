@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-14",
-    "updateDate": "2026-11-14T19:03:26.562Z",
+    "updateDate": "2026-11-14T20:03:41.461Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: the temperature is a chilly 40 degrees, feeling like 33 with clear skies over the Verona Area High School. We also have a waxing crescent moon, and you can catch the ISS passing overhead at 6:32 PM tonight as it travels from the west over Mount Horeb toward the northeast near Madison.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We have clear skies at Badger Prairie County Park and a temperature of 42 degrees. Look to the sky at 6:32 PM tonight to see the International Space Station passing from the Mount Horeb area toward the Madison direction, reaching about halfway up the sky, all under a beautiful Waxing Crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-14",
-    "updateDate": "2026-11-14T19:03:26.562Z",
+    "updateDate": "2026-11-14T20:03:41.461Z",
     "titleText": "Verona City News",
-    "mainText": "The city has released important notices regarding the November General Election. Additionally, the Plan Commission is preparing to review development projects, including site plans for Sub-Zero at Liberty Business Park.",
+    "mainText": "In city news, the Plan Commission is set to discuss several new development projects on December 7, including a site plan and traffic analysis for the Sub-Zero facility in Liberty Business Park. Additionally, the Verona Municipal Court remains available to assist residents with traffic or ordinance citations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-14",
-    "updateDate": "2026-11-14T19:03:26.562Z",
+    "updateDate": "2026-11-14T20:03:41.461Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There are no events listed for the next 30 days, but we will be sure to keep you updated if new community activities are added to the schedule.",
+    "mainText": "There is plenty to do this weekend in Verona. Today, enjoy the Dane County Farmers Market or stop by Bailey's Run Vineyard and Paddy Mac's for live music. Tomorrow, head over to the Wisconsin Brewing Company for music or catch the John Denver tribute show at the Verona Area High School Fine Arts Center.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-14",
-    "updateDate": "2026-11-14T19:03:26.562Z",
+    "updateDate": "2026-11-14T20:03:41.461Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on October 25, officers responded to a situation at Plympton Street and Rita Avenue where a man was arrested for an O W I offence.",
+    "mainText": "Looking at the weekly police report, on October 25, officers located a driver at the intersection of Plympton Street and Rita Avenue who was arrested for a first offence O W I after being found unresponsive in his vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-14",
-    "updateDate": "2026-11-14T19:03:26.562Z",
+    "updateDate": "2026-11-14T20:03:41.461Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day to enjoy the Caramel Cashew flavor of the day at Culver's. The restaurant is currently open and serving customers until their closing time at 10:30 PM tonight.",
+    "mainText": "Make sure to stop by Culver's of Verona today to enjoy the Flavor of the Day, which is Caramel Cashew. The restaurant is currently open and will remain serving guests until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
