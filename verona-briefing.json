@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-14",
-    "updateDate": "2026-11-14T05:04:18.379Z",
+    "updateDate": "2026-11-14T06:05:41.310Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we have fair conditions with a temperature of 70 degrees near Badger Ridge Middle School.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: it is 30 degrees with clear skies observed at Fireman's Park, and we are under a waxing crescent moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-14",
-    "updateDate": "2026-11-14T05:04:18.379Z",
+    "updateDate": "2026-11-14T06:05:41.310Z",
     "titleText": "Verona City News",
-    "mainText": "We have no new city news or urgent emails to share with you at this time.",
+    "mainText": "The Verona Municipal Court is reminding residents that while traffic citations can be paid online or by phone, certain cases like O W I charges require a personal appearance or a meeting with the city attorney.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-14",
-    "updateDate": "2026-11-14T05:04:18.379Z",
+    "updateDate": "2026-11-14T06:05:41.310Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Tomorrow, November 14, offers plenty to do, including the Dane County Farmers Market downtown and live music at both Bailey's Run and Paddy Mac's. On Saturday, you can catch more live music at Wisconsin Brewing Company or head to the Verona Area High School Fine Arts Center for a special performance celebrating the music of John Denver.",
+    "mainText": "We have a busy weekend ahead with the Dane County Farmers' Market happening today, live music at Bailey's Run and Paddy Mac's today, followed by music at Wisconsin Brewing Company tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-14",
-    "updateDate": "2026-11-14T05:04:18.379Z",
+    "updateDate": "2026-11-14T06:05:41.310Z",
     "titleText": "Verona Police Report",
-    "mainText": "There is no police department update available for this week.",
+    "mainText": "Looking at the weekly police report, on October 25, officers arrested a man for his first O W I offence after finding him unresponsive in his vehicle at a local intersection.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-14",
-    "updateDate": "2026-11-14T05:04:18.379Z",
+    "updateDate": "2026-11-14T06:05:41.310Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for the night. Make sure to stop by tomorrow starting at 10:00 AM to try the featured flavor of the day, which will be Caramel Cashew.",
+    "mainText": "Today's flavor of the day is Caramel Cashew. The store is currently closed, but they will be ready to serve you when they open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
