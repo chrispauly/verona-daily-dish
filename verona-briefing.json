@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-14",
-    "updateDate": "2026-11-14T12:05:27.856Z",
+    "updateDate": "2026-11-14T13:03:41.290Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: it is a clear and cold 26 degrees, feeling like 19, with a waxing crescent moon shining bright over Verona City Hall.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: we are seeing fair conditions around the Verona Area High School. Also, keep an eye out tonight at 6:32 PM, as the International Space Station will be visible for three minutes as it rises from the Mount Horeb area toward the Madison skyline.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-14",
-    "updateDate": "2026-11-14T12:05:27.856Z",
+    "updateDate": "2026-11-14T13:03:41.290Z",
     "titleText": "Verona City News",
-    "mainText": "The city has released updated recreation league standings for both men's and coed teams, and there are several new public notices regarding the fall and spring elections.",
+    "mainText": "City Hall has released several public notices regarding the fall and spring election schedules, and the Plan Commission is reviewing new development projects, including site plans for the Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-14",
-    "updateDate": "2026-11-14T12:05:27.856Z",
+    "updateDate": "2026-11-14T13:03:41.290Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy weekend ahead starting with the Dane County Farmer's Market today, followed by the Music of John Denver at the High School Fine Arts Center tomorrow.",
+    "mainText": "It is a busy weekend in the area! Today, the Dane County Farmers Market is open, and you can enjoy live music at Bailey's Run or Paddy Mac's. Tomorrow, the High School hosts a John Denver tribute show, and live music continues at the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-14",
-    "updateDate": "2026-11-14T12:05:27.856Z",
+    "updateDate": "2026-11-14T13:03:41.290Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, officers noted that on October 25, a 40-year-old man was taken into custody for an O W I offence after being found stopped at the intersection of Plympton and Rita.",
+    "mainText": "In a noteworthy call from our weekly report, on October 25, a driver was arrested for an O W I after being found asleep at the wheel at a local intersection.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-14",
-    "updateDate": "2026-11-14T12:05:27.856Z",
+    "updateDate": "2026-11-14T13:03:41.290Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can look forward to the delicious Caramel Cashew flavor today, and the restaurant will be ready for you when it opens today at 10:00 AM.",
+    "mainText": "Culver's of Verona will be opening today at 10:00 AM, so be sure to stop by and enjoy the flavor of the day, which is Caramel Cashew.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
