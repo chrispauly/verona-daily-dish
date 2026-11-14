@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-14",
-    "updateDate": "2026-11-14T16:04:06.604Z",
+    "updateDate": "2026-11-14T17:03:50.457Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have fair conditions and a comfortable 70 degrees near City Hall. If you look to the sky tonight at 6:32 PM, you can catch the space station as it rises over Mount Horeb and travels toward the Madison area, sitting about halfway up the sky.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. It is 38 degrees with clear skies near the Verona Area High School. We are currently under a Waxing Crescent moon, and you can catch the ISS passing overhead tonight at 6:32 PM, moving from the West near Mount Horeb toward Madison, reaching about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-14",
-    "updateDate": "2026-11-14T16:04:06.604Z",
+    "updateDate": "2026-11-14T17:03:50.457Z",
     "titleText": "Verona City News",
-    "mainText": "Important updates for the city include upcoming election notices for the November general election, along with a plan commission meeting on December 7th regarding the new Sub Zero site plan in Liberty Business Park.",
+    "mainText": "The City of Verona is currently managing several development projects, including a site plan and traffic analysis for Sub-Zero at Liberty Business Park, while Municipal Court continues to process traffic and ordinance citations.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-14",
-    "updateDate": "2026-11-14T16:04:06.604Z",
+    "updateDate": "2026-11-14T17:03:50.457Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy time for our community! Events today include the Dane County Farmers Market and live music at both Baileys Run and Paddy Macs. Looking ahead, tomorrow features music at Lake Lou-ee and the John Denver tribute show at the Verona Area High School Fine Arts Center.",
+    "mainText": "There is plenty to do with the Dane County Farmers Market and live music at Bailey's Run and Paddy Mac's happening today, plus the John Denver tribute concert coming up tomorrow at the Verona Area High School Fine Arts Center.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-14",
-    "updateDate": "2026-11-14T16:04:06.604Z",
+    "updateDate": "2026-11-14T17:03:50.457Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly look at local public safety, we report that on October 25, officers arrested a man for an O W I after he was discovered stopped at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "In our weekly police report, on October 25 at 5:34 AM, officers located a 40-year-old Verona man passed out behind the wheel at Plympton Street and Rita Avenue, resulting in an arrest for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-14",
-    "updateDate": "2026-11-14T16:04:06.604Z",
+    "updateDate": "2026-11-14T17:03:50.457Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently open until 10:30 PM, so stop in to enjoy today's flavor of the day, which is Caramel Cashew.",
+    "mainText": "Stop by Culver's today to enjoy the Caramel Cashew flavor of the day; they are open now and will remain open until 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
