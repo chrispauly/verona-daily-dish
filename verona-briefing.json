@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-15",
-    "updateDate": "2026-11-15T13:04:44.342Z",
+    "updateDate": "2026-11-15T14:03:35.093Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. Expect clear skies today with a temperature of 26 degrees that feels like 19 degrees out by Badger Prairie County Park. Tonight brings a First Quarter moon, along with a great viewing opportunity for the International Space Station at 5:44 PM as it moves high overhead from Mount Horeb toward Madison.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish: we are seeing clear skies over Reddan Soccer Park with the First Quarter moon phase. Tonight, you can catch the ISS as it rises in the west southwest near Mount Horeb at 5:44 PM and treks toward the northeast near the Madison Home Depot, eventually climbing high in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-15",
-    "updateDate": "2026-11-15T13:04:44.342Z",
+    "updateDate": "2026-11-15T14:03:35.093Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Plan Commission is preparing to review a new development project for Sub-Zero at Liberty Business Park, which includes site plan approvals, architectural designs, and a traffic impact analysis.",
+    "mainText": "City officials are currently reviewing new development plans, specifically a site plan and conditional use permit for the Sub-Zero project in the Liberty Business Park, while residents are reminded of upcoming election notices for the 2026 general and spring cycles.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-15",
-    "updateDate": "2026-11-15T13:04:44.342Z",
+    "updateDate": "2026-11-15T14:03:35.093Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at local events, you can enjoy live music today at both Bailey's Run Vineyard and Lake Lou-ee, or drop in tomorrow for a relaxing yoga session at Insight Wellness.",
+    "mainText": "It is a busy week for entertainment, featuring live music at Bailey's Run today, music at the Wisconsin Brewing Company tomorrow, and trivia nights kicking off at Hop Haus, Paddy Mac's, and Wisconsin Brewing Company this coming Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-15",
-    "updateDate": "2026-11-15T13:04:44.342Z",
+    "updateDate": "2026-11-15T14:03:35.093Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on Saturday, October 25th, officers responded to Plympton Street and Rita Avenue for a vehicle stopped at the intersection for over twenty minutes, leading to the arrest of a forty-year-old man for O W I.",
+    "mainText": "In a noteworthy update, on Sunday, October 25, the Verona Police Department responded to a report of a vehicle stopped at an intersection where a 40-year-old man was arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-15",
-    "updateDate": "2026-11-15T13:04:44.342Z",
+    "updateDate": "2026-11-15T14:03:35.093Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "To wrap up today's update, Culver's opens today at 10:00 AM, featuring Mint Explosion as today's delicious Flavor of the Day.",
+    "mainText": "You can look forward to the Mint Explosion flavor of the day, and please note that the restaurant opens today at 10 AM to serve you.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
