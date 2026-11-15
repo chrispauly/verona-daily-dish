@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-15",
-    "updateDate": "2026-11-15T09:03:58.116Z",
+    "updateDate": "2026-11-15T10:03:47.268Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: we have fair conditions at Badger Prairie County Park with a temperature of 70 degrees.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish. It is a clear, cold 26 degrees at the Verona Area High School with a waxing crescent moon visible in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-15",
-    "updateDate": "2026-11-15T09:03:58.116Z",
+    "updateDate": "2026-11-15T10:03:47.268Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has released several notices regarding the upcoming November and April elections. Additionally, the Plan Commission is meeting on December 7th to review development projects, including a site plan and traffic analysis for the Sub-Zero project in Liberty Business Park.",
+    "mainText": "The city is currently processing several development projects for the Plan Commission, including site plans for Sub-Zero at Liberty Business Park, while also posting public notices for upcoming elections.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-15",
-    "updateDate": "2026-11-15T09:03:58.116Z",
+    "updateDate": "2026-11-15T10:03:47.268Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a full calendar for you. Live music is at Bailey's Run today and at Wisconsin Brewing Company tomorrow, followed by yoga at Insight Wellness tomorrow. Next week is packed with trivia nights at Hop Haus, Wisconsin Brewing Company, Paddy Mac's, and The Bogey Factory.",
+    "mainText": "There is plenty to do in town, starting with live music at Bailey's Run Vineyard today and Lake Lou-ee tomorrow. Also, keep an eye out for Yoga at Insight Wellness tomorrow and various trivia nights starting Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-15",
-    "updateDate": "2026-11-15T09:03:58.116Z",
+    "updateDate": "2026-11-15T10:03:47.268Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering last week, officers responded to a situation on Sunday, October 19, where a man was taken into custody for operating while suspended and an outstanding warrant.",
+    "mainText": "In a noteworthy call from October 25th, Verona police arrested a 40-year-old man for O W I after discovering him unresponsive in his vehicle at the intersection of Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-15",
-    "updateDate": "2026-11-15T09:03:58.116Z",
+    "updateDate": "2026-11-15T10:03:47.268Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day for a scoop of Mint Explosion at Culver's, and you can head over there when they open today at 10:00 AM.",
+    "mainText": "If you are craving something sweet, head to Culver's today for the Mint Explosion flavor of the day; they open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
