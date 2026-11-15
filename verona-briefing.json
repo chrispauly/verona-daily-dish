@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-15",
-    "updateDate": "2026-11-15T19:03:13.020Z",
+    "updateDate": "2026-11-15T20:04:08.811Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we have clear skies at Fireman's Park with a temperature of 49 degrees. The moon is currently in its First Quarter phase, and we have a treat for the skywatchers: the ISS will be visible tonight starting at 5:44 PM, rising over Mount Horeb and traveling toward Madison near Home Depot, reaching high in the sky.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We have clear skies at City Hall with a temperature of 49 degrees and the moon in its first quarter. Tonight, you can catch the International Space Station flying over from Mount Horeb toward Madison, reaching high in the sky starting at 5:44 PM.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-15",
-    "updateDate": "2026-11-15T19:03:13.020Z",
+    "updateDate": "2026-11-15T20:04:08.811Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Plan Commission is set to review various projects at their December 7th meeting, including site plans for Liberty Business Park. Additionally, the Municipal Court is reminding residents that while many tickets can be paid online or by phone, certain cases like O W I charges require a personal appearance.",
+    "mainText": "City business remains active as the Plan Commission prepares for a December 7 meeting to review development projects, including a new site plan for Sub-Zero in the Liberty Business Park. Additionally, residents are reminded that city ordinances and traffic matters are handled through the Municipal Court, where citations can often be managed online or via the police department.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-15",
-    "updateDate": "2026-11-15T19:03:13.020Z",
+    "updateDate": "2026-11-15T20:04:08.811Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with live music at Bailey's Run happening today. Looking ahead, you can check out yoga tomorrow at Insight Wellness, followed by a variety of trivia nights and live performances happening throughout the rest of the week at local favorites.",
+    "mainText": "Looking ahead at our local calendar, there are no public events officially scheduled for the next 30 days, so it is a quiet month for community gatherings.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-15",
-    "updateDate": "2026-11-15T19:03:13.020Z",
+    "updateDate": "2026-11-15T20:04:08.811Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking back at the weekly report, on October 23rd, officers contacted two 13-year-olds riding eMotos on Ashton Drive and cited their parents for allowing minors to operate a motor vehicle.",
+    "mainText": "In a noteworthy call from October 23, officers made contact with two juveniles riding eMotos on Ashton Drive; because they had been warned previously, their parents were cited for allowing them to operate the prohibited vehicles.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-15",
-    "updateDate": "2026-11-15T19:03:13.020Z",
+    "updateDate": "2026-11-15T20:04:08.811Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the refreshing Mint Explosion. Culver's is currently open and serving until 10:00 PM, so make sure to stop by and grab a scoop.",
+    "mainText": "It is a great day to grab a scoop of Mint Explosion at Culver's. The shop is currently open and will be serving up treats until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
