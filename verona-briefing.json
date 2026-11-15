@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-15",
-    "updateDate": "2026-11-15T01:04:21.649Z",
+    "updateDate": "2026-11-15T02:05:25.641Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: we have fair conditions with temperatures sitting at 70 degrees near Badger Ridge Middle School, and with the night ahead, we are looking at no predicted rain for our overnight low.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We have clear skies near the Verona Public Library tonight with a waxing crescent moon. It will be chilly with an overnight low of 31 degrees, but fortunately, there is no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-15",
-    "updateDate": "2026-11-15T01:04:21.649Z",
+    "updateDate": "2026-11-15T02:05:25.641Z",
     "titleText": "Verona City News",
-    "mainText": "The city has published notices regarding the upcoming general election, and the Plan Commission is preparing to review new development projects at Liberty Business Park on December 7th.",
+    "mainText": "The City of Verona has released important notices regarding the upcoming November general election. Additionally, the Plan Commission is reviewing new development projects, including a site plan and traffic analysis for Sub-Zero in the Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-15",
-    "updateDate": "2026-11-15T01:04:21.649Z",
+    "updateDate": "2026-11-15T02:05:25.641Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule ahead, starting with the Dane County Farmers Market happening today, followed by live music at Lake Lou-ee and a special John Denver tribute show at the high school both happening tomorrow.",
+    "mainText": "We have a busy schedule! Today, you can visit the Dane County Farmers Market or catch live music at Bailey's Run and Paddy Mac's. Tomorrow, check out the music at Wisconsin Brewing Company or the John Denver tribute at the High School Fine Arts Center. Looking ahead, don't miss trivia nights starting this Tuesday at Hop Haus, Lake Lou-ee, and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-15",
-    "updateDate": "2026-11-15T01:04:21.649Z",
+    "updateDate": "2026-11-15T02:05:25.641Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, we noted an incident on October 25th where a 40-year-old local man was taken into custody for an O W I offence.",
+    "mainText": "In a report from October 25, officers were dispatched to the intersection of Plympton Street and Rita Avenue where they located a man passed out behind the wheel, resulting in an arrest for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-15",
-    "updateDate": "2026-11-15T01:04:21.649Z",
+    "updateDate": "2026-11-15T02:05:25.641Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's of Verona today to enjoy their flavor of the day, Caramel Cashew, before they close their doors for the night at 10:30 PM.",
+    "mainText": "Today's flavor of the day is the delightful Caramel Cashew. The store is currently open and will remain open until 10:30 PM tonight, so there is still plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
