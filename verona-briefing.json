@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-15",
-    "updateDate": "2026-11-15T12:05:18.051Z",
+    "updateDate": "2026-11-15T13:04:44.342Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, it is a clear 26 degrees by Reddan Soccer Park under a first quarter moon. If you look up at 5:44 PM, you can catch the space station rising over Mount Horeb and traveling toward the Northeast near the Home Depot.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. Expect clear skies today with a temperature of 26 degrees that feels like 19 degrees out by Badger Prairie County Park. Tonight brings a First Quarter moon, along with a great viewing opportunity for the International Space Station at 5:44 PM as it moves high overhead from Mount Horeb toward Madison.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-15",
-    "updateDate": "2026-11-15T12:05:18.051Z",
+    "updateDate": "2026-11-15T13:04:44.342Z",
     "titleText": "Verona City News",
-    "mainText": "City Hall has released various election notices for the fall and spring ballots. Additionally, the Plan Commission is reviewing new development projects including a site plan for Sub-Zero at Liberty Business Park.",
+    "mainText": "In city news, the Plan Commission is preparing to review a new development project for Sub-Zero at Liberty Business Park, which includes site plan approvals, architectural designs, and a traffic impact analysis.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-15",
-    "updateDate": "2026-11-15T12:05:18.051Z",
+    "updateDate": "2026-11-15T13:04:44.342Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of fun ahead, starting with live music at Bailey's Run today and yoga at Insight Wellness tomorrow.",
+    "mainText": "Looking at local events, you can enjoy live music today at both Bailey's Run Vineyard and Lake Lou-ee, or drop in tomorrow for a relaxing yoga session at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-15",
-    "updateDate": "2026-11-15T12:05:18.051Z",
+    "updateDate": "2026-11-15T13:04:44.342Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering October 18 through October 24, officers responded to a call on October 25 where a man was arrested for O W I after being found at the intersection of Plympton Street and Rita Avenue.",
+    "mainText": "In police news, on Saturday, October 25th, officers responded to Plympton Street and Rita Avenue for a vehicle stopped at the intersection for over twenty minutes, leading to the arrest of a forty-year-old man for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-15",
-    "updateDate": "2026-11-15T12:05:18.051Z",
+    "updateDate": "2026-11-15T13:04:44.342Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Mint Explosion is the flavor of the day, and our local Culver's opens today at 10:00 AM to serve you.",
+    "mainText": "To wrap up today's update, Culver's opens today at 10:00 AM, featuring Mint Explosion as today's delicious Flavor of the Day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
