@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-15",
-    "updateDate": "2026-11-15T08:11:21.431Z",
+    "updateDate": "2026-11-15T09:03:58.116Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: we have fair conditions at Verona City Hall with a comfortable temperature of 70 degrees.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: we have fair conditions at Badger Prairie County Park with a temperature of 70 degrees.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-15",
-    "updateDate": "2026-11-15T08:11:21.431Z",
+    "updateDate": "2026-11-15T09:03:58.116Z",
     "titleText": "Verona City News",
-    "mainText": "The city has posted several important election notices regarding the November and April general elections. Additionally, the Plan Commission is reviewing new development projects, including a site plan for Sub-Zero in the Liberty Business Park.",
+    "mainText": "The City of Verona has released several notices regarding the upcoming November and April elections. Additionally, the Plan Commission is meeting on December 7th to review development projects, including a site plan and traffic analysis for the Sub-Zero project in Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-15",
-    "updateDate": "2026-11-15T08:11:21.431Z",
+    "updateDate": "2026-11-15T09:03:58.116Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule ahead in Verona. Enjoy live music at Bailey's Run today, check out yoga at Insight Wellness tomorrow, or join one of the many trivia nights happening at Hop Haus, Lake Lou-ee, Paddy Mac's, and The Bogey Factory later this week.",
+    "mainText": "We have a full calendar for you. Live music is at Bailey's Run today and at Wisconsin Brewing Company tomorrow, followed by yoga at Insight Wellness tomorrow. Next week is packed with trivia nights at Hop Haus, Wisconsin Brewing Company, Paddy Mac's, and The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-15",
-    "updateDate": "2026-11-15T08:11:21.431Z",
+    "updateDate": "2026-11-15T09:03:58.116Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly report, on October 23, officers made contact with two juveniles riding prohibited eMotos on Ashton Drive, which resulted in citations for their parents.",
+    "mainText": "In a report covering last week, officers responded to a situation on Sunday, October 19, where a man was taken into custody for operating while suspended and an outstanding warrant.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-15",
-    "updateDate": "2026-11-15T08:11:21.431Z",
+    "updateDate": "2026-11-15T09:03:58.116Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "If you are craving something sweet, Culver's opens today at 10:00 AM, featuring Mint Explosion as today's flavor of the day.",
+    "mainText": "Today is the perfect day for a scoop of Mint Explosion at Culver's, and you can head over there when they open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
