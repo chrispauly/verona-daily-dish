@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-15",
-    "updateDate": "2026-11-15T03:05:23.312Z",
+    "updateDate": "2026-11-15T04:04:30.387Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: we are seeing fair conditions near Harriet Park with temperatures at 70 degrees, and with the time past 5 PM, the overnight low is N/A with no rain expected.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: we have fair conditions and a comfortable 70 degrees near Harriet Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-15",
-    "updateDate": "2026-11-15T03:05:23.312Z",
+    "updateDate": "2026-11-15T04:04:30.387Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has issued several notices for the November 2026 general election, and the Plan Commission is preparing to review development projects, including the Sub-Zero site plan at Liberty Business Park.",
+    "mainText": "In city news, the Verona Plan Commission is reviewing new development projects including a site plan and conditional use permit for Sub-Zero in the Liberty Business Park, and residents can also find recent election notices on the city website.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-15",
-    "updateDate": "2026-11-15T03:05:23.312Z",
+    "updateDate": "2026-11-15T04:04:30.387Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend, starting with the Dane County Farmers Market and live music at Baileys Run today, followed by the John Denver tribute show at the Verona Area High School Fine Arts Center tomorrow.",
+    "mainText": "There is plenty to do in our area, including the Dane County Farmers Market today, live music at Bailey's Run and Paddy Mac's today, plus a John Denver tribute show tomorrow at the high school.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-15",
-    "updateDate": "2026-11-15T03:05:23.312Z",
+    "updateDate": "2026-11-15T04:04:30.387Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 22, a vehicle crash occurred on West Verona Avenue near Todd Street involving a Metro Bus, resulting in a citation for failure to yield.",
+    "mainText": "In a noteworthy call for service, officers dealt with a vehicle stop on October 23 where a driver was cited for operating while suspended and possession of marijuana.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-15",
-    "updateDate": "2026-11-15T03:05:23.312Z",
+    "updateDate": "2026-11-15T04:04:30.387Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "It is a great time to stop by for today's flavor of the day, Caramel Cashew, as the store remains open until 10:30 PM.",
+    "mainText": "Today's flavor of the day is Caramel Cashew, a local favorite, and while the store is currently open, they will be closing their doors in 26 minutes so you should head over soon.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
