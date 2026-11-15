@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-15",
-    "updateDate": "2026-11-15T05:03:51.205Z",
+    "updateDate": "2026-11-15T06:06:16.926Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: it is 30 degrees under clear skies at the Verona Area High School, accompanied by a Waxing Crescent moon. The overnight low will hit 29 degrees, and we have no rain in the forecast.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: current temperatures sit at 30 degrees under clear skies at Fireman's Park, with a lovely waxing crescent moon visible tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-15",
-    "updateDate": "2026-11-15T05:03:51.205Z",
+    "updateDate": "2026-11-15T06:06:16.926Z",
     "titleText": "Verona City News",
-    "mainText": "City officials are currently evaluating several development proposals, including plans for the Liberty Business Park, while also sharing important notices for the upcoming general elections and recreation department league standings.",
+    "mainText": "In local government news, the Plan Commission is reviewing development projects including a site plan for Sub-Zero at Liberty Business Park, and various election notices for the November 2026 general election are now available online.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-15",
-    "updateDate": "2026-11-15T05:03:51.205Z",
+    "updateDate": "2026-11-15T06:06:16.926Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There are currently no scheduled events on the municipal calendar for the next 30 days, though you can check the City of Verona website for future updates.",
+    "mainText": "Looking ahead at our community calendar, there are currently no scheduled events for the next 30 days, but we will be sure to update you as new activities are added.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-15",
-    "updateDate": "2026-11-15T05:03:51.205Z",
+    "updateDate": "2026-11-15T06:06:16.926Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 25th, the Verona Police Department responded to a report of a vehicle stopped at Plympton Street and Rita Avenue, where they arrested a 40-year-old man for an O W I.",
+    "mainText": "Regarding local public safety, on October 25, officers responded to a report of a man passed out behind the wheel, resulting in an arrest for O W I, first offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-15",
-    "updateDate": "2026-11-15T05:03:51.205Z",
+    "updateDate": "2026-11-15T06:06:16.926Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor was the Caramel Cashew, but since the restaurant is currently closed for the night, keep an eye out for tomorrow's Flavor of the Day, Mint Explosion, when the store opens at 10:00 AM.",
+    "mainText": "For those craving a treat, today's flavor of the day is Mint Explosion, and you can head over to Culver's when they open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
