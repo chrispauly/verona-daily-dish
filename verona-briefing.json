@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-16",
-    "updateDate": "2026-11-16T17:03:49.104Z",
+    "updateDate": "2026-11-16T18:08:31.560Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: skies are clear at Badger Prairie County Park with a first quarter moon. The ISS will be visible tonight starting at 6:34 PM, rising in the west-northwest over Cross Plains and heading toward the northeast over Madison.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish. We have fair conditions and a comfortable temperature of 70 degrees near Verona City Hall. Clear skies tonight will allow for a 2-minute view of the International Space Station starting at 6:34 PM, traveling from Cross Plains in the northwest toward Madison in the northeast, low near the horizon.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-16",
-    "updateDate": "2026-11-16T17:03:49.104Z",
+    "updateDate": "2026-11-16T18:08:31.560Z",
     "titleText": "Verona City News",
-    "mainText": "The Military Ridge State Trail is undergoing a major upgrade. The city is paving the trail and replacing bridges to ensure year-round access for cyclists and pedestrians, with a public meeting scheduled for December 8 at the Verona Senior Center.",
+    "mainText": "In city news, Verona is advancing plans for the Military Ridge State Trail paving project to enhance year-round accessibility. Following recent bridge work, the city will host a public information meeting on Tuesday, December 8th, at the Verona Senior Center to present trail designs, detours, and construction timelines.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-16",
-    "updateDate": "2026-11-16T17:03:49.104Z",
+    "updateDate": "2026-11-16T18:08:31.560Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty to do around town starting with Yoga at Insight Wellness today. Tomorrow is a busy night with trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus live music at Paddy Mac's and pizza specials at Lake Lou-ee.",
+    "mainText": "For local events, you can join a yoga session at Insight Wellness today. Looking ahead to tomorrow, trivia nights will be hosted at Hop Haus Brewing, Lake Lou-ee Brewing, and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-16",
-    "updateDate": "2026-11-16T17:03:49.104Z",
+    "updateDate": "2026-11-16T18:08:31.560Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident from October 23, two thirteen-year-olds were stopped for riding prohibited e-motos, leading to citations for their parents.",
+    "mainText": "In police updates, on Saturday, October twenty-fifth, officers responded to the intersection of Plympton Street and Rita Avenue for a driver passed out behind the wheel, resulting in an arrest for O W I first offence.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-16",
-    "updateDate": "2026-11-16T17:03:49.104Z",
+    "updateDate": "2026-11-16T18:08:31.560Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the rich Chocolate Volcano. The store is currently open and will be serving guests until 10:00 PM tonight.",
+    "mainText": "Finally, Culver's is open today until 10 PM, serving Chocolate Volcano as the daily flavor.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
