@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-16",
-    "updateDate": "2026-11-16T16:05:24.056Z",
+    "updateDate": "2026-11-16T17:03:49.104Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish. We currently have clear skies over Harriet Park with a temperature of 40 degrees that feels like 32 degrees. Clear weather continues tonight, offering a great view of the International Space Station passing low near the horizon from northwest over Cross Plains toward Madison starting at 6:34 PM.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: skies are clear at Badger Prairie County Park with a first quarter moon. The ISS will be visible tonight starting at 6:34 PM, rising in the west-northwest over Cross Plains and heading toward the northeast over Madison.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-16",
-    "updateDate": "2026-11-16T16:05:24.056Z",
+    "updateDate": "2026-11-16T17:03:49.104Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Plan Commission is preparing to review pending site plans, lighting, and architectural details for a Sub-Zero development in Liberty Business Park. Additionally, the Municipal Court reminds drivers that non-mandatory citations can be handled online or through plea sheets in lieu of an in-person appearance.",
+    "mainText": "The Military Ridge State Trail is undergoing a major upgrade. The city is paving the trail and replacing bridges to ensure year-round access for cyclists and pedestrians, with a public meeting scheduled for December 8 at the Verona Senior Center.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-16",
-    "updateDate": "2026-11-16T16:05:24.056Z",
+    "updateDate": "2026-11-16T17:03:49.104Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "For local events, you can attend Yoga at Insight Wellness happening today. Looking ahead to tomorrow, you can enjoy trivia at Hop Haus Brewing Company, Paddy Mac's, or Lake Lou-ee.",
+    "mainText": "We have plenty to do around town starting with Yoga at Insight Wellness today. Tomorrow is a busy night with trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus live music at Paddy Mac's and pizza specials at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-16",
-    "updateDate": "2026-11-16T16:05:24.056Z",
+    "updateDate": "2026-11-16T17:03:49.104Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly police recap, on Thursday, October 23rd, officers contacted two thirteen-year-old juveniles riding prohibited eMotos on Ashton Drive. Because both had been previously warned, their parents were cited for permitting a minor to drive a motor vehicle.",
+    "mainText": "In a notable incident from October 23, two thirteen-year-olds were stopped for riding prohibited e-motos, leading to citations for their parents.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-16",
-    "updateDate": "2026-11-16T16:05:24.056Z",
+    "updateDate": "2026-11-16T17:03:49.104Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Finally, Culver's is open today until 10:00 PM with Chocolate Volcano as today's flavor of the day, followed by Caramel Turtle tomorrow.",
+    "mainText": "Today's flavor of the day is the rich Chocolate Volcano. The store is currently open and will be serving guests until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
