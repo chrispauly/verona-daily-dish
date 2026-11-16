@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-16",
-    "updateDate": "2026-11-16T12:08:11.480Z",
+    "updateDate": "2026-11-16T13:13:47.553Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: current temperatures are at 27 degrees with clear skies observed at the Military Ridge State Trail, and we are currently under a First Quarter moon.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. It is 70 degrees and fair at Fireman's Park. Tonight, look to the skies as the ISS will be visible for two minutes starting at 6:34 PM, traveling from over Cross Plains toward the Madison area near Home Depot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-16",
-    "updateDate": "2026-11-16T12:08:11.480Z",
+    "updateDate": "2026-11-16T13:13:47.553Z",
     "titleText": "Verona City News",
-    "mainText": "City updates include important notices for the upcoming November 2026 General Election and a reminder that pending development projects like the Sub-Zero site plan are currently under review by the Plan Commission.",
+    "mainText": "The Verona Plan Commission is reviewing project proposals for the Liberty Business Park, while city officials have also posted official notices for the upcoming elections.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-16",
-    "updateDate": "2026-11-16T12:08:11.480Z",
+    "updateDate": "2026-11-16T13:13:47.553Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at our local calendar, you can join Yoga at Insight Wellness today, followed by a full lineup of trivia nights and live music starting tomorrow at venues like Hop Haus, Lake Lou-ee, and Paddy Mac's.",
+    "mainText": "There is plenty to do with Yoga at Insight Wellness happening today, followed by a full schedule of trivia and live music beginning tomorrow at local venues like Hop Haus and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-16",
-    "updateDate": "2026-11-16T12:08:11.480Z",
+    "updateDate": "2026-11-16T13:13:47.553Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on October 25, officers responded to a situation where a driver was found passed out at an intersection, resulting in an arrest for O W I.",
+    "mainText": "In a report from the Verona Police Department, officers arrested a man for O W I on October 25th after discovering a vehicle stopped at the intersection of Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-16",
-    "updateDate": "2026-11-16T12:08:11.480Z",
+    "updateDate": "2026-11-16T13:13:47.553Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "It is a great day to enjoy our flavor of the day, Chocolate Volcano, and you can head over when the store opens today at 10:00 AM.",
+    "mainText": "Today's flavor is Chocolate Volcano. The restaurant opens today at 10:00 AM and will remain open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
