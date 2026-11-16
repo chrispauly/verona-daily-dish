@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-16",
-    "updateDate": "2026-11-16T05:05:11.353Z",
+    "updateDate": "2026-11-16T06:10:22.560Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we have fair conditions at 70 degrees near Badger Ridge Middle School.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. We are seeing clear skies and 29-degree temperatures at Verona Community Park, with a crisp feel of 23 degrees under a First Quarter moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-16",
-    "updateDate": "2026-11-16T05:05:11.353Z",
+    "updateDate": "2026-11-16T06:10:22.560Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has released general election notices for the upcoming year, and the Plan Commission is currently reviewing a new site plan for the Sub-Zero project at Liberty Business Park.",
+    "mainText": "City news this week includes several public notices for the November 2026 elections and ongoing review of development projects, such as the site plan for Sub-Zero at Liberty Business Park. Additionally, residents are reminded that the Municipal Court is available to handle citations, though many can be resolved online or via mail.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-16",
-    "updateDate": "2026-11-16T05:05:11.353Z",
+    "updateDate": "2026-11-16T06:10:22.560Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, starting with yoga tomorrow, followed by a busy Tuesday featuring trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's.",
+    "mainText": "There is a great lineup of local activities starting with Yoga at Insight Wellness today. Tomorrow, you can test your knowledge with trivia nights at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's, followed by live music later in the week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-16",
-    "updateDate": "2026-11-16T05:05:11.353Z",
+    "updateDate": "2026-11-16T06:10:22.560Z",
     "titleText": "Verona Police Report",
-    "mainText": "On October 23, two thirteen-year-old juveniles were caught riding prohibited eMotos, resulting in citations for their parents.",
+    "mainText": "Regarding local public safety, the Verona Police Department reported a notable incident on October 25 where officers arrested a man for O W I after locating him in a vehicle that had been stopped at an intersection for 20 minutes.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-16",
-    "updateDate": "2026-11-16T05:05:11.353Z",
+    "updateDate": "2026-11-16T06:10:22.560Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor, Mint Explosion, has come to an end. Join us tomorrow when we open at 10:00 AM to enjoy the Chocolate Volcano flavor of the day.",
+    "mainText": "If you are craving something sweet, Culver's is serving up Chocolate Volcano today. The store opens today at 10:00 AM and will remain open until 10:00 PM for all your dairy treat needs.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
