@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-16",
-    "updateDate": "2026-11-16T08:13:54.434Z",
+    "updateDate": "2026-11-16T09:05:43.449Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: we have fair conditions with a temperature of 70 degrees at the Verona Public Library.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: we have clear skies at Verona Community Park with a temperature of 27 degrees and a First Quarter moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-16",
-    "updateDate": "2026-11-16T08:13:54.434Z",
+    "updateDate": "2026-11-16T09:05:43.449Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has updated its website with several important notices, including general election information for November 2026 and earlier spring election filings.",
+    "mainText": "The Verona Municipal Court reminds residents that you can pay most traffic citations online, though O W I tickets require an appearance. Additionally, the Plan Commission is meeting December 7 to review development plans at Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-16",
-    "updateDate": "2026-11-16T08:13:54.434Z",
+    "updateDate": "2026-11-16T09:05:43.449Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can participate in Yoga at Insight Wellness, while tomorrow offers a full lineup of trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, along with live music and pizza specials.",
+    "mainText": "While there are no events scheduled for the next 30 days, we will be sure to update you as soon as new city gatherings are announced.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-16",
-    "updateDate": "2026-11-16T08:13:54.434Z",
+    "updateDate": "2026-11-16T09:05:43.449Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from October 23, two thirteen-year-old juveniles were stopped while riding eMotos on Ashton Drive, resulting in citations for their parents.",
+    "mainText": "In a noteworthy call from October 21, officers assisted fire and EMS departments during two separate witnessed cardiac arrest incidents.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-16",
-    "updateDate": "2026-11-16T08:13:54.434Z",
+    "updateDate": "2026-11-16T09:05:43.449Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Chocolate Volcano, and you can head over when the store opens today at 10:00 AM.",
+    "mainText": "The flavor of the day is Chocolate Volcano. Since the store is currently closed, please note that it opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
