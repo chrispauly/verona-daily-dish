@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-16",
-    "updateDate": "2026-11-16T22:03:25.984Z",
+    "updateDate": "2026-11-16T23:03:34.910Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: the weather is a clear 50 degrees at Reddan Soccer Park, and you can spot the space station tonight at 6:34 PM as it moves from Cross Plains toward the Madison area.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: current conditions at the Verona Public Library are clear at 45 degrees. Under the first quarter moon, the International Space Station will be visible tonight starting at 6:34 PM, rising in the west northwest over Cross Plains and traveling toward the northeast near Madison, staying low near the horizon. We are expecting an overnight low of 33 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-16",
-    "updateDate": "2026-11-16T22:03:25.984Z",
+    "updateDate": "2026-11-16T23:03:34.910Z",
     "titleText": "Verona City News",
-    "mainText": "The city has invited the community to a public information meeting on December 8 at the Verona Senior Center to discuss upcoming improvements to the Military Ridge State Trail, including bridge replacements and new asphalt paving.",
+    "mainText": "The city has announced a public information meeting on December 8 at the Verona Senior Center to discuss the Military Ridge State Trail paving project, including bridge replacements and detours. Additionally, residents are reminded that curbside refuse and recycling are managed by Pellitteri Waste Systems, with specific guidelines for cart placement available on the city website.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-16",
-    "updateDate": "2026-11-16T22:03:25.984Z",
+    "updateDate": "2026-11-16T23:03:34.910Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have lots to do this week, starting with yoga today at Insight Wellness, followed by a busy Tuesday featuring trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's.",
+    "mainText": "While there are no events scheduled for the next 30 days, we look forward to the community meeting regarding the Military Ridge State Trail coming up on December 8.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-16",
-    "updateDate": "2026-11-16T22:03:25.984Z",
+    "updateDate": "2026-11-16T23:03:34.910Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the recent report, on November 6, officers responded to a business on West Verona Avenue where they found a driver passed out in a car, leading to an arrest for O W I.",
+    "mainText": "In a notable service call from November 6, officers and fire personnel responded to a business on West Verona Avenue where they had to break into a vehicle to assist a driver who was later arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-16",
-    "updateDate": "2026-11-16T22:03:25.984Z",
+    "updateDate": "2026-11-16T23:03:34.910Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy the delicious Raspberry Cheesecake flavor of the day at Culver's until they close at 10:00 PM tonight.",
+    "mainText": "Today's flavor of the day is Chocolate Volcano. Culver's is currently open and serving until 10 PM tonight, so there is still plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
