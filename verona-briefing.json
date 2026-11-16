@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-16",
-    "updateDate": "2026-11-16T04:05:32.995Z",
+    "updateDate": "2026-11-16T05:05:11.353Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: it is 33 degrees under clear skies by Badger Ridge Middle School with a first quarter moon. The mercury will dip to a low of 30 degrees overnight with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: we have fair conditions at 70 degrees near Badger Ridge Middle School.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-16",
-    "updateDate": "2026-11-16T04:05:32.995Z",
+    "updateDate": "2026-11-16T05:05:11.353Z",
     "titleText": "Verona City News",
-    "mainText": "The city has released several election notices for 2026, and the Plan Commission is reviewing new development projects, including a site plan for Sub-Zero at the Liberty Business Park.",
+    "mainText": "The City of Verona has released general election notices for the upcoming year, and the Plan Commission is currently reviewing a new site plan for the Sub-Zero project at Liberty Business Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-16",
-    "updateDate": "2026-11-16T04:05:32.995Z",
+    "updateDate": "2026-11-16T05:05:11.353Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There are no public events currently scheduled in the city for the next month, so keep an eye out for future updates.",
+    "mainText": "There is plenty to do, starting with yoga tomorrow, followed by a busy Tuesday featuring trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-16",
-    "updateDate": "2026-11-16T04:05:32.995Z",
+    "updateDate": "2026-11-16T05:05:11.353Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the weekly report, on October 25, police arrested a 40-year-old man for a first offence O W I after he was located passed out in his vehicle at an intersection.",
+    "mainText": "On October 23, two thirteen-year-old juveniles were caught riding prohibited eMotos, resulting in citations for their parents.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-16",
-    "updateDate": "2026-11-16T04:05:32.995Z",
+    "updateDate": "2026-11-16T05:05:11.353Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor was Mint Explosion. The restaurant is currently closed for the night, but you can stop by for the Chocolate Volcano flavor when the doors open tomorrow at 10:00 AM.",
+    "mainText": "Today's flavor, Mint Explosion, has come to an end. Join us tomorrow when we open at 10:00 AM to enjoy the Chocolate Volcano flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
