@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-16",
-    "updateDate": "2026-11-16T18:08:31.560Z",
+    "updateDate": "2026-11-16T19:03:36.623Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish. We have fair conditions and a comfortable temperature of 70 degrees near Verona City Hall. Clear skies tonight will allow for a 2-minute view of the International Space Station starting at 6:34 PM, traveling from Cross Plains in the northwest toward Madison in the northeast, low near the horizon.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. We are seeing 52 degrees under mainly clear skies at Harriet Park. If you are heading out tonight, look to the west-northwest over Cross Plains around 6:34 PM to catch the International Space Station as it tracks toward Madison near Home Depot, appearing low near the horizon.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-16",
-    "updateDate": "2026-11-16T18:08:31.560Z",
+    "updateDate": "2026-11-16T19:03:36.623Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Verona is advancing plans for the Military Ridge State Trail paving project to enhance year-round accessibility. Following recent bridge work, the city will host a public information meeting on Tuesday, December 8th, at the Verona Senior Center to present trail designs, detours, and construction timelines.",
+    "mainText": "The City of Verona has released its latest financial documentation, including the 2027 adopted budget. Residents can reach out to the finance department at City Hall for more information on the city's financial outlook.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-16",
-    "updateDate": "2026-11-16T18:08:31.560Z",
+    "updateDate": "2026-11-16T19:03:36.623Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "For local events, you can join a yoga session at Insight Wellness today. Looking ahead to tomorrow, trivia nights will be hosted at Hop Haus Brewing, Lake Lou-ee Brewing, and Paddy Mac's.",
+    "mainText": "Today you can head to Insight Wellness for yoga. Tomorrow, the town is bustling with trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's and pizza and a pitcher specials at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-16",
-    "updateDate": "2026-11-16T18:08:31.560Z",
+    "updateDate": "2026-11-16T19:03:36.623Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police updates, on Saturday, October twenty-fifth, officers responded to the intersection of Plympton Street and Rita Avenue for a driver passed out behind the wheel, resulting in an arrest for O W I first offence.",
+    "mainText": "On October 25, Verona police officers were dispatched to Plympton Street and Rita Avenue where they located a driver passed out at the intersection, resulting in an arrest for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-16",
-    "updateDate": "2026-11-16T18:08:31.560Z",
+    "updateDate": "2026-11-16T19:03:36.623Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Finally, Culver's is open today until 10 PM, serving Chocolate Volcano as the daily flavor.",
+    "mainText": "Today's flavor is the decadent Chocolate Volcano. The store is currently open and will be serving up scoops until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
