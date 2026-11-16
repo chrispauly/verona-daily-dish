@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-16",
-    "updateDate": "2026-11-16T09:05:43.449Z",
+    "updateDate": "2026-11-16T10:04:46.025Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: we have clear skies at Verona Community Park with a temperature of 27 degrees and a First Quarter moon overhead.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: we are seeing clear skies and a temperature of 28 degrees at Badger Prairie County Park under a First Quarter moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-16",
-    "updateDate": "2026-11-16T09:05:43.449Z",
+    "updateDate": "2026-11-16T10:04:46.025Z",
     "titleText": "Verona City News",
-    "mainText": "The Verona Municipal Court reminds residents that you can pay most traffic citations online, though O W I tickets require an appearance. Additionally, the Plan Commission is meeting December 7 to review development plans at Liberty Business Park.",
+    "mainText": "Looking at city updates, the Plan Commission has a meeting on December 7 to discuss the Sub-Zero Liberty Business Park development. Also, remember that the Municipal Court is available to handle citations, and you can find plea sheets online to avoid an in-person appearance.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-16",
-    "updateDate": "2026-11-16T09:05:43.449Z",
+    "updateDate": "2026-11-16T10:04:46.025Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "While there are no events scheduled for the next 30 days, we will be sure to update you as soon as new city gatherings are announced.",
+    "mainText": "We currently do not have any local events listed for the next 30 days, but we will keep you posted if that changes.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-16",
-    "updateDate": "2026-11-16T09:05:43.449Z",
+    "updateDate": "2026-11-16T10:04:46.025Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from October 21, officers assisted fire and EMS departments during two separate witnessed cardiac arrest incidents.",
+    "mainText": "For this week's update, on October 25, officers arrested a man for his first offence O W I after he was found asleep behind the wheel at the intersection of Plympton Street and Rita Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-16",
-    "updateDate": "2026-11-16T09:05:43.449Z",
+    "updateDate": "2026-11-16T10:04:46.025Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Chocolate Volcano. Since the store is currently closed, please note that it opens today at 10:00 AM.",
+    "mainText": "It is a great day to grab a treat, as the Culver's flavor of the day is Chocolate Volcano. The restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
