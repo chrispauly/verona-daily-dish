@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-17",
-    "updateDate": "2026-11-17T22:04:08.751Z",
+    "updateDate": "2026-11-17T23:03:32.965Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we have mainly clear skies with a temperature of 53 degrees at Badger Prairie County Park and a first quarter moon appearing tonight. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. It is 49 degrees with clear skies at the Verona Public Library. We have a first quarter moon tonight, and the ISS will be visible at 5:46 PM as it rises over Mount Horeb and travels toward the Northeast near the Home Depot. Tonight will cool down to 36 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-17",
-    "updateDate": "2026-11-17T22:04:08.751Z",
+    "updateDate": "2026-11-17T23:03:32.965Z",
     "titleText": "Verona City News",
-    "mainText": "The Public Works Department is hard at work maintaining our city streets and utilities. They encourage all residents to visit the city website to subscribe to the newsletter for important updates on infrastructure and waste management programs.",
+    "mainText": "The city is highlighting the importance of the Public Works Department, which manages streets, sewers, and utilities year-round. You can stay connected by signing up for the city's official newsletter, which provides regular updates on local municipal programs.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-17",
-    "updateDate": "2026-11-17T22:04:08.751Z",
+    "updateDate": "2026-11-17T23:03:32.965Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona starting today with trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's. Looking ahead, you can enjoy live music tomorrow at Paddy Mac's or join the paving project information meeting on December 8.",
+    "mainText": "While there are no events scheduled for the next 30 days, please stay tuned for future community gathering announcements.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-17",
-    "updateDate": "2026-11-17T22:04:08.751Z",
+    "updateDate": "2026-11-17T23:03:32.965Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report of notable calls for service, on November 4, a woman was arrested for O W I following a two-vehicle crash in a business parking lot on East Verona Avenue.",
+    "mainText": "On November 4th, officers responded to a two-vehicle crash on East Verona Avenue where a driver was arrested for O W I with a child passenger in the vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-17",
-    "updateDate": "2026-11-17T22:04:08.751Z",
+    "updateDate": "2026-11-17T23:03:32.965Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is the delicious Caramel Turtle. We are currently open until 10 PM, so come on by for a treat while you still can.",
+    "mainText": "Today's featured flavor is Caramel Turtle, and the store remains open until 10:00 PM this evening for your dessert needs.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
