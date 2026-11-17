@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-17",
-    "updateDate": "2026-11-17T05:03:51.499Z",
+    "updateDate": "2026-11-17T06:06:34.514Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. We have clear skies near Reddan Soccer Park and the First Quarter moon is visible. Tonight's low will be 32 degrees, and there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. It is a clear night with a temperature of 38 degrees near Fireman's Park, under the glow of a First Quarter moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-17",
-    "updateDate": "2026-11-17T05:03:51.499Z",
+    "updateDate": "2026-11-17T06:06:34.514Z",
     "titleText": "Verona City News",
-    "mainText": "The city is moving forward with the Military Ridge State Trail paving project, which includes replacing three bridges to improve accessibility. A public information meeting is scheduled for December 8 from 5:00 to 6:30 PM at the Verona Senior Center to discuss the construction schedule and detours. Additionally, residents are reminded that all refuse and recycling carts should be placed forward-facing at the end of the driveway by 7:00 AM on collection days.",
+    "mainText": "The city is hosting a public information meeting on December 8 at the Senior Center regarding the Military Ridge State Trail paving project, which will include bridge replacements and detours. Additionally, the finance department has published the 2027 adopted budget, which is available on the city website.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-17",
-    "updateDate": "2026-11-17T05:03:51.499Z",
+    "updateDate": "2026-11-17T06:06:34.514Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking ahead, there are several ways to stay active in Verona. Tomorrow, you can catch trivia at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's. Looking further into the week, you can test your knowledge at The Bogey Factory on Wednesday or catch live music at Bailey's Run Vineyard this Friday.",
+    "mainText": "For those looking for fun, we have three trivia nights today at Hop Haus, Lake Lou-ee, and Paddy Mac's. Tomorrow, you can enjoy live music at Paddy Mac's, yoga at Insight Wellness, or Wednesday Trivia Night at The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-17",
-    "updateDate": "2026-11-17T05:03:51.499Z",
+    "updateDate": "2026-11-17T06:06:34.514Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the recent police report, on November 4, a two-vehicle crash occurred in a parking lot on East Verona Avenue where a driver was arrested for O W I with a minor in the vehicle.",
+    "mainText": "On November 2, officers responded to a residence on West End Circle regarding a domestic disturbance, which resulted in the arrest of a 48-year-old Verona man for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-17",
-    "updateDate": "2026-11-17T05:03:51.499Z",
+    "updateDate": "2026-11-17T06:06:34.514Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Our store is currently closed for the night. We hope you enjoyed the Chocolate Volcano flavor today, and we invite you to stop by tomorrow starting at 10:00 AM to enjoy our featured flavor of the day, Caramel Turtle.",
+    "mainText": "Today's flavor is Caramel Turtle, and the store opens today at 10:00 AM to serve you.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
