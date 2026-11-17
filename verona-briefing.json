@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-17",
-    "updateDate": "2026-11-17T03:05:14.357Z",
+    "updateDate": "2026-11-17T04:04:37.141Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, conditions are fair near Verona City Hall. The overnight low is N/A with no rain predicted.",
+    "mainText": "Hello, Verona! At 10 PM, the temperature is 39 degrees with clear skies by the Verona Public Library. The overnight low will hit 32 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-17",
-    "updateDate": "2026-11-17T03:05:14.357Z",
+    "updateDate": "2026-11-17T04:04:37.141Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is holding a public information meeting on December 8 from 5:00 to 6:30 PM at the Senior Center regarding the Military Ridge State Trail paving project, which includes bridge replacements and trail improvements.",
+    "mainText": "The city is hosting a public meeting on December 8 at the Senior Center to discuss the Military Ridge State Trail paving project, including bridge replacements and future trail closures. Also, don't forget to check the Pellitteri website for your local recycling and refuse collection schedule.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-17",
-    "updateDate": "2026-11-17T03:05:14.357Z",
+    "updateDate": "2026-11-17T04:04:37.141Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is yoga at Insight Wellness today, followed by a busy tomorrow featuring trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's.",
+    "mainText": "There is a great lineup this week, starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, plus live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-17",
-    "updateDate": "2026-11-17T03:05:14.357Z",
+    "updateDate": "2026-11-17T04:04:37.141Z",
     "titleText": "Verona Police Report",
-    "mainText": "On November 9, an officer pulled over a driver for erratic operation on USH 18/151 and subsequently arrested the individual for their third O W I offence.",
+    "mainText": "In a report covering November 1 through November 15, police noted an incident on November 8 where a driver was arrested for O W I after striking a tree and light pole on South Main Street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-17",
-    "updateDate": "2026-11-17T03:05:14.357Z",
+    "updateDate": "2026-11-17T04:04:37.141Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Chocolate Volcano, and since the store is open until 10:00 PM, you should head out soon to grab a scoop before they close in 55 minutes.",
+    "mainText": "We hope you enjoyed today's Chocolate Volcano. The store is closed for the night, so join us tomorrow when we open at 10:00 AM and feature Caramel Turtle as the flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
