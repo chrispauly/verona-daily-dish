@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-17",
-    "updateDate": "2026-11-17T17:04:37.965Z",
+    "updateDate": "2026-11-17T18:05:30.618Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we have fair conditions at Verona Community Park with a temperature of 70 degrees. You can also look forward to an ISS flyover this evening starting at 5:46 PM, as it travels from the West over Mount Horeb toward the Northeast near Madison.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: it is 55 degrees with clear skies at Verona Community Park. While the ISS will pass overhead tonight, you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-17",
-    "updateDate": "2026-11-17T17:04:37.965Z",
+    "updateDate": "2026-11-17T18:05:30.618Z",
     "titleText": "Verona City News",
-    "mainText": "The city is hosting a public meeting on December 8 to discuss the Military Ridge State Trail paving project, including bridge replacements and future trail closures. Additionally, the Verona Police Department has compiled a summary of notable service calls handled between November 1 and November 15.",
+    "mainText": "The city is hosting a public information meeting on December 8th at the Senior Center to discuss the Military Ridge State Trail paving project, including bridge replacements and trail closures. Additionally, please remember to keep your recycling and refuse carts at least four feet apart and away from obstructions for easier collection.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-17",
-    "updateDate": "2026-11-17T17:04:37.965Z",
+    "updateDate": "2026-11-17T18:05:30.618Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy week for entertainment with trivia happening today at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's. Tomorrow, look out for more live music at Paddy Mac's, yoga at Insight Wellness, and a mid-week trivia challenge at The Bogey Factory.",
+    "mainText": "There are currently no events scheduled on the community calendar for the next 30 days, but we will keep you updated if that changes.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-17",
-    "updateDate": "2026-11-17T17:04:37.965Z",
+    "updateDate": "2026-11-17T18:05:30.618Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the police report, on November 6, officers were dispatched to a business on West Verona Avenue where they found a woman passed out in her vehicle and subsequently arrested her for O W I.",
+    "mainText": "In a report from November 8th, a driver was arrested for O W I after a single-vehicle crash occurred in the 600 block of South Main Street, resulting in the vehicle striking a light pole and catching fire.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-17",
-    "updateDate": "2026-11-17T17:04:37.965Z",
+    "updateDate": "2026-11-17T18:05:30.618Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can enjoy today's Flavor of the Day, Caramel Turtle, at the Verona Culver's, which is currently open and serving guests until 10 PM tonight.",
+    "mainText": "Today is the perfect day to enjoy a scoop of Caramel Turtle at Culver's. The store is currently open and will remain open until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
