@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-17",
-    "updateDate": "2026-11-17T11:03:52.022Z",
+    "updateDate": "2026-11-17T12:05:46.657Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: it is 35 degrees with clear skies by the Verona Public Library and we are seeing a first quarter moon.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: it is 34 degrees with clear skies around Badger Ridge Middle School. The moon is in its first quarter phase tonight. Please note that the ISS will pass overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-17",
-    "updateDate": "2026-11-17T11:03:52.022Z",
+    "updateDate": "2026-11-17T12:05:46.657Z",
     "titleText": "Verona City News",
-    "mainText": "The city is hosting a public information meeting on December 8th at the Senior Center to discuss the Military Ridge State Trail paving project, which includes bridge replacements and detours.",
+    "mainText": "City news today includes an invitation for the public to learn about the Military Ridge State Trail paving project. The meeting is set for December 8 at the Verona Senior Center to cover design plans, trail closures, and construction schedules.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-17",
-    "updateDate": "2026-11-17T11:03:52.022Z",
+    "updateDate": "2026-11-17T12:05:46.657Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with trivia today at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus live music and yoga sessions happening tomorrow.",
+    "mainText": "There is plenty to do in town. Today, you can join trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's. Tomorrow, look forward to yoga at Insight Wellness or pizza and a pitcher at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-17",
-    "updateDate": "2026-11-17T11:03:52.022Z",
+    "updateDate": "2026-11-17T12:05:46.657Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the recent police activity, officers arrested a 31-year-old woman for O W I on November 6th after responding to a welfare check at a local business.",
+    "mainText": "Looking at the report for the first half of November, on November 6, officers responded to a business on West Verona Avenue where a woman was found unresponsive in her vehicle. She was later arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-17",
-    "updateDate": "2026-11-17T11:03:52.022Z",
+    "updateDate": "2026-11-17T12:05:46.657Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's flavor of the day, Caramel Turtle, as the store opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is Caramel Turtle. The Verona Culver's opens today at 10:00 AM, so make sure to plan your visit accordingly.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
