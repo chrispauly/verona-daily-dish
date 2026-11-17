@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-11-16",
-    "updateDate": "2026-11-16T23:03:34.910Z",
+    "uid": "verona-balanced-weather-2026-11-17",
+    "updateDate": "2026-11-17T00:10:14.502Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: current conditions at the Verona Public Library are clear at 45 degrees. Under the first quarter moon, the International Space Station will be visible tonight starting at 6:34 PM, rising in the west northwest over Cross Plains and traveling toward the northeast near Madison, staying low near the horizon. We are expecting an overnight low of 33 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish. It is a clear evening at Harriet Park with a First Quarter moon. If you look up at 6:34 PM, you can catch the International Space Station traveling from the Cross Plains area toward Madison near Home Depot, staying low on the horizon. Tonight will dip to 33 degrees, and we have no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-11-16",
-    "updateDate": "2026-11-16T23:03:34.910Z",
+    "uid": "verona-balanced-news-2026-11-17",
+    "updateDate": "2026-11-17T00:10:14.502Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced a public information meeting on December 8 at the Verona Senior Center to discuss the Military Ridge State Trail paving project, including bridge replacements and detours. Additionally, residents are reminded that curbside refuse and recycling are managed by Pellitteri Waste Systems, with specific guidelines for cart placement available on the city website.",
+    "mainText": "The city is hosting a public information meeting on December 8 from 5:00 to 6:30 PM at the Verona Senior Center to discuss the paving and bridge replacement project for the Military Ridge State Trail. Additionally, please remember that all curbside refuse and recycling must be out by 7:00 AM, with carts placed away from obstructions.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-11-16",
-    "updateDate": "2026-11-16T23:03:34.910Z",
+    "uid": "verona-balanced-events-2026-11-17",
+    "updateDate": "2026-11-17T00:10:14.502Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "While there are no events scheduled for the next 30 days, we look forward to the community meeting regarding the Military Ridge State Trail coming up on December 8.",
+    "mainText": "Today features yoga at Insight Wellness, while tomorrow is a big night for trivia fans with events at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-11-16",
-    "updateDate": "2026-11-16T23:03:34.910Z",
+    "uid": "verona-balanced-police-2026-11-17",
+    "updateDate": "2026-11-17T00:10:14.502Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable service call from November 6, officers and fire personnel responded to a business on West Verona Avenue where they had to break into a vehicle to assist a driver who was later arrested for O W I.",
+    "mainText": "In a recent report, on November 2, officers responded to a residence on West End Circle where a 48-year-old Verona man was arrested for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-11-16",
-    "updateDate": "2026-11-16T23:03:34.910Z",
+    "uid": "verona-balanced-culvers-2026-11-17",
+    "updateDate": "2026-11-17T00:10:14.502Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Chocolate Volcano. Culver's is currently open and serving until 10 PM tonight, so there is still plenty of time to stop by for a scoop.",
+    "mainText": "The Culver's flavor of the day is the delicious Chocolate Volcano. The store is currently open and will remain open until 10:00 PM, so there is still time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
