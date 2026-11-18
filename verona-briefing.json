@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-18",
-    "updateDate": "2026-11-18T06:06:23.918Z",
+    "updateDate": "2026-11-18T07:04:32.607Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we are seeing 42 degrees under partly cloudy skies near Fireman's Park, with a lovely First Quarter moon in the sky.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we are looking at clear skies and 41 degrees at Badger Prairie County Park, with a First Quarter moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-18",
-    "updateDate": "2026-11-18T06:06:23.918Z",
+    "updateDate": "2026-11-18T07:04:32.607Z",
     "titleText": "Verona City News",
-    "mainText": "The Public Works Department is working hard to maintain our streets and utilities, and they encourage everyone to subscribe to the city newsletter to stay connected with municipal updates and programs.",
+    "mainText": "The Public Works Department maintains our city streets and utilities, and you can stay informed by subscribing to the city newsletter for program highlights.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-18",
-    "updateDate": "2026-11-18T06:06:23.918Z",
+    "updateDate": "2026-11-18T07:04:32.607Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community today, with live music at Paddy Mac's, yoga classes at Insight Wellness, and the Wednesday Pizza and a Pitcher event at the Wisconsin Brewing Company.",
+    "mainText": "Enjoy local entertainment with live music at Paddy Mac's today, yoga at Insight Wellness today, and pizza and a pitcher at Wisconsin Brewing Company today.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-18",
-    "updateDate": "2026-11-18T06:06:23.918Z",
+    "updateDate": "2026-11-18T07:04:32.607Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from the police department, on November 2, officers were dispatched to West End Circle where a 48-year-old man was taken into custody for battery and disorderly conduct.",
+    "mainText": "In a report from November 2, officers were dispatched to West End Circle where a 48-year-old man was arrested for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-18",
-    "updateDate": "2026-11-18T06:06:23.918Z",
+    "updateDate": "2026-11-18T07:04:32.607Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor is OREO Cookie Cheesecake, and since the restaurant is currently closed for the morning, you can plan your visit for when they open today at 10:00 AM.",
+    "mainText": "Today's delicious flavor is OREO Cookie Cheesecake and the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
