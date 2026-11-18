@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-11-17",
-    "updateDate": "2026-11-17T23:03:32.965Z",
+    "uid": "verona-balanced-weather-2026-11-18",
+    "updateDate": "2026-11-18T00:10:26.605Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. It is 49 degrees with clear skies at the Verona Public Library. We have a first quarter moon tonight, and the ISS will be visible at 5:46 PM as it rises over Mount Horeb and travels toward the Northeast near the Home Depot. Tonight will cool down to 36 degrees with no rain expected.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: we have clear skies at Badger Prairie County Park under a First Quarter moon, with an overnight low of 37 degrees and no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-11-17",
-    "updateDate": "2026-11-17T23:03:32.965Z",
+    "uid": "verona-balanced-news-2026-11-18",
+    "updateDate": "2026-11-18T00:10:26.605Z",
     "titleText": "Verona City News",
-    "mainText": "The city is highlighting the importance of the Public Works Department, which manages streets, sewers, and utilities year-round. You can stay connected by signing up for the city's official newsletter, which provides regular updates on local municipal programs.",
+    "mainText": "The City of Verona Public Works Department handles everything from street maintenance to water utilities, and you can stay informed on their work by subscribing to the city newsletter.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-11-17",
-    "updateDate": "2026-11-17T23:03:32.965Z",
+    "uid": "verona-balanced-events-2026-11-18",
+    "updateDate": "2026-11-18T00:10:26.605Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "While there are no events scheduled for the next 30 days, please stay tuned for future community gathering announcements.",
+    "mainText": "Join the community for a public information meeting on December 8 at the Senior Center to discuss upcoming paving and bridge replacements on the Military Ridge State Trail.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-11-17",
-    "updateDate": "2026-11-17T23:03:32.965Z",
+    "uid": "verona-balanced-police-2026-11-18",
+    "updateDate": "2026-11-18T00:10:26.605Z",
     "titleText": "Verona Police Report",
-    "mainText": "On November 4th, officers responded to a two-vehicle crash on East Verona Avenue where a driver was arrested for O W I with a child passenger in the vehicle.",
+    "mainText": "On November 6, officers responded to a business on West Verona Avenue where they found a driver passed out in her vehicle, resulting in an arrest for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-11-17",
-    "updateDate": "2026-11-17T23:03:32.965Z",
+    "uid": "verona-balanced-culvers-2026-11-18",
+    "updateDate": "2026-11-18T00:10:26.605Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor is Caramel Turtle, and the store remains open until 10:00 PM this evening for your dessert needs.",
+    "mainText": "Today's flavor of the day is the delightful Caramel Turtle, and you can head over to enjoy it before the store closes at 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
