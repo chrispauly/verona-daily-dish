@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-18",
-    "updateDate": "2026-11-18T03:05:37.014Z",
+    "updateDate": "2026-11-18T04:04:22.266Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, we are seeing overcast conditions and 45 degrees at Verona Community Park, under a First Quarter moon. The overnight low will drop to 37 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: it is 43 degrees and overcast at Verona Community Park. The first quarter moon is currently in the sky, though likely obscured by clouds. Expect an overnight low of 38 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-18",
-    "updateDate": "2026-11-18T03:05:37.014Z",
+    "updateDate": "2026-11-18T04:04:22.266Z",
     "titleText": "Verona City News",
-    "mainText": "The Public Works Department handles our local infrastructure including roads and utilities, and you can stay informed by subscribing to the city newsletter for the latest on municipal projects.",
+    "mainText": "The Public Works Department reminds residents that they are the team behind our street maintenance and utility services, and you can stay informed by subscribing to the City of Verona newsletter for all the latest city announcements.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-18",
-    "updateDate": "2026-11-18T03:05:37.014Z",
+    "updateDate": "2026-11-18T04:04:22.266Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead with trivia tonight at Hop Haus, Lake Lou-ee, and Paddy Mac's, followed by live music at Paddy Mac's, yoga at Insight Wellness, and pizza at Lake Lou-ee tomorrow.",
+    "mainText": "Looking at the calendar for the next 30 days, there are no upcoming events currently listed, though the city will host a public meeting regarding the Military Ridge State Trail paving project on December 8.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-18",
-    "updateDate": "2026-11-18T03:05:37.014Z",
+    "updateDate": "2026-11-18T04:04:22.266Z",
     "titleText": "Verona Police Report",
-    "mainText": "On November 9, a 61-year-old driver was arrested for a third-offence O W I after an officer observed them swerving on USH 18/151.",
+    "mainText": "In a report regarding service calls from earlier this month, on November 4, a two-vehicle crash in a business parking lot on East Verona Avenue resulted in an arrest for O W I involving a driver with a minor passenger.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-18",
-    "updateDate": "2026-11-18T03:05:37.014Z",
+    "updateDate": "2026-11-18T04:04:22.266Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can still grab today's flavor, Caramel Turtle, but make sure to head over soon as the store is closing in 55 minutes.",
+    "mainText": "Today's flavor was Caramel Turtle, but since the restaurant is closed for the night, please look forward to tomorrow's flavor, which will be OREO Cookie Cheesecake, when the doors open again at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
