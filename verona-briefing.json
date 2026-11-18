@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-18",
-    "updateDate": "2026-11-18T11:03:54.436Z",
+    "updateDate": "2026-11-18T12:05:55.250Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, it is 39 degrees with clear skies at Verona City Hall, though it feels closer to 29 degrees. The moon is in its first quarter phase, and while the ISS passes overhead tonight, you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish. It is 39 degrees with clear skies near the Verona Public Library under a First Quarter moon. The ISS will pass overhead tonight, but you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-18",
-    "updateDate": "2026-11-18T11:03:54.436Z",
+    "updateDate": "2026-11-18T12:05:55.250Z",
     "titleText": "Verona City News",
-    "mainText": "The city is promoting its digital newsletter, which keeps you informed on projects and city programs, and the Public Works Department reminds residents that they are hard at work maintaining our streets, sewers, and utilities.",
+    "mainText": "The city has two main updates for you. The Public Works Department is available for street and utility maintenance, and you can stay informed by subscribing to the city's digital newsletter which lists all current city programs.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-18",
-    "updateDate": "2026-11-18T11:03:54.436Z",
+    "updateDate": "2026-11-18T12:05:55.250Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with live music at Paddy Mac's and yoga at Insight Wellness today, followed by pizza and a pitcher at Lake Lou-ee today, and trivia at the Bogey Factory tomorrow.",
+    "mainText": "We have a busy couple of days ahead. Today, you can catch live music at Paddy Mac's, yoga at Insight Wellness, or Wednesday Pizza and a Pitcher at Lake Lou-ee. Tomorrow, look forward to Trivia Night at The Bogey Factory, ART House 360, and Hop Haus Trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-18",
-    "updateDate": "2026-11-18T11:03:54.436Z",
+    "updateDate": "2026-11-18T12:05:55.250Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on November 11, officers arrested a 54-year-old woman for bail jumping in the area of Whalen Road and South Main Street after she falsely claimed police were looking for her while under the influence of alcohol.",
+    "mainText": "In our police report for the week, on November 2, officers were dispatched to the 100 block of West End Circle for a report of a domestic disturbance where a man was arrested for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-18",
-    "updateDate": "2026-11-18T11:03:54.436Z",
+    "updateDate": "2026-11-18T12:05:55.250Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "If you are looking for a treat, today's flavor of the day is OREO Cookie Cheesecake. The restaurant opens today at 10:00 AM and will remain open until 10:00 PM.",
+    "mainText": "It is a great day to visit Culver's. Today's flavor of the day is OREO Cookie Cheesecake and the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
