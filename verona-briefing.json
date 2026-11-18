@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-18",
-    "updateDate": "2026-11-18T05:04:05.848Z",
+    "updateDate": "2026-11-18T06:06:23.918Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, it is 42 degrees with clear skies at Harriet Park and a first quarter moon overhead. The overnight low will drop to 37 degrees, and there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we are seeing 42 degrees under partly cloudy skies near Fireman's Park, with a lovely First Quarter moon in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-18",
-    "updateDate": "2026-11-18T05:04:05.848Z",
+    "updateDate": "2026-11-18T06:06:23.918Z",
     "titleText": "Verona City News",
-    "mainText": "The Public Works Department is currently highlighting their year-round maintenance responsibilities for city streets, sidewalks, and utilities, while the city continues to encourage residents to subscribe to the digital newsletter for updates on local projects and programs.",
+    "mainText": "The Public Works Department is working hard to maintain our streets and utilities, and they encourage everyone to subscribe to the city newsletter to stay connected with municipal updates and programs.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-18",
-    "updateDate": "2026-11-18T05:04:05.848Z",
+    "updateDate": "2026-11-18T06:06:23.918Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town, including live music at Paddy Mac's, yoga sessions at Insight Wellness, and pizza and a pitcher at Lake Lou-ee, all happening tomorrow.",
+    "mainText": "There is plenty to do in our community today, with live music at Paddy Mac's, yoga classes at Insight Wellness, and the Wednesday Pizza and a Pitcher event at the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-18",
-    "updateDate": "2026-11-18T05:04:05.848Z",
+    "updateDate": "2026-11-18T06:06:23.918Z",
     "titleText": "Verona Police Report",
-    "mainText": "During the week of November 1st, officers handled several incidents, including a case on November 8 where a driver was arrested for O W I after a single-vehicle crash on South Main Street caused their vehicle to catch fire.",
+    "mainText": "In a report from the police department, on November 2, officers were dispatched to West End Circle where a 48-year-old man was taken into custody for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-18",
-    "updateDate": "2026-11-18T05:04:05.848Z",
+    "updateDate": "2026-11-18T06:06:23.918Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor was the classic Caramel Turtle. Since the store is now closed for the night, please join us tomorrow starting at 10:00 AM when the flavor of the day will be OREO Cookie Cheesecake.",
+    "mainText": "Today's featured flavor is OREO Cookie Cheesecake, and since the restaurant is currently closed for the morning, you can plan your visit for when they open today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
