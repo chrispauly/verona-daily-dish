@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-18",
-    "updateDate": "2026-11-18T18:04:10.072Z",
+    "updateDate": "2026-11-18T19:03:48.973Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we have overcast skies at Verona Community Park with a temperature of 57 degrees. The moon is in its first quarter phase, and while the International Space Station will pass over tonight, you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: it is 58 degrees under overcast skies at Harriet Park, and while the ISS passes overhead tonight, you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-18",
-    "updateDate": "2026-11-18T18:04:10.072Z",
+    "updateDate": "2026-11-18T19:03:48.973Z",
     "titleText": "Verona City News",
-    "mainText": "In city business, the municipal government has adopted the 2027 annual budget. Additionally, the Public Works department is reminding residents to properly dispose of fats, oils, and grease to prevent sewer system clogs and infrastructure damage.",
+    "mainText": "We have no new city news articles or email updates to share with you at this time.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-18",
-    "updateDate": "2026-11-18T18:04:10.072Z",
+    "updateDate": "2026-11-18T19:03:48.973Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy day in town! Today, you can enjoy live music at Paddy Mac's, yoga at Insight Wellness, or Wednesday pizza and a pitcher at Lake Lou-ee. Looking ahead, you can test your knowledge at The Bogey Factory trivia night tomorrow.",
+    "mainText": "We have a full schedule of events for you to enjoy. Today, you can catch live music at Paddy Mac's, attend yoga at Insight Wellness, or stop by Wisconsin Brewing Company for pizza and a pitcher. Tomorrow, look forward to trivia at The Bogey Factory or check out the ART House 360 Thursday night festivities. Looking ahead, you can also enjoy live music at Hop Haus Brewing on Thursday, Bailey's Run on November 20, and the Wisconsin Brewing Company on November 21.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-18",
-    "updateDate": "2026-11-18T18:04:10.072Z",
+    "updateDate": "2026-11-18T19:03:48.973Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a recent report, on November 4, officers responded to a two-vehicle crash in a business parking lot where one driver was arrested for O W I with a minor passenger in the vehicle.",
+    "mainText": "There were no police incidents reported this week.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-18",
-    "updateDate": "2026-11-18T18:04:10.072Z",
+    "updateDate": "2026-11-18T19:03:48.973Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the fan-favorite OREO Cookie Cheesecake. The restaurant is currently open, so stop by before they close at 10:00 PM to grab your serving.",
+    "mainText": "The Culver's flavor of the day is OREO Cookie Cheesecake. The restaurant is currently open, so stop by before they close at 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
