@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-18",
-    "updateDate": "2026-11-18T01:04:27.934Z",
+    "updateDate": "2026-11-18T02:05:43.680Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: we have fair conditions at 70 degrees near Fireman's Park.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: it is 46 degrees under overcast skies at Verona City Hall. We are currently under a first quarter moon. The overnight low will drop to 37 degrees, with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-18",
-    "updateDate": "2026-11-18T01:04:27.934Z",
+    "updateDate": "2026-11-18T02:05:43.680Z",
     "titleText": "Verona City News",
-    "mainText": "The Public Works Department handles the maintenance of our streets and utilities, and they encourage you to subscribe to the city newsletter to stay updated on all city-wide programs and projects.",
+    "mainText": "City residents are invited to sign up for the digital newsletter to stay informed on important news, projects, and programs. Additionally, the Public Works Department reminds everyone they are available to assist with street and utility maintenance during regular business hours.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-18",
-    "updateDate": "2026-11-18T01:04:27.934Z",
+    "updateDate": "2026-11-18T02:05:43.680Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with trivia at Hop Haus Brewing Co, Lake Lou-ee, and Paddy Mac's all happening today. Tomorrow, you can look forward to yoga at Insight Wellness, pizza at Lake Lou-ee, and live music at Paddy Mac's.",
+    "mainText": "There is plenty to do in Verona today with trivia nights at Hop Haus, Lake Lou-ee, and Paddy Mac's. Looking ahead to tomorrow, you can catch live music at Paddy Mac's or try out a yoga class at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-18",
-    "updateDate": "2026-11-18T01:04:27.934Z",
+    "updateDate": "2026-11-18T02:05:43.680Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding recent activity, on November 2, officers responded to a residence on West End Circle where a 48-year-old Verona man was arrested for battery and disorderly conduct.",
+    "mainText": "In our weekly look at police activity, on November 4, officers responded to a two-vehicle crash in an East Verona Avenue parking lot, which resulted in an arrest for O W I involving a driver with a minor in the vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-18",
-    "updateDate": "2026-11-18T01:04:27.934Z",
+    "updateDate": "2026-11-18T02:05:43.680Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can grab today's delicious Caramel Turtle flavor at Culver's, as they remain open until 10:00 PM tonight.",
+    "mainText": "Today's flavor of the day is Caramel Turtle. The store is currently open and will remain open until 10 PM tonight, so there is still time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
