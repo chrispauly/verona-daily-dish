@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-18",
-    "updateDate": "2026-11-18T20:04:17.813Z",
+    "updateDate": "2026-11-18T21:03:41.249Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: expect overcast skies along the Military Ridge State Trail with a first quarter moon phase, and while the ISS passes overhead tonight, you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 3 PM, we have overcast skies and 58 degrees out near the Military Ridge State Trail. The ISS will pass overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-18",
-    "updateDate": "2026-11-18T20:04:17.813Z",
+    "updateDate": "2026-11-18T21:03:41.249Z",
     "titleText": "Verona City News",
-    "mainText": "The city has adopted the 2027 budget and is reminding residents to protect our sewer system by disposing of fats, oils, and grease in the trash to prevent clogs and backups.",
+    "mainText": "In city news, the Public Works department reminds residents to avoid pouring fats, oils, and grease down the drain to prevent sewer backups. Additionally, the city has officially adopted the 2027 budget.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-18",
-    "updateDate": "2026-11-18T20:04:17.813Z",
+    "updateDate": "2026-11-18T21:03:41.249Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty happening today including live music at Paddy Mac's, yoga at Insight Wellness, and pizza with a pitcher at Lake Lou-ee, plus trivia tomorrow at The Bogey Factory.",
+    "mainText": "We have a busy couple of days ahead. Today you can enjoy live music at Paddy Mac's, yoga at Insight Wellness, or pizza at Lake Lou-ee. Tomorrow, look forward to trivia nights at both The Bogey Factory and Hop Haus Brewing.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-18",
-    "updateDate": "2026-11-18T20:04:17.813Z",
+    "updateDate": "2026-11-18T21:03:41.249Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from November 2, officers were dispatched to a residence on West End Circle where a 48-year-old man was arrested following a domestic disturbance.",
+    "mainText": "On November 9, a 61-year-old man was arrested for his third O W I after being observed driving in an unsafe manner on USH 18 151.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-18",
-    "updateDate": "2026-11-18T20:04:17.813Z",
+    "updateDate": "2026-11-18T21:03:41.249Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's flavor, OREO Cookie Cheesecake, while visiting our local Culver's which is open today until 10 PM.",
+    "mainText": "The Culver's flavor of the day is OREO Cookie Cheesecake and the store is currently open until 10 PM, so head over and grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
