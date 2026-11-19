@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-19",
-    "updateDate": "2026-11-19T07:04:30.232Z",
+    "updateDate": "2026-11-19T08:07:16.571Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we are seeing overcast skies and a temperature of 48 degrees near Verona City Hall under a Waxing Gibbous moon.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: we have mainly clear skies over Harriet Park with a temperature of 48 degrees, though it feels like 40, and the moon is currently in a Waxing Gibbous phase.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-19",
-    "updateDate": "2026-11-19T07:04:30.232Z",
+    "updateDate": "2026-11-19T08:07:16.571Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Finance Department has adopted the 2027 budget, and the Public Works Department reminds everyone to keep our sewer systems healthy by properly disposing of fats, oils, and grease in the trash rather than down the drain.",
+    "mainText": "City officials have recently adopted the 2027 budget, and the Public Works department reminds residents to properly dispose of fats, oils, and grease to prevent sewer system clogs and environmental pollution.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-19",
-    "updateDate": "2026-11-19T07:04:30.232Z",
+    "updateDate": "2026-11-19T08:07:16.571Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can join a yoga session at Insight Wellness or head over to Art House 360 for their Thursday night festivities. Looking ahead, tomorrow brings live music to Bailey's Run, and next week features trivia nights at the Wisconsin Brewing Company and Paddy Mac's.",
+    "mainText": "There is plenty happening in the community, including Yoga at Insight Wellness and ART House 360 events occurring today, followed by Hop Haus Trivia in Verona this Thursday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-19",
-    "updateDate": "2026-11-19T07:04:30.232Z",
+    "updateDate": "2026-11-19T08:07:16.571Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at recent police activity, on November 8, a single vehicle crash occurred on South Main Street where a driver was arrested for O W I after striking a tree and a light pole.",
+    "mainText": "Regarding recent activity, on November 9, an officer stopped a vehicle on USH 18/151 that was being operated in an unsafe manner, resulting in the driver being arrested for a third offence O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-19",
-    "updateDate": "2026-11-19T07:04:30.232Z",
+    "updateDate": "2026-11-19T08:07:16.571Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Double Strawberry. The store opens today at 10:00 AM, so make sure to stop by and enjoy a treat.",
+    "mainText": "Treat yourself to today's flavor, Double Strawberry, which you can pick up when the restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
