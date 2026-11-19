@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-19",
-    "updateDate": "2026-11-19T06:06:49.607Z",
+    "updateDate": "2026-11-19T07:04:30.232Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we are seeing clear skies over Fireman's Park tonight with the moon in a Waxing Gibbous phase.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we are seeing overcast skies and a temperature of 48 degrees near Verona City Hall under a Waxing Gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-19",
-    "updateDate": "2026-11-19T06:06:49.607Z",
+    "updateDate": "2026-11-19T07:04:30.232Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has officially adopted the 2027 budget. Additionally, public works officials are reminding residents to properly dispose of fats, oils, and greases to prevent sewer clogs and keep our local waterways clean.",
+    "mainText": "In city news, the Finance Department has adopted the 2027 budget, and the Public Works Department reminds everyone to keep our sewer systems healthy by properly disposing of fats, oils, and grease in the trash rather than down the drain.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-19",
-    "updateDate": "2026-11-19T06:06:49.607Z",
+    "updateDate": "2026-11-19T07:04:30.232Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at the calendar for the next month, there are currently no upcoming events listed for the city.",
+    "mainText": "Today, you can join a yoga session at Insight Wellness or head over to Art House 360 for their Thursday night festivities. Looking ahead, tomorrow brings live music to Bailey's Run, and next week features trivia nights at the Wisconsin Brewing Company and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-19",
-    "updateDate": "2026-11-19T06:06:49.607Z",
+    "updateDate": "2026-11-19T07:04:30.232Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from the week, an officer observed a driver swerving on USH 18/151 on November 9, which resulted in the driver being arrested for a third offence O W I.",
+    "mainText": "Looking at recent police activity, on November 8, a single vehicle crash occurred on South Main Street where a driver was arrested for O W I after striking a tree and a light pole.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-19",
-    "updateDate": "2026-11-19T06:06:49.607Z",
+    "updateDate": "2026-11-19T07:04:30.232Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Double Strawberry. The store is currently closed, but you can head over when it opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is the delightful Double Strawberry. The store opens today at 10:00 AM, so make sure to stop by and enjoy a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
