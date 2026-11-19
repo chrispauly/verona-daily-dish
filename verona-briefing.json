@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-19",
-    "updateDate": "2026-11-19T12:05:42.767Z",
+    "updateDate": "2026-11-19T13:04:05.068Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: we have overcast skies at Reddan Soccer Park with temperatures at 47 degrees. The Waxing Gibbous moon is out, and while the ISS is passing by tonight, you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: the temperature is 47 degrees with mainly clear skies at Verona Community Park, and we have an exciting ISS flyover tonight starting at 5:47 PM, rising low in the west-northwest over Cross Plains and moving across the sky toward Madison near Home Depot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-19",
-    "updateDate": "2026-11-19T12:05:42.767Z",
+    "updateDate": "2026-11-19T13:04:05.068Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Public Works department is reminding residents how to properly dispose of fats, oils, and greases to protect our sewer infrastructure. Also, the city has officially adopted the 2027 budget, which you can review on the city website.",
+    "mainText": "The city has officially adopted the 2027 annual budget. Additionally, the public works department reminds everyone that fats, oils, and greases should never be poured down the drain, as they can cause significant clogs and environmental issues.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-19",
-    "updateDate": "2026-11-19T12:05:42.767Z",
+    "updateDate": "2026-11-19T13:04:05.068Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There are no public events currently on the calendar for the next month, but we will be sure to update you as soon as new gatherings are announced.",
+    "mainText": "There is a full lineup today, including Yoga at Insight Wellness and ART House 360 Thursday nights. Looking ahead, you can catch trivia at Hop Haus Brewing Company tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-19",
-    "updateDate": "2026-11-19T12:05:42.767Z",
+    "updateDate": "2026-11-19T13:04:05.068Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a recent police report, on November 2nd, officers responded to a domestic disturbance on West End Circle that resulted in an arrest for battery and disorderly conduct.",
+    "mainText": "In a noteworthy call from November 2, officers responded to a residence on West End Circle where a 48-year-old man was arrested for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-19",
-    "updateDate": "2026-11-19T12:05:42.767Z",
+    "updateDate": "2026-11-19T13:04:05.068Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor at Culver's is Double Strawberry. If you are looking to stop by, the restaurant opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is the delicious Double Strawberry, and our local Culver's opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
