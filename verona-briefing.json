@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-19",
-    "updateDate": "2026-11-19T10:03:58.584Z",
+    "updateDate": "2026-11-19T11:04:02.790Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: we are seeing overcast skies near the Verona Area High School with the temperature at 48 degrees and the moon in a waxing gibbous phase.",
+    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: it is 48 degrees with overcast skies near the Verona Public Library, and we are currently seeing a waxing gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-19",
-    "updateDate": "2026-11-19T10:03:58.584Z",
+    "updateDate": "2026-11-19T11:04:02.790Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the Finance Department has adopted the 2027 budget. Also, a reminder from Public Works to properly dispose of fats, oils, and greases to avoid costly sewer clogs in our community.",
+    "mainText": "The city recently adopted the 2027 budget, and residents are reminded to dispose of fats, oils, and greases properly in the trash to prevent sewer system clogs and protect our local waterways.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-19",
-    "updateDate": "2026-11-19T10:03:58.584Z",
+    "updateDate": "2026-11-19T11:04:02.790Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule ahead! Today you can participate in Yoga at Insight Wellness or check out ART House 360. Tomorrow, enjoy live music at Bailey's Run and Lake Lou-ee, followed by trivia events next week.",
+    "mainText": "We have a full schedule starting today with Yoga at Insight Wellness and ART House 360 Thursday nights. Tomorrow, you can catch live music at Bailey's Run or enjoy Hop Haus Trivia today.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-19",
-    "updateDate": "2026-11-19T10:03:58.584Z",
+    "updateDate": "2026-11-19T11:04:02.790Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the police report, on November 2, officers were called to the 100 block of West End Circle where a 48-year-old man was arrested for battery and disorderly conduct.",
+    "mainText": "In a report from November 2, officers were called to the 100 block of West End Circle where a 48-year-old man was arrested for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-19",
-    "updateDate": "2026-11-19T10:03:58.584Z",
+    "updateDate": "2026-11-19T11:04:02.790Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "It is time for dessert! Today's flavor is Double Strawberry, and the store opens today at 10:00 AM.",
+    "mainText": "Today's delicious flavor is Double Strawberry, and the restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
