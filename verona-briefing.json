@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-19",
-    "updateDate": "2026-11-19T01:03:44.990Z",
+    "updateDate": "2026-11-19T02:05:43.522Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, conditions near Badger Ridge Middle School are overcast with a temperature of 49 degrees. The overnight low will reach 45 degrees, and thankfully, no rain is predicted. It is a First Quarter moon phase tonight.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish on the weather. We have overcast skies near City Hall with a temperature of 49 degrees that feels like 39. The overnight low will reach 45 degrees, and we are expecting a dry night with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-19",
-    "updateDate": "2026-11-19T01:03:44.990Z",
+    "updateDate": "2026-11-19T02:05:43.522Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has officially adopted the 2027 budget. Additionally, the Public Works Department is reminding residents to dispose of fats, oils, and grease in the trash rather than down the drain to prevent sewer backups and environmental pollution.",
+    "mainText": "Public Works is reminding everyone to be careful with fats, oils, and grease in your kitchen. Pouring these down the drain can cause major sewer clogs and pipe damage, so please scrape them into the trash instead. Also, make sure to catch up on the latest city developments by signing up for the official digital newsletter.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-19",
-    "updateDate": "2026-11-19T01:03:44.990Z",
+    "updateDate": "2026-11-19T02:05:43.522Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today you can enjoy live music at Paddy Mac's, yoga at Insight Wellness, or Wednesday pizza at Lake Lou-ee. Tomorrow, look forward to trivia nights at The Bogey Factory and Hop Haus Brewing, plus ART House 360 events.",
+    "mainText": "We have a busy couple of days ahead in our community. Today, you can enjoy live music at Paddy Mac's, yoga at Insight Wellness, or the weekly Pizza and a Pitcher night at Wisconsin Brewing Company. Looking forward to tomorrow, don't miss out on Trivia Night at The Bogey Factory or the return of ART House 360 nights.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-19",
-    "updateDate": "2026-11-19T01:03:44.990Z",
+    "updateDate": "2026-11-19T02:05:43.522Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report covering November 1 through November 15, on November 4, a 34-year-old woman was arrested for O W I following a two-vehicle crash in a business parking lot on East Verona Avenue.",
+    "mainText": "Turning to our police report, on November 4, a two-vehicle crash occurred in a business parking lot on East Verona Avenue, which led to an arrest for O W I with a minor passenger in the vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-19",
-    "updateDate": "2026-11-19T01:03:44.990Z",
+    "updateDate": "2026-11-19T02:05:43.522Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor at Culver's is OREO Cookie Cheesecake. The store is currently open and will remain so until 10:00 PM tonight.",
+    "mainText": "Today's flavor of the day is OREO Cookie Cheesecake, which is a local favorite. The Verona location is currently open and will be serving up scoops until they close at 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
