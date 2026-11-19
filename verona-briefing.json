@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-19",
-    "updateDate": "2026-11-19T17:03:49.359Z",
+    "updateDate": "2026-11-19T18:05:07.717Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we have clear skies at Verona City Hall, and if you look to the sky tonight, the space station will be visible for 4 minutes starting at 5:47 PM, rising from the west-northwest over Cross Plains and traveling toward the northeast near the Madison Home Depot.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we have clear skies today with a temperature of 61 degrees, feeling like 53. If you look up tonight at 5:47 PM, you can catch the ISS rising over Cross Plains and traveling toward Madison near Home Depot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-19",
-    "updateDate": "2026-11-19T17:03:49.359Z",
+    "updateDate": "2026-11-19T18:05:07.717Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced reconstruction plans for several streets including North Shuman and North Marietta scheduled for 2027 and 2028 to replace 1950s-era utility infrastructure, and a public meeting is set for December 16 at City Hall to discuss these improvements.",
+    "mainText": "The City of Verona has announced a massive infrastructure project for 2027 and 2028, focusing on replacing 1950s-era water and sewer lines on streets including North Shuman and North Marietta. A public information meeting is set for December 16 to discuss the plans.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-19",
-    "updateDate": "2026-11-19T17:03:49.359Z",
+    "updateDate": "2026-11-19T18:05:07.717Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with Yoga at Insight Wellness happening today, ART House 360 events tonight, and Hop Haus Trivia tomorrow, plus live music kicking off at Bailey's Run tomorrow.",
+    "mainText": "We have plenty to do this week. Yoga at Insight Wellness is taking place today, and ART House 360 is hosting happy hours and events tonight. Tomorrow, you can enjoy live music at Bailey's Run Vineyard.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-19",
-    "updateDate": "2026-11-19T17:03:49.359Z",
+    "updateDate": "2026-11-19T18:05:07.717Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local public safety, the Verona Police Department reported that on November 2, a 48-year-old Verona man was arrested for battery and disorderly conduct following a domestic disturbance call.",
+    "mainText": "On November 6, officers responded to a business on West Verona Avenue where they found an unresponsive driver who was later arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-19",
-    "updateDate": "2026-11-19T17:03:49.359Z",
+    "updateDate": "2026-11-19T18:05:07.717Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Our delicious flavor of the day is Double Strawberry, and since the store is currently open, there is plenty of time to stop by before we close our doors at 10:00 PM.",
+    "mainText": "If you are craving something sweet, head over to Culver's today to try their Double Strawberry flavor of the day. They are open until 10 PM this evening.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
