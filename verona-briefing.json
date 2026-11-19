@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-19",
-    "updateDate": "2026-11-19T08:07:16.571Z",
+    "updateDate": "2026-11-19T09:04:31.483Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: we have mainly clear skies over Harriet Park with a temperature of 48 degrees, though it feels like 40, and the moon is currently in a Waxing Gibbous phase.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: the current temperature is 48 degrees with clear skies near Badger Ridge Middle School and we have a waxing gibbous moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-19",
-    "updateDate": "2026-11-19T08:07:16.571Z",
+    "updateDate": "2026-11-19T09:04:31.483Z",
     "titleText": "Verona City News",
-    "mainText": "City officials have recently adopted the 2027 budget, and the Public Works department reminds residents to properly dispose of fats, oils, and grease to prevent sewer system clogs and environmental pollution.",
+    "mainText": "In city news, the Finance Department has finalized the 2027 annual budget. Also, a friendly reminder from Public Works to never pour fats, oils, or grease down your drains as it can clog the community sewer system and cause backups.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-19",
-    "updateDate": "2026-11-19T08:07:16.571Z",
+    "updateDate": "2026-11-19T09:04:31.483Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty happening in the community, including Yoga at Insight Wellness and ART House 360 events occurring today, followed by Hop Haus Trivia in Verona this Thursday.",
+    "mainText": "We have plenty to look forward to including Yoga at Insight Wellness today, ART House festivities tonight, and the popular Hop Haus trivia tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-19",
-    "updateDate": "2026-11-19T08:07:16.571Z",
+    "updateDate": "2026-11-19T09:04:31.483Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding recent activity, on November 9, an officer stopped a vehicle on USH 18/151 that was being operated in an unsafe manner, resulting in the driver being arrested for a third offence O W I.",
+    "mainText": "In a report from the police department, on November 2, officers were dispatched to the 100 block of West End Circle where a 48-year-old man was arrested for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-19",
-    "updateDate": "2026-11-19T08:07:16.571Z",
+    "updateDate": "2026-11-19T09:04:31.483Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's flavor, Double Strawberry, which you can pick up when the restaurant opens today at 10:00 AM.",
+    "mainText": "Today's delicious flavor is Double Strawberry. Culver's of Verona will be opening today at 10:00 AM for all your cravings.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
