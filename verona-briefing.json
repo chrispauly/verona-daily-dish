@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-19",
-    "updateDate": "2026-11-19T02:05:43.522Z",
+    "updateDate": "2026-11-19T03:10:09.193Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish on the weather. We have overcast skies near City Hall with a temperature of 49 degrees that feels like 39. The overnight low will reach 45 degrees, and we are expecting a dry night with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. It is a cool 49 degrees under overcast skies near the Verona Public Library. The moon is in its First Quarter phase tonight. Looking ahead, the overnight low will reach 45 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-19",
-    "updateDate": "2026-11-19T02:05:43.522Z",
+    "updateDate": "2026-11-19T03:10:09.193Z",
     "titleText": "Verona City News",
-    "mainText": "Public Works is reminding everyone to be careful with fats, oils, and grease in your kitchen. Pouring these down the drain can cause major sewer clogs and pipe damage, so please scrape them into the trash instead. Also, make sure to catch up on the latest city developments by signing up for the official digital newsletter.",
+    "mainText": "The City of Verona has officially adopted the 2027 budget. Additionally, the Public Works Department reminds everyone to keep our sewer system healthy by properly disposing of fats, oils, and grease, as these items can cause serious clogs and environmental pollution.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-19",
-    "updateDate": "2026-11-19T02:05:43.522Z",
+    "updateDate": "2026-11-19T03:10:09.193Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead in our community. Today, you can enjoy live music at Paddy Mac's, yoga at Insight Wellness, or the weekly Pizza and a Pitcher night at Wisconsin Brewing Company. Looking forward to tomorrow, don't miss out on Trivia Night at The Bogey Factory or the return of ART House 360 nights.",
+    "mainText": "There is plenty happening in town. Today, you can catch live music at Paddy Mac's, attend yoga at Insight Wellness, or grab pizza and a pitcher at the Wisconsin Brewing Company. Looking ahead, Wednesday Trivia Night is at the Bogey Factory tomorrow, followed by Art House 360 events and Hop Haus Trivia, also tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-19",
-    "updateDate": "2026-11-19T02:05:43.522Z",
+    "updateDate": "2026-11-19T03:10:09.193Z",
     "titleText": "Verona Police Report",
-    "mainText": "Turning to our police report, on November 4, a two-vehicle crash occurred in a business parking lot on East Verona Avenue, which led to an arrest for O W I with a minor passenger in the vehicle.",
+    "mainText": "Turning to our weekly police update, on November 4th, officers responded to a two-vehicle crash in a business parking lot on East Verona Avenue, which resulted in an O W I arrest involving a passenger under the age of sixteen.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-19",
-    "updateDate": "2026-11-19T02:05:43.522Z",
+    "updateDate": "2026-11-19T03:10:09.193Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is OREO Cookie Cheesecake, which is a local favorite. The Verona location is currently open and will be serving up scoops until they close at 10 PM tonight.",
+    "mainText": "Today's flavor of the day is the delightful OREO Cookie Cheesecake. The Culver's in Verona is currently open, but please note that they will be closing their doors soon at 10:00 PM, so make sure to get there quickly if you are craving a sweet treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
