@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-19",
-    "updateDate": "2026-11-19T04:04:24.600Z",
+    "updateDate": "2026-11-19T05:04:16.061Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. It is a clear 48 degrees out by the Verona Area High School with the Waxing Gibbous moon shining bright. Tonight will reach a low of 45 degrees, and we are not expecting any rain.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: current conditions at the Verona Public Library are clear, with the temperature at 48 degrees, an overnight low of 44 degrees, and no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-19",
-    "updateDate": "2026-11-19T04:04:24.600Z",
+    "updateDate": "2026-11-19T05:04:16.061Z",
     "titleText": "Verona City News",
-    "mainText": "The Public Works Department is reminding all residents to properly dispose of fats, oils, and greases to prevent costly sewer clogs and local waterway pollution. Please remember to scrape your pans into the trash rather than pouring them down the drain.",
+    "mainText": "The city has formally adopted the 2027 budget, and residents are reminded to keep local pipes clear by properly disposing of fats, oils, and greases in the trash rather than down the drain.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-19",
-    "updateDate": "2026-11-19T04:04:24.600Z",
+    "updateDate": "2026-11-19T05:04:16.061Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule ahead in Verona. Today, you can enjoy Live Music at Paddy Mac's, Yoga at Insight Wellness, or the Wednesday Pizza and a Pitcher event at Lake Lou-ee. Tomorrow, make sure to check out the ART House 360 events or test your skills at Hop Haus Trivia.",
+    "mainText": "We have a busy lineup tomorrow with Yoga at Insight Wellness, the ART House 360 Thursday night series, and Hop Haus Trivia in the evening.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-19",
-    "updateDate": "2026-11-19T04:04:24.600Z",
+    "updateDate": "2026-11-19T05:04:16.061Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, on November 6, officers responded to a business on West Verona Avenue where they found a woman unresponsive in her vehicle. After assistance from the fire department, she was arrested for O W I.",
+    "mainText": "In a report covering the first half of November, officers noted that on November 14, a stolen vehicle from the City of Madison was discovered abandoned on Lincoln Street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-19",
-    "updateDate": "2026-11-19T04:04:24.600Z",
+    "updateDate": "2026-11-19T05:04:16.061Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Our team at Culver's has finished serving up the OREO Cookie Cheesecake for the day. We are currently closed for the night, but we will be back at it tomorrow morning at 10:00 AM with our delicious Double Strawberry flavor.",
+    "mainText": "Today's flavor of the day was OREO Cookie Cheesecake. Since we are currently closed for the night, please join us tomorrow starting at 10:00 AM when we will be serving Double Strawberry.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
