@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-20",
-    "updateDate": "2026-11-20T16:03:57.253Z",
+    "updateDate": "2026-11-20T17:04:05.737Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have mainly clear skies near the Verona Public Library, and please be aware the ISS passes overhead tonight, though you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish: we have clear skies at the Verona Public Library with temperatures at 60 degrees. The moon is a waxing gibbous, and while the ISS passes overhead tonight, you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-20",
-    "updateDate": "2026-11-20T16:03:57.253Z",
+    "updateDate": "2026-11-20T17:04:05.737Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is reminding everyone that city buildings will be closed on November 26 and 27 for Thanksgiving, which also affects refuse and recycling pickup schedules.",
+    "mainText": "Regarding city news, please note that City Hall will be closed November 26 and 27 for Thanksgiving. Additionally, the Public Works department is planning an expansion to accommodate our growing population, and construction continues on Mark Drive.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-20",
-    "updateDate": "2026-11-20T16:03:57.253Z",
+    "updateDate": "2026-11-20T17:04:05.737Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a full slate of entertainment, including live music at Bailey's Run today and at Wisconsin Brewing Company tomorrow, with various trivia nights starting throughout the weekend.",
+    "mainText": "There is a great lineup of local entertainment. Live music is at Bailey's Run Vineyard today, Wisconsin Brewing Company features music tomorrow, and Paddy Mac's has a show tomorrow evening.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-20",
-    "updateDate": "2026-11-20T16:03:57.253Z",
+    "updateDate": "2026-11-20T17:04:05.737Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report regarding service calls, on November 2, a 48-year-old Verona man was arrested for battery and disorderly conduct at a residence in the 100 block of West End Circle.",
+    "mainText": "In our weekly police report, on November 4, a 34-year-old woman was arrested for O W I in a business parking lot on East Verona Avenue while a minor was in the vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-20",
-    "updateDate": "2026-11-20T16:03:57.253Z",
+    "updateDate": "2026-11-20T17:04:05.737Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The flavor of the day is Really Reese's, and since the restaurant is currently open until 10:30 PM, now is a great time to stop by and satisfy your sweet tooth.",
+    "mainText": "Today's delicious flavor of the day is Really Reese's. The store is currently open and will be serving customers until 10:30 PM tonight, so stop by and enjoy a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
