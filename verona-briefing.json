@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-20",
-    "updateDate": "2026-11-20T21:03:58.201Z",
+    "updateDate": "2026-11-20T22:04:00.410Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish: we are looking at 65 degrees with clear skies near Badger Ridge Middle School. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish. It is 62 degrees with clear skies at Badger Prairie County Park, and the Moon is in a Waxing Gibbous phase. If you look up at 5:01 PM, you can catch the ISS rising over Cross Plains and moving toward Madison near the Home Depot, appearing low near the horizon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-20",
-    "updateDate": "2026-11-20T21:03:58.201Z",
+    "updateDate": "2026-11-20T22:04:00.410Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, there are no new updates or important emails to report at this time.",
+    "mainText": "The City of Verona announced that all city buildings will be closed for the Thanksgiving holiday on November 26 and 27. Additionally, residents should note that refuse and recycling pickup normally scheduled for Thursday will be delayed until Friday.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-20",
-    "updateDate": "2026-11-20T21:03:58.201Z",
+    "updateDate": "2026-11-20T22:04:00.410Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town with live music happening today at Bailey's Run Vineyard, followed by a music series event tomorrow at Paddy Mac's.",
+    "mainText": "We have a packed schedule with live music at Bailey's Run Vineyard today and Lake Lou-ee tomorrow, plus yoga on November 23 and trivia nights starting November 25.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-20",
-    "updateDate": "2026-11-20T21:03:58.201Z",
+    "updateDate": "2026-11-20T22:04:00.410Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department has not released a weekly report today, so we have no specific incidents to cover.",
+    "mainText": "In a report covering November 1 through 15, on November 2, officers were dispatched to a residence on West End Circle where a 48-year-old man was arrested for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-20",
-    "updateDate": "2026-11-20T21:03:58.201Z",
+    "updateDate": "2026-11-20T22:04:00.410Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is the delicious Really Reese's, and since the store is open until 10:30 PM, you can head over anytime to grab a scoop.",
+    "mainText": "Today's flavor of the day is the delicious Really Reese's. The restaurant is currently open and will be serving guests until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
