@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-20",
-    "updateDate": "2026-11-20T09:04:19.668Z",
+    "updateDate": "2026-11-20T10:03:56.855Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: it is 37 degrees with overcast skies at Harriet Park, and we have a waxing gibbous moon overhead.",
+    "mainText": "Hello, Verona! At 4 AM, the temperature is 38 degrees with foggy conditions at Verona City Hall, all under the light of a waxing gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-20",
-    "updateDate": "2026-11-20T09:04:19.668Z",
+    "updateDate": "2026-11-20T10:03:56.855Z",
     "titleText": "Verona City News",
-    "mainText": "The city is evaluating a space needs proposal to expand the Public Works and Utilities facility to better serve our residents, and construction continues on the Mark Drive and Legion Street reconstruction projects.",
+    "mainText": "The City of Verona is working on a space needs evaluation for the Public Works and Utilities facility to accommodate population growth, and reconstruction work continues on Mark Drive with phase two underway.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-20",
-    "updateDate": "2026-11-20T09:04:19.668Z",
+    "updateDate": "2026-11-20T10:03:56.855Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "You can catch live music at Bailey's Run today, with more performances at Lake Lou-ee and Paddy Mac's coming up tomorrow and throughout the week, plus yoga and various trivia nights starting this Sunday.",
+    "mainText": "We have plenty to look forward to, including live music at Bailey's Run today and Wisconsin Brewing Company tomorrow, plus yoga at Insight Wellness on November 23.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-20",
-    "updateDate": "2026-11-20T09:04:19.668Z",
+    "updateDate": "2026-11-20T10:03:56.855Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local activity, on November 4, a driver was arrested for O W I in a business parking lot on East Verona Avenue after a crash involving a passenger under 16 years old.",
+    "mainText": "Regarding recent activity, on November 2, officers were dispatched to a residence on West End Circle where a 48-year-old Verona man was arrested for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-20",
-    "updateDate": "2026-11-20T09:04:19.668Z",
+    "updateDate": "2026-11-20T10:03:56.855Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Really Reese's, and the shop opens today at 10:00 AM.",
+    "mainText": "Treat yourself to today's flavor, which is Really Reese's, and remember that the restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
