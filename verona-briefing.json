@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-20",
-    "updateDate": "2026-11-20T03:05:45.632Z",
+    "updateDate": "2026-11-20T04:04:15.945Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, we have clear skies over Reddan Soccer Park and a waxing gibbous moon. Tonight, the temperature will drop to an overnight low of 41 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: skies are clear near Verona Community Park, and while the temperature is 45 degrees, it feels more like 39. We are currently under a waxing gibbous moon, and tonight will see an overnight low of 40 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-20",
-    "updateDate": "2026-11-20T03:05:45.632Z",
+    "updateDate": "2026-11-20T04:04:15.945Z",
     "titleText": "Verona City News",
-    "mainText": "The city is currently moving forward with plans to expand the Public Works and Utilities facility due to population growth, while also working on the Mark Drive reconstruction project to upgrade sewer and utility infrastructure.",
+    "mainText": "The City of Verona is working on a space needs evaluation for the Public Works and Utilities facility to accommodate future expansion and improve service efficiency. Additionally, construction continues on the Mark Drive reconstruction project, which is currently focused on curb and sidewalk installation.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-20",
-    "updateDate": "2026-11-20T03:05:45.632Z",
+    "updateDate": "2026-11-20T04:04:15.945Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule including Yoga at Insight Wellness today, ART House 360 tonight, Hop Haus trivia on Thursday, and live music at Bailey's Run tomorrow.",
+    "mainText": "We have a busy schedule ahead! Today you can join Yoga at Insight Wellness or check out ART House 360. Tomorrow, you can catch live music at Bailey's Run or join the trivia night at Hop Haus.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-20",
-    "updateDate": "2026-11-20T03:05:45.632Z",
+    "updateDate": "2026-11-20T04:04:15.945Z",
     "titleText": "Verona Police Report",
-    "mainText": "On November 3, a two vehicle crash occurred at CTH M and CTH PB, resulting in an injury and a citation for the other driver for operating without headlights.",
+    "mainText": "Looking at the report from November 6, officers responded to a business in the 500 block of West Verona Avenue where they found a driver passed out; she was subsequently arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-20",
-    "updateDate": "2026-11-20T03:05:45.632Z",
+    "updateDate": "2026-11-20T04:04:15.945Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today is the perfect day for Double Strawberry flavor of the day. The store is currently open but will be closing soon at 10 PM, so head over now to grab a scoop before they shut down for the night.",
+    "mainText": "We hope you enjoyed today's Double Strawberry flavor! We are currently closed for the night, but we look forward to serving you tomorrow's flavor, Really Reese's, when our doors open tomorrow at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
