@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-21",
-    "updateDate": "2026-11-21T01:04:09.649Z",
+    "updateDate": "2026-11-21T02:05:30.727Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: skies are clear near Reddan Soccer Park with a current temperature of 58 degrees. We are looking at an overnight low of 51 degrees with no rain in the forecast, under the light of a waxing gibbous moon.",
+    "mainText": "Hello, Verona! At 8 PM, we are seeing clear skies near the Verona Public Library with the temperature at 58 degrees and a Waxing Gibbous moon phase; tonight will cool down to an overnight low of 51 degrees with no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-21",
-    "updateDate": "2026-11-21T01:04:09.649Z",
+    "updateDate": "2026-11-21T02:05:30.727Z",
     "titleText": "Verona City News",
-    "mainText": "City of Verona offices will be closed on Thursday, November 26, and Friday, November 27, for Thanksgiving. Trash and recycling pickup for Thursday is delayed until Friday, and the recycling center will be closed.",
+    "mainText": "City of Verona facilities will be closed on November 26 and 27 for the Thanksgiving holiday, and please note that refuse and recycling pickup scheduled for Thursday will be delayed until Friday.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-21",
-    "updateDate": "2026-11-21T01:04:09.649Z",
+    "updateDate": "2026-11-21T02:05:30.727Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of fun ahead, starting with Live Music at Bailey's Run today. Tomorrow, you can catch more live music at Paddy Mac's, followed by Yoga at Insight Wellness this Sunday.",
+    "mainText": "We have a busy lineup with Live Music at Bailey's Run today, music at Wisconsin Brewing Company tomorrow, and Paddy Mac's hosting their music series also tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-21",
-    "updateDate": "2026-11-21T01:04:09.649Z",
+    "updateDate": "2026-11-21T02:05:30.727Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding recent reports, on November 4, a two-vehicle crash in a business parking lot resulted in a driver being arrested for O W I.",
+    "mainText": "Regarding local activity, on November 4, a two-vehicle crash occurred in a parking lot on East Verona Avenue resulting in a driver being arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-21",
-    "updateDate": "2026-11-21T01:04:09.649Z",
+    "updateDate": "2026-11-21T02:05:30.727Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's flavor of the day is the delicious Really Reese's. The store is currently open until 10:30 PM, so be sure to stop by and enjoy a treat before they close for the evening.",
+    "mainText": "It is a great day to grab a scoop of the Really Reese's flavor of the day at Culver's, which is currently open until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
