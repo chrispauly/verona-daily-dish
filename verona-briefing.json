@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-21",
-    "updateDate": "2026-11-21T19:03:32.406Z",
+    "updateDate": "2026-11-21T20:03:41.980Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: it is 67 degrees at Verona Area High School under clear skies with a Waxing Gibbous moon. Tonight at 5:49 PM, you can spot the ISS rising in the northwest near Verona High School before it travels toward the northeast near Home Depot, remaining low near the horizon.",
+    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish: we have clear skies at Reddan Soccer Park and a waxing gibbous moon. If you look to the northwest near Verona High School at 5:49 PM, you can catch the space station for three minutes as it travels toward the northeast near Home Depot, visible low near the horizon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-21",
-    "updateDate": "2026-11-21T19:03:32.406Z",
+    "updateDate": "2026-11-21T20:03:41.980Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has several updates, including the holiday closure of city buildings and the recycling center on November 26 and 27, with trash pickup delayed until Friday. Additionally, the city is moving forward with infrastructure projects, including the Mark Drive reconstruction and intersection improvements at Legion Street, to accommodate our growing population.",
+    "mainText": "Please note that all city buildings will be closed November 26 and 27 for the Thanksgiving holiday. Additionally, refuse and recycling collection scheduled for that Thursday will be moved to Friday, and the recycling center will be closed.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-21",
-    "updateDate": "2026-11-21T19:03:32.406Z",
+    "updateDate": "2026-11-21T20:03:41.980Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town! Catch live music at Bailey's Run and Paddy Mac's today. Tomorrow, you can enjoy more music at Wisconsin Brewing Company, and on November 23, visit Insight Wellness for a yoga session.",
+    "mainText": "There is plenty to do in Verona, starting with live music today at both Bailey's Run and Paddy Mac's, followed by more performances tomorrow at Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-21",
-    "updateDate": "2026-11-21T19:03:32.406Z",
+    "updateDate": "2026-11-21T20:03:41.980Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from November 6, officers responded to a business on West Verona Avenue where a woman was found unresponsive in her vehicle. The driver was later arrested for O W I.",
+    "mainText": "In a notable incident on November 9, an officer conducted a traffic stop on USH 18/151 where the driver was arrested for an O W I, third offence.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-21",
-    "updateDate": "2026-11-21T19:03:32.406Z",
+    "updateDate": "2026-11-21T20:03:41.980Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Crazy for Cookie Dough. The store is currently open and will be serving up scoops until 10:30 PM tonight.",
+    "mainText": "Today's flavor of the day is the delightful Crazy for Cookie Dough. The store is currently open until 10:30 PM, so there is still plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
