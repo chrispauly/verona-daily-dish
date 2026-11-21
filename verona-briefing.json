@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-21",
-    "updateDate": "2026-11-21T08:05:28.146Z",
+    "updateDate": "2026-11-21T09:04:47.928Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: current conditions are clear near the Verona Public Library with a temperature of 54 degrees, feeling like 44 under a Waxing Gibbous moon.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish. Expect fair conditions and a mild 70 degrees around Badger Prairie County Park.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-21",
-    "updateDate": "2026-11-21T08:05:28.146Z",
+    "updateDate": "2026-11-21T09:04:47.928Z",
     "titleText": "Verona City News",
-    "mainText": "The city has announced that municipal buildings will be closed November 26 and 27 for Thanksgiving, which will also delay refuse and recycling pickup until Friday. Meanwhile, plans are underway for a new public works facility and ongoing road improvements on Mark Drive and Legion Street to support our growing community.",
+    "mainText": "City offices and the recycling center will close November 26th and 27th for Thanksgiving, pushing Thursday trash pickup to Friday. Additionally, the city is planning a new Public Works facility to support local growth.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-21",
-    "updateDate": "2026-11-21T08:05:28.146Z",
+    "updateDate": "2026-11-21T09:04:47.928Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend, including live music at Bailey's Run and Paddy Mac's happening today, followed by music at Wisconsin Brewing Company tomorrow, and yoga sessions on Sunday.",
+    "mainText": "Local entertainment today includes live music at Bailey's Run Vineyard and Paddy Mac's. Tomorrow, live music continues at Lake Lou-ee, followed by trivia events next week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-21",
-    "updateDate": "2026-11-21T08:05:28.146Z",
+    "updateDate": "2026-11-21T09:04:47.928Z",
     "titleText": "Verona Police Report",
-    "mainText": "On November 6, officers responded to a business on West Verona Avenue where they found a driver unconscious in their vehicle; the individual was subsequently arrested for O W I.",
+    "mainText": "In police news, on Saturday, November 8th, officers responded to a single-vehicle crash on South Main Street where a vehicle hit a curb and light pole before catching fire; the driver was arrested for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-21",
-    "updateDate": "2026-11-21T08:05:28.146Z",
+    "updateDate": "2026-11-21T09:04:47.928Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by for a scoop of today's flavor, Crazy for Cookie Dough, as the restaurant opens today at 10:00 AM to kick off your morning.",
+    "mainText": "Culver's opens today at 10:00 AM featuring Crazy for Cookie Dough as today's Flavor of the Day, with OREO Cookie Overload coming up tomorrow.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
