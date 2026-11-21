@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-21",
-    "updateDate": "2026-11-21T03:05:14.860Z",
+    "updateDate": "2026-11-21T04:03:56.865Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish. We have fair conditions at Fireman's Park with a temperature of 70 degrees.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: current temperatures are at 56 degrees under clear skies at Fireman's Park, with a beautiful Waxing Gibbous moon phase, an overnight low of 50 degrees, and no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-21",
-    "updateDate": "2026-11-21T03:05:14.860Z",
+    "updateDate": "2026-11-21T04:03:56.865Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that city buildings will be closed on November 26 and 27 in observance of the upcoming holiday. Additionally, refuse and recycling collection scheduled for Thursday will be delayed until Friday, November 27.",
+    "mainText": "The City of Verona has announced that city buildings will be closed on November 26 and 27 for the Thanksgiving holiday, which will also delay refuse and recycling pickup to Friday, November 27. Additionally, the city is evaluating the Public Works facility for potential expansion and is moving forward with reconstruction projects on Mark Drive, Legion Street, and Westlawn Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-21",
-    "updateDate": "2026-11-21T03:05:14.860Z",
+    "updateDate": "2026-11-21T04:03:56.865Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town, starting with live music at Bailey's Run happening today. You can also catch live music at Paddy Mac's tomorrow.",
+    "mainText": "We have a packed schedule starting with live music at Bailey's Run today, live music at Wisconsin Brewing Company tomorrow, and further performances at Paddy Mac's on November 21. Looking ahead, you can enjoy yoga at Insight Wellness on November 23, various trivia nights on November 25, and art events at ART House on November 26.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-21",
-    "updateDate": "2026-11-21T03:05:14.860Z",
+    "updateDate": "2026-11-21T04:03:56.865Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from November 2, officers were dispatched to the 100 block of West End Circle regarding a domestic disturbance, which resulted in the arrest of a 48-year-old Verona man for battery and disorderly conduct.",
+    "mainText": "In a recent report, on November 2, officers were dispatched to the 100 block of West End Circle regarding a domestic disturbance, which resulted in the arrest of a 48-year-old Verona man for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-21",
-    "updateDate": "2026-11-21T03:05:14.860Z",
+    "updateDate": "2026-11-21T04:03:56.865Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor is Turtle Dove. The store is currently open but will be closing in 55 minutes, so there is still time to stop by for a treat before they close for the evening.",
+    "mainText": "The flavor of the day is the delicious Really Reese's. Culver's is currently open, but they will be closing their doors in 26 minutes, so make sure to stop by soon if you would like to grab a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
