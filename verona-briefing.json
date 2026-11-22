@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-11-21",
-    "updateDate": "2026-11-21T23:03:42.624Z",
+    "uid": "verona-balanced-weather-2026-11-22",
+    "updateDate": "2026-11-22T00:10:42.290Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. It is a pleasant 60 degrees at Verona Community Park under a Waxing Gibbous moon. The ISS will be visible starting at 5:49 PM, rising in the northwest near Verona High School and traveling toward the northeast near Home Depot. Expect an overnight low of 47 degrees with rain in the forecast.",
+    "mainText": "Hello, Verona! At 6 PM, the temperature is 59 degrees at Harriet Park under a Waxing Gibbous moon, though you should prepare for rain and a low of 47 degrees tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-11-21",
-    "updateDate": "2026-11-21T23:03:42.624Z",
+    "uid": "verona-balanced-news-2026-11-22",
+    "updateDate": "2026-11-22T00:10:42.290Z",
     "titleText": "Verona City News",
-    "mainText": "City Hall reminds everyone that offices will be closed November 26 and 27 for Thanksgiving. Additionally, the City is planning a major expansion of the Public Works and Utilities facility to keep up with our growing population, and construction continues on Mark Drive, Legion Street, and other local infrastructure projects.",
+    "mainText": "The City of Verona announced that administrative offices will be closed November 26 and 27 for the Thanksgiving holiday, causing a one-day delay for refuse and recycling collection, while the Public Works department is also working on a new facility project to keep up with our growing population.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-11-21",
-    "updateDate": "2026-11-21T23:03:42.624Z",
+    "uid": "verona-balanced-events-2026-11-22",
+    "updateDate": "2026-11-22T00:10:42.290Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a full lineup of entertainment this weekend. Catch live music at Bailey's Run and Paddy Mac's today, plus more music at Wisconsin Brewing Company tomorrow. Looking ahead, you can enjoy yoga at Insight Wellness on Sunday or trivia nights starting Tuesday at various local spots.",
+    "mainText": "There is plenty to do this weekend starting with live music today at Bailey's Run and Paddy Mac's, plus more live music tomorrow at Wisconsin Brewing Company, and look forward to yoga on November 23.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-11-21",
-    "updateDate": "2026-11-21T23:03:42.624Z",
+    "uid": "verona-balanced-police-2026-11-22",
+    "updateDate": "2026-11-22T00:10:42.290Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on November 4, officers responded to a two-vehicle crash in a business parking lot on East Verona Avenue where a driver was arrested for O W I with a minor in the car.",
+    "mainText": "On November 2, officers responded to a domestic disturbance call in the 100 block of West End Circle which resulted in the arrest of a 48-year-old local man for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-11-21",
-    "updateDate": "2026-11-21T23:03:42.624Z",
+    "uid": "verona-balanced-culvers-2026-11-22",
+    "updateDate": "2026-11-22T00:10:42.290Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Crazy for Cookie Dough. Culver's is currently open and serving until 10:30 PM tonight, so there is still plenty of time to stop by and enjoy a treat.",
+    "mainText": "Enjoy the rich taste of today's Crazy for Cookie Dough flavor while the store remains open until 10:30 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
