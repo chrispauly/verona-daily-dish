@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-22",
-    "updateDate": "2026-11-22T17:03:16.930Z",
+    "updateDate": "2026-11-22T18:04:07.898Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. It is currently 44 degrees, feels like 35, and remains overcast at Harriet Park. We have a Waxing Gibbous moon, and the ISS will be soaring overhead tonight starting at 5:01 PM, rising from the northwest near Verona High School and heading toward the northeast near Home Depot.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: it is 44 degrees and overcast at Verona Area High School. You can also catch the ISS passing overhead tonight starting at 5:01 PM; look for it rising in the northwest near Verona High School and traveling toward the northeast near Madison as it stays low near the horizon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-22",
-    "updateDate": "2026-11-22T17:03:16.930Z",
+    "updateDate": "2026-11-22T18:04:07.898Z",
     "titleText": "Verona City News",
-    "mainText": "City Hall reminds residents that municipal buildings and the recycling center will be closed on November 26 and 27 for Thanksgiving, with Thursday refuse pickup delayed until Friday. Additionally, the city is working on plans for a new public works facility and continues road construction projects on Mark Drive and Legion Street.",
+    "mainText": "Please note that City of Verona buildings will be closed for the Thanksgiving holiday on November 26 and 27, and refuse pickup will be delayed until Friday. Additionally, the city is planning infrastructure upgrades including Mark Drive reconstruction and intersection improvements on West Verona Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-22",
-    "updateDate": "2026-11-22T17:03:16.930Z",
+    "updateDate": "2026-11-22T18:04:07.898Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this week, starting with live music at Bailey's Run today and at Wisconsin Brewing Company tomorrow, followed by yoga at Insight Wellness tomorrow as well.",
+    "mainText": "We have a busy schedule! Catch live music today at Bailey's Run Vineyard and tomorrow at Wisconsin Brewing Company. You can also join a yoga class at Insight Wellness tomorrow or head to The Bogey Factory for trivia this Wednesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-22",
-    "updateDate": "2026-11-22T17:03:16.930Z",
+    "updateDate": "2026-11-22T18:04:07.898Z",
     "titleText": "Verona Police Report",
-    "mainText": "On November 2, officers responded to the 100 block of West End Circle regarding a domestic disturbance, resulting in the arrest of a 48-year-old man for battery and disorderly conduct.",
+    "mainText": "In a noteworthy incident on November 2, officers were dispatched to a residence on West End Circle regarding a domestic disturbance, which resulted in a 48-year-old man being arrested for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-22",
-    "updateDate": "2026-11-22T17:03:16.930Z",
+    "updateDate": "2026-11-22T18:04:07.898Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Treat yourself to today's flavor, OREO Cookie Overload, available while the store is open until 10 PM tonight.",
+    "mainText": "Stop by Culver's of Verona today to enjoy the OREO Cookie Overload flavor of the day. They are currently open and will be serving up treats until their 10:00 PM closing time.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
