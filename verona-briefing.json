@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-22",
-    "updateDate": "2026-11-22T18:04:07.898Z",
+    "updateDate": "2026-11-22T19:03:26.266Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: it is 44 degrees and overcast at Verona Area High School. You can also catch the ISS passing overhead tonight starting at 5:01 PM; look for it rising in the northwest near Verona High School and traveling toward the northeast near Madison as it stays low near the horizon.",
+    "mainText": "Hello, Verona! At 1 PM, we are seeing overcast skies near Harriet Park with a temperature of 44 degrees. The moon is currently in its waxing gibbous phase. If you look to the skies tonight, the ISS will be visible starting at 5:01 PM as it travels from the northwest near Verona High School toward the northeast near Home Depot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-22",
-    "updateDate": "2026-11-22T18:04:07.898Z",
+    "updateDate": "2026-11-22T19:03:26.266Z",
     "titleText": "Verona City News",
-    "mainText": "Please note that City of Verona buildings will be closed for the Thanksgiving holiday on November 26 and 27, and refuse pickup will be delayed until Friday. Additionally, the city is planning infrastructure upgrades including Mark Drive reconstruction and intersection improvements on West Verona Avenue.",
+    "mainText": "In city news, please remember that all city buildings and the recycling center will be closed on November 26 and 27 for the Thanksgiving holiday, and refuse pickup will be delayed to Friday. Additionally, the city is moving forward with plans to expand the Public Works facility to better serve our growing population.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-22",
-    "updateDate": "2026-11-22T18:04:07.898Z",
+    "updateDate": "2026-11-22T19:03:26.266Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule! Catch live music today at Bailey's Run Vineyard and tomorrow at Wisconsin Brewing Company. You can also join a yoga class at Insight Wellness tomorrow or head to The Bogey Factory for trivia this Wednesday.",
+    "mainText": "We have a full calendar this week with live music at Bailey's Run today, and tomorrow you can enjoy yoga at Insight Wellness. Later in the week, check out trivia nights at Hop Haus, Lake Lou-ee, Paddy Mac's, and The Bogey Factory.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-22",
-    "updateDate": "2026-11-22T18:04:07.898Z",
+    "updateDate": "2026-11-22T19:03:26.266Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy incident on November 2, officers were dispatched to a residence on West End Circle regarding a domestic disturbance, which resulted in a 48-year-old man being arrested for battery and disorderly conduct.",
+    "mainText": "In our weekly police report, on November 6, officers responded to a business on West Verona Avenue where they found a driver passed out behind the wheel; the individual was subsequently arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-22",
-    "updateDate": "2026-11-22T18:04:07.898Z",
+    "updateDate": "2026-11-22T19:03:26.266Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by Culver's of Verona today to enjoy the OREO Cookie Overload flavor of the day. They are currently open and will be serving up treats until their 10:00 PM closing time.",
+    "mainText": "Today's flavor of the day at Culver's is OREO Cookie Overload. The restaurant is currently open and will be serving up scoops until 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
