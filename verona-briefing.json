@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-22",
-    "updateDate": "2026-11-22T03:05:53.135Z",
+    "updateDate": "2026-11-22T04:04:30.880Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 PM, we are seeing fair conditions at Verona Community Park with a temperature of 70 degrees.",
+    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish: we have 56 degree temperatures under partly cloudy skies near City Hall, with a Waxing Gibbous moon overhead, an overnight low of 49 degrees, and rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-22",
-    "updateDate": "2026-11-22T03:05:53.135Z",
+    "updateDate": "2026-11-22T04:04:30.880Z",
     "titleText": "Verona City News",
-    "mainText": "Please note that City of Verona buildings will be closed on November 26 and 27 for the Thanksgiving holiday. Additionally, the City is moving forward with expansion plans for the Public Works and Utilities facility to better serve our growing population.",
+    "mainText": "The city has announced that buildings will be closed November 26 and 27 for Thanksgiving, with trash pickup delayed until Friday. Also, the Public Works department is planning an expansion to better serve our growing population.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-22",
-    "updateDate": "2026-11-22T03:05:53.135Z",
+    "updateDate": "2026-11-22T04:04:30.880Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this weekend, including live music at Bailey's Run today, Paddy Mac's music series today, and more tunes at Wisconsin Brewing Company tomorrow.",
+    "mainText": "It is a busy couple of days for local entertainment. Today, you can catch live music at Bailey's Run Vineyard and Paddy Mac's. Tomorrow, the music continues at Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-22",
-    "updateDate": "2026-11-22T03:05:53.135Z",
+    "updateDate": "2026-11-22T04:04:30.880Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a notable incident from November 9, a driver was arrested for an O W I, third offence, after being observed driving in an unsafe manner on USH 18/151.",
+    "mainText": "Looking at the records from November 4, officers responded to a two-vehicle crash where a driver was arrested for O W I with a child in the vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-22",
-    "updateDate": "2026-11-22T03:05:53.135Z",
+    "updateDate": "2026-11-22T04:04:30.880Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delightful Crazy for Cookie Dough. The store is currently open and will be serving guests until 10:30 PM tonight.",
+    "mainText": "The flavor of the day is Crazy for Cookie Dough. The store is currently open but will be closing soon at 10:30 PM, so make sure to get your treat while you can.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
