@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-22",
-    "updateDate": "2026-11-22T20:03:41.439Z",
+    "updateDate": "2026-11-22T21:03:33.378Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, we are seeing fair conditions near Badger Ridge Middle School. If you look to the Northwest near Verona High School at 5:01 PM, you might catch the International Space Station passing by as it travels toward the Northeast near Home Depot.",
+    "mainText": "Hello, Verona! At 3 PM, we are seeing clear skies near the Verona Area High School under a full moon. Keep your eyes on the skies at 5:01 PM tonight as the International Space Station will be visible for five minutes, rising from the northwest near the high school and moving toward the northeast near Home Depot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-22",
-    "updateDate": "2026-11-22T20:03:41.439Z",
+    "updateDate": "2026-11-22T21:03:33.378Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona is reminding residents that city buildings will be closed November 26 and 27 for Thanksgiving, with trash pickup delayed until Friday. Also, the Public Works department is evaluating their facility space to keep up with our growing community.",
+    "mainText": "City Hall reminds residents that municipal buildings will be closed on November 26 and 27 for Thanksgiving. Additionally, refuse and recycling collection will be delayed to Friday, November 27, and the recycling center will be closed during the holiday.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-22",
-    "updateDate": "2026-11-22T20:03:41.439Z",
+    "updateDate": "2026-11-22T21:03:33.378Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There are no public events listed in the city for the next 30 days, so it is a great time to enjoy the local parks and trails.",
+    "mainText": "There is a great lineup of local entertainment this week, starting with live music today at Bailey's Run, followed by yoga tomorrow at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-22",
-    "updateDate": "2026-11-22T20:03:41.439Z",
+    "updateDate": "2026-11-22T21:03:33.378Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from November 3, officers responded to a domestic disturbance on Prairie Way Boulevard which led to an arrest for intimidation and disorderly conduct.",
+    "mainText": "In a report covering November 1 through 15, on November 6, officers responded to a business on West Verona Avenue where they found a woman passed out in her vehicle and subsequently arrested her for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-22",
-    "updateDate": "2026-11-22T20:03:41.439Z",
+    "updateDate": "2026-11-22T21:03:33.378Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day at Culver's is OREO Cookie Overload. The restaurant is currently open, so feel free to stop by anytime before they close at 10:00 PM.",
+    "mainText": "Today's flavor of the day is OREO Cookie Overload. The store is currently open and will remain open until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
