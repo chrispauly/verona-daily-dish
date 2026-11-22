@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-22",
-    "updateDate": "2026-11-22T06:05:55.058Z",
+    "updateDate": "2026-11-22T07:03:44.791Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we are seeing overcast skies near Reddan Soccer Park with a temperature of 56 degrees and a waxing gibbous moon overhead.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we have overcast skies and 56 degrees outside the Verona Public Library, all under a waxing gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-22",
-    "updateDate": "2026-11-22T06:05:55.058Z",
+    "updateDate": "2026-11-22T07:03:44.791Z",
     "titleText": "Verona City News",
-    "mainText": "The city news desk reports a quiet morning with no significant emails or municipal updates to share with residents.",
+    "mainText": "City offices will be closed for the Thanksgiving holiday on November 26 and 27, which means refuse and recycling pickup is delayed until Friday the 27th. Additionally, the city is planning infrastructure updates, including the Mark Drive reconstruction project and facility improvements for the Public Works department.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-22",
-    "updateDate": "2026-11-22T06:05:55.058Z",
+    "updateDate": "2026-11-22T07:03:44.791Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do around town, starting with live music today at Bailey's Run Vineyard and yoga at Insight Wellness tomorrow.",
+    "mainText": "We have a packed schedule with live music at Bailey's Run Vineyard today, followed by live music at Wisconsin Brewing Company tomorrow. Also, keep an eye out for Yoga at Insight Wellness tomorrow and various trivia nights starting Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-22",
-    "updateDate": "2026-11-22T06:05:55.058Z",
+    "updateDate": "2026-11-22T07:03:44.791Z",
     "titleText": "Verona Police Report",
-    "mainText": "The Verona Police Department has not released a weekly report today, so we have no specific incident data to share.",
+    "mainText": "In a noteworthy update, on November 2, officers responded to a residence on West End Circle where a 48-year-old man was arrested following a domestic disturbance call.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-22",
-    "updateDate": "2026-11-22T06:05:55.058Z",
+    "updateDate": "2026-11-22T07:03:44.791Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is OREO Cookie Overload, and you can pick it up when the store opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is the fan-favorite OREO Cookie Overload. The store opens today at 10:00 AM, so stop by to grab a scoop before they close at 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
