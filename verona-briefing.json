@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-22",
-    "updateDate": "2026-11-22T09:05:00.173Z",
+    "updateDate": "2026-11-22T10:03:30.504Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: we have fair conditions reported at Fireman's Park with temperatures holding steady at 70 degrees.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: it is 55 degrees under overcast skies near Badger Ridge Middle School, with a waxing gibbous moon currently in the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-22",
-    "updateDate": "2026-11-22T09:05:00.173Z",
+    "updateDate": "2026-11-22T10:03:30.504Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, we have no new articles or important email updates to share with you at this time.",
+    "mainText": "City buildings will be closed for the Thanksgiving holiday on November 26 and 27, and please note that refuse and recycling pickup scheduled for Thursday will be delayed to Friday.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-22",
-    "updateDate": "2026-11-22T09:05:00.173Z",
+    "updateDate": "2026-11-22T10:03:30.504Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule ahead! Today, you can catch live music at Bailey's Run Vineyard. Tomorrow, check out yoga at Insight Wellness. Later this week, join us for trivia at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's, and catch the Thursday night series at ART House.",
+    "mainText": "We have a great lineup ahead, starting with live music today at Bailey's Run Vineyard, plus yoga tomorrow at Insight Wellness and several trivia nights coming up on Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-22",
-    "updateDate": "2026-11-22T09:05:00.173Z",
+    "updateDate": "2026-11-22T10:03:30.504Z",
     "titleText": "Verona Police Report",
-    "mainText": "There was no noteworthy police incident to report for this week.",
+    "mainText": "In our weekly report, on November 6, officers responded to a business on West Verona Avenue where a driver was found unconscious, leading to an arrest for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-22",
-    "updateDate": "2026-11-22T09:05:00.173Z",
+    "updateDate": "2026-11-22T10:03:30.504Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Dark Chocolate PB Crunch. Please note that the store opens today at 10:00 AM.",
+    "mainText": "The flavor of the day is OREO Cookie Overload, and the restaurant opens today at 10:00 AM for all your cravings.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
