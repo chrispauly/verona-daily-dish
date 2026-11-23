@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-23",
-    "updateDate": "2026-11-23T11:03:39.179Z",
+    "updateDate": "2026-11-23T12:05:57.313Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, we are looking at clear skies and 30 degrees at Verona City Hall under a full moon.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: skies are clear near Verona City Hall with a temperature of 30 degrees and a full moon, plus the ISS will pass overhead tonight but you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-23",
-    "updateDate": "2026-11-23T11:03:39.179Z",
+    "updateDate": "2026-11-23T12:05:57.313Z",
     "titleText": "Verona City News",
-    "mainText": "City offices will be closed for the Thanksgiving holiday on November 26 and 27. Please note that refuse and recycling pickup is delayed until Friday, November 27, and the recycling center will be closed those two days.",
+    "mainText": "City offices and the recycling center will be closed on November 26 and 27 for the Thanksgiving holiday, which will also push Thursday refuse and recycling collection to Friday, November 27.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-23",
-    "updateDate": "2026-11-23T11:03:39.179Z",
+    "updateDate": "2026-11-23T12:05:57.313Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do, starting with yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, plus live music at Paddy Mac's and pizza night at Lake Lou-ee.",
+    "mainText": "Today features Yoga at Insight Wellness, followed by a busy day tomorrow with trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's and Pizza and a Pitcher at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-23",
-    "updateDate": "2026-11-23T11:03:39.179Z",
+    "updateDate": "2026-11-23T12:05:57.313Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a recent report, officers handled a domestic disturbance on November 2 where a 48-year-old Verona man was arrested for battery and disorderly conduct.",
+    "mainText": "In a notable incident on November 6, a driver was arrested for O W I after being found passed out in a business parking lot on West Verona Avenue.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-23",
-    "updateDate": "2026-11-23T11:03:39.179Z",
+    "updateDate": "2026-11-23T12:05:57.313Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The delicious flavor of the day is Butter Pecan. If you are craving a scoop, remember that the store opens today at 10:00 AM.",
+    "mainText": "The flavor of the day is Butter Pecan, and the store opens today at 10:00 AM to serve you until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
