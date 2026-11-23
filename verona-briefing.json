@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-23",
-    "updateDate": "2026-11-23T01:04:25.075Z",
+    "updateDate": "2026-11-23T02:06:00.288Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 37 degrees under clear skies at Verona City Hall with a full moon visible. The overnight low will reach 31 degrees, and no rain is expected.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: skies are clear near Badger Ridge Middle School with a temperature of 35 degrees, an overnight low of 30, and no rain in the forecast under a full moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-23",
-    "updateDate": "2026-11-23T01:04:25.075Z",
+    "updateDate": "2026-11-23T02:06:00.288Z",
     "titleText": "Verona City News",
-    "mainText": "City offices and the recycling center will be closed on November 26 and 27 for Thanksgiving. Additionally, Thursday trash and recycling collection will be pushed back to Friday, November 27.",
+    "mainText": "In city news, please note that all city buildings will be closed for the Thanksgiving holiday on November 26 and 27. Refuse and recycling pickup normally scheduled for Thursday will be delayed until Friday, November 27, and the recycling center will be closed as well.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-23",
-    "updateDate": "2026-11-23T01:04:25.075Z",
+    "updateDate": "2026-11-23T02:06:00.288Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at the calendar for the next 30 days, there are currently no local events scheduled for the city.",
+    "mainText": "We have a busy few days ahead with live music at Bailey's Run today, music at Lake Lou-ee on November 23, and yoga at Insight Wellness tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-23",
-    "updateDate": "2026-11-23T01:04:25.075Z",
+    "updateDate": "2026-11-23T02:06:00.288Z",
     "titleText": "Verona Police Report",
-    "mainText": "Reviewing the weekly report, on November 8, a single vehicle collision occurred on South Main Street where a driver was arrested for O W I after striking a light pole.",
+    "mainText": "In a report regarding notable calls between November 1 and 15, on November 4, officers responded to a two-vehicle crash where one driver was arrested for O W I with a child passenger in the vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-23",
-    "updateDate": "2026-11-23T01:04:25.075Z",
+    "updateDate": "2026-11-23T02:06:00.288Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can still stop by Culver's tonight to enjoy the OREO Cookie Overload flavor of the day before they close their doors at 10 PM.",
+    "mainText": "Enjoy the delicious OREO Cookie Overload at Culver's tonight. They are currently open and will be serving until their closing time at 10 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
