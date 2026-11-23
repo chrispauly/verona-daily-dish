@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-23",
-    "updateDate": "2026-11-23T05:05:14.885Z",
+    "updateDate": "2026-11-23T06:08:56.940Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: conditions are fair at 70 degrees near the Verona Public Library.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: it is 32 degrees and clear near Harriet Park under a full moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-23",
-    "updateDate": "2026-11-23T05:05:14.885Z",
+    "updateDate": "2026-11-23T06:08:56.940Z",
     "titleText": "Verona City News",
-    "mainText": "Please note that all city buildings will be closed on Thursday, November 26, and Friday, November 27, for the holiday. Consequently, refuse and recycling pickup normally scheduled for Thursday will be pushed to Friday, November 27, and the Verona Recycling Center will be closed both days.",
+    "mainText": "The City of Verona reminds residents that city buildings will be closed on November 26 and 27 for the holiday. Additionally, refuse and recycling collection scheduled for Thursday will be pushed to Friday, November 27.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-23",
-    "updateDate": "2026-11-23T05:05:14.885Z",
+    "updateDate": "2026-11-23T06:08:56.940Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy week ahead starting with Yoga at Insight Wellness tomorrow. Mid-week brings plenty of trivia options at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus a 50-year anniversary celebration of craft brewing at Wisconsin Brewing Company on November 27.",
+    "mainText": "We have plenty going on in town, starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, plus live music at Paddy Mac's and a special 50th-anniversary craft brewing celebration at Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-23",
-    "updateDate": "2026-11-23T05:05:14.885Z",
+    "updateDate": "2026-11-23T06:08:56.940Z",
     "titleText": "Verona Police Report",
-    "mainText": "Looking at the recent police activity, on November 6, officers responded to a business in the 500 block of West Verona Avenue where they found a driver unresponsive in a vehicle, resulting in an O W I arrest.",
+    "mainText": "Regarding local public safety, on November 6, officers responded to a business on West Verona Avenue where a woman was found unresponsive in her vehicle; she was later arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-23",
-    "updateDate": "2026-11-23T05:05:14.885Z",
+    "updateDate": "2026-11-23T06:08:56.940Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor, OREO Cookie Overload, was a hit, but the store is now closed for the night. We look forward to serving you tomorrow starting at 10:00 AM, when the flavor of the day will be Butter Pecan.",
+    "mainText": "Satisfy your sweet tooth with today's flavor, which is Butter Pecan. The Verona location opens today at 10:00 AM and will be serving until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
