@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-23",
-    "updateDate": "2026-11-23T22:04:07.126Z",
+    "updateDate": "2026-11-23T23:04:01.568Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we have fair conditions and a mild 70 degrees near Verona Community Park. Tonight at 5:50 PM, skywatchers can spot the International Space Station passing overhead for three minutes, rising northwest near Verona High School and moving low near the horizon toward Fitchburg.",
+    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. It is 32 degrees and overcast at Harriet Park. We are under a Full Moon tonight. The ISS will pass overhead, but you will not be able to see it due to the clouds. Tonight, temperatures will drop to a low of 27 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-23",
-    "updateDate": "2026-11-23T22:04:07.126Z",
+    "updateDate": "2026-11-23T23:04:01.568Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, property tax bills will be mailed no later than December 15th. Payments can be made in two installments, with the first due January 31st to the City Treasurer and the second due July 31st. Options to pay include mail, online, or using the 24/7 drop box at City Center. Also, remember that lottery credit applications must be submitted by January 30th.",
+    "mainText": "Property tax season is here. Bills are arriving by mail, and you can pay in two installments. Payments can be made via the city website using a credit card, at the City Center drop boxes, or in person at the administration office.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-23",
-    "updateDate": "2026-11-23T22:04:07.126Z",
+    "updateDate": "2026-11-23T23:04:01.568Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "For local events, Yoga at Insight Wellness is available today. Tomorrow, you can enjoy trivia at several locations, including Hop Haus Brewing Company, Wisconsin Brewing Company, and Paddy Mac's.",
+    "mainText": "We have plenty to do this week. Yoga at Insight Wellness is today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, plus live music at Paddy Mac's and pizza night at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-23",
-    "updateDate": "2026-11-23T22:04:07.126Z",
+    "updateDate": "2026-11-23T23:04:01.568Z",
     "titleText": "Verona Police Report",
-    "mainText": "In this week's police recap, on Wednesday, November 4th, officers responded to a two-vehicle crash on East Verona Avenue where a 34-year-old driver was arrested for an O W I while traveling with a child.",
+    "mainText": "In our weekly report, on November 6, officers responded to a business on West Verona Avenue where they found a driver unresponsive in a vehicle, resulting in an arrest for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-23",
-    "updateDate": "2026-11-23T22:04:07.126Z",
+    "updateDate": "2026-11-23T23:04:01.568Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "To finish off, Culvers is open until 10:00 PM tonight, with Butter Pecan featured as the flavor of the day.",
+    "mainText": "Today's flavor is delicious Butter Pecan. The store is currently open and will remain open until 10 PM tonight, so there is still plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
