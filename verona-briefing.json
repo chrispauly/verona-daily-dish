@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-23",
-    "updateDate": "2026-11-23T13:04:28.639Z",
+    "updateDate": "2026-11-23T14:04:21.572Z",
     "titleText": "Verona Weather",
-    "mainText": "",
+    "mainText": "Hello, Verona! At 8 AM, we are seeing clear skies over Badger Prairie County Park with a temperature of 31 degrees. It is a full moon tonight, and while the International Space Station will pass overhead, you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-23",
-    "updateDate": "2026-11-23T13:04:28.639Z",
+    "updateDate": "2026-11-23T14:04:21.572Z",
     "titleText": "Verona City News",
-    "mainText": "",
+    "mainText": "The City of Verona has announced that city buildings will be closed on November 26 and 27 for the holiday. Please note that refuse and recycling pickup scheduled for Thursday will be delayed until Friday, November 27, and the recycling center will be closed those two days.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-23",
-    "updateDate": "2026-11-23T13:04:28.639Z",
+    "updateDate": "2026-11-23T14:04:21.572Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "",
+    "mainText": "Today, you can join Yoga at Insight Wellness. Looking toward tomorrow, there is trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus live music at Paddy Mac's and a Pizza and a Pitcher special at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-23",
-    "updateDate": "2026-11-23T13:04:28.639Z",
+    "updateDate": "2026-11-23T14:04:21.572Z",
     "titleText": "Verona Police Report",
-    "mainText": "",
+    "mainText": "On November 6, officers responded to a business on West Verona Avenue where they found a woman passed out in her vehicle. The driver was ultimately arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-23",
-    "updateDate": "2026-11-23T13:04:28.639Z",
+    "updateDate": "2026-11-23T14:04:21.572Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "",
+    "mainText": "Today's flavor of the day is the delicious Butter Pecan. If you are looking for a treat, Culver's opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
