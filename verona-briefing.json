@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-23",
-    "updateDate": "2026-11-23T14:04:21.572Z",
+    "updateDate": "2026-11-23T15:04:53.109Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, we are seeing clear skies over Badger Prairie County Park with a temperature of 31 degrees. It is a full moon tonight, and while the International Space Station will pass overhead, you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we have clear skies over Badger Ridge Middle School with a temperature of 32 degrees that feels like 22. Look out for the full moon tonight, alongside an ISS pass overhead that unfortunately will be hidden behind clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-23",
-    "updateDate": "2026-11-23T14:04:21.572Z",
+    "updateDate": "2026-11-23T15:04:53.109Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona has announced that city buildings will be closed on November 26 and 27 for the holiday. Please note that refuse and recycling pickup scheduled for Thursday will be delayed until Friday, November 27, and the recycling center will be closed those two days.",
+    "mainText": "Looking ahead to Thanksgiving, City of Verona offices and the recycling center will be closed on Thursday, November 26, and Friday, November 27. Thursday refuse and recycling pickup will be delayed until Friday, November 27. Additionally, the city is evaluating space needs for a new Public Works and Utilities facility to support local growth.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-23",
-    "updateDate": "2026-11-23T14:04:21.572Z",
+    "updateDate": "2026-11-23T15:04:53.109Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can join Yoga at Insight Wellness. Looking toward tomorrow, there is trivia at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus live music at Paddy Mac's and a Pizza and a Pitcher special at Lake Lou-ee.",
+    "mainText": "For local events, you can drop in for Yoga at Insight Wellness today. Tomorrow brings trivia fun with Hop Haus Trivia, Quizmasters Trivia at Lake Lou-ee, and Dream Day Trivia at Paddy Mac's, plus a 50th anniversary craft brewing celebration coming up on Friday at Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-23",
-    "updateDate": "2026-11-23T14:04:21.572Z",
+    "updateDate": "2026-11-23T15:04:53.109Z",
     "titleText": "Verona Police Report",
-    "mainText": "On November 6, officers responded to a business on West Verona Avenue where they found a woman passed out in her vehicle. The driver was ultimately arrested for O W I.",
+    "mainText": "In weekly police news, on Wednesday, November 4, officers responded to a parking lot collision on East Verona Avenue where a 34-year-old driver was arrested for O W I while carrying a passenger under 16 years old.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-23",
-    "updateDate": "2026-11-23T14:04:21.572Z",
+    "updateDate": "2026-11-23T15:04:53.109Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Butter Pecan. If you are looking for a treat, Culver's opens today at 10:00 AM.",
+    "mainText": "Over at Culver's, doors open today at 10:00 AM. Today's Flavor of the Day is Butter Pecan, so stop by later for a delicious frozen treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
