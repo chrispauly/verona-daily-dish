@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-23",
-    "updateDate": "2026-11-23T09:05:55.989Z",
+    "updateDate": "2026-11-23T10:04:06.842Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: we have fair conditions out at Badger Prairie County Park with a temperature of 70 degrees.",
+    "mainText": "Hello, Verona! At 4 AM, here is today's balanced dish: it is 31 degrees and clear at Verona Community Park, and we have a lovely full moon out tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-23",
-    "updateDate": "2026-11-23T09:05:55.989Z",
+    "updateDate": "2026-11-23T10:04:06.842Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, please note that all city buildings will be closed on Thursday, November 26, and Friday, November 27, for the Thanksgiving holiday. Additionally, Thursday refuse and recycling pickup will be pushed back to Friday, November 27, and the Verona Recycling Center will be closed both days.",
+    "mainText": "Please note that city buildings will be closed for the Thanksgiving holiday on November 26 and 27. The Verona Recycling Center will also be closed those days, and Thursday refuse and recycling collection will be pushed to Friday, November 27.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-23",
-    "updateDate": "2026-11-23T09:05:55.989Z",
+    "updateDate": "2026-11-23T10:04:06.842Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "For your schedule, we have Yoga at Insight Wellness today. Looking ahead to tomorrow, there is a full slate of trivia nights at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's, plus live music at Paddy Mac's and Pizza and a Pitcher at Lake Lou-ee.",
+    "mainText": "We have a busy schedule ahead, starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, plus live music at Paddy Mac's and pizza at Lake Lou-ee. Looking forward, don't miss Thursday's trivia at The Bogey Factory, Thursday night events at ART House 360, live music at Bailey's Run, and a 50th-anniversary craft beer celebration at Wisconsin Brewing Company on Thursday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-23",
-    "updateDate": "2026-11-23T09:05:55.989Z",
+    "updateDate": "2026-11-23T10:04:06.842Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from November 2, officers responded to a call on West End Circle where a 48-year-old local man was arrested for battery and disorderly conduct.",
+    "mainText": "In a noteworthy call from November 2, officers responded to a domestic disturbance in the 100 block of West End Circle, resulting in an arrest for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-23",
-    "updateDate": "2026-11-23T09:05:55.989Z",
+    "updateDate": "2026-11-23T10:04:06.842Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Butter Pecan. If you are looking for a treat, the store opens today at 10:00 AM and will serve customers until 10:00 PM.",
+    "mainText": "Today's flavor of the day is the delicious Butter Pecan. If you are looking to stop by for a scoop, the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
