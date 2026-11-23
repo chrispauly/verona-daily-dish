@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-23",
-    "updateDate": "2026-11-23T17:04:52.403Z",
+    "updateDate": "2026-11-23T18:05:18.822Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. Temperatures are currently at 70 degrees with fair conditions around Verona Community Park. Tonight at 5:50 PM, you can catch a clear 3-minute flyover of the International Space Station, rising in the northwest over Middleton near Verona High School and traveling low near the horizon toward the east northeast.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: expect overcast skies near Fireman's Park with temperatures sitting at 33 degrees and a wind chill of 23 degrees. There is an International Space Station pass tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-23",
-    "updateDate": "2026-11-23T17:04:52.403Z",
+    "updateDate": "2026-11-23T18:05:18.822Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, Thanksgiving scheduling updates have been released. City offices and the Recycling Center will be closed November 26th and 27th, moving Thursday refuse collection to Friday. Additionally, the city is moving forward on plans for a new Public Works and Utilities facility to handle population growth, featuring sustainable building materials and a new tree nursery.",
+    "mainText": "City offices and the Recycling Center will be closed November 26 and 27 for Thanksgiving, delaying Thursday trash collection to Friday. Additionally, the city is planning a new Public Works facility to better accommodate Verona's population growth.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-23",
-    "updateDate": "2026-11-23T17:04:52.403Z",
+    "updateDate": "2026-11-23T18:05:18.822Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at the events calendar, Yoga at Insight Wellness is available today. Tomorrow brings Hop Haus Trivia at 6:30 PM. On November 27th, Wisconsin Brewing Company will host an event celebrating 50 years of craft brewing.",
+    "mainText": "You can attend Yoga at Insight Wellness today. Tomorrow, enjoy local trivia at Hop Haus Brewing Company, Lake Lou-ee, or Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-23",
-    "updateDate": "2026-11-23T17:04:52.403Z",
+    "updateDate": "2026-11-23T18:05:18.822Z",
     "titleText": "Verona Police Report",
-    "mainText": "In weekly police reports, on Wednesday, November 4th, officers responded to a parking lot accident on East Verona Avenue and arrested a Fitchburg woman for O W I with a child passenger in the vehicle.",
+    "mainText": "On Tuesday, November 4, Verona officers responded to a two-vehicle crash in a business parking lot on East Verona Avenue, where a Fitchburg woman was arrested for O W I with a minor passenger.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-23",
-    "updateDate": "2026-11-23T17:04:52.403Z",
+    "updateDate": "2026-11-23T18:05:18.822Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culvers of Verona is open today until 10:00 PM. Today's flavor of the day is Butter Pecan, followed by OREO REESE'S Cheesecake tomorrow.",
+    "mainText": "Culver's is currently open until 10:00 PM today, serving up Butter Pecan as the flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.5-flash"
   }
