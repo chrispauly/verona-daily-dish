@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-23",
-    "updateDate": "2026-11-23T06:08:56.940Z",
+    "updateDate": "2026-11-23T07:05:09.486Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: it is 32 degrees and clear near Harriet Park under a full moon.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we have clear skies and a temperature of 31 degrees down at Harriet Park, illuminated by a full moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-23",
-    "updateDate": "2026-11-23T06:08:56.940Z",
+    "updateDate": "2026-11-23T07:05:09.486Z",
     "titleText": "Verona City News",
-    "mainText": "The City of Verona reminds residents that city buildings will be closed on November 26 and 27 for the holiday. Additionally, refuse and recycling collection scheduled for Thursday will be pushed to Friday, November 27.",
+    "mainText": "Please note that City of Verona buildings will be closed on Thursday, November 26, and Friday, November 27, for the Thanksgiving holiday. As a result, refuse and recycling collection will be delayed until Friday, November 27, and the recycling center will be closed those two days.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-23",
-    "updateDate": "2026-11-23T06:08:56.940Z",
+    "updateDate": "2026-11-23T07:05:09.486Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty going on in town, starting with Yoga at Insight Wellness today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, plus live music at Paddy Mac's and a special 50th-anniversary craft brewing celebration at Wisconsin Brewing Company.",
+    "mainText": "Looking at the calendar, we currently have no upcoming local events scheduled for the next 30 days.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-23",
-    "updateDate": "2026-11-23T06:08:56.940Z",
+    "updateDate": "2026-11-23T07:05:09.486Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local public safety, on November 6, officers responded to a business on West Verona Avenue where a woman was found unresponsive in her vehicle; she was later arrested for O W I.",
+    "mainText": "On November 3, officers responded to a domestic disturbance on Prairie Way Boulevard where a 31-year-old man was arrested for intimidation of a victim and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-23",
-    "updateDate": "2026-11-23T06:08:56.940Z",
+    "updateDate": "2026-11-23T07:05:09.486Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Satisfy your sweet tooth with today's flavor, which is Butter Pecan. The Verona location opens today at 10:00 AM and will be serving until 10:00 PM.",
+    "mainText": "Today's featured flavor is the classic Butter Pecan. If you are planning a visit, please keep in mind that the store opens today at 10:00 AM and will remain open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
