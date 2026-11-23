@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-23",
-    "updateDate": "2026-11-23T21:03:53.621Z",
+    "updateDate": "2026-11-23T22:04:07.126Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 3 PM, here is today's balanced dish. Overcast skies cover the area near Verona City Hall with a temperature of 34 degrees that feels like 24, along with a full moon tonight. The International Space Station will pass overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 4 PM, here is today's balanced dish: we have fair conditions and a mild 70 degrees near Verona Community Park. Tonight at 5:50 PM, skywatchers can spot the International Space Station passing overhead for three minutes, rising northwest near Verona High School and moving low near the horizon toward Fitchburg.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-23",
-    "updateDate": "2026-11-23T21:03:53.621Z",
+    "updateDate": "2026-11-23T22:04:07.126Z",
     "titleText": "Verona City News",
-    "mainText": "City property tax bills will be mailed no later than December 15th. Payments may be made in two installments, with the first due January 31st to the City Treasurer and the second due July 31st to the Dane County Treasurer. Payments can be submitted by mail, online, at City Hall, or via the twenty-four seven drop boxes.",
+    "mainText": "In city news, property tax bills will be mailed no later than December 15th. Payments can be made in two installments, with the first due January 31st to the City Treasurer and the second due July 31st. Options to pay include mail, online, or using the 24/7 drop box at City Center. Also, remember that lottery credit applications must be submitted by January 30th.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-23",
-    "updateDate": "2026-11-23T21:03:53.621Z",
+    "updateDate": "2026-11-23T22:04:07.126Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today features drop-in yoga classes at Insight Wellness Verona. Looking ahead to tomorrow, local evening events include Hop Haus Trivia, Quizmasters Trivia at Lake Lou-ee, and Dream Day Trivia at Paddy Mac's.",
+    "mainText": "For local events, Yoga at Insight Wellness is available today. Tomorrow, you can enjoy trivia at several locations, including Hop Haus Brewing Company, Wisconsin Brewing Company, and Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-23",
-    "updateDate": "2026-11-23T21:03:53.621Z",
+    "updateDate": "2026-11-23T22:04:07.126Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on Wednesday, November 11th, officers responded to Whalen Road and South Main Street where a woman was flagging down drivers asking for 911 to be called, leading to her arrest for bail jumping.",
+    "mainText": "In this week's police recap, on Wednesday, November 4th, officers responded to a two-vehicle crash on East Verona Avenue where a 34-year-old driver was arrested for an O W I while traveling with a child.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-23",
-    "updateDate": "2026-11-23T21:03:53.621Z",
+    "updateDate": "2026-11-23T22:04:07.126Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently open until 10 PM tonight. Today's flavor of the day is Butter Pecan, so be sure to stop by before closing.",
+    "mainText": "To finish off, Culvers is open until 10:00 PM tonight, with Butter Pecan featured as the flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.5-flash"
   }
