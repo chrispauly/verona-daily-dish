@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-24",
-    "updateDate": "2026-11-24T00:09:48.849Z",
+    "updateDate": "2026-11-24T01:04:18.602Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: current temperatures are 30 degrees with overcast skies near the Verona Public Library and a full moon phase, with an overnight low of 27 degrees and no rain in the forecast.",
+    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish: it is 70 degrees with fair conditions at Badger Prairie County Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-24",
-    "updateDate": "2026-11-24T00:09:48.849Z",
+    "updateDate": "2026-11-24T01:04:18.602Z",
     "titleText": "Verona City News",
-    "mainText": "Property tax bills will be mailed by December 15, with payments accepted online, by mail, or at the 24/7 drop boxes located at the City Center.",
+    "mainText": "Property tax bills are hitting mailboxes soon. You can pay online through the city website or use the drop boxes at the City Center, which are open 24/7.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-24",
-    "updateDate": "2026-11-24T00:09:48.849Z",
+    "updateDate": "2026-11-24T01:04:18.602Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Yoga at Insight Wellness is today, while tomorrow features trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music and Wednesday pizza deals.",
+    "mainText": "Today you can join Yoga at Insight Wellness. Starting tomorrow, we have a busy schedule featuring trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music and Wednesday pizza deals.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-24",
-    "updateDate": "2026-11-24T00:09:48.849Z",
+    "updateDate": "2026-11-24T01:04:18.602Z",
     "titleText": "Verona Police Report",
-    "mainText": "On November 9, an officer arrested a driver for a third offence O W I after observing unsafe driving on USH 18/151.",
+    "mainText": "On November 6, officers responded to a business on West Verona Avenue where they found a driver unconscious in their vehicle; the individual was subsequently arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-24",
-    "updateDate": "2026-11-24T00:09:48.849Z",
+    "updateDate": "2026-11-24T01:04:18.602Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Enjoy today's flavor of the day, Butter Pecan, before the store closes at 10 PM tonight.",
+    "mainText": "It is a great evening to stop by for our flavor of the day, Butter Pecan, as the store remains open until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
