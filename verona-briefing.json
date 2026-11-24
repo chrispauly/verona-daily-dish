@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-24",
-    "updateDate": "2026-11-24T02:05:51.638Z",
+    "updateDate": "2026-11-24T03:05:03.961Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: it is 30 degrees and overcast near the Military Ridge State Trail under a full moon. Temperatures will dip to an overnight low of 28 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 9 PM, it is a clear 28 degrees outside the Verona Area High School under the glow of a full moon, with an overnight low of 27 degrees and no rain expected.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-24",
-    "updateDate": "2026-11-24T02:05:51.638Z",
+    "updateDate": "2026-11-24T03:05:03.961Z",
     "titleText": "Verona City News",
-    "mainText": "Property tax bills will arrive by December 15. Payments can be made in two installments, with the first due January 31. You can pay by mail, online, at the drop boxes at the City Center, or in person at the City Center Administration Office.",
+    "mainText": "Property tax bills will arrive by December 15, and residents can pay in two installments. You can use the online portal, mail payments to the City Treasurer, or drop them off in the 24/7 boxes at the City Center.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-24",
-    "updateDate": "2026-11-24T02:05:51.638Z",
+    "updateDate": "2026-11-24T03:05:03.961Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Currently, there are no local events scheduled for the next 30 days, but we will keep you posted if that changes.",
+    "mainText": "We have plenty to look forward to, starting with yoga today. Tomorrow, you can test your knowledge at Hop Haus, Lake Lou-ee, or Paddy Mac's, and enjoy live music at Paddy Mac's as well.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-24",
-    "updateDate": "2026-11-24T02:05:51.638Z",
+    "updateDate": "2026-11-24T03:05:03.961Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding the weekly report, on November 4, a two-vehicle crash occurred in a parking lot, resulting in a 34-year-old woman being arrested for O W I with a passenger under 16 years old in the vehicle.",
+    "mainText": "In a noteworthy incident on November 6, officers responded to a business where they had to break a window to access a driver, resulting in an O W I arrest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-24",
-    "updateDate": "2026-11-24T02:05:51.638Z",
+    "updateDate": "2026-11-24T03:05:03.961Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Butter Pecan. The store is currently open until 10:00 PM, so there is still plenty of time to stop by for a treat.",
+    "mainText": "Enjoy some Butter Pecan for your late night snack, but make sure to head out now as the restaurant is closing in 55 minutes.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
