@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-11-23",
-    "updateDate": "2026-11-23T23:04:01.568Z",
+    "uid": "verona-balanced-weather-2026-11-24",
+    "updateDate": "2026-11-24T00:09:48.849Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish. It is 32 degrees and overcast at Harriet Park. We are under a Full Moon tonight. The ISS will pass overhead, but you will not be able to see it due to the clouds. Tonight, temperatures will drop to a low of 27 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 6 PM, here is today's balanced dish: current temperatures are 30 degrees with overcast skies near the Verona Public Library and a full moon phase, with an overnight low of 27 degrees and no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-11-23",
-    "updateDate": "2026-11-23T23:04:01.568Z",
+    "uid": "verona-balanced-news-2026-11-24",
+    "updateDate": "2026-11-24T00:09:48.849Z",
     "titleText": "Verona City News",
-    "mainText": "Property tax season is here. Bills are arriving by mail, and you can pay in two installments. Payments can be made via the city website using a credit card, at the City Center drop boxes, or in person at the administration office.",
+    "mainText": "Property tax bills will be mailed by December 15, with payments accepted online, by mail, or at the 24/7 drop boxes located at the City Center.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-11-23",
-    "updateDate": "2026-11-23T23:04:01.568Z",
+    "uid": "verona-balanced-events-2026-11-24",
+    "updateDate": "2026-11-24T00:09:48.849Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty to do this week. Yoga at Insight Wellness is today. Tomorrow, you can enjoy trivia at Hop Haus, Lake Lou-ee, or Paddy Mac's, plus live music at Paddy Mac's and pizza night at Lake Lou-ee.",
+    "mainText": "Yoga at Insight Wellness is today, while tomorrow features trivia at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music and Wednesday pizza deals.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-11-23",
-    "updateDate": "2026-11-23T23:04:01.568Z",
+    "uid": "verona-balanced-police-2026-11-24",
+    "updateDate": "2026-11-24T00:09:48.849Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, on November 6, officers responded to a business on West Verona Avenue where they found a driver unresponsive in a vehicle, resulting in an arrest for O W I.",
+    "mainText": "On November 9, an officer arrested a driver for a third offence O W I after observing unsafe driving on USH 18/151.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-11-23",
-    "updateDate": "2026-11-23T23:04:01.568Z",
+    "uid": "verona-balanced-culvers-2026-11-24",
+    "updateDate": "2026-11-24T00:09:48.849Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor is delicious Butter Pecan. The store is currently open and will remain open until 10 PM tonight, so there is still plenty of time to stop by for a scoop.",
+    "mainText": "Enjoy today's flavor of the day, Butter Pecan, before the store closes at 10 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
