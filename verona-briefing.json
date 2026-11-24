@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-24",
-    "updateDate": "2026-11-24T15:05:22.228Z",
+    "updateDate": "2026-11-24T16:05:23.295Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish: we have fair conditions and a temperature of 70 degrees near Verona City Hall. Under clear skies tonight starting at 5:02 PM, you can catch the International Space Station rising low near the horizon from Middleton near Verona High School and moving toward Madison near Home Depot.",
+    "mainText": "Hello, Verona! At 10 AM, here is today's balanced dish: we have mainly clear skies over Fireman's Park with a temperature of 25 degrees, feeling like 19 degrees. There is an ISS space station pass tonight, though cloud cover will prevent us from seeing it.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-24",
-    "updateDate": "2026-11-24T15:05:22.228Z",
+    "updateDate": "2026-11-24T16:05:23.295Z",
     "titleText": "Verona City News",
-    "mainText": "City property tax bills will be mailed by December 15th. The first installment is due January 31st to the City Treasurer, and the second is due July 31st to the Dane County Treasurer. Payments can be completed online via BS&A, by mail, in person, or using the 24/7 drop boxes at City Center.",
+    "mainText": "Property tax bills for the City of Verona will be mailed out by December 15th. Payments can be made in two installments, with the first due January 31st to the City Treasurer and the second due July 31st to Dane County. Options include paying online, by mail, or using the drop box at City Center.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-24",
-    "updateDate": "2026-11-24T15:05:22.228Z",
+    "updateDate": "2026-11-24T16:05:23.295Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking at local events, you can test your trivia knowledge at Hop Haus Trivia today. Tomorrow, enjoy yoga at Insight Wellness or catch Trivia Night at The Bogey Factory.",
+    "mainText": "Local events scheduled today include trivia options at Hop Haus brewing, Lake Lou-ee, and Paddy Mac's. Looking ahead to tomorrow, you can catch live music at Paddy Mac's or attend yoga at Insight Wellness.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-24",
-    "updateDate": "2026-11-24T15:05:22.228Z",
+    "updateDate": "2026-11-24T16:05:23.295Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, officers investigated a two-vehicle crash in a parking lot on Wednesday, November 4th, resulting in the arrest of a 34-year-old driver for an O W I with a passenger under 16.",
+    "mainText": "In police updates, on Sunday, November 8th at 1:36 AM, officers responded to a single-vehicle crash on South Main Street where a car struck a curb, tree, and light pole before catching fire; the driver was arrested for an O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-24",
-    "updateDate": "2026-11-24T15:05:22.228Z",
+    "updateDate": "2026-11-24T16:05:23.295Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's opens today at 10:00 AM, serving up OREO REESE'S Cheesecake as today's flavor of the day.",
+    "mainText": "Over at Culver's, today's flavor of the day is OREO REESE'S Cheesecake. The restaurant is currently open until 10:00 PM today, so drop by to enjoy a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.5-flash"
   }
