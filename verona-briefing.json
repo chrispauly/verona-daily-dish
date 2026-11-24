@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-24",
-    "updateDate": "2026-11-24T17:06:51.165Z",
+    "updateDate": "2026-11-24T18:05:43.236Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. Over at Verona City Hall, it is currently 70 degrees with fair conditions. The ISS will be visible tonight starting at 5:02 PM for 5 minutes. Look for it rising in the Northwest (over Middleton near Verona High School) and traveling toward the Northeast (heading toward Madison near Home Depot), reaching low near the horizon.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish. We currently have overcast skies and 34 degrees near Badger Ridge Middle School, with a wind chill making it feel like 27. The International Space Station passes overhead tonight, though overcast conditions will block visibility.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-24",
-    "updateDate": "2026-11-24T17:06:51.165Z",
+    "updateDate": "2026-11-24T18:05:43.236Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Tax Payments.",
+    "mainText": "Property tax bills will be mailed to City of Verona residents no later than December 15th. Payments can be split into two installments, with the first due January 31st to the City Treasurer. Options to pay include online payments, mail, or using the 24-hour drop boxes at the City Center.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-24",
-    "updateDate": "2026-11-24T17:06:51.165Z",
+    "updateDate": "2026-11-24T18:05:43.236Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Hop Haus Trivia Today at Hop Haus Brewing Co..",
+    "mainText": "Local events kick off today with trivia at Hop Haus Brewing Company, Wisconsin Brewing Company, and Paddy Mac's. Tomorrow features Wednesday Pizza and a Pitcher at Lake Lou-ee, yoga at Insight Wellness, and live music at Paddy Mac's. Later this week, check out the 50 Years of Craft Brewing celebration at Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-24",
-    "updateDate": "2026-11-24T17:06:51.165Z",
+    "updateDate": "2026-11-24T18:05:43.236Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, The information below represents a selection of notable calls for service handle.",
+    "mainText": "In police news, on Friday, November 6th, officers and fire personnel responded to a report of a passed-out driver in a vehicle on West Verona Avenue, resulting in the arrest of a 31-year-old Mount Horeb woman for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-24",
-    "updateDate": "2026-11-24T17:06:51.165Z",
+    "updateDate": "2026-11-24T18:05:43.236Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "We sign off with today's Culver's Flavor of the Day: OREO REESE'S Cheesecake. The restaurant is open until 10:00 PM.",
+    "mainText": "Culver's is open today until 10:00 PM, featuring OREO REESE'S Cheesecake as the flavor of the day. If you are planning ahead, tomorrow's flavor will be Dark Chocolate Decadence.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
