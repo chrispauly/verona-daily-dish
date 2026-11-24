@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-24",
-    "updateDate": "2026-11-24T18:05:43.236Z",
+    "updateDate": "2026-11-24T19:06:47.174Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish. We currently have overcast skies and 34 degrees near Badger Ridge Middle School, with a wind chill making it feel like 27. The International Space Station passes overhead tonight, though overcast conditions will block visibility.",
+    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish. We have fair conditions at 70 degrees near Badger Prairie County Park. For space enthusiasts, the International Space Station will be visible tonight starting at 5:02 PM. You can spot it rising in the northwest over Verona High School and tracking toward the northeast near Home Depot, staying low on the horizon.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-24",
-    "updateDate": "2026-11-24T18:05:43.236Z",
+    "updateDate": "2026-11-24T19:06:47.174Z",
     "titleText": "Verona City News",
-    "mainText": "Property tax bills will be mailed to City of Verona residents no later than December 15th. Payments can be split into two installments, with the first due January 31st to the City Treasurer. Options to pay include online payments, mail, or using the 24-hour drop boxes at the City Center.",
+    "mainText": "Important information regarding your property taxes has been released. Tax bills will be mailed no later than December 15. Residents have the option to pay in two installments, with the first due by January 31. Payments can be made via mail, online, or at the 24/7 drop box located at the City Center.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-24",
-    "updateDate": "2026-11-24T18:05:43.236Z",
+    "updateDate": "2026-11-24T19:06:47.174Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Local events kick off today with trivia at Hop Haus Brewing Company, Wisconsin Brewing Company, and Paddy Mac's. Tomorrow features Wednesday Pizza and a Pitcher at Lake Lou-ee, yoga at Insight Wellness, and live music at Paddy Mac's. Later this week, check out the 50 Years of Craft Brewing celebration at Wisconsin Brewing Company.",
+    "mainText": "We have a busy schedule for our residents. Today, you can join trivia at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's. Tomorrow, look forward to live music at Paddy Mac's, yoga at Insight Wellness, and pizza and a pitcher at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-24",
-    "updateDate": "2026-11-24T18:05:43.236Z",
+    "updateDate": "2026-11-24T19:06:47.174Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on Friday, November 6th, officers and fire personnel responded to a report of a passed-out driver in a vehicle on West Verona Avenue, resulting in the arrest of a 31-year-old Mount Horeb woman for O W I.",
+    "mainText": "Reviewing local activity, on November 4, officers responded to a two-vehicle crash in a business parking lot where one driver was arrested for O W I with a minor passenger in the vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-24",
-    "updateDate": "2026-11-24T18:05:43.236Z",
+    "updateDate": "2026-11-24T19:06:47.174Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is open today until 10:00 PM, featuring OREO REESE'S Cheesecake as the flavor of the day. If you are planning ahead, tomorrow's flavor will be Dark Chocolate Decadence.",
+    "mainText": "Today's delicious flavor of the day is Oreo Reese's Cheesecake. The Verona location is currently open for business and will remain open until 10:00 PM tonight.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
