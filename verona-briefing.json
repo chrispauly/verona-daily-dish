@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-24",
-    "updateDate": "2026-11-24T07:04:37.646Z",
+    "updateDate": "2026-11-24T08:07:43.332Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish: we are looking at fair conditions with a temperature of 70 degrees near Harriet Park.",
+    "mainText": "Hello, Verona! At 2 AM, we are seeing clear skies and a temperature of 24 degrees at Reddan Soccer Park under the light of a full moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-24",
-    "updateDate": "2026-11-24T07:04:37.646Z",
+    "updateDate": "2026-11-24T08:07:43.332Z",
     "titleText": "Verona City News",
-    "mainText": "Regarding city business, property tax bills will be mailed no later than December 15. You can pay them online via credit card or electronic check, or use the drop box at the City Center, which is available 24/7.",
+    "mainText": "The city has announced that municipal buildings will be closed on November 26 and 27 for the holiday. Please note that Thursday refuse and recycling pickup is delayed until Friday, and the recycling center will be closed those two days.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-24",
-    "updateDate": "2026-11-24T07:04:37.646Z",
+    "updateDate": "2026-11-24T08:07:43.332Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town! Today, you can catch trivia at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's. Tomorrow, look forward to live music at Paddy Mac's, yoga at Insight Wellness, and more trivia at The Bogey Factory.",
+    "mainText": "There is plenty to do in town today with trivia events at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's. Tomorrow, look forward to live music at Paddy Mac's, yoga at Insight Wellness, and pizza at Lake Lou-ee.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-24",
-    "updateDate": "2026-11-24T07:04:37.646Z",
+    "updateDate": "2026-11-24T08:07:43.332Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from November 6, officers responded to a business on West Verona Avenue where they found a woman unresponsive in her vehicle; she was subsequently arrested for operating while intoxicated.",
+    "mainText": "In a report covering November 1 through 15, police responded on November 3 to a two-vehicle crash at CTH M and CTH PB where one driver was cited for operating without headlights.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-24",
-    "updateDate": "2026-11-24T07:04:37.646Z",
+    "updateDate": "2026-11-24T08:07:43.332Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "For dessert lovers, today's flavor is OREO REESE'S Cheesecake. The store is closed right now, but they will be ready to serve you when they open today at 10 AM.",
+    "mainText": "Today's flavor of the day is OREO REESE'S Cheesecake. The restaurant is currently closed but will open today at 10:00 AM for all your cravings.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
