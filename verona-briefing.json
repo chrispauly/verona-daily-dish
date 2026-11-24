@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-24",
-    "updateDate": "2026-11-24T05:03:54.850Z",
+    "updateDate": "2026-11-24T06:10:53.036Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, it is a clear 27 degrees at Harriet Park with a Full Moon overhead, and we expect an overnight low of 25 degrees with no rain in the forecast.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we are looking at 27 degrees with overcast skies near Badger Prairie County Park under a full moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-24",
-    "updateDate": "2026-11-24T05:03:54.850Z",
+    "updateDate": "2026-11-24T06:10:53.036Z",
     "titleText": "Verona City News",
-    "mainText": "Property tax bills are being mailed by December 15, and you can pay them in two installments or via drop box at City Center before the January 31 deadline.",
+    "mainText": "Regarding city taxes, property tax bills will be mailed no later than December 15. You can pay in two installments, with the first due January 31, using the drop boxes at the City Center or paying online.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-24",
-    "updateDate": "2026-11-24T05:03:54.850Z",
+    "updateDate": "2026-11-24T06:10:53.036Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with trivia tomorrow at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music at Paddy Mac's today and craft beer celebrations at Wisconsin Brewing Company this Thursday.",
+    "mainText": "There are currently no events scheduled for the next 30 days, so we have a calm period ahead for our community calendar.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-24",
-    "updateDate": "2026-11-24T05:03:54.850Z",
+    "updateDate": "2026-11-24T06:10:53.036Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report from November 2, officers were dispatched to West End Circle where they arrested a man for battery and disorderly conduct.",
+    "mainText": "In a report covering November 1 through 15, officers responded to a domestic disturbance on November 2, resulting in an arrest for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-24",
-    "updateDate": "2026-11-24T05:03:54.850Z",
+    "updateDate": "2026-11-24T06:10:53.036Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor was Butter Pecan, but since we are closed for the night, look forward to tomorrow's flavor, OREO REESE'S Cheesecake, when the store opens at 10 AM.",
+    "mainText": "Today's delicious flavor of the day is OREO REESE'S Cheesecake. The store is currently closed, but will open today at 10:00 AM for you to enjoy your treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
