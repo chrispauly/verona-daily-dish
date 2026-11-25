@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-25",
-    "updateDate": "2026-11-25T08:15:19.759Z",
+    "updateDate": "2026-11-25T09:04:37.690Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: it is 27 degrees with overcast skies at Harriet Park and a full moon.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: it is 28 degrees, overcast, and we have a full moon above Verona Community Park.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-25",
-    "updateDate": "2026-11-25T08:15:19.759Z",
+    "updateDate": "2026-11-25T09:04:37.690Z",
     "titleText": "Verona City News",
-    "mainText": "City offices will close November 26 and 27 for the holiday, so please note that refuse and recycling pickup is delayed to Friday. Additionally, there is a public meeting regarding the Military Ridge State Trail paving project on December 8.",
+    "mainText": "Tax season is approaching, so watch for your property tax bills arriving by December 15. You can pay in two installments, with the first due by January 31 at the City Center or online, and the second due in July to Dane County.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-25",
-    "updateDate": "2026-11-25T08:15:19.759Z",
+    "updateDate": "2026-11-25T09:04:37.690Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days with Live Music at Paddy Mac's, Yoga at Insight Wellness, and Pizza and a Pitcher at Lake Lou-ee all taking place today.",
+    "mainText": "We have a busy couple of days ahead. Today you can enjoy live music at Paddy Mac's, yoga at Insight Wellness, or Pizza and a Pitcher at Lake Lou-ee. Tomorrow, look out for Trivia at The Bogey Factory and Art House 360 events.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-25",
-    "updateDate": "2026-11-25T08:15:19.759Z",
+    "updateDate": "2026-11-25T09:04:37.690Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy call from November 4, a driver was arrested for O W I in a business parking lot while having a child passenger in the vehicle.",
+    "mainText": "Reviewing the latest department reports, on November 2, officers responded to a domestic disturbance on West End Circle which resulted in an arrest for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-25",
-    "updateDate": "2026-11-25T08:15:19.759Z",
+    "updateDate": "2026-11-25T09:04:37.690Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Dark Chocolate Decadence, and the restaurant opens today at 10:00 AM.",
+    "mainText": "Today is the perfect day for a scoop of Dark Chocolate Decadence. The store opens today at 10:00 AM and will be serving until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
