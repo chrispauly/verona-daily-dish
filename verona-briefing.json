@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-25",
-    "updateDate": "2026-11-25T02:05:39.554Z",
+    "updateDate": "2026-11-25T03:05:19.614Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. We are seeing overcast skies and 30 degree temperatures near Harriet Park. With a Full Moon tonight, the overnight low will hit 27 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 9 PM, we are looking at 30 degrees with overcast skies at Verona Community Park under a Full Moon. We will see an overnight low of 29 degrees with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-25",
-    "updateDate": "2026-11-25T02:05:39.554Z",
+    "updateDate": "2026-11-25T03:05:19.614Z",
     "titleText": "Verona City News",
-    "mainText": "City news today focuses on tax season. Property tax bills are being mailed out no later than December 15. You can pay your taxes through the City of Verona website using credit cards or electronic checks, or by utilizing the 24/7 drop boxes located at the City Center building.",
+    "mainText": "City officials remind us that property tax bills will arrive by December 15. You can pay your bills online through the city website or visit the City Center drop box, which is open 24 hours a day.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-25",
-    "updateDate": "2026-11-25T02:05:39.554Z",
+    "updateDate": "2026-11-25T03:05:19.614Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in town. Today, you can join trivia at Hop Haus, Wisconsin Brewing Company, or Paddy Mac's. Tomorrow, look forward to yoga at Insight Wellness, pizza at Lake Lou-ee, or more trivia at The Bogey Factory.",
+    "mainText": "There is plenty to do with trivia happening today at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's. Looking ahead, you can catch live music at Paddy Mac's tomorrow or attend the 50th anniversary celebration at Wisconsin Brewing Company on Thursday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-25",
-    "updateDate": "2026-11-25T02:05:39.554Z",
+    "updateDate": "2026-11-25T03:05:19.614Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on November 6, officers responded to a business on West Verona Avenue where they found an unresponsive driver, which resulted in an arrest for O W I.",
+    "mainText": "In a notable incident from November 8, police arrested a driver for O W I after their vehicle struck a pole and caught fire on South Main Street.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-25",
-    "updateDate": "2026-11-25T02:05:39.554Z",
+    "updateDate": "2026-11-25T03:05:19.614Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Stop by for today's flavor of the day, which is OREO REESE'S Cheesecake. We are open until 10:00 PM, so there is plenty of time to enjoy a scoop before we close for the night.",
+    "mainText": "Today's flavor at Culver's is the delicious Oreo Reese's Cheesecake. The store is currently open but will be closing in 55 minutes, so make sure to get there soon.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
