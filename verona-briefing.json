@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-25",
-    "updateDate": "2026-11-25T13:10:16.042Z",
+    "updateDate": "2026-11-25T14:04:36.236Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. Overcast skies hang over Reddan Soccer Park with a temperature of 29 degrees that feels like 21. Look for a full moon tonight, and note that the ISS will pass overhead, though heavy clouds mean you won't be able to see it.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish. It is 30 degrees with overcast skies at Verona City Hall. We have a beautiful Full Moon tonight, and although the International Space Station passes overhead, you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-25",
-    "updateDate": "2026-11-25T13:10:16.042Z",
+    "updateDate": "2026-11-25T14:04:36.236Z",
     "titleText": "Verona City News",
-    "mainText": "Property tax bills will be mailed by December 15th. The first installment is due January 31st to the City Treasurer, while the second is due July 31st to Dane County. Payments can be submitted online, by mail, via 24/7 drop boxes, or in person at City Center, and lottery credit applications are due January 30th.",
+    "mainText": "City residents should look for property tax bills in the mail by December 15. You can pay your taxes in two installments online, by mail, or at the 24/7 drop boxes located in the City Center parking lot and main entrance.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-25",
-    "updateDate": "2026-11-25T13:10:16.042Z",
+    "updateDate": "2026-11-25T14:04:36.236Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Local events today include live music at Paddy Mac's, yoga at Insight Wellness, and pizza specials at Lake Lou-ee. Tomorrow features ART House 360 Thursday nights and Hop Haus trivia, with the Crafty Fair coming up on November 28th.",
+    "mainText": "There is plenty to do in our community. Today, you can catch live music at Paddy Mac's, enjoy yoga at Insight Wellness, or grab pizza at Lake Lou-ee. Tomorrow, look forward to Trivia Night at the Bogey Factory, ART House 360 Thursday nights, and Hop Haus Trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-25",
-    "updateDate": "2026-11-25T13:10:16.042Z",
+    "updateDate": "2026-11-25T14:04:36.236Z",
     "titleText": "Verona Police Report",
-    "mainText": "In weekly police reports, on Wednesday, November 4th, officers responded to a two-vehicle crash on East Verona Avenue and arrested a 34-year-old driver for O W I with a child passenger.",
+    "mainText": "In a report regarding notable calls from earlier this month, on November 2, a 48-year-old man was arrested following a domestic disturbance call on West End Circle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-25",
-    "updateDate": "2026-11-25T13:10:16.042Z",
+    "updateDate": "2026-11-25T14:04:36.236Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's opens today at 10:00 AM, where chocolate fans can stop by to enjoy today's flavor of the day, Dark Chocolate Decadence.",
+    "mainText": "If you are craving something sweet, today's flavor is Dark Chocolate Decadence. The restaurant opens today at 10:00 AM and will be ready to serve you until 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
