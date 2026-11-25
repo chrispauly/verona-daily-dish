@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-25",
-    "updateDate": "2026-11-25T06:06:56.180Z",
+    "updateDate": "2026-11-25T07:05:46.151Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. We are seeing overcast skies and a temperature of 27 degrees near Fireman's Park, with a full moon overhead.",
+    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish. It is 28 degrees with a real feel of 21 under overcast skies at Verona City Hall, and a full moon is overhead.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-25",
-    "updateDate": "2026-11-25T06:06:56.180Z",
+    "updateDate": "2026-11-25T07:05:46.151Z",
     "titleText": "Verona City News",
-    "mainText": "City tax bills will be mailed by December 15th. The first installment is due January 31st to the City Treasurer, and payments can be made by mail, online through BS&A Payments, or at the City Center drop box.",
+    "mainText": "Property tax bills for the City of Verona will be in the mail by December 15. You can pay online, by mail, or at the 24/7 drop boxes located at the City Center, with the first installment due by January 31.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-25",
-    "updateDate": "2026-11-25T06:06:56.180Z",
+    "updateDate": "2026-11-25T07:05:46.151Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Today, you can check out Wednesday Pizza and a Pitcher at Lake Lou-ee, trivia at The Bogey Factory, or live music at Paddy Mac's. Looking ahead to tomorrow, ART House 360 hosts their Thursday Night lineup and Hop Haus holds trivia.",
+    "mainText": "We have a busy lineup today with live music at Paddy Mac's, yoga classes at Insight Wellness, and pizza specials at the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-25",
-    "updateDate": "2026-11-25T06:06:56.180Z",
+    "updateDate": "2026-11-25T07:05:46.151Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police updates, on Sunday, November 8th, officers responded to a single-vehicle crash on South Main Street where a car struck a curb, tree, and light pole before catching fire, leading to an O W I arrest.",
+    "mainText": "On November 6, officers responded to a business in the 500 block of West Verona Avenue where they found a woman unresponsive in a vehicle, resulting in an arrest for operating while intoxicated.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-25",
-    "updateDate": "2026-11-25T06:06:56.180Z",
+    "updateDate": "2026-11-25T07:05:46.151Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's opens today at 10:00 AM, and today's flavor of the day is Dark Chocolate Decadence.",
+    "mainText": "You can satisfy your sweet tooth today with Dark Chocolate Decadence, and the restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
