@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-11-24",
-    "updateDate": "2026-11-24T23:03:31.724Z",
+    "uid": "verona-balanced-weather-2026-11-25",
+    "updateDate": "2026-11-25T00:10:19.659Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: it is 30 degrees with overcast skies near Reddan Soccer Park and a beautiful Full Moon tonight. The temperature will drop to an overnight low of 29 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 6 PM, we have overcast skies at Verona Community Park, a full moon, a temperature of 30 degrees, an overnight low of 28 degrees, and no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-11-24",
-    "updateDate": "2026-11-24T23:03:31.724Z",
+    "uid": "verona-balanced-news-2026-11-25",
+    "updateDate": "2026-11-25T00:10:19.659Z",
     "titleText": "Verona City News",
-    "mainText": "Property tax bills are hitting mailboxes soon, and payments can be made by mail, in person at the City Center, or through the online portal. Remember that the first installment is due January 31 and remember to submit your lottery credit forms by January 30 if eligible.",
+    "mainText": "The City of Verona reminds residents that tax bills will arrive by December 15, with options to pay online, by mail, or at the 24/7 drop box at the City Center.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-11-24",
-    "updateDate": "2026-11-24T23:03:31.724Z",
+    "uid": "verona-balanced-events-2026-11-25",
+    "updateDate": "2026-11-25T00:10:19.659Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy schedule of trivia tonight with events at Hop Haus, Wisconsin Brewing Company, and Paddy Mac's all happening today. Looking ahead, you can enjoy live music at Paddy Mac's tomorrow or catch Thursday night fun at ART House 360.",
+    "mainText": "We have a busy schedule with trivia today at Hop Haus, Lake Lou-ee, and Paddy Mac's, plus live music and yoga sessions happening tomorrow and throughout the rest of the week.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-11-24",
-    "updateDate": "2026-11-24T23:03:31.724Z",
+    "uid": "verona-balanced-police-2026-11-25",
+    "updateDate": "2026-11-25T00:10:19.659Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a recent report, on November 6, officers responded to a business on West Verona Avenue where they found a driver unresponsive in a vehicle, which resulted in an arrest for O W I.",
+    "mainText": "In a notable weekly incident from November 6, officers responded to a business on West Verona Avenue where they found a driver passed out behind the wheel, resulting in an O W I arrest.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-11-24",
-    "updateDate": "2026-11-24T23:03:31.724Z",
+    "uid": "verona-balanced-culvers-2026-11-25",
+    "updateDate": "2026-11-25T00:10:19.659Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's featured flavor at Culver's is OREO REESE'S Cheesecake, and you can pick it up anytime before they close at 10 PM tonight.",
+    "mainText": "Today's delicious flavor is OREO REESE'S Cheesecake, and since the restaurant is open until 10:00 PM, you still have plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
