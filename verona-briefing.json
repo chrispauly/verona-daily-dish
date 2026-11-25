@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-25",
-    "updateDate": "2026-11-25T14:04:36.236Z",
+    "updateDate": "2026-11-25T15:04:33.476Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish. It is 30 degrees with overcast skies at Verona City Hall. We have a beautiful Full Moon tonight, and although the International Space Station passes overhead, you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish. We are looking at overcast skies over Fireman's Park with a temperature of 32 degrees that feels like 24. We have a full moon tonight, and although the ISS passes overhead tonight, you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-25",
-    "updateDate": "2026-11-25T14:04:36.236Z",
+    "updateDate": "2026-11-25T15:04:33.476Z",
     "titleText": "Verona City News",
-    "mainText": "City residents should look for property tax bills in the mail by December 15. You can pay your taxes in two installments online, by mail, or at the 24/7 drop boxes located in the City Center parking lot and main entrance.",
+    "mainText": "Property tax bills will be mailed by December 15th with the first installment due January 31st. Also, candidate registration packets for the 2027 spring election for all four aldermanic districts are now available at the City Clerk's office and must be filed by January 5th.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-25",
-    "updateDate": "2026-11-25T14:04:36.236Z",
+    "updateDate": "2026-11-25T15:04:33.476Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community. Today, you can catch live music at Paddy Mac's, enjoy yoga at Insight Wellness, or grab pizza at Lake Lou-ee. Tomorrow, look forward to Trivia Night at the Bogey Factory, ART House 360 Thursday nights, and Hop Haus Trivia.",
+    "mainText": "For local events, you can check out Live Music at Paddy Mac's today, or head to Trivia Night at The Bogey Factory tomorrow. Later this week, do not miss The Crafty Fair on November 28th at ART House 360.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-25",
-    "updateDate": "2026-11-25T14:04:36.236Z",
+    "updateDate": "2026-11-25T15:04:33.476Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a report regarding notable calls from earlier this month, on November 2, a 48-year-old man was arrested following a domestic disturbance call on West End Circle.",
+    "mainText": "In police news, on Wednesday, November 4th, officers responded to a two-vehicle crash in a parking lot on East Verona Avenue, where a driver was arrested for O W I with a minor in the vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-25",
-    "updateDate": "2026-11-25T14:04:36.236Z",
+    "updateDate": "2026-11-25T15:04:33.476Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "If you are craving something sweet, today's flavor is Dark Chocolate Decadence. The restaurant opens today at 10:00 AM and will be ready to serve you until 10:00 PM.",
+    "mainText": "Over at Culver's, doors open today at 10:00 AM featuring Dark Chocolate Decadence as today's flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
