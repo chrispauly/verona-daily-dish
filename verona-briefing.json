@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-25",
-    "updateDate": "2026-11-25T05:04:13.967Z",
+    "updateDate": "2026-11-25T06:06:56.180Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish: skies are overcast near the Verona Public Library under a Full Moon. We are sitting at 29 degrees with an overnight low of 28 degrees, and there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish. We are seeing overcast skies and a temperature of 27 degrees near Fireman's Park, with a full moon overhead.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-25",
-    "updateDate": "2026-11-25T05:04:13.967Z",
+    "updateDate": "2026-11-25T06:06:56.180Z",
     "titleText": "Verona City News",
-    "mainText": "Residents should keep an eye on their mail for tax bills arriving by December 15. You can pay your property taxes online using the BS and A system, by mail, or at the 24/7 drop boxes located at the City Center.",
+    "mainText": "City tax bills will be mailed by December 15th. The first installment is due January 31st to the City Treasurer, and payments can be made by mail, online through BS&A Payments, or at the City Center drop box.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-25",
-    "updateDate": "2026-11-25T05:04:13.967Z",
+    "updateDate": "2026-11-25T06:06:56.180Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona this week. Tomorrow features live music at Paddy Mac's, yoga at Insight Wellness, and pizza at Lake Lou-ee. Looking ahead, you can enjoy trivia at The Bogey Factory on November 26, and the Crafty Fair takes over ART House 360 this Friday.",
+    "mainText": "Today, you can check out Wednesday Pizza and a Pitcher at Lake Lou-ee, trivia at The Bogey Factory, or live music at Paddy Mac's. Looking ahead to tomorrow, ART House 360 hosts their Thursday Night lineup and Hop Haus holds trivia.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-25",
-    "updateDate": "2026-11-25T05:04:13.967Z",
+    "updateDate": "2026-11-25T06:06:56.180Z",
     "titleText": "Verona Police Report",
-    "mainText": "On November 6, officers responded to a business on West Verona Avenue where they found a woman unresponsive in her vehicle; she was later arrested for O W I.",
+    "mainText": "In police updates, on Sunday, November 8th, officers responded to a single-vehicle crash on South Main Street where a car struck a curb, tree, and light pole before catching fire, leading to an O W I arrest.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-25",
-    "updateDate": "2026-11-25T05:04:13.967Z",
+    "updateDate": "2026-11-25T06:06:56.180Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor, OREO REESE'S Cheesecake, has come to an end for the day. The store is now closed, but you can head back tomorrow at 10:00 AM to enjoy the new flavor of the day, Dark Chocolate Decadence.",
+    "mainText": "Culver's opens today at 10:00 AM, and today's flavor of the day is Dark Chocolate Decadence.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
