@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-25",
-    "updateDate": "2026-11-25T07:05:46.151Z",
+    "updateDate": "2026-11-25T08:15:19.759Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 AM, here is today's balanced dish. It is 28 degrees with a real feel of 21 under overcast skies at Verona City Hall, and a full moon is overhead.",
+    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: it is 27 degrees with overcast skies at Harriet Park and a full moon.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-25",
-    "updateDate": "2026-11-25T07:05:46.151Z",
+    "updateDate": "2026-11-25T08:15:19.759Z",
     "titleText": "Verona City News",
-    "mainText": "Property tax bills for the City of Verona will be in the mail by December 15. You can pay online, by mail, or at the 24/7 drop boxes located at the City Center, with the first installment due by January 31.",
+    "mainText": "City offices will close November 26 and 27 for the holiday, so please note that refuse and recycling pickup is delayed to Friday. Additionally, there is a public meeting regarding the Military Ridge State Trail paving project on December 8.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-25",
-    "updateDate": "2026-11-25T07:05:46.151Z",
+    "updateDate": "2026-11-25T08:15:19.759Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy lineup today with live music at Paddy Mac's, yoga classes at Insight Wellness, and pizza specials at the Wisconsin Brewing Company.",
+    "mainText": "We have a busy couple of days with Live Music at Paddy Mac's, Yoga at Insight Wellness, and Pizza and a Pitcher at Lake Lou-ee all taking place today.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-25",
-    "updateDate": "2026-11-25T07:05:46.151Z",
+    "updateDate": "2026-11-25T08:15:19.759Z",
     "titleText": "Verona Police Report",
-    "mainText": "On November 6, officers responded to a business in the 500 block of West Verona Avenue where they found a woman unresponsive in a vehicle, resulting in an arrest for operating while intoxicated.",
+    "mainText": "In a noteworthy call from November 4, a driver was arrested for O W I in a business parking lot while having a child passenger in the vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-25",
-    "updateDate": "2026-11-25T07:05:46.151Z",
+    "updateDate": "2026-11-25T08:15:19.759Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can satisfy your sweet tooth today with Dark Chocolate Decadence, and the restaurant opens today at 10:00 AM.",
+    "mainText": "Today's flavor of the day is the delicious Dark Chocolate Decadence, and the restaurant opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
