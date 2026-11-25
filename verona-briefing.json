@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-25",
-    "updateDate": "2026-11-25T17:05:43.541Z",
+    "updateDate": "2026-11-25T18:06:10.977Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, here is today's balanced dish. We are looking at overcast skies and 35 degrees near Reddan Soccer Park. There is an ISS pass scheduled for tonight, though heavy clouds mean you won't be able to see it.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: overcast skies cover the area around Verona Community Park with a temperature of 37 degrees, feeling like 29. A full moon will brighten the sky tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-25",
-    "updateDate": "2026-11-25T17:05:43.541Z",
+    "updateDate": "2026-11-25T18:06:10.977Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, candidate information packets for the 2027 Spring Election are officially available at the City Clerk's office for all four aldermanic districts. Additionally, property tax bills will be mailed out by December 15th, with the first installment due on January 31st.",
+    "mainText": "In city news, candidate information packets for the 2027 Spring Election are now available at the City Clerk's office for all four aldermanic districts, with paperwork due by January 5th. Additionally, property tax bills will be mailed by December 15th, with the first payment installment due on January 31st.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-25",
-    "updateDate": "2026-11-25T17:05:43.541Z",
+    "updateDate": "2026-11-25T18:06:10.977Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Local events are packed this week. Today, stop by Lake Lou-ee for pizza and a pitcher or enjoy live music at Paddy Mac's. Tomorrow features Trivia Night at The Bogey Factory, and on Saturday, ART House 360 hosts The Crafty Fair.",
+    "mainText": "There are currently no community events listed on the official city calendar for the next thirty days, offering a quiet stretch for the local schedule.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-25",
-    "updateDate": "2026-11-25T17:05:43.541Z",
+    "updateDate": "2026-11-25T18:06:10.977Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on a Monday earlier this month, an officer pulled over a swerving vehicle on Highway 18/151, leading to the arrest of a driver for a third-offence O W I.",
+    "mainText": "In police news, on Wednesday, November 11th, officers arrested a woman near Whalen Road and South Main Street for bail jumping after she was found drinking alcohol and flagging down passing motorists.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-25",
-    "updateDate": "2026-11-25T17:05:43.541Z",
+    "updateDate": "2026-11-25T18:06:10.977Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Over at Culver's, today's flavor of the day is Dark Chocolate Decadence. The restaurant is open until 10:00 PM tonight, so stop by and grab a scoop.",
+    "mainText": "If you are craving dessert, Culver's is open until 10 PM tonight serving Dark Chocolate Decadence as today's flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.5-flash"
   }
