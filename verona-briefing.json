@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-25",
-    "updateDate": "2026-11-25T12:06:23.993Z",
+    "updateDate": "2026-11-25T13:10:16.042Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, we are seeing overcast skies and 28 degrees at City Hall under a full moon. The ISS passes overhead tonight, but you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. Overcast skies hang over Reddan Soccer Park with a temperature of 29 degrees that feels like 21. Look for a full moon tonight, and note that the ISS will pass overhead, though heavy clouds mean you won't be able to see it.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-25",
-    "updateDate": "2026-11-25T12:06:23.993Z",
+    "updateDate": "2026-11-25T13:10:16.042Z",
     "titleText": "Verona City News",
-    "mainText": "Property tax bills will arrive by December 15. You can pay your first installment to the City of Verona Treasurer by January 31, either by mail, online, or at the 24/7 drop boxes located at the City Center.",
+    "mainText": "Property tax bills will be mailed by December 15th. The first installment is due January 31st to the City Treasurer, while the second is due July 31st to Dane County. Payments can be submitted online, by mail, via 24/7 drop boxes, or in person at City Center, and lottery credit applications are due January 30th.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-25",
-    "updateDate": "2026-11-25T12:06:23.993Z",
+    "updateDate": "2026-11-25T13:10:16.042Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead! Today, enjoy live music at Paddy Mac's, yoga at Insight Wellness, and pizza at Lake Lou-ee. Tomorrow, look forward to trivia at The Bogey Factory and Hop Haus, plus the start of ART House 360 Thursday nights.",
+    "mainText": "Local events today include live music at Paddy Mac's, yoga at Insight Wellness, and pizza specials at Lake Lou-ee. Tomorrow features ART House 360 Thursday nights and Hop Haus trivia, with the Crafty Fair coming up on November 28th.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-25",
-    "updateDate": "2026-11-25T12:06:23.993Z",
+    "updateDate": "2026-11-25T13:10:16.042Z",
     "titleText": "Verona Police Report",
-    "mainText": "On November 3, officers responded to a two-vehicle crash at CTH M and CTH PB, where one driver was cited for operating without required headlights and transported to a hospital.",
+    "mainText": "In weekly police reports, on Wednesday, November 4th, officers responded to a two-vehicle crash on East Verona Avenue and arrested a 34-year-old driver for O W I with a child passenger.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-25",
-    "updateDate": "2026-11-25T12:06:23.993Z",
+    "updateDate": "2026-11-25T13:10:16.042Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is Dark Chocolate Decadence. The restaurant opens today at 10:00 AM and remains open until 10:00 PM for your convenience.",
+    "mainText": "Culver's opens today at 10:00 AM, where chocolate fans can stop by to enjoy today's flavor of the day, Dark Chocolate Decadence.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
