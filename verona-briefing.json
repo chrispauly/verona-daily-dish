@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-26",
-    "updateDate": "2026-11-26T17:03:26.678Z",
+    "updateDate": "2026-11-26T18:04:57.918Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 AM, it is 38 degrees with overcast skies at Verona City Hall. The moon is currently in a Waning Gibbous phase, and while the ISS will pass overhead tonight, you will not be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 12 PM, here is today's balanced dish: we have overcast skies at the Verona Public Library, and although the ISS passes overhead tonight, you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-26",
-    "updateDate": "2026-11-26T17:03:26.678Z",
+    "updateDate": "2026-11-26T18:04:57.918Z",
     "titleText": "Verona City News",
-    "mainText": "The city has released candidate information packets for the 2027 Spring Election, which includes details on Aldermanic seats. Additionally, residents are reminded that property tax bills will be mailed by December 15, with the first installment due January 31.",
+    "mainText": "City news today covers the upcoming 2027 election, where seats in all 4 Aldermanic Districts are on the ballot, with candidate packets ready for pickup, plus a reminder that property tax payments are now being accepted.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-26",
-    "updateDate": "2026-11-26T17:03:26.678Z",
+    "updateDate": "2026-11-26T18:04:57.918Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do with Yoga at Insight Wellness happening today, followed by Hop Haus Trivia tomorrow.",
+    "mainText": "Looking at our community calendar, there are currently no specific local events scheduled for the next 30 days in Verona.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-26",
-    "updateDate": "2026-11-26T17:03:26.678Z",
+    "updateDate": "2026-11-26T18:04:57.918Z",
     "titleText": "Verona Police Report",
-    "mainText": "In a noteworthy incident on November 6, officers responded to a business on West Verona Avenue where a woman was found in her vehicle and subsequently arrested for O W I.",
+    "mainText": "In a report covering November 1 through 15, on November 4, a 34-year-old woman was arrested for O W I after a two-vehicle crash in a business parking lot.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-26",
-    "updateDate": "2026-11-26T17:03:26.678Z",
+    "updateDate": "2026-11-26T18:04:57.918Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is closed for the day, so please plan for a tasty treat tomorrow when they reopen at 10 AM featuring the Snickers Swirl flavor of the day.",
+    "mainText": "The restaurant is closed today, but be sure to mark your calendar for Snickers Swirl, which will be the flavor of the day when they open tomorrow at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
