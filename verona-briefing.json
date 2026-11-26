@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-26",
-    "updateDate": "2026-11-26T11:10:45.120Z",
+    "updateDate": "2026-11-26T12:08:15.586Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish. Over at Verona Area High School, it is currently 35 degrees with overcast skies. Tonight we have a Full Moon. The ISS will pass overhead tonight starting at 5:03 PM for 5 minutes, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 6 AM, here is today's balanced dish: it is 35 degrees with overcast skies at Badger Prairie County Park under a full moon. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-26",
-    "updateDate": "2026-11-26T11:10:45.120Z",
+    "updateDate": "2026-11-26T12:08:15.586Z",
     "titleText": "Verona City News",
-    "mainText": "In city affairs, the latest update is: Local Campaign Registration Info.",
+    "mainText": "The City of Verona has released candidate packets for the 2027 spring election with all four aldermanic seats up for grabs, and property tax bills will be mailed no later than December 15.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-26",
-    "updateDate": "2026-11-26T11:10:45.120Z",
+    "updateDate": "2026-11-26T12:08:15.586Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "If you are planning your week, we have local events coming up, including Yoga at Insight Wellness Today at Insight Wellness Verona.",
+    "mainText": "Today features Yoga at Insight Wellness and ART House 360 Thursday Nights, while tomorrow brings live music at Bailey's Run, the 50th-anniversary celebration at Wisconsin Brewing Company, and the Crafty Fair.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-26",
-    "updateDate": "2026-11-26T11:10:45.120Z",
+    "updateDate": "2026-11-26T12:08:15.586Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police department weekly log: recently, From impaired driving arrests and traffic crashes to domestic disturbance invest.",
+    "mainText": "Verona police officers handled a variety of incidents between November 1 and November 15, including a notable traffic crash that occurred on November 1.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-26",
-    "updateDate": "2026-11-26T11:10:45.120Z",
+    "updateDate": "2026-11-26T12:08:15.586Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's Culver's Flavor of the Day is z *Restaurant Closed Today. The restaurant opens today at 10:00 AM.",
+    "mainText": "Culver's is currently closed but will open today at 10:00 AM, serving today's flavor of the day until they close at 10:00 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "Local Fallback Template"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
