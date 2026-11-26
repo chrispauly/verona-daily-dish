@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-26",
-    "updateDate": "2026-11-26T19:03:23.613Z",
+    "updateDate": "2026-11-26T20:05:55.762Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 1 PM, here is today's balanced dish: we are seeing overcast skies at Verona Community Park with a temperature of 39 degrees. The ISS will pass overhead tonight, but you won't be able to see it due to the clouds. The moon is currently in a Waning Gibbous phase.",
+    "mainText": "Hello, Verona! At 2 PM, the weather is 38 degrees with overcast skies at Fireman Park. While the ISS will pass overhead tonight, we will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-26",
-    "updateDate": "2026-11-26T19:03:23.613Z",
+    "updateDate": "2026-11-26T20:05:55.762Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, candidate information packets for the upcoming 2027 election are now available. Please note that all candidacy forms must be submitted by 5 p.m. on January 5, 2027, to the City Clerk at 111 Lincoln Street. Additionally, property tax bills will be mailed no later than December 15.",
+    "mainText": "For city news, candidate packets for the 2027 Spring Election are now available. If you are planning to run, please note that all forms must be submitted to the City Clerk by 5 PM on January 5. Regarding property taxes, bills will be mailed by December 15, and you have until January 31 to pay your first installment.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-26",
-    "updateDate": "2026-11-26T19:03:23.613Z",
+    "updateDate": "2026-11-26T20:05:55.762Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have plenty of local happenings this week. Today, you can enjoy yoga at Insight Wellness or join the festivities at Art House 360. Tomorrow, be sure to check out live music at Bailey's Run or head over to Wisconsin Brewing Company for their 50 years of craft brewing celebration.",
+    "mainText": "We have a busy schedule ahead. Today you can enjoy Yoga at Insight Wellness or the ART House 360 Thursday night festivities. Tomorrow, catch live music at Bailey's Run, celebrate 50 years of craft brewing at Wisconsin Brewing Company, or visit the Crafty Fair at ART House 360.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-26",
-    "updateDate": "2026-11-26T19:03:23.613Z",
+    "updateDate": "2026-11-26T20:05:55.762Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, on November 2, officers were dispatched to a residence on West End Circle following a domestic disturbance, which resulted in a 48-year-old man being arrested for battery and disorderly conduct.",
+    "mainText": "In the weekly recap for November 1 through 15, our officers handled a variety of calls including a notable incident involving the recovery of a stolen vehicle that occurred on November 1.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-26",
-    "updateDate": "2026-11-26T19:03:23.613Z",
+    "updateDate": "2026-11-26T20:05:55.762Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "The Culver's of Verona location is currently closed for the day. We look forward to tomorrow, when the doors will open at 10:00 AM featuring the Snickers Swirl flavor of the day.",
+    "mainText": "The Culver's in Verona is closed today. We look forward to tomorrow, when the flavor of the day will be Snickers Swirl. The store will open tomorrow at 10 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
