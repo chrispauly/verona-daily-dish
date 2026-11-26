@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-26",
-    "updateDate": "2026-11-26T02:05:48.545Z",
+    "updateDate": "2026-11-26T03:05:08.129Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish: current temperatures are 34 degrees with overcast skies near Harriet Park under a full moon. The overnight low will reach 34 degrees, and there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 9 PM, here is today's balanced dish: we have overcast skies at Badger Ridge Middle School with temperatures sitting at 34 degrees. The overnight low will hit 34 degrees with no rain predicted, and we have a full moon tonight.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-26",
-    "updateDate": "2026-11-26T02:05:48.545Z",
+    "updateDate": "2026-11-26T03:05:08.129Z",
     "titleText": "Verona City News",
-    "mainText": "If you are interested in the 2027 Spring Election, candidate packets are ready for pickup at the City Clerk's office. Also, remember that property tax bills will be mailed by December 15, and you have various ways to pay including online, by mail, or at the 24/7 drop box.",
+    "mainText": "City news today covers the upcoming 2027 Spring Election with packets now available at the Clerk's office, and a reminder that property tax bills will be mailed by December 15.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-26",
-    "updateDate": "2026-11-26T02:05:48.545Z",
+    "updateDate": "2026-11-26T03:05:08.129Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do this week, including live music at Paddy Mac's today, trivia at The Bogey Factory tomorrow, and the Verona Crafty Fair this Friday.",
+    "mainText": "There is plenty to do with Live Music at Paddy Mac's today, yoga at Insight Wellness today, trivia at The Bogey Factory tomorrow, and the Crafty Fair at ART House 360 this Friday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-26",
-    "updateDate": "2026-11-26T02:05:48.545Z",
+    "updateDate": "2026-11-26T03:05:08.129Z",
     "titleText": "Verona Police Report",
-    "mainText": "On November 6, officers responded to a business on West Verona Avenue where they found a driver unconscious in their vehicle; she was subsequently arrested for O W I.",
+    "mainText": "In a noteworthy call from November 8, a single-vehicle crash on South Main Street resulted in an arrest for operating while intoxicated after the car struck a light pole.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-26",
-    "updateDate": "2026-11-26T02:05:48.545Z",
+    "updateDate": "2026-11-26T03:05:08.129Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's flavor of the day is the delicious Dark Chocolate Decadence. The store is currently open until 10:00 PM, so there is still time to stop by for a treat.",
+    "mainText": "Stop by Culver's for the delicious Dark Chocolate Decadence flavor of the day; they are open for another 55 minutes before closing for the night.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
