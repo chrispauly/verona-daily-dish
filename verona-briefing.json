@@ -1,41 +1,41 @@
 [
   {
-    "uid": "verona-balanced-weather-2026-11-25",
-    "updateDate": "2026-11-25T23:03:40.479Z",
+    "uid": "verona-balanced-weather-2026-11-26",
+    "updateDate": "2026-11-26T00:10:07.561Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 PM, here is today's balanced dish: it is 34 degrees and overcast near the Verona Public Library. We have a full moon tonight. The ISS will pass overhead, but you will not be able to see it due to the clouds. Tonight, the temperature will drop to an overnight low of 32 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 6 PM, conditions at Fireman's Park are overcast with a temperature of 34 degrees. Under the full moon tonight, the temperature will dip to an overnight low of 32 degrees, with no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-news-2026-11-25",
-    "updateDate": "2026-11-25T23:03:40.479Z",
+    "uid": "verona-balanced-news-2026-11-26",
+    "updateDate": "2026-11-26T00:10:07.561Z",
     "titleText": "Verona City News",
-    "mainText": "If you are interested in the 2027 Spring Election, candidate packets are now available at the City Clerk's office on Lincoln Street. Remember, all candidacy paperwork must be submitted by 5:00 p.m. on January 5, 2027. Also, remember that property tax bills will be mailed no later than December 15, and you can view them online via Access Dane.",
+    "mainText": "In city news, candidate packets for the 2027 Aldermanic elections are now available at the City Clerk's office, and residents are reminded that property tax bills will be mailed out by December 15, with the first installment due on January 31.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-events-2026-11-25",
-    "updateDate": "2026-11-25T23:03:40.479Z",
+    "uid": "verona-balanced-events-2026-11-26",
+    "updateDate": "2026-11-26T00:10:07.561Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Today, you can catch live music at Paddy Mac's, yoga at Insight Wellness, or the Wednesday Pizza and a Pitcher special at Lake Lou-ee. Tomorrow, join the fun at The Bogey Factory for trivia night, check out the opening of ART House 360, or test your knowledge at Hop Haus Trivia.",
+    "mainText": "There is plenty to do in town, starting with live music, yoga, and pizza specials all happening today. Tomorrow, you can look forward to trivia nights at both The Bogey Factory and Hop Haus Brewing.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-police-2026-11-25",
-    "updateDate": "2026-11-25T23:03:40.479Z",
+    "uid": "verona-balanced-police-2026-11-26",
+    "updateDate": "2026-11-26T00:10:07.561Z",
     "titleText": "Verona Police Report",
-    "mainText": "Regarding local safety, on November 6, officers were dispatched to a business on West Verona Avenue where they found a driver unconscious in a vehicle. The driver was subsequently arrested for an O W I.",
+    "mainText": "In a notable call from November 6, officers responded to a business on West Verona Avenue where a woman was found unresponsive in her vehicle and was subsequently arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
-    "uid": "verona-balanced-culvers-2026-11-25",
-    "updateDate": "2026-11-25T23:03:40.479Z",
+    "uid": "verona-balanced-culvers-2026-11-26",
+    "updateDate": "2026-11-26T00:10:07.561Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Today's delicious flavor of the day is Dark Chocolate Decadence. The restaurant is currently open, so you have plenty of time to stop by before they close at 10:00 PM tonight.",
+    "mainText": "Today's flavor of the day is the rich Dark Chocolate Decadence. The store is currently open until 10 PM, so there is plenty of time to stop by for a treat.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
