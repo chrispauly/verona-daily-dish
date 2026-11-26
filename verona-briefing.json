@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-26",
-    "updateDate": "2026-11-26T13:05:58.263Z",
+    "updateDate": "2026-11-26T14:04:11.564Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish: it is 35 degrees with overcast skies over the Military Ridge State Trail and a Waning Gibbous moon in the sky. The ISS passes overhead tonight, but you won't be able to see it due to the clouds.",
+    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish. It is 36 degrees with overcast skies at the library. The moon phase is a Waning Gibbous, and while the ISS passes overhead tonight, you will not be able to see it due to the clouds.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-26",
-    "updateDate": "2026-11-26T13:05:58.263Z",
+    "updateDate": "2026-11-26T14:04:11.564Z",
     "titleText": "Verona City News",
-    "mainText": "City Hall is preparing for the 2027 Spring Election, and candidate packets are now available at the Clerk's Office. Also, please note that property tax bills will be mailed no later than December 15, and payments can be made online or via the 24/7 drop boxes at City Center.",
+    "mainText": "City Hall reminds residents that candidate packets for the 2027 Spring Election are now available. Forms must be submitted to the City Clerk by January 5, 2027. Additionally, remember that property tax bills will be mailed by December 15, with the first installment due by January 31.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-26",
-    "updateDate": "2026-11-26T13:05:58.263Z",
+    "updateDate": "2026-11-26T14:04:11.564Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in our community, starting with Yoga at Insight Wellness today. Later, you can check out ART House 360 for their Thursday night festivities, followed by Hop Haus Trivia on Thursday.",
+    "mainText": "We have a busy couple of days. Yoga at Insight Wellness and ART House 360 events are happening today. Tomorrow, you can look forward to Hop Haus Trivia, live music at Bailey's Run, and a 50th-anniversary celebration at Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-26",
-    "updateDate": "2026-11-26T13:05:58.263Z",
+    "updateDate": "2026-11-26T14:04:11.564Z",
     "titleText": "Verona Police Report",
-    "mainText": "In their recent report covering November 1st through the 15th, the Verona Police Department noted they were kept busy with several calls, including an O W I arrest.",
+    "mainText": "In our weekly update, we noted that on November 2, a 48-year-old Verona man was arrested for battery and disorderly conduct following a domestic disturbance call.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-26",
-    "updateDate": "2026-11-26T13:05:58.263Z",
+    "updateDate": "2026-11-26T14:04:11.564Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is currently closed but will open today at 10:00 AM for you to enjoy your favorite treats.",
+    "mainText": "The Culver's of Verona location opens today at 10:00 AM, so be sure to head over and enjoy today's flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
