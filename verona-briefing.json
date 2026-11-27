@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-27",
-    "updateDate": "2026-11-27T04:04:51.344Z",
+    "updateDate": "2026-11-27T05:04:16.764Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 10 PM, here is today's balanced dish. It is 35 degrees with overcast skies near Harriet Park and a Waning Gibbous moon overhead. The overnight low will hit 31 degrees, and there is no rain in the forecast.",
+    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. We currently have overcast skies near Reddan Soccer Park with a temperature of 35 degrees that feels like 25 under a waning gibbous moon. The overnight low will drop down to 31 degrees with no rain predicted.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-27",
-    "updateDate": "2026-11-27T04:04:51.344Z",
+    "updateDate": "2026-11-27T05:04:16.764Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, the 2027 Spring Election is on the horizon. All four Aldermanic District seats are up for grabs. If you plan to run, make sure to pick up your candidate packet and return your forms to the City Clerk at 111 Lincoln Street by 5 PM on January 5, 2027.",
+    "mainText": "In city news, candidate information packets are now available for the 2027 Spring Election, which will feature open seats in all four City of Verona Aldermanic Districts. Candidates must file required paperwork in person with the City Clerk by January 5th, 2027.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-27",
-    "updateDate": "2026-11-27T04:04:51.344Z",
+    "updateDate": "2026-11-27T05:04:16.764Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "We have a busy couple of days ahead. Today, you can join Yoga at Insight Wellness, enjoy Thursday Night festivities at ART House, or play trivia at Hop Haus Brewing. Tomorrow, look out for live music at Bailey's Run, the Crafty Fair at ART House, and the 50th-anniversary celebration of craft brewing at Wisconsin Brewing Company.",
+    "mainText": "Looking ahead to local events, tomorrow brings live music to Bailey's Run Vineyard and a 50-year craft brewing celebration to Wisconsin Brewing Company. On Saturday, November 28th, you can check out The Crafty Fair at ART House 360 or catch live music at Paddy Mac's.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-27",
-    "updateDate": "2026-11-27T04:04:51.344Z",
+    "updateDate": "2026-11-27T05:04:16.764Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly police report, on November 4, a two-vehicle crash in a business parking lot on East Verona Avenue resulted in an O W I arrest for a driver who had a passenger under 16 years old in the vehicle.",
+    "mainText": "In the weekly police recap, on Sunday, November 8th, officers responded to a single-vehicle crash on South Main Street where a car struck a curb, tree, and light pole before catching fire; the driver was arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-27",
-    "updateDate": "2026-11-27T04:04:51.344Z",
+    "updateDate": "2026-11-27T05:04:16.764Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is currently closed for the night. We look forward to seeing you tomorrow at 10 AM when we will be serving the delicious Snickers Swirl as our flavor of the day.",
+    "mainText": "Culver's of Verona is closed for the night. They will reopen tomorrow at 10 AM, serving up Snickers Swirl as the flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
