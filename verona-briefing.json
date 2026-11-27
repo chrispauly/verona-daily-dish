@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-27",
-    "updateDate": "2026-11-27T05:04:16.764Z",
+    "updateDate": "2026-11-27T06:06:57.376Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 11 PM, here is today's balanced dish. We currently have overcast skies near Reddan Soccer Park with a temperature of 35 degrees that feels like 25 under a waning gibbous moon. The overnight low will drop down to 31 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 12 AM, here is today's balanced dish: we are looking at 34 degrees with overcast skies near the Reddan Soccer Park under a waning gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-27",
-    "updateDate": "2026-11-27T05:04:16.764Z",
+    "updateDate": "2026-11-27T06:06:57.376Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, candidate information packets are now available for the 2027 Spring Election, which will feature open seats in all four City of Verona Aldermanic Districts. Candidates must file required paperwork in person with the City Clerk by January 5th, 2027.",
+    "mainText": "Important election news: 2027 Spring Election candidate packets are now available. If you plan to run for an Aldermanic seat, ensure all forms are submitted to the City Clerk by 5:00 p.m. on January 5, 2027.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-27",
-    "updateDate": "2026-11-27T05:04:16.764Z",
+    "updateDate": "2026-11-27T06:06:57.376Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Looking ahead to local events, tomorrow brings live music to Bailey's Run Vineyard and a 50-year craft brewing celebration to Wisconsin Brewing Company. On Saturday, November 28th, you can check out The Crafty Fair at ART House 360 or catch live music at Paddy Mac's.",
+    "mainText": "It is a busy week for entertainment. Today, enjoy live music at Bailey is Run or the 50th-anniversary celebration at Wisconsin Brewing Company. Tomorrow, check out the Crafty Fair at ART House 360 or music at Paddy Mac is.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-27",
-    "updateDate": "2026-11-27T05:04:16.764Z",
+    "updateDate": "2026-11-27T06:06:57.376Z",
     "titleText": "Verona Police Report",
-    "mainText": "In the weekly police recap, on Sunday, November 8th, officers responded to a single-vehicle crash on South Main Street where a car struck a curb, tree, and light pole before catching fire; the driver was arrested for O W I.",
+    "mainText": "In our weekly report, officers responded to a call on November 6 where a woman was found passed out in a vehicle at a business on West Verona Avenue, resulting in an O W I arrest.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-27",
-    "updateDate": "2026-11-27T05:04:16.764Z",
+    "updateDate": "2026-11-27T06:06:57.376Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's of Verona is closed for the night. They will reopen tomorrow at 10 AM, serving up Snickers Swirl as the flavor of the day.",
+    "mainText": "Our flavor of the day is the delightful Snickers Swirl. Culver is of Verona opens today at 10:00 AM, so make sure to stop by and satisfy your sweet tooth.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
