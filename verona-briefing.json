@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-27",
-    "updateDate": "2026-11-27T08:08:50.608Z",
+    "updateDate": "2026-11-27T09:04:30.767Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish: it is 34 degrees with overcast skies at Harriet Park under a Waning Gibbous moon.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish. Over near Badger Prairie County Park, it is currently 34 degrees under overcast skies, feeling like 25 degrees beneath the waning gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-27",
-    "updateDate": "2026-11-27T08:08:50.608Z",
+    "updateDate": "2026-11-27T09:04:30.767Z",
     "titleText": "Verona City News",
-    "mainText": "For those interested in local government, the City Clerk has released candidate packets for the 2027 Spring Election. You have until January 5 to submit your paperwork for any of the four Aldermanic districts up for election.",
+    "mainText": "If you are interested in serving on the city council, candidate packets for the 2027 Spring Election are officially available. Seats in all four City of Verona Aldermanic Districts will be on the ballot. Nomination paper circulation begins on December 1st, and completed forms must be turned in to the City Clerk by January 5th at 5:00 PM.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-27",
-    "updateDate": "2026-11-27T08:08:50.608Z",
+    "updateDate": "2026-11-27T09:04:30.767Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy couple of days in town with live music at Bailey's Run Vineyard today and the 50-year craft brewing celebration at Wisconsin Brewing Company also happening today.",
+    "mainText": "There are several great events happening around town. Today, you can catch live music at Bailey's Run Vineyard or celebrate 50 years of craft brewing at Wisconsin Brewing Company. Tomorrow, check out handmade local goods at The Crafty Fair inside ART House 360 from 10 AM to 4 PM.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-27",
-    "updateDate": "2026-11-27T08:08:50.608Z",
+    "updateDate": "2026-11-27T09:04:30.767Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on November 4, a driver was arrested for O W I in a business parking lot on East Verona Avenue after police found a minor in the vehicle.",
+    "mainText": "In police updates, on Wednesday, November 4th, officers responded to a two-vehicle crash in a business parking lot on East Verona Avenue, where a 34-year-old woman was arrested for O W I with a child in the vehicle.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-27",
-    "updateDate": "2026-11-27T08:08:50.608Z",
+    "updateDate": "2026-11-27T09:04:30.767Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Satisfy your cravings with today's flavor, Snickers Swirl. The store opens today at 10:00 AM.",
+    "mainText": "For today's Culver's update, the restaurant opens today at 10:00 AM featuring today's Flavor of the Day, Snickers Swirl.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
