@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-27",
-    "updateDate": "2026-11-27T01:05:24.994Z",
+    "updateDate": "2026-11-27T02:05:50.391Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 7 PM, here is today's balanced dish. Over at Fireman's Park, we are sitting at 38 degrees under overcast skies, with a real-feel of 27 degrees and a waning gibbous moon overnight. The overnight temperature will dip to 32 degrees with no rain predicted.",
+    "mainText": "Hello, Verona! At 8 PM, here is today's balanced dish. Temperatures are currently 37 degrees with overcast skies near Reddan Soccer Park under a Waning Gibbous moon. The overnight low will be 32 degrees, and there is no rain in the forecast.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-27",
-    "updateDate": "2026-11-27T01:05:24.994Z",
+    "updateDate": "2026-11-27T02:05:50.391Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, candidate information packets are now available for the 2027 Spring Election. Seats across all four City of Verona Aldermanic Districts will be on the ballot. Interested candidates must submit their required forms to the City Clerk by 5 PM on January 5th, 2027, with nomination papers requiring between 20 and 40 valid signatures.",
+    "mainText": "For local news, the City of Verona has announced that candidate packets for the 2027 Spring Election are available for all four Aldermanic Districts. Candidates must file their Declaration of Candidacy and other required paperwork with the City Clerk at 111 Lincoln Street by 5:00 p.m. on January 5, 2027.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-27",
-    "updateDate": "2026-11-27T01:05:24.994Z",
+    "updateDate": "2026-11-27T02:05:50.391Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There are plenty of community events lined up! Today, you can attend Yoga at Insight Wellness, enjoy ART House 360 Thursday Nights, or play Hop Haus Trivia. Tomorrow, check out live music at Bailey's Run Vineyard or celebrate 50 years of craft brewing at Wisconsin Brewing Company. Looking ahead to Saturday, November 28th, head over to ART House 360 for The Crafty Fair.",
+    "mainText": "There are several events to enjoy in the coming days. Today, you can participate in Yoga at Insight Wellness, enjoy the Thursday Night festivities at ART House 360, or join the fun at Hop Haus Trivia. Looking ahead, tomorrow features live music at Bailey's Run, a 50-year craft brewing celebration at Wisconsin Brewing Company, and more.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-27",
-    "updateDate": "2026-11-27T01:05:24.994Z",
+    "updateDate": "2026-11-27T02:05:50.391Z",
     "titleText": "Verona Police Report",
-    "mainText": "From the police recap, on Wednesday, November 4th, officers responded to a two-vehicle crash in a parking lot on East Verona Avenue, resulting in the arrest of a 34-year-old driver for an O W I with a minor passenger.",
+    "mainText": "In our weekly police report, we look back to November 3, when officers responded to a domestic disturbance on Prairie Way Boulevard where a 31-year-old man was arrested for intimidation of a victim and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-27",
-    "updateDate": "2026-11-27T01:05:24.994Z",
+    "updateDate": "2026-11-27T02:05:50.391Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Ending on a sweet note, Culver's is currently open tonight until 10:00 PM. Be sure to check in today or swing by tomorrow when they feature Snickers Swirl as the flavor of the day.",
+    "mainText": "Culver's is now closed for the night. Be sure to stop by tomorrow when they open at 10:00 AM to enjoy the flavor of the day, which will be Snickers Swirl.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
