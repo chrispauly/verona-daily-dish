@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-28",
-    "updateDate": "2026-11-28T14:04:12.687Z",
+    "updateDate": "2026-11-28T15:03:49.132Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 8 AM, here is today's balanced dish. We are seeing fair conditions out at Reddan Soccer Park with temperatures at 70 degrees. Also, tonight you can catch the International Space Station crossing the sky for six minutes starting at 5:03 PM; look toward the northwest near Verona High School as it travels toward Fitchburg reaching halfway up the sky.",
+    "mainText": "Hello, Verona! At 9 AM, here is today's balanced dish. It is clear near Verona Area High School. Also, the International Space Station will be visible tonight starting at 5:03 PM, passing from near the high school in the northwest toward Fitchburg in the east, climbing to halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-28",
-    "updateDate": "2026-11-28T14:04:12.687Z",
+    "updateDate": "2026-11-28T15:03:49.132Z",
     "titleText": "Verona City News",
-    "mainText": "Checking in on city affairs, there are currently no new city news articles or important emails to report at this time.",
+    "mainText": "Candidates for the 2027 Spring Election can now pick up information packets at the City Clerk office. Additionally, property tax bills will be mailed by December 15, and residents can pay online or use the drop box at the City Center.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-28",
-    "updateDate": "2026-11-28T14:04:12.687Z",
+    "updateDate": "2026-11-28T15:03:49.132Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "It is a busy day for events in town with live music happening today at Bailey's Run Vineyard and Paddy Mac's. Additionally, The Crafty Fair is taking over ART House 360 today until 4 PM.",
+    "mainText": "There is a busy schedule starting today with The Crafty Fair at ART House 360 and live music at Bailey's Run and Paddy Mac's. Tomorrow, catch more live music at the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-28",
-    "updateDate": "2026-11-28T14:04:12.687Z",
+    "updateDate": "2026-11-28T15:03:49.132Z",
     "titleText": "Verona Police Report",
-    "mainText": "There are no police reports or incidents to summarize for the current weekly period.",
+    "mainText": "On November 2, officers were called to a residence on West End Circle for a domestic disturbance, resulting in the arrest of a 48-year-old man for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-28",
-    "updateDate": "2026-11-28T14:04:12.687Z",
+    "updateDate": "2026-11-28T15:03:49.132Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "It is time for dessert because today's flavor of the day is Mint Cookie. The Culver's in Verona opens today at 10:00 AM to serve you that delicious treat.",
+    "mainText": "Stop by for some delicious Mint Cookie, which is today's flavor. The store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
