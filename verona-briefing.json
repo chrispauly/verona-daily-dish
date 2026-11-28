@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-28",
-    "updateDate": "2026-11-28T12:05:29.122Z",
+    "updateDate": "2026-11-28T13:05:40.915Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 6 AM, it is 35 degrees and partly cloudy at the Verona Public Library under a waning gibbous moon. We also have a great view of the ISS tonight; it will be visible for six minutes starting at 5:03 PM as it travels from the area near Verona High School toward Fitchburg, reaching about halfway up the sky.",
+    "mainText": "Hello, Verona! At 7 AM, here is today's balanced dish. Temperatures are at 35 degrees with a feel of 28 under clear skies near the Military Ridge State Trail, accompanied by a waning gibbous moon. Note that while the International Space Station passes overhead tonight, clouds will block the view.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-news-2026-11-28",
-    "updateDate": "2026-11-28T12:05:29.122Z",
+    "updateDate": "2026-11-28T13:05:40.915Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, candidate information packets are now available for the 2027 spring election. All four aldermanic districts are on the ballot, and you must file your paperwork with the City Clerk by 5:00 PM on January 5, 2027.",
+    "mainText": "The City Clerk's Office announced that candidate registration information is now available for the 2027 Spring Election. Seats across all four aldermanic districts will be on the ballot, and interested candidates must submit their completed paperwork by 5:00 PM on January 5th, 2027.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-events-2026-11-28",
-    "updateDate": "2026-11-28T12:05:29.122Z",
+    "updateDate": "2026-11-28T13:05:40.915Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There is plenty to do in Verona, including the Crafty Fair today at ART House 360 and live music at Bailey's Run and Paddy Mac's tonight. Looking ahead, you can catch more music at the Wisconsin Brewing Company tomorrow.",
+    "mainText": "Today features several great local events, including The Crafty Fair at ART House 360 from 10 AM to 4 PM, plus live music at Bailey's Run Vineyard, Paddy Mac's, and Lake Lou-ee. Looking ahead, Hop Haus Brewing Co. and Lake Lou-ee will host trivia nights next Tuesday.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-police-2026-11-28",
-    "updateDate": "2026-11-28T12:05:29.122Z",
+    "updateDate": "2026-11-28T13:05:40.915Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly report, on November 6, officers were dispatched to a business on West Verona Avenue where they found a driver unconscious in a vehicle; she was subsequently arrested for O W I.",
+    "mainText": "In weekly police news, on Wednesday, November eleventh, officers responded to Whalen Road and South Main Street after a woman was flagging down bystanders requesting 911 be called. She was taken into custody for bail jumping after officers determined she was under the influence of alcohol.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-28",
-    "updateDate": "2026-11-28T12:05:29.122Z",
+    "updateDate": "2026-11-28T13:05:40.915Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "You can grab the Mint Cookie flavor of the day at Culver's, which opens today at 10:00 AM and closes at 10:30 PM.",
+    "mainText": "If you are planning a lunch or dinner run, Culver's opens today at 10:00 AM with Mint Cookie as today's flavor of the day.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.1-flash-lite"
+    "generatorModel": "gemini-3.5-flash"
   }
 ]
