@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-28",
-    "updateDate": "2026-11-28T11:04:35.542Z",
+    "updateDate": "2026-11-28T12:05:29.122Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 5 AM, here is today's balanced dish: we have fair conditions with temperatures sitting at 70 degrees at the Verona Community Park.",
+    "mainText": "Hello, Verona! At 6 AM, it is 35 degrees and partly cloudy at the Verona Public Library under a waning gibbous moon. We also have a great view of the ISS tonight; it will be visible for six minutes starting at 5:03 PM as it travels from the area near Verona High School toward Fitchburg, reaching about halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-28",
-    "updateDate": "2026-11-28T11:04:35.542Z",
+    "updateDate": "2026-11-28T12:05:29.122Z",
     "titleText": "Verona City News",
-    "mainText": "For those interested in local government, the City of Verona has released candidate packets for the 2027 Spring Election. All four Aldermanic Districts are on the ballot, and interested residents must submit their Declaration of Candidacy and other required forms to the City Clerk by January 5, 2027.",
+    "mainText": "In city news, candidate information packets are now available for the 2027 spring election. All four aldermanic districts are on the ballot, and you must file your paperwork with the City Clerk by 5:00 PM on January 5, 2027.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-28",
-    "updateDate": "2026-11-28T11:04:35.542Z",
+    "updateDate": "2026-11-28T12:05:29.122Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Currently, there are no specific upcoming events listed on the city calendar for the next 30 days, so it is a perfect time to explore our local community spaces.",
+    "mainText": "There is plenty to do in Verona, including the Crafty Fair today at ART House 360 and live music at Bailey's Run and Paddy Mac's tonight. Looking ahead, you can catch more music at the Wisconsin Brewing Company tomorrow.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-28",
-    "updateDate": "2026-11-28T11:04:35.542Z",
+    "updateDate": "2026-11-28T12:05:29.122Z",
     "titleText": "Verona Police Report",
-    "mainText": "In our weekly look at police activity, officers responded to a two-vehicle crash on November 3 at the intersection of CTH M and CTH PB, which resulted in one driver being transported to the hospital.",
+    "mainText": "In our weekly report, on November 6, officers were dispatched to a business on West Verona Avenue where they found a driver unconscious in a vehicle; she was subsequently arrested for O W I.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-28",
-    "updateDate": "2026-11-28T11:04:35.542Z",
+    "updateDate": "2026-11-28T12:05:29.122Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's is ready to serve you the Mint Cookie flavor of the day, and they open today at 10:00 AM.",
+    "mainText": "You can grab the Mint Cookie flavor of the day at Culver's, which opens today at 10:00 AM and closes at 10:30 PM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
