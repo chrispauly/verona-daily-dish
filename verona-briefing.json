@@ -1,42 +1,42 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-28",
-    "updateDate": "2026-11-28T08:07:08.896Z",
+    "updateDate": "2026-11-28T09:04:03.959Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 AM, here is today's balanced dish. We currently have overcast skies near Badger Ridge Middle School with a temperature of 34 degrees, feeling like 26. A waning gibbous moon is shining through the clouds overnight.",
+    "mainText": "Hello, Verona! At 3 AM, here is today's balanced dish: we have overcast skies at Fireman's Park with a temperature of 35 degrees, under the light of a Waning Gibbous moon.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-28",
-    "updateDate": "2026-11-28T08:07:08.896Z",
+    "updateDate": "2026-11-28T09:04:03.959Z",
     "titleText": "Verona City News",
-    "mainText": "In city news, candidate information packets are now available for the 2027 Spring Election, which will feature seats in all four City of Verona Aldermanic Districts. Candidates must file their paperwork with the City Clerk by January 5th, 2027, and nomination paper signatures can begin circulating on December 1st.",
+    "mainText": "All four Aldermanic districts in Verona will have seats on the ballot for the 2027 Spring Election. Candidates should visit the City Clerk's office at 111 Lincoln Street to pick up their information packets, which must be submitted by 5:00 p.m. on January 5, 2027.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-28",
-    "updateDate": "2026-11-28T08:07:08.896Z",
+    "updateDate": "2026-11-28T09:04:03.959Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "There are great local events happening today, including The Crafty Fair at ART House 360 from 10 AM to 4 PM, as well as live music today at Bailey's Run, Paddy Mac's, and Lake Lou-ee. Looking ahead to next week, you can enjoy trivia nights at Hop Haus and The Bogey Factory.",
+    "mainText": "There is plenty to do this weekend, starting with live music today at Bailey's Run Vineyard and Paddy Mac's, along with the Crafty Fair at ART House 360. Tomorrow, you can catch more live music at the Wisconsin Brewing Company.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-28",
-    "updateDate": "2026-11-28T08:07:08.896Z",
+    "updateDate": "2026-11-28T09:04:03.959Z",
     "titleText": "Verona Police Report",
-    "mainText": "In police news, on Wednesday, November 4th, officers responded to a two-vehicle crash in a parking lot on East Verona Avenue, resulting in a Fitchburg woman being arrested for O W I with a passenger under 16 in the vehicle.",
+    "mainText": "Looking at the recent police activity, on November 2, officers were dispatched to the 100 block of West End Circle regarding a domestic disturbance, resulting in the arrest of a 48-year-old man.",
     "redirectionUrl": "https://veronawi.gov/",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-28",
-    "updateDate": "2026-11-28T08:07:08.896Z",
+    "updateDate": "2026-11-28T09:04:03.959Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "Culver's opens today at 10:00 AM. Stop by to try today's delicious flavor of the day, Mint Cookie.",
+    "mainText": "Stop by today to enjoy the delicious Mint Cookie flavor of the day; the store opens today at 10:00 AM.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
-    "generatorModel": "gemini-3.5-flash"
+    "generatorModel": "gemini-3.1-flash-lite"
   }
 ]
