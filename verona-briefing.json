@@ -1,41 +1,41 @@
 [
   {
     "uid": "verona-balanced-weather-2026-11-28",
-    "updateDate": "2026-11-28T20:03:35.236Z",
+    "updateDate": "2026-11-28T21:03:43.084Z",
     "titleText": "Verona Weather",
-    "mainText": "Hello, Verona! At 2 PM, here is today's balanced dish. We have fair conditions and a comfortable 70 degrees at Verona City Hall. If you are looking to the stars tonight, the International Space Station will be passing through, rising near Verona High School and traveling toward Fitchburg halfway up the sky.",
+    "mainText": "Hello, Verona! At 3 PM, we have clear skies near Verona Area High School and a Waning Gibbous moon to look forward to, and if you look northwest near the high school at 5:03 PM, you can catch the space station for 6 minutes as it travels east toward Fitchburg and rises halfway up the sky.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-news-2026-11-28",
-    "updateDate": "2026-11-28T20:03:35.236Z",
+    "updateDate": "2026-11-28T21:03:43.084Z",
     "titleText": "Verona City News",
-    "mainText": "City Hall is busy with election preparations. Candidate packets for the 2027 Spring Election are ready for pickup at 111 Lincoln Street, with a submission deadline of January 5. Also, please note that property tax bills will arrive by December 15, and payments can be made online, by mail, or at the 24/7 drop box.",
+    "mainText": "City Hall is reminding residents that nomination papers for the 2027 spring aldermanic election can be filed until January 5th, and please note that property tax bills will be arriving in the mail no later than December 15th.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-events-2026-11-28",
-    "updateDate": "2026-11-28T20:03:35.236Z",
+    "updateDate": "2026-11-28T21:03:43.084Z",
     "titleText": "Verona Upcoming Events",
-    "mainText": "Currently, there are no local events on the books for the next 30 days, giving us all a nice, quiet break in our local schedule.",
+    "mainText": "It is a busy season, with The Crafty Fair occurring today, followed by live music at Lake Lou-ee tomorrow and yoga sessions starting November 30.",
     "redirectionUrl": "https://www.visitveronawi.com/events/?bounds=false&view=list&sort=date",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-police-2026-11-28",
-    "updateDate": "2026-11-28T20:03:35.236Z",
+    "updateDate": "2026-11-28T21:03:43.084Z",
     "titleText": "Verona Police Report",
-    "mainText": "On November 6, officers responded to a business on West Verona Avenue where they found a woman unresponsive in a vehicle, which resulted in an arrest for O W I after fire personnel gained access.",
+    "mainText": "In a report covering November 1 through 15, on November 2, officers responded to a domestic disturbance on West End Circle that resulted in an arrest for battery and disorderly conduct.",
     "redirectionUrl": "https://veronawi.gov/",
     "generatorModel": "gemini-3.1-flash-lite"
   },
   {
     "uid": "verona-balanced-culvers-2026-11-28",
-    "updateDate": "2026-11-28T20:03:35.236Z",
+    "updateDate": "2026-11-28T21:03:43.084Z",
     "titleText": "Verona Culver's Update",
-    "mainText": "It is a great day to visit Culver's for their delicious Mint Cookie flavor of the day. They are open until 10:30 PM tonight, so you have plenty of time to stop by.",
+    "mainText": "Mint Cookie is today's featured flavor at Culver's, and since the restaurant is open until 10:30 PM, there is still plenty of time to stop by for a scoop.",
     "redirectionUrl": "https://www.culvers.com/restaurants/verona",
     "generatorModel": "gemini-3.1-flash-lite"
   }
